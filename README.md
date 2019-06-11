@@ -295,7 +295,6 @@
 - [go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch
 - [gocode](https://github.com/mdempsky/gocode) - An autocompletion daemon for the Go programming language
 - [gorequest](https://github.com/parnurzeal/gorequest) - GoRequest -- Simplified HTTP client ( inspired by nodejs SuperAgent )
-- [gorequest](https://github.com/parnurzeal/gorequest) - GoRequest -- Simplified HTTP client ( inspired by nodejs SuperAgent )
 - [zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [faker](https://github.com/bxcodec/faker) - Go (Golang)  Fake Data  Generator for Struct
 - [blog](https://github.com/wuYin/blog) - 个人博客
@@ -1664,6 +1663,7 @@
 
 ## Python 
 
+- [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [youtube-8m](https://github.com/google/youtube-8m) - Starter code for working with the YouTube-8M dataset.
 - [football](https://github.com/google-research/football) - 
 - [redbeat](https://github.com/sibson/redbeat) - RedBeat is a Celery Beat Scheduler that stores the scheduled tasks and runtime metadata in Redis.
