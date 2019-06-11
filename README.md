@@ -209,6 +209,8 @@
 
 ## Go 
 
+- [etcd-operator](https://github.com/coreos/etcd-operator) - etcd operator creates/configures/manages etcd clusters atop Kubernetes
+- [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
 - [go-sitemap](https://github.com/yterajima/go-sitemap) - Get sitemap.xml (or sitemapindex.xml) from URL and Generate Sitemap object.
 - [script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
@@ -741,6 +743,8 @@
 
 ## JavaScript 
 
+- [dev-null-cli](https://github.com/sindresorhus/dev-null-cli) - Cross-platform `/dev/null`
+- [buster](https://github.com/dessant/buster) - Captcha solver extension for humans
 - [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript
 - [new-sandbox](https://github.com/CompuIves/new-sandbox) - Created with CodeSandbox
 - [tink](https://github.com/npm/tink) - a dependency unwinder for javascript
@@ -1437,6 +1441,7 @@
 
 ## Objective-C 
 
+- [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 - [ios-deploy](https://github.com/ios-control/ios-deploy) - Install and debug iPhone apps from the command line, without using Xcode
 - [react-native-webview](https://github.com/react-native-community/react-native-webview) - React Native Cross-Platform WebView
 - [EarlGrey](https://github.com/google/EarlGrey) - :tea: iOS UI Automation Test Framework
@@ -1460,6 +1465,7 @@
 
 ## Others 
 
+- [Go-Interview-QA](https://github.com/studygolang/Go-Interview-QA) - Go语言面试问答
 - [GSYFlutterBook](https://github.com/CarGuo/GSYFlutterBook) - Flutter完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
 - [swiftui](https://github.com/ygit/swiftui) - A collaborative list of awesome SwiftUI resources. Feel free to contribute!
 - [Enterprise-Registration-Data-of-Chinese-Mainland](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland) - 中国大陆 31 个省份1978 年至 2019 年一千多万工商企业注册信息，包含企业名称、注册地址、统一社会信用代码、地区、注册日期、经营范围、法人代表、注册资金、企业类型等详细资料。This repository is an dataset of over 10,000,000 enterprise registration data of 31 provinces in Chinese mainland from 1978 to 2019.【工商大数据】、【企业信息】、【enterprise registration data】。
@@ -1663,6 +1669,7 @@
 
 ## Python 
 
+- [EverydayWechat](https://github.com/sfyc23/EverydayWechat) - 每日自动给女朋友发微信暖心话。
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [youtube-8m](https://github.com/google/youtube-8m) - Starter code for working with the YouTube-8M dataset.
 - [football](https://github.com/google-research/football) - 
@@ -1853,6 +1860,7 @@
 
 ## Swift 
 
+- [swift-package-manager](https://github.com/apple/swift-package-manager) - The Package Manager for the Swift Programming Language
 - [iOS-Developer-Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) - Roadmap to becoming an iOS developer in 2018.
 - [SwiftUI](https://github.com/nataliemarleny/SwiftUI) - SwiftUI (WWDC 19)
 - [KeePassium](https://github.com/keepassium/KeePassium) - KeePass-compatible password manager for iOS
@@ -1890,6 +1898,8 @@
 
 ## TypeScript 
 
+- [react-native-eva-icons](https://github.com/artyorsh/react-native-eva-icons) - ⭐Eva Icons for React Native
+- [accounts](https://github.com/accounts-js/accounts) - Fullstack authentication and accounts-management for Javascript.
 - [ant-design-colors](https://github.com/ant-design/ant-design-colors) - :art: Color Palettes Calculator of Ant Design
 - [emma-cli](https://github.com/maticzav/emma-cli) - 📦 Terminal assistant to find and install node packages.
 - [fullstack](https://github.com/TrillCyborg/fullstack) - React/ApolloGraphQL/Node/Mongo demo written in Typescript
