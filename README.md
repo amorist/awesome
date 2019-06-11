@@ -209,6 +209,7 @@
 
 ## Go 
 
+- [periph](https://github.com/google/periph) - Go·Hardware·Lean
 - [etcd-operator](https://github.com/coreos/etcd-operator) - etcd operator creates/configures/manages etcd clusters atop Kubernetes
 - [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
@@ -743,6 +744,7 @@
 
 ## JavaScript 
 
+- [vuegg](https://github.com/vuegg/vuegg) - :hatching_chick: vue GUI generator
 - [dev-null-cli](https://github.com/sindresorhus/dev-null-cli) - Cross-platform `/dev/null`
 - [buster](https://github.com/dessant/buster) - Captcha solver extension for humans
 - [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript
@@ -1465,6 +1467,7 @@
 
 ## Others 
 
+- [awesome-raspberry-pi-zh](https://github.com/wwj718/awesome-raspberry-pi-zh) - 树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等
 - [Go-Interview-QA](https://github.com/studygolang/Go-Interview-QA) - Go语言面试问答
 - [GSYFlutterBook](https://github.com/CarGuo/GSYFlutterBook) - Flutter完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
 - [swiftui](https://github.com/ygit/swiftui) - A collaborative list of awesome SwiftUI resources. Feel free to contribute!
@@ -1669,6 +1672,7 @@
 
 ## Python 
 
+- [wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目。
 - [EverydayWechat](https://github.com/sfyc23/EverydayWechat) - 每日自动给女朋友发微信暖心话。
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [youtube-8m](https://github.com/google/youtube-8m) - Starter code for working with the YouTube-8M dataset.
