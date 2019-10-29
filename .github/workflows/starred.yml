@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-    - master
+      - master
 
 name: Update github star
 
@@ -18,11 +18,16 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install starred
-      - name: Set github config
-        run: |
-          git config --global user.email "amor90s.zhang@gmail.com"
-          git config --global user.name "amorist"
       - name: Starred
         run: |
           export GITHUB_TOKEN=${{ secrets.PERSONAL_TOKEN }}
           python starred.py
+      - name: Set github config
+        run: |
+          git config --global user.email "amor90s.zhang@gmail.com"
+          git config --global user.name "amorist"
+          git add README.md && git commit -m "update"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.PERSONAL_TOKEN }}
