@@ -1,6 +1,8 @@
-name: Starreds
+on:
+  schedule:
+  - cron: 0 */12 * * *
 
-on: [push]
+name: Update github star
 
 jobs:
   build:
@@ -20,7 +22,6 @@ jobs:
           git config --global user.email "amor90s.zhang@gmail.com"
           git config --global user.name "amorist"
       - name: Starred
-        env:
-        GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         run: |
+          export GITHUB_TOKEN=${{ secrets.PERSONAL_TOKEN }}
           python starred.py
