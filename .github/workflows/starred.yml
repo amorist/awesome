@@ -1,0 +1,26 @@
+name: Starreds
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Set up Python 3.7
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.7
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install starred
+      - name: Set github config
+        run: |
+          git config --global user.email "amor90s.zhang@gmail.com"
+          git config --global user.name "amorist"
+      - name: Starred
+        env:
+        GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+        run: |
+          python starred.py
