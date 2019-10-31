@@ -230,6 +230,7 @@
 
 ## Go 
 
+- [graphql-go](https://github.com/graph-gophers/graphql-go) - GraphQL server with a focus on ease of use
 - [ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
 - [nginx-adapter](https://github.com/caddyserver/nginx-adapter) - Run Caddy with your NGINX config
@@ -258,7 +259,7 @@
 - [xlsx](https://github.com/tealeg/xlsx) - Google Go (golang) library for reading and writing XLSX files.
 - [docker-volume-sshfs](https://github.com/vieux/docker-volume-sshfs) - sshfs docker volume plugin
 - [blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
-- [joe](https://github.com/go-joe/joe) - A general-purpose bot library inspired by Hubot but written in Go.
+- [joe](https://github.com/go-joe/joe) - A general-purpose bot library inspired by Hubot but written in Go.   :robot:
 - [litter](https://github.com/sanity-io/litter) - Litter is a pretty printer library for Go data structures to aid in debugging and testing.
 - [bild](https://github.com/anthonynsimon/bild) - A collection of parallel image processing algorithms in pure Go
 - [v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
@@ -699,7 +700,7 @@
 - [mouthful](https://github.com/vkuznecovas/mouthful) - Mouthful is a self-hosted alternative to Disqus
 - [duit](https://github.com/mjl-/duit) - pure go, cross-platform, MIT-licensed ui toolkit for developers
 - [autotls](https://github.com/gin-gonic/autotls) - Support Let's Encrypt for a Go server application.
-- [goproxy](https://github.com/snail007/goproxy) - A high performance http proxy, https proxy, socks5 proxy server,  reverse proxy , websocket,TCP, UDP,Secure DNS proxy. A high performance http, https, socks5 proxy server,  reverse proxy , websocket,TCP, UDP,Secure DNS proxies . 高性能http代理、https代理、socks5代理、内网穿透反向代理、内网穿透p2p、Websocket代理、TCP代理、UDP代理、DNS代理，代理API认证，全能代理服务器。
+- [goproxy](https://github.com/snail007/goproxy) - Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [goHackTools](https://github.com/dreddsa5dies/goHackTools) - Hacker tools on Go (Golang)
 - [protobuf](https://github.com/golang/protobuf) - Go support for Google's protocol buffers
@@ -777,7 +778,7 @@
 - [nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [commento](https://github.com/adtac/commento) - A fast, bloat-free, privacy-focused commenting platform
 - [tui-go](https://github.com/marcusolsson/tui-go) - A UI library for terminal applications.
-- [iris](https://github.com/kataras/iris) - The fastest community-driven web framework for Go. Webassembly, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. https://bit.ly/謝謝 | https://bit.ly/iriscandothat1 | https://bit.ly/iriscandothat3 |
+- [iris](https://github.com/kataras/iris) - 感谢中国开发商 - https://bit.ly/謝謝 | The fastest community-driven web framework for Go. Webassembly, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. | https://bit.ly/iriscandothat1 | https://bit.ly/iriscandothat3 |
 - [matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go.
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [go-realtime-collaborative-drawing-app](https://github.com/tinrab/go-realtime-collaborative-drawing-app) - A simple real-time collaborative drawing app built with Go
@@ -1270,7 +1271,7 @@
 - [passive-income-with-cassidoo](https://github.com/zeke/passive-income-with-cassidoo) - A chat about passive income with @cassidoo
 - [evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 - [jira](https://github.com/ulivz/jira) - Daily ticket state dashboard for JIRA
-- [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
+- [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [ivideo](https://github.com/phobal/ivideo) - 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
 - [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
@@ -1991,6 +1992,7 @@
 
 ## Python 
 
+- [google-research](https://github.com/google-research/google-research) - Google AI Research
 - [pkuseg-python](https://github.com/lancopku/pkuseg-python) - pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation
 - [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB) - 💎 1MB轻量级人脸检测模型 (1MB lightweight face detection model)
 - [detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is FAIR's next-generation research platform for object detection and segmentation.
@@ -2266,6 +2268,7 @@
 
 ## TypeScript 
 
+- [remax](https://github.com/remaxjs/remax) - 全新的小程序开发体验
 - [github-funding-yml-updater](https://github.com/azu/github-funding-yml-updater) - Update multiple repositories's `.github/FUNDING.yml` via GitHub API
 - [saturn-datepicker](https://github.com/SaturnTeam/saturn-datepicker) - Angular Material Datepicker with range selection
 - [tinacms](https://github.com/tinacms/tinacms) - Tina is a site editing toolkit for modern React-based sites (Gatsby and Next.js)
