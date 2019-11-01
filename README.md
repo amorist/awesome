@@ -230,6 +230,7 @@
 
 ## Go 
 
+- [tail](https://github.com/hpcloud/tail) - Go package for reading from continously updated files (tail -f)
 - [graphql-go](https://github.com/graph-gophers/graphql-go) - GraphQL server with a focus on ease of use
 - [ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
@@ -677,7 +678,7 @@
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
 - [helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [DocHub](https://github.com/TruthHun/DocHub) - 参考百度文库，使用Beego（Golang）开发的开源文库系统
-- [night-reading-go](https://github.com/developer-learning/night-reading-go) - Go 夜读 &gt; Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics.      每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。
+- [night-reading-go](https://github.com/developer-learning/night-reading-go) - Night-Reading-Go《Go 夜读》 &gt; Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics.      每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。
 - [redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go
 - [dateparse](https://github.com/araddon/dateparse) - GoLang Parse many date strings without knowing format in advance.
 - [go-sitemap-generator](https://github.com/ikeikeikeike/go-sitemap-generator) - go-sitemap-generator is the easiest way to generate Sitemaps in Go
@@ -820,6 +821,7 @@
 
 ## HTML 
 
+- [istio.io](https://github.com/istio/istio.io) - Source for the istio.io site
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [animated-deno-logo](https://github.com/denolib/animated-deno-logo) - Animated Deno Logo
 - [jia](https://github.com/jia-inc/jia) - 
@@ -980,7 +982,7 @@
 - [composition-api](https://github.com/vuejs/composition-api) - Vue2 plugin for the Composition API.
 - [crowdin-node](https://github.com/crowdin-node/crowdin-node) - A Node.js client for the v1 and v2 Crowdin APIs
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
-- [vapper](https://github.com/vapperjs/vapper) - A Vue-based server-side rendering framework
+- [vapper](https://github.com/shuidi-fed/vapper) - A Vue-based server-side rendering framework
 - [leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 - [yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [GGEditor](https://github.com/alibaba/GGEditor) - A visual graph editor based on G6 and React
@@ -1992,6 +1994,7 @@
 
 ## Python 
 
+- [iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport) - This repository holds the device support files for the iOS, and I will update it regularly.
 - [google-research](https://github.com/google-research/google-research) - Google AI Research
 - [pkuseg-python](https://github.com/lancopku/pkuseg-python) - pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation
 - [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB) - 💎 1MB轻量级人脸检测模型 (1MB lightweight face detection model)
@@ -2268,6 +2271,7 @@
 
 ## TypeScript 
 
+- [swr](https://github.com/zeit/swr) - React Hooks library for remote data fetching
 - [remax](https://github.com/remaxjs/remax) - 全新的小程序开发体验
 - [github-funding-yml-updater](https://github.com/azu/github-funding-yml-updater) - Update multiple repositories's `.github/FUNDING.yml` via GitHub API
 - [saturn-datepicker](https://github.com/SaturnTeam/saturn-datepicker) - Angular Material Datepicker with range selection
@@ -2352,7 +2356,7 @@
 - [gcoord](https://github.com/hujiulong/gcoord) - 地理坐标系转换工具，支持WGS84/GCJ02/BD09等常用坐标系互转
 - [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
 - [reaviz](https://github.com/jask-oss/reaviz) - 📊  Data visualization library for React based on D3
-- [web](https://github.com/pikapkg/web) - :package: :sparkles: Bundle only once, at npm install time. https://www.pika.dev/blog/pika-web-a-future-without-webpack/
+- [web](https://github.com/pikapkg/web) - :package: :sparkles:Install npm dependencies to run directly in the browser. No webpack required. https://www.pika.dev/blog/pika-web-a-future-without-webpack/
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
 - [nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, Emotion, and Remark.
