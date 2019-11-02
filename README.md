@@ -901,7 +901,7 @@
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 - [COLA](https://github.com/alibaba/COLA) - Clean Object-oriented & Layered Architecture
-- [JustAuth](https://github.com/justauth/JustAuth) - :100: 史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团和饿了么等第三方平台的授权登录。 Login, so easy!
+- [JustAuth](https://github.com/justauth/JustAuth) - :100: 史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么和推特等第三方平台的授权登录。 Login, so easy!
 - [magnetW](https://github.com/dengyuhan/magnetW) - 磁力搜网页版 - 磁力链接聚合搜索 - https://bt.lansou.pw
 - [SoloPi](https://github.com/alipay/SoloPi) - SoloPi 自动化测试工具
 - [vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
@@ -982,7 +982,7 @@
 - [composition-api](https://github.com/vuejs/composition-api) - Vue2 plugin for the Composition API.
 - [crowdin-node](https://github.com/crowdin-node/crowdin-node) - A Node.js client for the v1 and v2 Crowdin APIs
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
-- [vapper](https://github.com/shuidi-fed/vapper) - A Vue-based server-side rendering framework
+- [vapper](https://github.com/shuidi-fed/vapper) - 🔥 A Vue-based server-side rendering framework
 - [leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 - [yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [GGEditor](https://github.com/alibaba/GGEditor) - A visual graph editor based on G6 and React
@@ -1319,7 +1319,7 @@
 - [vue-qrcode](https://github.com/fengyuanchen/vue-qrcode) - QR code component for Vue.js
 - [v-charts](https://github.com/ElemeFE/v-charts) - 基于 Vue2.0 和 ECharts 封装的图表组件📈📊
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [saber](https://github.com/saberland/saber) - ()==[:::::::::::::&gt; A static website generator for building blazing fast websites with Vue.js
+- [saber](https://github.com/saberland/saber) - ()==[:::::::::::::&gt; Build static sites in Vue.js, without the hassle
 - [js-tree-list](https://github.com/yi-ge/js-tree-list) - Convert list to tree, managing a tree and its nodes.
 - [hotkeys](https://github.com/jaywcjlove/hotkeys) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
 - [vuido](https://github.com/mimecorg/vuido) - Native desktop applications using Vue.js.
@@ -1751,6 +1751,7 @@
 
 ## Others 
 
+- [real](https://github.com/real-dev/real) - Real Dev Platform
 - [GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [awesome-minio](https://github.com/minio/awesome-minio) - A curated list of MinIO community projects.
@@ -2186,6 +2187,7 @@
 
 ## Shell 
 
+- [stacks](https://github.com/real-dev/stacks) - Various tech "stacks" for Real Dev tasks
 - [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100.
 - [github-sync](https://github.com/repo-sync/github-sync) - ⤵️ A GitHub Action for syncing current repository with remote
@@ -2193,7 +2195,7 @@
 - [kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
 - [vuepress-theme-bulma](https://github.com/nakorndev/vuepress-theme-bulma) - A pure Bulma.css theme for VuePress
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-- [chromium_os_for_raspberry_pi](https://github.com/FydeOS/chromium_os_for_raspberry_pi) - Build your Chromium OS for Raspberry Pi 3B/3B+
+- [chromium_os_for_raspberry_pi](https://github.com/FydeOS/chromium_os_for_raspberry_pi) - Build your Chromium OS for Raspberry Pi 3B/3B+/4B
 - [npm](https://github.com/actions/npm) - GitHub Action for interacting with npm
 - [make-node-meeting](https://github.com/nodejs/make-node-meeting) - Generate a text for a GitHub issue announcing a Node.js working group meeting
 - [vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
@@ -2318,7 +2320,7 @@
 - [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) - Tasks for Azure Pipelines
 - [ide-props-editor](https://github.com/one-gourd/ide-props-editor) - 属性编辑器 ，demo https://one-gourd.github.io/ide-props-editor/
 - [vue-ssr-prefetcher](https://github.com/vue-contrib/vue-ssr-prefetcher) - Making Vue SSR's data prefetching more intuitive.(Only 1kb compressed)
-- [vue-async-manager](https://github.com/vue-contrib/vue-async-manager) - 🔫 Manage asynchronous calls more easily in Vue apps.
+- [vue-async-manager](https://github.com/shuidi-fed/vue-async-manager) - 🔫 Manage asynchronous calls more easily in Vue apps.
 - [rollup-plugin-vue](https://github.com/vuejs/rollup-plugin-vue) - Roll .vue files
 - [koa-ts](https://github.com/unix/koa-ts) - The best practice of building Koa2 with TypeScript
 - [TypeScript-React-Conversion-Guide](https://github.com/microsoft/TypeScript-React-Conversion-Guide) - A guide for converting a simple JavaScript/React project to TypeScript. Contains both before an after code with the step-by-step process in the README below.
