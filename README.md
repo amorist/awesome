@@ -217,6 +217,7 @@
 - [puppeteer](https://github.com/ianwalter/puppeteer) - A GitHub Action / Docker image for   Puppeteer, the Headless Chrome Node API
 - [vscode-remote-try-go](https://github.com/microsoft/vscode-remote-try-go) - Go sample project for trying out the 'VS Code Remote - Containers' extension
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
+- [code-and-learn](https://github.com/nodejs/code-and-learn) - A series of workshop sprints for Node.js.
 - [docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
@@ -1366,7 +1367,7 @@
 - [egg-cnode](https://github.com/cnodejs/egg-cnode) - CNode 社区 Egg 版本
 - [stream-handbook](https://github.com/substack/stream-handbook) - how to write node programs with streams
 - [electron-installer-dmg](https://github.com/electron-userland/electron-installer-dmg) - Create DMG installers for your electron apps using appdmg.
-- [js-xlsx](https://github.com/SheetJS/js-xlsx) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
+- [sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [name-your-contributors](https://github.com/mntnr/name-your-contributors) - Name your GitHub contributors; get commits, issues, and comments
 - [handsontable](https://github.com/handsontable/handsontable) - Handsontable - JavaScript/HTML5 Data Grid Component with Spreadsheet Look & Feel. Available for React, Vue and Angular.
 - [gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
@@ -1862,7 +1863,6 @@
 - [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [resources](https://github.com/BestDingSheng/resources) - 知名互联网企业内推资料整理 持续更新ing 。 目前已经维护五个微信群接近3000人，欢迎你的加入！
 - [open-source-ideas](https://github.com/open-source-ideas/open-source-ideas) - 💡Ever had a cool idea for an Open Source project but didn't have the time to implement it yourself? Let someone else give it a try!
-- [code-and-learn](https://github.com/nodejs/code-and-learn) - A series of workshop sprints for Node.js.
 - [vue-patterns](https://github.com/learn-vuejs/vue-patterns) - Useful Vue patterns, techniques, tips and tricks and helpful curated links.
 - [Web-Series](https://github.com/wx-chevalier/Web-Series) - :books: 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇
 - [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi Mobile Phone Kernel OpenSource
