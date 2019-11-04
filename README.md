@@ -94,7 +94,7 @@
 ## C++ 
 
 - [node-report](https://github.com/nodejs/node-report) - Delivers a human-readable diagnostic summary, written to file.
-- [nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with JavaScript and CSS like styling 🚀.  For React NodeGUI, visit: https://github.com/nodegui/react-nodegui ⚛️
+- [nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  For React NodeGUI, visit: https://github.com/nodegui/react-nodegui ⚛️
 - [flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
 - [devilution-nx](https://github.com/lantus/devilution-nx) - Diablo for the Nintendo Switch
@@ -919,7 +919,7 @@
 - [NewXmPluginSDK](https://github.com/MiEcosystem/NewXmPluginSDK) - xiaomi smarthome app plugin sdk
 - [spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [coody-icop](https://github.com/coodyer/coody-icop) - cglib轻量化mvc框架(ioc+aop+mvc+orm+切面级事物)
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: Tech Interview Guide 技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计
 - [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [Luban](https://github.com/Curzibn/Luban) - Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法
 - [CommonUtilLibrary](https://github.com/AbrahamCaiJin/CommonUtilLibrary) - 快速开发工具类收集，史上最全的开发工具类，欢迎Follow、Fork、Star
@@ -961,7 +961,7 @@
 - [node-appdmg](https://github.com/LinusU/node-appdmg) - 💾 Generate your app dmgs
 - [prerender-spa-plugin](https://github.com/chrisvfritz/prerender-spa-plugin) - Prerenders static HTML in a single-page application.
 - [remark](https://github.com/remarkjs/remark) - Markdown processor powered by plugins part of the @unifiedjs collective
-- [grapesjs-cli](https://github.com/artf/grapesjs-cli) - GrapesJS plugin for the development
+- [grapesjs-cli](https://github.com/artf/grapesjs-cli) - GrapesJS CLI helper for the development
 - [signmeup](https://github.com/signmeup/signmeup) - Real-time application to sign up for and manage TA hours.
 - [webcrypto](https://github.com/nodejs/webcrypto) - Implementation of WebCrypto API as an npm package
 - [comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
@@ -1838,7 +1838,6 @@
 - [ppt](https://github.com/singpenguin/ppt) - PPT I collected
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [pwc](https://github.com/zziz/pwc) - Papers with code. Sorted by stars. Updated weekly.
-- [devhub](https://github.com/devhubapp/devhub) - GitHub Notifications Manager & Activity Watcher - Web, Mobile & Desktop
 - [MSEdge](https://github.com/MicrosoftEdge/MSEdge) - Microsoft Edge
 - [i-am-chinese-the-dragonfly-must-go-on](https://github.com/ithinco/i-am-chinese-the-dragonfly-must-go-on) - A response to “We are Google employees, Google must drop DragonFly”
 - [raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
@@ -2379,6 +2378,7 @@
 - [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences.
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
+- [devhub](https://github.com/devhubapp/devhub) - GitHub Notifications Manager & Activity Watcher - Web, Mobile & Desktop
 - [react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit) - A lightweight magic-move library for configurable layout transitions
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
