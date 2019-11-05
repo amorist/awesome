@@ -231,6 +231,9 @@
 
 ## Go 
 
+- [strsim](https://github.com/hbakhtiyor/strsim) - string similarity based on Dice's coefficient in go
+- [gojieba](https://github.com/yanyiwu/gojieba) - "结巴"中文分词的Golang版本
+- [sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL
 - [tail](https://github.com/hpcloud/tail) - Go package for reading from continously updated files (tail -f)
 - [graphql-go](https://github.com/graph-gophers/graphql-go) - GraphQL server with a focus on ease of use
 - [ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang
@@ -243,7 +246,6 @@
 - [tecalliance-onedb-restful-api](https://github.com/vauman/tecalliance-onedb-restful-api) - This is the RESTful API service for OneDB developed with Go.
 - [go-search](https://github.com/tj/go-search) - Search Godoc.org via the command-line.
 - [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
-- [music-get](https://github.com/winterssy/music-get) - 【停止维护】只需一步，下载你喜欢的音乐到本地
 - [mongodb_exporter](https://github.com/percona/mongodb_exporter) - A Prometheus exporter for MongoDB including sharding, replication and storage engines
 - [gopher-boy](https://github.com/bokuweb/gopher-boy) - :video_game: A Game Boy emulator written in Go
 - [script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
@@ -334,7 +336,7 @@
 - [logrus_sentry](https://github.com/evalphobia/logrus_sentry) - sentry hook for logrus
 - [sling](https://github.com/dghubble/sling) - A Go HTTP client library for creating and sending API requests
 - [snowflake](https://github.com/bwmarrin/snowflake) - A simple to use Go (golang) package to generate or parse Twitter snowflake IDs
-- [lantern](https://github.com/getlantern/lantern) - 蓝灯Windows下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe 蓝灯安卓下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk
+- [lantern](https://github.com/getlantern/lantern) - 蓝灯Windows下载 https://s3.amazonaws.com/lantern/lantern-installer.exe 蓝灯安卓下载 https://s3.amazonaws.com/lantern/lantern-installer.apk
 - [listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Go + React.
 - [mango](https://github.com/amorist/mango) - use mongo-go-driver  like mgo
 - [melody](https://github.com/olahol/melody) - :notes: Minimalist websocket framework for Go
@@ -934,6 +936,12 @@
 
 ## JavaScript 
 
+- [L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization
+- [f2](https://github.com/antvis/f2) - 📱📈An elegant, interactive and flexible charting library for mobile.
+- [g2](https://github.com/antvis/g2) - The Grammar of Graphics in JavaScript
+- [BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React.
+- [create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
+- [electron-osx-sign](https://github.com/electron/electron-osx-sign) - Codesign Electron macOS apps
 - [i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
 - [comments-api](https://github.com/dev-mastery/comments-api) - 
 - [vue-interactive-paycard](https://github.com/muhammederdem/vue-interactive-paycard) - Credit card form with smooth and sweet micro-interactions
@@ -2272,8 +2280,9 @@
 
 ## TypeScript 
 
+- [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [swr](https://github.com/zeit/swr) - React Hooks library for remote data fetching
-- [remax](https://github.com/remaxjs/remax) - 全新的小程序开发体验
+- [remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建小程序
 - [github-funding-yml-updater](https://github.com/azu/github-funding-yml-updater) - Update multiple repositories's `.github/FUNDING.yml` via GitHub API
 - [saturn-datepicker](https://github.com/SaturnTeam/saturn-datepicker) - Angular Material Datepicker with range selection
 - [tinacms](https://github.com/tinacms/tinacms) - Tina is a site editing toolkit for modern React-based sites (Gatsby and Next.js)
@@ -2461,7 +2470,7 @@
 
 - [saber-theme-template](https://github.com/saberland/saber-theme-template) - A template for creating Saber theme.
 - [GitDataV](https://github.com/HongqingCao/GitDataV) - 基于Vue框架构建的github数据可视化平台
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 API request builder - Helps you create your requests faster, saving you precious time on your development https://postwoman.io
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io
 - [OverVue](https://github.com/open-source-labs/OverVue) - Prototyping Tool For Vue Devs 适用于Vue的原型工具
 - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
 - [vuepress-plugin-code-switcher](https://github.com/padarom/vuepress-plugin-code-switcher) - :arrows_clockwise: Component that allows having synchronized language switchable code blocks in your Vuepress sites
