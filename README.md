@@ -231,6 +231,10 @@
 
 ## Go 
 
+- [vearch](https://github.com/vearch/vearch) - A distributed system for efficient similarity search of embedding vectors
+- [go-gin-example](https://github.com/EDDYCJY/go-gin-example) - An example of gin
+- [gon](https://github.com/mitchellh/gon) - Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.
+- [cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
 - [strsim](https://github.com/hbakhtiyor/strsim) - string similarity based on Dice's coefficient in go
 - [gojieba](https://github.com/yanyiwu/gojieba) - "结巴"中文分词的Golang版本
 - [sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL
@@ -1685,6 +1689,7 @@
 
 ## Jupyter Notebook 
 
+- [google-research](https://github.com/google-research/google-research) - Google AI Research
 - [CodeSearchNet](https://github.com/github/CodeSearchNet) - Datasets, tools, and benchmarks for representation learning of code.
 - [examples](https://github.com/tensorflow/examples) - TensorFlow examples
 - [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft
@@ -2003,7 +2008,6 @@
 ## Python 
 
 - [iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport) - This repository holds the device support files for the iOS, and I will update it regularly.
-- [google-research](https://github.com/google-research/google-research) - Google AI Research
 - [pkuseg-python](https://github.com/lancopku/pkuseg-python) - pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation
 - [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB) - 💎 1MB轻量级人脸检测模型 (1MB lightweight face detection model)
 - [detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is FAIR's next-generation research platform for object detection and segmentation.
