@@ -1438,7 +1438,7 @@
 - [numeronyms](https://github.com/zeke/numeronyms) - Turn words into neuronyms
 - [mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [i18n](https://github.com/nodejs/i18n) - The Node.js Internationalization Working Group – A Community Committee initiative.
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [wemark](https://github.com/TooBug/wemark) - 微信小程序Markdown渲染库
 - [dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -2009,7 +2009,7 @@
 
 - [iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport) - This repository holds the device support files for the iOS, and I will update it regularly.
 - [pkuseg-python](https://github.com/lancopku/pkuseg-python) - pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation
-- [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB) - 💎 1MB轻量级人脸检测模型 (1MB lightweight face detection model)
+- [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB) - 💎1MB lightweight face detection model  (1MB轻量级人脸检测模型)
 - [detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is FAIR's next-generation research platform for object detection and segmentation.
 - [interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
@@ -2284,6 +2284,7 @@
 
 ## TypeScript 
 
+- [use-codemirror](https://github.com/jamesknelson/use-codemirror) - CodeMirror support for React
 - [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [swr](https://github.com/zeit/swr) - React Hooks library for remote data fetching
 - [remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建小程序
@@ -2391,7 +2392,7 @@
 - [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences.
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
-- [devhub](https://github.com/devhubapp/devhub) - GitHub Notifications Manager & Activity Watcher - Web, Mobile & Desktop
+- [devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Issues, Activities & Notifications - Web, Mobile & Desktop
 - [react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit) - A lightweight magic-move library for configurable layout transitions
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
@@ -2432,7 +2433,7 @@
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
-- [intelligo](https://github.com/intelligo-systems/intelligo) - AI Chatbot Framework for Node.js.
+- [intelligo](https://github.com/intelligo-systems/intelligo) - 🤖 Chatbot Framework for Node.js.
 - [propel](https://github.com/propelml/propel) - Differential Programming in JavaScript.
 - [sentry-electron](https://github.com/getsentry/sentry-electron) - The official Sentry SDK for Electron
 - [rough](https://github.com/pshihn/rough) - Create graphics with a hand-drawn, sketchy, appearance
@@ -2472,6 +2473,9 @@
 
 ## Vue 
 
+- [vue-material-admin](https://github.com/tookit/vue-material-admin) - A vue material design admin template
+- [theme-blog](https://github.com/vuetifyjs/theme-blog) - A Free Material Blog Theme for Vuetify
+- [gods-pen](https://github.com/ymm-tech/gods-pen) - 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink.
 - [saber-theme-template](https://github.com/saberland/saber-theme-template) - A template for creating Saber theme.
 - [GitDataV](https://github.com/HongqingCao/GitDataV) - 基于Vue框架构建的github数据可视化平台
 - [postwoman](https://github.com/liyasthomas/postwoman) - 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io
