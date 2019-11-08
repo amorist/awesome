@@ -133,6 +133,7 @@
 
 ## CSS 
 
+- [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [switch-desktop](https://github.com/ahkohd/switch-desktop) - Switch between your favourite apps lightning fast.
 - [dragon](https://github.com/tomhodgins/dragon) - dragon.js is a bookmarklet that lets you drag any element on a website using a mouse or touchscreen. The goal is to speed up in-browser design critiques and brainstorming new layout ideas.
 - [layer.Cake](https://github.com/leram84/layer.Cake) - layer.Cake is working to combine several OSS projects in the personal media server space into a single continuous uniform app.
@@ -940,6 +941,8 @@
 
 ## JavaScript 
 
+- [electron-timber](https://github.com/sindresorhus/electron-timber) - Pretty logger for Electron apps
+- [d3-require](https://github.com/d3/d3-require) - A minimal, promise-based implementation to require asynchronous module definitions.
 - [L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization
 - [f2](https://github.com/antvis/f2) - 📱📈An elegant, interactive and flexible charting library for mobile.
 - [g2](https://github.com/antvis/g2) - The Grammar of Graphics in JavaScript
@@ -1656,7 +1659,7 @@
 - [streamify-your-node-program](https://github.com/zoubin/streamify-your-node-program) - 对Node.js中 stream模块的学习积累和理解
 - [bitstarter-leaderboard](https://github.com/startup-class/bitstarter-leaderboard) - A more sophisticated Bitcoin-powered crowdfunder.
 - [bitcore](https://github.com/bitpay/bitcore) - A full stack for bitcoin and blockchain-based applications
-- [bitcoin-on-nodejs](https://github.com/imfly/bitcoin-on-nodejs) - 《Node.js区块链开发》（网名《Nodejs开发加密货币》）注：新版代码已开源！
+- [bitcoin-on-nodejs](https://github.com/imfly/bitcoin-on-nodejs) - 《Node.js区块链开发》，注：新版代码已开源！请star支持国产区块链
 - [mock-api](https://github.com/caolvchong/mock-api) - use json files to mock apis for front-end development
 - [node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [blur-admin](https://github.com/akveo/blur-admin) - AngularJS Bootstrap Admin Panel Framework
@@ -1711,7 +1714,7 @@
 - [pytorch-book](https://github.com/chenyuntc/pytorch-book) - PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation
 - [tensorflow-docs](https://github.com/xitu/tensorflow-docs) - TensorFlow 最新官方文档中文版
 - [pydata-notebook](https://github.com/BrambleXu/pydata-notebook) - 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
-- [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - NLP, TensorFlow 2
+- [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - NLP, TensorFlow 2, Google Colab
 
 ## Kotlin 
 
@@ -2007,6 +2010,7 @@
 
 ## Python 
 
+- [models](https://github.com/PaddlePaddle/models) - Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）
 - [iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport) - This repository holds the device support files for the iOS, and I will update it regularly.
 - [pkuseg-python](https://github.com/lancopku/pkuseg-python) - pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation
 - [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB) - 💎1MB lightweight face detection model  (1MB轻量级人脸检测模型)
@@ -2037,7 +2041,7 @@
 - [EverydayWechat](https://github.com/sfyc23/EverydayWechat) - 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [youtube-8m](https://github.com/google/youtube-8m) - Starter code for working with the YouTube-8M dataset.
-- [football](https://github.com/google-research/football) - 
+- [football](https://github.com/google-research/football) - Check it out:
 - [redbeat](https://github.com/sibson/redbeat) - RedBeat is a Celery Beat Scheduler that stores the scheduled tasks and runtime metadata in Redis.
 - [smart_importer](https://github.com/beancount/smart_importer) - Augment Beancount importers with machine learning functionality.
 - [beancount](https://github.com/beancount/beancount) - Official mirror of Beancount Mercurial repo on Github (updated manually and infrequently)
@@ -2284,6 +2288,8 @@
 
 ## TypeScript 
 
+- [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
+- [vuetify-module](https://github.com/nuxt-community/vuetify-module) - Vuetify Module for Nuxt.js
 - [use-codemirror](https://github.com/jamesknelson/use-codemirror) - CodeMirror support for React
 - [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [swr](https://github.com/zeit/swr) - React Hooks library for remote data fetching
