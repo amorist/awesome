@@ -15,6 +15,7 @@
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Eagle](#eagle)
+  - [Elm](#elm)
   - [Gnuplot](#gnuplot)
   - [Go](#go)
   - [Groovy](#groovy)
@@ -225,6 +226,10 @@
 ## Eagle 
 
 - [Cherry_MX_Keyboard](https://github.com/awende/Cherry_MX_Keyboard) - A custom 4x4 keyboard plus two rotary encoders
+
+## Elm 
+
+- [programming-elm.com](https://github.com/jfairbank/programming-elm.com) - Source for programming-elm.com
 
 ## Gnuplot 
 
@@ -590,7 +595,7 @@
 - [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [mgo](https://github.com/globalsign/mgo) - The MongoDB driver for Go
 - [ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
-- [ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 A high-performance goroutine pool in Go, inspired by fasthttp.⚡️⚡️⚡️
+- [ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 A high-performance and low-cost goroutine pool in Go, inspired by fasthttp.⚡️⚡️⚡️
 - [strife](https://github.com/felixangell/strife) - a simple 2d game framework
 - [csvutil](https://github.com/jszwec/csvutil) - csvutil provides fast and idiomatic mapping between CSV and Go (golang) values.
 - [CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features
@@ -941,6 +946,7 @@
 
 ## JavaScript 
 
+- [cat-facts](https://github.com/vadimdemedes/cat-facts) - Interesting cat facts
 - [electron-timber](https://github.com/sindresorhus/electron-timber) - Pretty logger for Electron apps
 - [d3-require](https://github.com/d3/d3-require) - A minimal, promise-based implementation to require asynchronous module definitions.
 - [L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization
@@ -1659,7 +1665,7 @@
 - [streamify-your-node-program](https://github.com/zoubin/streamify-your-node-program) - 对Node.js中 stream模块的学习积累和理解
 - [bitstarter-leaderboard](https://github.com/startup-class/bitstarter-leaderboard) - A more sophisticated Bitcoin-powered crowdfunder.
 - [bitcore](https://github.com/bitpay/bitcore) - A full stack for bitcoin and blockchain-based applications
-- [bitcoin-on-nodejs](https://github.com/imfly/bitcoin-on-nodejs) - 《Node.js区块链开发》，注：新版代码已开源！请star支持国产区块链
+- [bitcoin-on-nodejs](https://github.com/imfly/bitcoin-on-nodejs) - 《Node.js区块链开发》，注：新版代码已开源！请star支持国产区块链：
 - [mock-api](https://github.com/caolvchong/mock-api) - use json files to mock apis for front-end development
 - [node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [blur-admin](https://github.com/akveo/blur-admin) - AngularJS Bootstrap Admin Panel Framework
@@ -2041,7 +2047,7 @@
 - [EverydayWechat](https://github.com/sfyc23/EverydayWechat) - 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [youtube-8m](https://github.com/google/youtube-8m) - Starter code for working with the YouTube-8M dataset.
-- [football](https://github.com/google-research/football) - Check it out:
+- [football](https://github.com/google-research/football) - Check out the new game server:
 - [redbeat](https://github.com/sibson/redbeat) - RedBeat is a Celery Beat Scheduler that stores the scheduled tasks and runtime metadata in Redis.
 - [smart_importer](https://github.com/beancount/smart_importer) - Augment Beancount importers with machine learning functionality.
 - [beancount](https://github.com/beancount/beancount) - Official mirror of Beancount Mercurial repo on Github (updated manually and infrequently)
@@ -2288,6 +2294,7 @@
 
 ## TypeScript 
 
+- [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer) - Dialog creation and management for Microsoft Bot Framework Applications
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [vuetify-module](https://github.com/nuxt-community/vuetify-module) - Vuetify Module for Nuxt.js
 - [use-codemirror](https://github.com/jamesknelson/use-codemirror) - CodeMirror support for React
@@ -2339,7 +2346,7 @@
 - [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) - Tasks for Azure Pipelines
 - [ide-props-editor](https://github.com/one-gourd/ide-props-editor) - 属性编辑器 ，demo https://one-gourd.github.io/ide-props-editor/
 - [vue-ssr-prefetcher](https://github.com/vue-contrib/vue-ssr-prefetcher) - Making Vue SSR's data prefetching more intuitive.(Only 1kb compressed)
-- [vue-async-manager](https://github.com/shuidi-fed/vue-async-manager) - 🔫 Manage asynchronous calls more easily in Vue apps.
+- [vue-async-manager](https://github.com/shuidi-fed/vue-async-manager) - 【deprecated】Manage asynchronous calls more easily in Vue apps.
 - [rollup-plugin-vue](https://github.com/vuejs/rollup-plugin-vue) - Roll .vue files
 - [koa-ts](https://github.com/unix/koa-ts) - The best practice of building Koa2 with TypeScript
 - [TypeScript-React-Conversion-Guide](https://github.com/microsoft/TypeScript-React-Conversion-Guide) - A guide for converting a simple JavaScript/React project to TypeScript. Contains both before an after code with the step-by-step process in the README below.
