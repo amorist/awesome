@@ -1137,7 +1137,6 @@
 - [desktop-wallet](https://github.com/ArkEcosystem/desktop-wallet) - :computer: Multi Platform ARK Desktop Wallet
 - [instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
 - [weui-wxss](https://github.com/Tencent/weui-wxss) - A UI library by WeChat official design team, includes the most useful widgets/modules.
-- [react-insta-stories](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
 - [nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
 - [flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 - [import-http](https://github.com/egoist/import-http) - Import modules from URL instead of local node_modules
@@ -1720,7 +1719,7 @@
 - [pytorch-book](https://github.com/chenyuntc/pytorch-book) - PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation
 - [tensorflow-docs](https://github.com/xitu/tensorflow-docs) - TensorFlow 最新官方文档中文版
 - [pydata-notebook](https://github.com/BrambleXu/pydata-notebook) - 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
-- [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - NLP, TensorFlow 2, Google Colab
+- [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - Projects, Practice, NLP, TensorFlow 2, Google Colab
 
 ## Kotlin 
 
@@ -2389,6 +2388,7 @@
 - [vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
 - [nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, Emotion, and Remark.
 - [vditor](https://github.com/b3log/vditor) - ♏ 一款浏览器端的 Markdown 编辑器。
+- [react-insta-stories](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
 - [typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [archaeologist](https://github.com/electron/archaeologist) - Digging up your artifacts since 2018
 - [typescript-definitions](https://github.com/electron/typescript-definitions) - Convert the Electron API JSON file to electron.d.ts
