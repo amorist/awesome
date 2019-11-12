@@ -237,6 +237,7 @@
 
 ## Go 
 
+- [go-terminput](https://github.com/tj/go-terminput) - Package terminput provides terminal keyboard input for interactive command-line tools.
 - [vearch](https://github.com/vearch/vearch) - A distributed system for efficient similarity search of embedding vectors
 - [go-gin-example](https://github.com/EDDYCJY/go-gin-example) - An example of gin
 - [gon](https://github.com/mitchellh/gon) - Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.
@@ -946,6 +947,9 @@
 
 ## JavaScript 
 
+- [strapi-provider-upload-oss](https://github.com/hezzze/strapi-provider-upload-oss) - A provider for strapi server to upload file to Aliyun OSS
+- [share.js](https://github.com/overtrue/share.js) - 一键分享到微博、QQ空间、QQ好友、微信、腾讯微博、豆瓣、Facebook、Twitter、Linkedin、Google+、点点等
+- [ms](https://github.com/zeit/ms) - Tiny milisecond conversion utility
 - [cat-facts](https://github.com/vadimdemedes/cat-facts) - Interesting cat facts
 - [electron-timber](https://github.com/sindresorhus/electron-timber) - Pretty logger for Electron apps
 - [d3-require](https://github.com/d3/d3-require) - A minimal, promise-based implementation to require asynchronous module definitions.
@@ -2184,7 +2188,7 @@
 - [starship](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts.
 - [quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [nushell](https://github.com/nushell/nushell) - A modern shell written in Rust
-- [rustup.rs](https://github.com/rust-lang/rustup.rs) - The Rust toolchain installer
+- [rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
 - [actix-web](https://github.com/actix/actix-web) - Actix web is a small, pragmatic, and extremely fast rust web framework.
 - [actix](https://github.com/actix/actix) - Actor framework for Rust
 - [learning-rust](https://github.com/developer-learning/learning-rust) - Rust 学习之路 &gt; Rust Programming Tutorial, include articles, interview, example, problems.
@@ -2247,6 +2251,7 @@
 
 ## Swift 
 
+- [swift-numerics](https://github.com/apple/swift-numerics) - Numerical APIs for Swift
 - [Cards](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 appstore cards in swift 5.
 - [reddit-swiftui](https://github.com/carson-katri/reddit-swiftui) - A cross-platform Reddit client built in SwiftUI
 - [AppIcon](https://github.com/Nonchalant/AppIcon) - AppIcon generates *.appiconset contains each resolution image for iOS
@@ -2427,7 +2432,7 @@
 - [GoogleTranslate](https://github.com/MoeFE/GoogleTranslate) - 🌐 Google 翻译 Mac 客户端
 - [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [docz](https://github.com/doczjs/docz) - ✍🏻It has never been so easy to document your things!
+- [docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [kactus](https://github.com/kactus-io/kactus) - :cactus: A true version control tool for designers
 - [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
