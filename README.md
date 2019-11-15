@@ -237,6 +237,14 @@
 
 ## Go 
 
+- [building-web-applications-in-go](https://github.com/unknwon/building-web-applications-in-go) - Go 语言 Web 应用开发系列教程，从新手到双手残废
+- [weapp](https://github.com/medivhzhan/weapp) - GO 微信小程序 SDK
+- [firebolt](https://github.com/digitalocean/firebolt) - Golang framework for streaming ETL, observability data pipeline, and event processing apps
+- [transfer](https://github.com/rinetd/transfer) - Converts from one encoding to another. Supported formats HCL ⇄ JSON ⇄ YAML⇄TOML⇄XML⇄plist⇄pickle⇄properties ...
+- [goweight](https://github.com/jondot/goweight) - A tool to analyze and troubleshoot a Go binary size.
+- [aliyun-oss-go-sdk](https://github.com/aliyun/aliyun-oss-go-sdk) - Aliyun OSS SDK for Go
+- [validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+- [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [go-terminput](https://github.com/tj/go-terminput) - Package terminput provides terminal keyboard input for interactive command-line tools.
 - [vearch](https://github.com/vearch/vearch) - A distributed system for efficient similarity search of embedding vectors
 - [go-gin-example](https://github.com/EDDYCJY/go-gin-example) - An example of gin
@@ -312,7 +320,7 @@
 - [operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
 - [go-slugify](https://github.com/mozillazg/go-slugify) - Pretty Slug.
 - [aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
-- [oauth2_proxy](https://github.com/pusher/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other providers. #Hacktoberfest
+- [oauth2_proxy](https://github.com/pusher/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other providers.
 - [fabric](https://github.com/hyperledger/fabric) - Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric
 - [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -1130,6 +1138,7 @@
 - [koa-prerender](https://github.com/RisingStack/koa-prerender) - KOA middleware for prerendering javascript-rendered pages on the fly for SEO
 - [prerender](https://github.com/prerender/prerender) - Node server that uses Headless Chrome to render a javascript-rendered page as HTML. To be used in conjunction with prerender middleware.
 - [ghChat](https://github.com/aermin/ghChat) - :octocat: 📱A chat application for GitHub. Front-End : React+Redux+React-router+axios+scss；Back-end: node(koa2)+mysql+JWT+ Typescripts; Socket.io, PWA
+- [web](https://github.com/pikapkg/web) - :package: :sparkles:Install npm dependencies to run directly in the browser. No webpack required. https://www.pika.dev/blog/pika-web-a-future-without-webpack/
 - [vue-dev-server](https://github.com/vuejs/vue-dev-server) - A POC dev server that allows you to import `*.vue` files via native ES modules imports.
 - [grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [node-formidable](https://github.com/node-formidable/node-formidable) - A node.js module for parsing form data, especially file uploads.
@@ -1405,7 +1414,6 @@
 - [get-crowdin-file-ids](https://github.com/crowdin-node/get-crowdin-file-ids) - Generate deep links to your content on Crowdin
 - [notie](https://github.com/jaredreich/notie) - 🔔 a clean and simple notification, input, and selection suite for javascript, with no dependencies
 - [vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2019
 - [wey](https://github.com/yue/wey) - Fast open source Slack desktop app
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
@@ -1703,6 +1711,7 @@
 
 ## Jupyter Notebook 
 
+- [lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
 - [fastai](https://github.com/fastai/fastai) - The fastai deep learning library, plus lessons and tutorials
 - [google-research](https://github.com/google-research/google-research) - Google AI Research
 - [CodeSearchNet](https://github.com/github/CodeSearchNet) - Datasets, tools, and benchmarks for representation learning of code.
@@ -1720,7 +1729,6 @@
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [pandas-intro](https://github.com/jalammar/pandas-intro) - Basic notebook introducing pandas functionality
 - [dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
-- [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [pytorch-book](https://github.com/chenyuntc/pytorch-book) - PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation
@@ -1912,6 +1920,7 @@
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [mentorship](https://github.com/nodejs/mentorship) - Node.js Mentorship Program Initiative
 - [conference](https://github.com/gopherchina/conference) - 
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2019
 - [share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  我个人曾经做过的技术分享...
 - [weixin-xiaochengxu666-info](https://github.com/xiaobei666/weixin-xiaochengxu666-info) - 微信小程序开发框架、资源-干货汇总
 - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
@@ -2099,6 +2108,7 @@
 - [word-mesh](https://github.com/mukund109/word-mesh) - A context-preserving word cloud generator
 - [cartoonify](https://github.com/danmacnish/cartoonify) - python app to turn a photograph into a cartoon
 - [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
+- [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [faceai](https://github.com/vipstone/faceai) - 一款入门级的人脸、视频、文字检测以及识别的项目.
 - [DevilYuan](https://github.com/moyuanz/DevilYuan) - DevilYuan可视化股票量化系统，支持选股，历史数据自动下载，策略回测及参数优化，实盘交易和常用的统计功能
 - [arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
@@ -2253,6 +2263,8 @@
 
 ## Swift 
 
+- [OpenSwiftUI](https://github.com/Cosmo/OpenSwiftUI) - WIP — OpenSwiftUI is an OpenSource implementation of Apple's SwiftUI DSL.
+- [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance GIF engine
 - [swift-numerics](https://github.com/apple/swift-numerics) - Numerical APIs for Swift
 - [Cards](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 appstore cards in swift 5.
 - [reddit-swiftui](https://github.com/carson-katri/reddit-swiftui) - A cross-platform Reddit client built in SwiftUI
@@ -2300,6 +2312,7 @@
 
 ## TypeScript 
 
+- [signature_pad](https://github.com/szimek/signature_pad) - HTML5 canvas based smooth signature drawing
 - [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer) - Dialog creation and management for Microsoft Bot Framework Applications
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [vuetify-module](https://github.com/nuxt-community/vuetify-module) - Vuetify Module for Nuxt.js
@@ -2351,7 +2364,6 @@
 - [react-intl](https://github.com/formatjs/react-intl) - Internationalize React apps. This library provides React components and an API to format dates, numbers, and strings, including pluralization and handling translations.
 - [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) - Tasks for Azure Pipelines
 - [ide-props-editor](https://github.com/one-gourd/ide-props-editor) - 属性编辑器 ，demo https://one-gourd.github.io/ide-props-editor/
-- [vue-ssr-prefetcher](https://github.com/vue-contrib/vue-ssr-prefetcher) - Making Vue SSR's data prefetching more intuitive.(Only 1kb compressed)
 - [vue-async-manager](https://github.com/shuidi-fed/vue-async-manager) - 【deprecated】Manage asynchronous calls more easily in Vue apps.
 - [rollup-plugin-vue](https://github.com/vuejs/rollup-plugin-vue) - Roll .vue files
 - [koa-ts](https://github.com/unix/koa-ts) - The best practice of building Koa2 with TypeScript
@@ -2390,7 +2402,6 @@
 - [gcoord](https://github.com/hujiulong/gcoord) - 地理坐标系转换工具，支持WGS84/GCJ02/BD09等常用坐标系互转
 - [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
 - [reaviz](https://github.com/jask-oss/reaviz) - 📊  Data visualization library for React based on D3
-- [web](https://github.com/pikapkg/web) - :package: :sparkles:Install npm dependencies to run directly in the browser. No webpack required. https://www.pika.dev/blog/pika-web-a-future-without-webpack/
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
 - [nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, Emotion, and Remark.
@@ -2421,7 +2432,7 @@
 - [eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
-- [vuese](https://github.com/vue-contrib/vuese) - 🤗 One-stop solution for vue component documentation. Original org: https://github.com/vuese
+- [vuese](https://github.com/shuidi-fed/vuese) - 🤗 One-stop solution for vue component documentation. Original org: https://github.com/vuese
 - [metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
 - [zan-proxy](https://github.com/youzan/zan-proxy) - An extensible proxy for PC/Mobile/APP developer
 - [markbox](https://github.com/djyde/markbox) - Parse your code in markdown into CodeSandbox.
