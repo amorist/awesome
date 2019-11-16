@@ -6,6 +6,7 @@
 ## Contents
 
   - [AppleScript](#applescript)
+  - [Assembly](#assembly)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -54,6 +55,10 @@
 
 - [SketchRunner](https://github.com/AlexeySemigradsky/SketchRunner) - The macOS application that can launch the Sketch when its trial expired.
 - [hubot-imessage](https://github.com/lazerwalker/hubot-imessage) - iMessage adapter for Hubot
+
+## Assembly 
+
+- [unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 
 ## C 
 
@@ -237,6 +242,8 @@
 
 ## Go 
 
+- [githubv4](https://github.com/shurcooL/githubv4) - Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://developer.github.com/v4/).
+- [triage](https://github.com/tj/triage) - Interactive command-line GitHub issue & notification triaging tool.
 - [building-web-applications-in-go](https://github.com/unknwon/building-web-applications-in-go) - Go 语言 Web 应用开发系列教程，从新手到双手残废
 - [weapp](https://github.com/medivhzhan/weapp) - GO 微信小程序 SDK
 - [firebolt](https://github.com/digitalocean/firebolt) - Golang framework for streaming ETL, observability data pipeline, and event processing apps
@@ -918,7 +925,7 @@
 ## Java 
 
 - [react-native-camera](https://github.com/react-native-community/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
-- [apollo](https://github.com/ctripcorp/apollo) - Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
+- [apollo](https://github.com/ctripcorp/apollo) - Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。2019年度最受欢迎中国开源软件评选中，请为apollo投上你的宝贵一票：https://www.oschina.net/project/top_cn_2019
 - [pinpoint](https://github.com/naver/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems written in Java.
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
@@ -955,6 +962,8 @@
 
 ## JavaScript 
 
+- [mac-screen-capture-permissions](https://github.com/karaggeorge/mac-screen-capture-permissions) - Check and request permission to capture the screen
+- [quark-h5](https://github.com/huangwei9527/quark-h5) - 基于vue2 + koa2的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀、百度H5等H5制作、建站工具
 - [gatsby-source-strapi](https://github.com/strapi/gatsby-source-strapi) - Gatsby source plugin for building websites using Strapi as a data source
 - [strapi-provider-upload-oss](https://github.com/hezzze/strapi-provider-upload-oss) - A provider for strapi server to upload file to Aliyun OSS
 - [share.js](https://github.com/overtrue/share.js) - 一键分享到微博、QQ空间、QQ好友、微信、腾讯微博、豆瓣、Facebook、Twitter、Linkedin、Google+、点点等
@@ -1012,7 +1021,7 @@
 - [wewe](https://github.com/t9tio/wewe) - Open group chat messages to the world
 - [node-file-trace](https://github.com/zeit/node-file-trace) - Node.js dependency tracing utility
 - [datamaps](https://github.com/markmarkoh/datamaps) - Customizable SVG map visualizations for the web in a single Javascript file using D3.js
-- [luban-h5](https://github.com/ly525/luban-h5) - en: web design tool || mobile page builder/editor || mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具.
+- [luban-h5](https://github.com/ly525/luban-h5) - [WIP]en: web design tool || mobile page builder/editor || mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具.
 - [funcraft](https://github.com/alibaba/funcraft) - (have) Fun with Serverless(API Gateway & Function Compute)
 - [composition-api](https://github.com/vuejs/composition-api) - Vue2 plugin for the Composition API.
 - [crowdin-node](https://github.com/crowdin-node/crowdin-node) - A Node.js client for the v1 and v2 Crowdin APIs
@@ -1690,7 +1699,7 @@
 - [taracotjs](https://github.com/xtremespb/taracotjs) - TaracotJS - CMS based on Node.js/MongoDB/Redis
 - [Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
 - [microscope-orionjs](https://github.com/fuzzybabybunny/microscope-orionjs) - 
-- [DoraCMS](https://github.com/doramart/DoraCMS) - DoraCMS是基于Nodejs+mongodb编写的一套内容管理系统，结构简单，较目前一些开源的cms，doracms易于拓展，特别适合前端开发工程师做二次开发。
+- [DoraCMS](https://github.com/doramart/DoraCMS) - DoraCMS是基于Nodejs+eggjs+mongodb编写的一套内容管理系统，结构简单，较目前一些开源的cms，doracms易于拓展，特别适合前端开发工程师做二次开发。
 - [orion-ga](https://github.com/nicolaslopezj/orion-ga) - Google analytics made for orion
 - [blaze-layout](https://github.com/kadirahq/blaze-layout) - Layout Manager for Blaze (works well with Meteor FlowRouter)
 - [flow-router](https://github.com/kadirahq/flow-router) - Carefully Designed Client Side Router for Meteor
@@ -1788,6 +1797,7 @@
 
 ## Others 
 
+- [web-frontend-magic](https://github.com/EtherDream/web-frontend-magic) - #前端黑魔法# 整理
 - [real](https://github.com/real-dev/real) - Real Dev Platform
 - [GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
@@ -2312,6 +2322,7 @@
 
 ## TypeScript 
 
+- [canvg](https://github.com/canvg/canvg) - Javascript SVG parser and renderer on Canvas
 - [signature_pad](https://github.com/szimek/signature_pad) - HTML5 canvas based smooth signature drawing
 - [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer) - Dialog creation and management for Microsoft Bot Framework Applications
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
@@ -2454,7 +2465,7 @@
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [wired-elements](https://github.com/wiredjs/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
-- [botpress](https://github.com/botpress/botpress) - The open-source Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
+- [botpress](https://github.com/botpress/botpress) - 🤖 The open-source Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
 - [vscode-go](https://github.com/microsoft/vscode-go) - An extension for VS Code which provides support for the Go language.
 - [incremental-dom](https://github.com/google/incremental-dom) - An in-place DOM diffing library
 - [Zoe](https://github.com/iawia002/Zoe) - 快捷上传文件到七牛云 for macOS
