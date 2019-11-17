@@ -626,7 +626,6 @@
 - [gcache](https://github.com/bluele/gcache) - Cache library for golang. It supports expirable Cache, LFU, LRU and ARC.
 - [rwtxt](https://github.com/schollz/rwtxt) - A cms for absolute minimalists.
 - [open-match](https://github.com/googleforgames/open-match) - Flexible, extensible, and scalable video game matchmaking.
-- [gonote](https://github.com/xmge/gonote) - 欢迎各位gopher一起来完善这份笔记，让更多的人能够了解go，学习go，使用go，热爱go.   :thumbsup:
 - [go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [shuttle](https://github.com/sipt/shuttle) - A web proxy in Golang with amazing features.
 - [athens](https://github.com/gomods/athens) - A Go module datastore and proxy
@@ -962,6 +961,7 @@
 
 ## JavaScript 
 
+- [BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 - [mac-screen-capture-permissions](https://github.com/karaggeorge/mac-screen-capture-permissions) - Check and request permission to capture the screen
 - [quark-h5](https://github.com/huangwei9527/quark-h5) - 基于vue2 + koa2的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀、百度H5等H5制作、建站工具
 - [gatsby-source-strapi](https://github.com/strapi/gatsby-source-strapi) - Gatsby source plugin for building websites using Strapi as a data source
@@ -1540,7 +1540,7 @@
 - [notifme-sdk](https://github.com/notifme/notifme-sdk) - A Node.js library to send all kinds of transactional notifications.
 - [makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) - Create Anime Characters with MakeGirlsMoe
 - [machine-learning-with-js](https://github.com/abhisheksoni27/machine-learning-with-js) - Machine Learning with JavaScript. Fast and Simple. :rocket:
-- [nanoid](https://github.com/ai/nanoid) - A tiny (139 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [nanoid](https://github.com/ai/nanoid) - A tiny (137 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [wtfjs](https://github.com/denysdovhan/wtfjs) - A list of funny and tricky JavaScript examples
 - [Hilo](https://github.com/hiloteam/Hilo) - A Cross-end HTML5 Game development solution developed by Alibaba Group
 - [botui-examples](https://github.com/botui/botui-examples) - Some examples on how to use BotUI
@@ -1743,7 +1743,7 @@
 - [pytorch-book](https://github.com/chenyuntc/pytorch-book) - PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation
 - [tensorflow-docs](https://github.com/xitu/tensorflow-docs) - TensorFlow 最新官方文档中文版
 - [pydata-notebook](https://github.com/BrambleXu/pydata-notebook) - 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
-- [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - Projects, Practice, NLP, TensorFlow 2, Google Colab
+- [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - NLP Code for Everyone in TensorFlow
 
 ## Kotlin 
 
@@ -1773,6 +1773,7 @@
 
 ## Objective-C 
 
+- [V2RayX](https://github.com/Cenmrev/V2RayX) - GUI for v2ray-core on macOS
 - [bitbar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar
 - [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 - [ios-deploy](https://github.com/ios-control/ios-deploy) - Install and debug iPhone apps from the command line, without using Xcode
@@ -1902,6 +1903,7 @@
 - [handbook](https://github.com/basecamp/handbook) - Basecamp Employee Handbook
 - [book](https://github.com/KeKe-Li/book) - :books: All programming languages books
 - [ideas](https://github.com/probot/ideas) - Share ideas for new GitHub Apps built with Probot
+- [gonote](https://github.com/xmge/gonote) - 欢迎各位gopher一起来完善这份笔记，让更多的人能够了解go，学习go，使用go，热爱go.   :thumbsup:
 - [awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
 - [balanced-employee-ip-agreement](https://github.com/github/balanced-employee-ip-agreement) - GitHub's employee IP agreement, open sourced and reusable
 - [git-commit-emoji-cn](https://github.com/liuchengxu/git-commit-emoji-cn) - 😁 git commit message emoji 使用指南
