@@ -58,6 +58,7 @@
 
 ## Assembly 
 
+- [CatBreeds](https://github.com/cwmima/CatBreeds) - A Xamarin app that recognizes the breeds of cats in the photos.
 - [unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 
 ## C 
@@ -92,6 +93,7 @@
 
 ## C# # 
 
+- [AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
 - [BotSharp](https://github.com/SciSharp/BotSharp) - The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
 - [ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [SteamBot](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with Steam Trade
@@ -99,6 +101,7 @@
 
 ## C++ 
 
+- [plato](https://github.com/Tencent/plato) - 腾讯高性能图计算框架Plato
 - [node-report](https://github.com/nodejs/node-report) - Delivers a human-readable diagnostic summary, written to file.
 - [nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  For React NodeGUI, visit: https://github.com/nodegui/react-nodegui ⚛️
 - [flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
@@ -187,7 +190,6 @@
 
 ## CoffeeScript 
 
-- [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [pagedraw](https://github.com/Pagedraw/pagedraw) - a UI builder for React web apps
 - [At.js](https://github.com/ichord/At.js) - Add Github like mentions autocomplete to your application.
 - [trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
@@ -242,6 +244,8 @@
 
 ## Go 
 
+- [expr](https://github.com/antonmedv/expr) - Expression evaluation with static typing for Go
+- [gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language"
 - [githubv4](https://github.com/shurcooL/githubv4) - Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://developer.github.com/v4/).
 - [triage](https://github.com/tj/triage) - Interactive command-line GitHub issue & notification triaging tool.
 - [building-web-applications-in-go](https://github.com/unknwon/building-web-applications-in-go) - Go 语言 Web 应用开发系列教程，从新手到双手残废
@@ -362,7 +366,6 @@
 - [logrus_sentry](https://github.com/evalphobia/logrus_sentry) - sentry hook for logrus
 - [sling](https://github.com/dghubble/sling) - A Go HTTP client library for creating and sending API requests
 - [snowflake](https://github.com/bwmarrin/snowflake) - A simple to use Go (golang) package to generate or parse Twitter snowflake IDs
-- [lantern](https://github.com/getlantern/lantern) - 蓝灯Windows下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe 蓝灯安卓下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk
 - [listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Go + React.
 - [mango](https://github.com/amorist/mango) - use mongo-go-driver  like mgo
 - [melody](https://github.com/olahol/melody) - :notes: Minimalist websocket framework for Go
@@ -849,6 +852,7 @@
 
 ## HTML 
 
+- [catch-the-cat](https://github.com/xf11075/catch-the-cat) - 圈小猫canvas游戏
 - [istio.io](https://github.com/istio/istio.io) - Source for the istio.io site
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [animated-deno-logo](https://github.com/denolib/animated-deno-logo) - Animated Deno Logo
@@ -961,6 +965,12 @@
 
 ## JavaScript 
 
+- [guess-the-breed](https://github.com/jnsmtnr/guess-the-breed) - A cat breed guesser game
+- [hangman](https://github.com/angrbrd/hangman) - Cat Breed Themed Hangman Game
+- [NyanCatEverywhere](https://github.com/TakWolf/NyanCatEverywhere) - 让彩虹猫入侵全世界！
+- [game-nerve-cat](https://github.com/CB-ysx/game-nerve-cat) - egret引擎写的围住神经猫游戏
+- [graphql-action](https://github.com/octokit/graphql-action) - A GitHub Action to send queries to GitHub's GraphQL API
+- [styled-system](https://github.com/styled-system/styled-system) - ⬢ Style props for rapid UI development
 - [BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 - [mac-screen-capture-permissions](https://github.com/karaggeorge/mac-screen-capture-permissions) - Check and request permission to capture the screen
 - [quark-h5](https://github.com/huangwei9527/quark-h5) - 基于vue2 + koa2的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀、百度H5等H5制作、建站工具
@@ -1110,6 +1120,7 @@
 - [vega](https://github.com/vega/vega) - A visualization grammar.
 - [pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed
 - [marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
+- [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [mini-github](https://github.com/kezhenxu94/mini-github) - GitHub WeChat Mini Program
 - [wux-weapp](https://github.com/wux-weapp/wux-weapp) - :dog: 一套组件化、可复用、易扩展的微信小程序 UI 组件库
 - [coolhue](https://github.com/webkul/coolhue) - Coolest Gradient Hues and Swatches
@@ -1720,6 +1731,7 @@
 
 ## Jupyter Notebook 
 
+- [Cat_Recognition](https://github.com/tinalulu1327/Cat_Recognition) - Cat Detection and Breed Recognition
 - [lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
 - [fastai](https://github.com/fastai/fastai) - The fastai deep learning library, plus lessons and tutorials
 - [google-research](https://github.com/google-research/google-research) - Google AI Research
@@ -1798,6 +1810,8 @@
 
 ## Others 
 
+- [github-issue-templates](https://github.com/stevemao/github-issue-templates) - :symbols: A collection of GitHub issue and pull request templates
+- [GNNPapers](https://github.com/thunlp/GNNPapers) - Must-read papers on graph neural networks (GNN)
 - [web-frontend-magic](https://github.com/EtherDream/web-frontend-magic) - #前端黑魔法# 整理
 - [real](https://github.com/real-dev/real) - Real Dev Platform
 - [GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
@@ -2042,6 +2056,12 @@
 
 ## Python 
 
+- [Cat-Breeds](https://github.com/samarjit98/Cat-Breeds) - Cat breed classification using RowCNN and deriving inter-breed relationships
+- [cat-breeds-classifier](https://github.com/batogov/cat-breeds-classifier) - 🐱 Neural network classifies kittens
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
+- [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
+- [modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code
+- [Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习开源书，基于TensorFlow 2.0实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
 - [models](https://github.com/PaddlePaddle/models) - Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）
 - [iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport) - This repository holds the device support files for the iOS, and I will update it regularly.
 - [pkuseg-python](https://github.com/lancopku/pkuseg-python) - pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation
@@ -2235,6 +2255,7 @@
 
 ## Shell 
 
+- [rebase](https://github.com/ljharb/rebase) - GitHub Action to automatically rebase PRs
 - [stacks](https://github.com/real-dev/stacks) - Various tech "stacks" for Real Dev tasks
 - [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100.
@@ -2324,6 +2345,10 @@
 
 ## TypeScript 
 
+- [phaser-catch-the-cat](https://github.com/ganlvtech/phaser-catch-the-cat) - An HTML5 game 'Catch The Cat' powered by Phaser 3
+- [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - 💬 The most complete chat UI for React Native
+- [tiktok-api](https://github.com/szdc/tiktok-api) - Unofficial API wrapper for TikTok (previously musical.ly)
+- [material-components-web-components](https://github.com/material-components/material-components-web-components) - Material Web Components - Material Design implemented as Web Components
 - [canvg](https://github.com/canvg/canvg) - Javascript SVG parser and renderer on Canvas
 - [signature_pad](https://github.com/szimek/signature_pad) - HTML5 canvas based smooth signature drawing
 - [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer) - Dialog creation and management for Microsoft Bot Framework Applications
