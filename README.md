@@ -244,6 +244,9 @@
 
 ## Go 
 
+- [seesaw](https://github.com/google/seesaw) - Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.
+- [s4](https://github.com/axetroy/s4) - :rocket: 集成本地/远程的工作流 Integrate local and remote workflow
+- [sudolikeaboss](https://github.com/ravenac95/sudolikeaboss) - Get 1password access from iterm2
 - [expr](https://github.com/antonmedv/expr) - Expression evaluation with static typing for Go
 - [gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language"
 - [githubv4](https://github.com/shurcooL/githubv4) - Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://developer.github.com/v4/).
@@ -965,6 +968,9 @@
 
 ## JavaScript 
 
+- [pull](https://github.com/wei/pull) - ⬇️ Keep your forks up-to-date via automated PRs
+- [node-ip](https://github.com/indutny/node-ip) - IP address tools for node.js
+- [butterchurn](https://github.com/jberg/butterchurn) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
 - [guess-the-breed](https://github.com/jnsmtnr/guess-the-breed) - A cat breed guesser game
 - [hangman](https://github.com/angrbrd/hangman) - Cat Breed Themed Hangman Game
 - [NyanCatEverywhere](https://github.com/TakWolf/NyanCatEverywhere) - 让彩虹猫入侵全世界！
@@ -1314,7 +1320,7 @@
 - [mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and express
 - [next.js](https://github.com/zeit/next.js) - The React Framework
 - [mdx](https://github.com/mdx-js/mdx) - JSX in Markdown for ambitious projects
-- [semantic-pull-requests](https://github.com/probot/semantic-pull-requests) - Ensure your pull requests follow the Conventional Commits spec
+- [semantic-pull-requests](https://github.com/zeke/semantic-pull-requests) - Ensure your pull requests follow the Conventional Commits spec
 - [mauerwerk](https://github.com/drcmda/mauerwerk) - ⚒  A react-spring driven masonry-like grid with enter/exit and shared element transitions
 - [peco](https://github.com/upash/peco) - nothing here, move on..
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive SVG Charts
@@ -2211,6 +2217,7 @@
 
 ## Ruby 
 
+- [homebrew-gh](https://github.com/github/homebrew-gh) - Homebrew tap for GitHub CLI
 - [dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖The core logic behind Dependabot's update PR creation
 - [t](https://github.com/sferik/t) - A command-line power tool for Twitter.
 - [fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -2345,6 +2352,10 @@
 
 ## TypeScript 
 
+- [expo-cli](https://github.com/expo/expo-cli) - Tools for making Expo apps
+- [material-ui-pickers](https://github.com/mui-org/material-ui-pickers) - Date & Time pickers, built with ❤️ for @material-ui/core
+- [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs) - Free and open source streaming software built on OBS and Electron.
+- [fiora](https://github.com/yinxin630/fiora) - An interesting chat application power by socket.io, koa, mongodb and react
 - [phaser-catch-the-cat](https://github.com/ganlvtech/phaser-catch-the-cat) - An HTML5 game 'Catch The Cat' powered by Phaser 3
 - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - 💬 The most complete chat UI for React Native
 - [tiktok-api](https://github.com/szdc/tiktok-api) - Unofficial API wrapper for TikTok (previously musical.ly)
@@ -2497,7 +2508,7 @@
 - [incremental-dom](https://github.com/google/incremental-dom) - An in-place DOM diffing library
 - [Zoe](https://github.com/iawia002/Zoe) - 快捷上传文件到七牛云 for macOS
 - [vuepack](https://github.com/znck/vuepack) - Publish .vue files in NPM packages
-- [wechaty](https://github.com/Chatie/wechaty) - WeChat Bot SDK for Individual Account, Powered by TypeScript, Docker, and 💖
+- [wechaty](https://github.com/wechaty/wechaty) - WeChat Bot SDK for Individual Account, Powered by TypeScript, Docker, and 💖
 - [tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
@@ -2547,7 +2558,7 @@
 - [gods-pen](https://github.com/ymm-tech/gods-pen) - 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink.
 - [saber-theme-template](https://github.com/saberland/saber-theme-template) - A template for creating Saber theme.
 - [GitDataV](https://github.com/HongqingCao/GitDataV) - 基于Vue框架构建的github数据可视化平台
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥
 - [OverVue](https://github.com/open-source-labs/OverVue) - Prototyping Tool For Vue Devs 适用于Vue的原型工具
 - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
 - [vuepress-plugin-code-switcher](https://github.com/padarom/vuepress-plugin-code-switcher) - :arrows_clockwise: Component that allows having synchronized language switchable code blocks in your Vuepress sites
