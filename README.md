@@ -244,6 +244,7 @@
 
 ## Go 
 
+- [jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
 - [mongo-tools](https://github.com/mongodb/mongo-tools) - 
 - [seesaw](https://github.com/google/seesaw) - Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.
 - [s4](https://github.com/axetroy/s4) - :rocket: 集成本地/远程的工作流 Integrate local and remote workflow
@@ -618,7 +619,7 @@
 - [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [mgo](https://github.com/globalsign/mgo) - The MongoDB driver for Go
 - [ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
-- [ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 协程池。
+- [ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
 - [strife](https://github.com/felixangell/strife) - a simple 2d game framework
 - [csvutil](https://github.com/jszwec/csvutil) - csvutil provides fast and idiomatic mapping between CSV and Go (golang) values.
 - [CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features
@@ -988,7 +989,6 @@
 - [cat-facts](https://github.com/vadimdemedes/cat-facts) - Interesting cat facts
 - [electron-timber](https://github.com/sindresorhus/electron-timber) - Pretty logger for Electron apps
 - [d3-require](https://github.com/d3/d3-require) - A minimal, promise-based implementation to require asynchronous module definitions.
-- [L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization
 - [f2](https://github.com/antvis/f2) - 📱📈An elegant, interactive and flexible charting library for mobile.
 - [g2](https://github.com/antvis/g2) - The Grammar of Graphics in JavaScript
 - [BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React.
@@ -1817,6 +1817,7 @@
 
 ## Others 
 
+- [typescript-definition-style-guide](https://github.com/sindresorhus/typescript-definition-style-guide) - Style guide for adding type definitions to my npm packages
 - [iCloudBypassCA](https://github.com/crazymind90/iCloudBypassCA) - 
 - [github-issue-templates](https://github.com/stevemao/github-issue-templates) - :symbols: A collection of GitHub issue and pull request templates
 - [GNNPapers](https://github.com/thunlp/GNNPapers) - Must-read papers on graph neural networks (GNN)
@@ -1947,7 +1948,7 @@
 - [LineStickersEditor](https://github.com/line-stickers/LineStickersEditor) - 
 - [Release](https://github.com/nodejs/Release) - Node.js Foundation Release Working Group
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
-- [Tvlist-awesome-m3u-m3u8](https://github.com/billy21/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯
+- [Tvlist-awesome-m3u-m3u8](https://github.com/billy21/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U
 - [7-secret-patterns](https://github.com/chrisvfritz/7-secret-patterns) - 
 - [architecture.wechat-tencent](https://github.com/davideuler/architecture.wechat-tencent) - 互联网公司架构: 微信技术架构， 腾讯技术架构
 - [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
@@ -2043,6 +2044,7 @@
 
 ## PHP 
 
+- [PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop offers a fully scalable open source ecommerce solution.
 - [typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
 - [apache2nginx](https://github.com/mow/apache2nginx) - Converts apache rewrite rules to nginx rewrite rules
 - [parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
@@ -2295,7 +2297,7 @@
 - [javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript
 - [osx-iso](https://github.com/busterc/osx-iso) -  Create a bootable ISO of OS X / macOS, from the installation app file
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [archey-osx](https://github.com/obihann/archey-osx) - An archey script clone for OS X
 - [setup-simple-pptp-vpn](https://github.com/viljoviitanen/setup-simple-pptp-vpn) - Setup Simple PPTP VPN Server for Ubuntu and Debian
 
@@ -2368,13 +2370,14 @@
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [vuetify-module](https://github.com/nuxt-community/vuetify-module) - Vuetify Module for Nuxt.js
 - [use-codemirror](https://github.com/jamesknelson/use-codemirror) - CodeMirror support for React
+- [L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization
 - [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [swr](https://github.com/zeit/swr) - React Hooks library for remote data fetching
 - [remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建小程序
 - [github-funding-yml-updater](https://github.com/azu/github-funding-yml-updater) - Update multiple repositories's `.github/FUNDING.yml` via GitHub API
 - [saturn-datepicker](https://github.com/SaturnTeam/saturn-datepicker) - Angular Material Datepicker with range selection
 - [tinacms](https://github.com/tinacms/tinacms) - Tina is a site editing toolkit for modern React-based sites (Gatsby and Next.js)
-- [takenote](https://github.com/taniarascia/takenote) - 📝 A web-based note-taking app with GitHub sync and Markdown support.
+- [takenote](https://github.com/taniarascia/takenote) - 📝 A web-based note-taking app with GitHub sync and Markdown support. (WIP)
 - [tecalliance-onedb-application](https://github.com/vauman/tecalliance-onedb-application) - This is the OneDB application to manage vehicles, parts, etc. build with Angular
 - [dts-gen](https://github.com/microsoft/dts-gen) - dts-gen creates starter TypeScript definition files for any module or library.
 - [vue-next](https://github.com/vuejs/vue-next) - 
@@ -2525,7 +2528,7 @@
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
 - [electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue.js 2
+- [vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
 - [chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [react-page](https://github.com/react-page/react-page) - Next-gen, highly customizable content editor for the browser - based on React and Redux and written in TypeScript. WYSIWYG on steroids.
@@ -2583,7 +2586,7 @@
 - [raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [topsi-project-manager](https://github.com/Physiix/topsi-project-manager) - A Desktop Kanban board app.
 - [music](https://github.com/sunzongzheng/music) - electron跨平台音乐播放器；可搜网易云、QQ音乐、虾米音乐；支持QQ、微博、Github登录，云歌单; 支持一键导入音乐平台歌单
-- [koala](https://github.com/apm-ai/koala) - http://koa.la  is a next-generation APM backend for @open-telemetry, written in go and rust
+- [koala](https://github.com/apm-ai/koala) - :koala:   is a next-generation APM backend for @open-telemetry, written in go and rust
 - [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by electron-vue
 - [VBlog](https://github.com/GitHub-Laziji/VBlog) - 使用GitHub API 搭建一个可动态发布文章的博客
 - [vue2-manage](https://github.com/bailicangdu/vue2-manage) - 基于 vue + element-ui 的后台管理系统
