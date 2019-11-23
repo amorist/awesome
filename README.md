@@ -39,6 +39,7 @@
   - [Processing](#processing)
   - [Python](#python)
   - [Rascal](#rascal)
+  - [Rich Text Format](#rich-text-format)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SRecode Template](#srecode-template)
@@ -244,6 +245,7 @@
 
 ## Go 
 
+- [rainbond](https://github.com/goodrain/rainbond) - Enterprise application cloud operating system(企业应用云操作系统)
 - [jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
 - [mongo-tools](https://github.com/mongodb/mongo-tools) - 
 - [seesaw](https://github.com/google/seesaw) - Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.
@@ -337,7 +339,7 @@
 - [go-slugify](https://github.com/mozillazg/go-slugify) - Pretty Slug.
 - [aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
 - [oauth2_proxy](https://github.com/pusher/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other providers.
-- [fabric](https://github.com/hyperledger/fabric) - Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric
+- [fabric](https://github.com/hyperledger/fabric) - 
 - [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [ratelimit](https://github.com/uber-go/ratelimit) - A Golang blocking leaky-bucket rate limit implementation
@@ -970,6 +972,7 @@
 
 ## JavaScript 
 
+- [react-frame-component](https://github.com/ryanseddon/react-frame-component) - Render your React app to an iFrame
 - [pull](https://github.com/wei/pull) - ⬇️ Keep your forks up-to-date via automated PRs
 - [node-ip](https://github.com/indutny/node-ip) - IP address tools for node.js
 - [butterchurn](https://github.com/jberg/butterchurn) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
@@ -990,7 +993,7 @@
 - [electron-timber](https://github.com/sindresorhus/electron-timber) - Pretty logger for Electron apps
 - [d3-require](https://github.com/d3/d3-require) - A minimal, promise-based implementation to require asynchronous module definitions.
 - [f2](https://github.com/antvis/f2) - 📱📈An elegant, interactive and flexible charting library for mobile.
-- [g2](https://github.com/antvis/g2) - The Grammar of Graphics in JavaScript
+- [g2](https://github.com/antvis/g2) - 📊 The Grammar of Graphics in JavaScript
 - [BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React.
 - [create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [electron-osx-sign](https://github.com/electron/electron-osx-sign) - Codesign Electron macOS apps
@@ -1372,7 +1375,7 @@
 - [open-pull-request](https://github.com/github-modules/open-pull-request) - All-in-one module for forking repos, changing their files, and opening pull requests on GitHub
 - [qrious](https://github.com/neocotic/qrious) - Pure JavaScript library for QR code generation using canvas
 - [taro](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。  https://taro.jd.com/
-- [g6](https://github.com/antvis/g6) - A Graph Visualization Framework in JavaScript
+- [g6](https://github.com/antvis/g6) - ♾ A Graph Visualization Framework in JavaScript
 - [search-with-your-keyboard](https://github.com/electron/search-with-your-keyboard) - Add keyboard navigation to your existing client-side search interface.
 - [awesome-talks](https://github.com/SaraVieira/awesome-talks) - Awesome Talks Curated By the Community
 - [maid](https://github.com/egoist/maid) - Markdown driven task runner.
@@ -1554,7 +1557,7 @@
 - [spider-for-netease-music](https://github.com/qiangzi7723/spider-for-netease-music) - 抓取网易云音乐上所有歌曲的评论数量，并整理数据打造一个前端展示页面
 - [blog](https://github.com/jawil/blog) - Too young, too simple. Sometimes, naive & stupid 🐌
 - [elasticsearch-js](https://github.com/elastic/elasticsearch-js) - Official Elasticsearch client library for Node.js
-- [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API
+- [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [notifme-sdk](https://github.com/notifme/notifme-sdk) - A Node.js library to send all kinds of transactional notifications.
 - [makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) - Create Anime Characters with MakeGirlsMoe
 - [machine-learning-with-js](https://github.com/abhisheksoni27/machine-learning-with-js) - Machine Learning with JavaScript. Fast and Simple. :rocket:
@@ -2219,6 +2222,10 @@
 
 - [hosts](https://github.com/kelthuzadx/hosts) - :statue_of_liberty:最新可用的google hosts文件。国内镜像：
 
+## Rich Text Format 
+
+- [clover](https://github.com/sqlsec/clover) - Share some hackintosh Clover files 分享一些黑苹果clover配置文件
+
 ## Ruby 
 
 - [homebrew-gh](https://github.com/github/homebrew-gh) - Homebrew tap for GitHub CLI
@@ -2370,7 +2377,7 @@
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [vuetify-module](https://github.com/nuxt-community/vuetify-module) - Vuetify Module for Nuxt.js
 - [use-codemirror](https://github.com/jamesknelson/use-codemirror) - CodeMirror support for React
-- [L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization
+- [L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization
 - [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [swr](https://github.com/zeit/swr) - React Hooks library for remote data fetching
 - [remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建小程序
