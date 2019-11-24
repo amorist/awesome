@@ -74,7 +74,7 @@
 - [zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 - [earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering) - Reversing Google's 3D satellite mode
 - [webview](https://github.com/zserge/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)
-- [nnn](https://github.com/jarun/nnn) - :dolphin: The missing terminal file manager for X
+- [nnn](https://github.com/jarun/nnn) - :dolphin: The missing terminal file manager for X.
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [ish](https://github.com/tbodt/ish) - Linux shell for iOS
 - [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
@@ -143,6 +143,7 @@
 
 ## CSS 
 
+- [form-render](https://github.com/alibaba/form-render) - 🏄 跨组件体系的表单渲染引擎 - 通过 JSON Schema 快速生成自定义表单配置界面
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [switch-desktop](https://github.com/ahkohd/switch-desktop) - Switch between your favourite apps lightning fast.
 - [dragon](https://github.com/tomhodgins/dragon) - dragon.js is a bookmarklet that lets you drag any element on a website using a mouse or touchscreen. The goal is to speed up in-browser design critiques and brainstorming new layout ideas.
@@ -245,6 +246,7 @@
 
 ## Go 
 
+- [drone-plugin-lib](https://github.com/drone-plugins/drone-plugin-lib) - Helpers for creating plugins for Drone in Go
 - [rainbond](https://github.com/goodrain/rainbond) - Enterprise application cloud operating system(企业应用云操作系统)
 - [jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
 - [mongo-tools](https://github.com/mongodb/mongo-tools) - 
@@ -972,6 +974,8 @@
 
 ## JavaScript 
 
+- [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js - Open Source Analytics Framework
+- [Dream](https://github.com/KieSun/Dream) - 我是 yck，✍️ 这里是写博客以及记录学习的地方
 - [react-frame-component](https://github.com/ryanseddon/react-frame-component) - Render your React app to an iFrame
 - [pull](https://github.com/wei/pull) - ⬇️ Keep your forks up-to-date via automated PRs
 - [node-ip](https://github.com/indutny/node-ip) - IP address tools for node.js
@@ -1435,7 +1439,7 @@
 - [name-your-contributors](https://github.com/mntnr/name-your-contributors) - Name your GitHub contributors; get commits, issues, and comments
 - [handsontable](https://github.com/handsontable/handsontable) - Handsontable - JavaScript/HTML5 Data Grid Component with Spreadsheet Look & Feel. Available for React, Vue and Angular.
 - [gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
-- [SorryPress](https://github.com/fritx/SorryPress) - [WIP] Sorry动图 VuePress版
+- [SorryPress](https://github.com/fritx/SorryPress) - Sorry动图 VuePress版
 - [update-electron-app](https://github.com/electron/update-electron-app) - 🌲 A drop-in module that adds autoUpdating capabilities to Electron apps
 - [dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
 - [flamebearer](https://github.com/mapbox/flamebearer) - Blazing fast flame graph tool for V8 and Node 🔥
@@ -1820,6 +1824,7 @@
 
 ## Others 
 
+- [coco-framework](https://github.com/Azure/coco-framework) - The Confidential Consortium Blockchain Framework is an open-source system that enables high-scale, confidential blockchain networks that meet all key enterprise requirements—providing a means to accelerate production enterprise adoption of blockchain technology.
 - [typescript-definition-style-guide](https://github.com/sindresorhus/typescript-definition-style-guide) - Style guide for adding type definitions to my npm packages
 - [iCloudBypassCA](https://github.com/crazymind90/iCloudBypassCA) - 
 - [github-issue-templates](https://github.com/stevemao/github-issue-templates) - :symbols: A collection of GitHub issue and pull request templates
@@ -1864,7 +1869,7 @@
 - [rfcs](https://github.com/vuejs/rfcs) - RFCs for substantial changes / feature additions to Vue core
 - [awesome-raspberry-pi-zh](https://github.com/wwj718/awesome-raspberry-pi-zh) - 树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等
 - [Go-Interview-QA](https://github.com/studygolang/Go-Interview-QA) - Go语言面试问答
-- [gsy_flutter_book](https://github.com/CarGuo/gsy_flutter_book) - Flutter完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
+- [gsy_flutter_book](https://github.com/CarGuo/gsy_flutter_book) - Flutter 完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
 - [swiftui](https://github.com/ygit/swiftui) - A collaborative list of awesome SwiftUI resources. Feel free to contribute!
 - [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [development](https://github.com/micro/development) - The micro development roadmap and contribution guide
@@ -2069,6 +2074,8 @@
 
 ## Python 
 
+- [bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
+- [cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [Cat-Breeds](https://github.com/samarjit98/Cat-Breeds) - Cat breed classification using RowCNN and deriving inter-breed relationships
 - [cat-breeds-classifier](https://github.com/batogov/cat-breeds-classifier) - 🐱 Neural network classifies kittens
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
@@ -2102,7 +2109,7 @@
 - [stylegan](https://github.com/NVlabs/stylegan) - StyleGAN - Official TensorFlow Implementation
 - [aswan](https://github.com/momosecurity/aswan) - 陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
 - [apex](https://github.com/NVIDIA/apex) - A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch
-- [wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目。
+- [wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，还可能是首个支持脑机交互的开源智能音箱项目。
 - [EverydayWechat](https://github.com/sfyc23/EverydayWechat) - 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [youtube-8m](https://github.com/google/youtube-8m) - Starter code for working with the YouTube-8M dataset.
@@ -2565,6 +2572,7 @@
 
 ## Vue 
 
+- [saber-theme-paper](https://github.com/geekplux/saber-theme-paper) - A simple theme like read on a paper.
 - [vue-material-admin](https://github.com/tookit/vue-material-admin) - A vue material design admin template
 - [theme-blog](https://github.com/vuetifyjs/theme-blog) - A Free Material Blog Theme for Vuetify
 - [gods-pen](https://github.com/ymm-tech/gods-pen) - 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink.
