@@ -74,7 +74,7 @@
 - [zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 - [earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering) - Reversing Google's 3D satellite mode
 - [webview](https://github.com/zserge/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)
-- [nnn](https://github.com/jarun/nnn) - :dolphin: The missing terminal file manager for X
+- [nnn](https://github.com/jarun/nnn) - :dolphin: The missing terminal file manager for X.
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [ish](https://github.com/tbodt/ish) - Linux shell for iOS
 - [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
@@ -267,7 +267,7 @@
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [go-terminput](https://github.com/tj/go-terminput) - Package terminput provides terminal keyboard input for interactive command-line tools.
 - [vearch](https://github.com/vearch/vearch) - A distributed system for efficient similarity search of embedding vectors
-- [go-gin-example](https://github.com/EDDYCJY/go-gin-example) - An example of gin
+- [go-gin-example](https://github.com/eddycjy/go-gin-example) - An example of gin
 - [gon](https://github.com/mitchellh/gon) - Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.
 - [cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
 - [strsim](https://github.com/hbakhtiyor/strsim) - string similarity based on Dice's coefficient in go
@@ -453,7 +453,7 @@
 - [gloo](https://github.com/solo-io/gloo) - An Envoy-Powered API Gateway
 - [gameboy.live](https://github.com/HFO4/gameboy.live) - 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
 - [go-concurrent-quiz](https://github.com/smallnest/go-concurrent-quiz) - Go concurrency quizzes
-- [websocket](https://github.com/nhooyr/websocket) - A minimal and idiomatic WebSocket library for Go
+- [websocket](https://github.com/nhooyr/websocket) - Minimal and idiomatic WebSocket library for Go
 - [go-mod-outdated](https://github.com/psampaz/go-mod-outdated) - Find outdated dependencies of your Go projects. go-mod-outdated provides a table view of the go list -u -m -json all command which lists all dependencies of a Go project and their available minor and patch updates. It also provides a way to filter indirect dependencies and dependencies without updates.
 - [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [jingo](https://github.com/bet365/jingo) - This package provides the ability to encode golang structs to a buffer as JSON very quickly.
@@ -638,6 +638,7 @@
 - [gcache](https://github.com/bluele/gcache) - Cache library for golang. It supports expirable Cache, LFU, LRU and ARC.
 - [rwtxt](https://github.com/schollz/rwtxt) - A cms for absolute minimalists.
 - [open-match](https://github.com/googleforgames/open-match) - Flexible, extensible, and scalable video game matchmaking.
+- [gonote](https://github.com/xmge/gonote) - 欢迎各位gopher一起来完善这份笔记，让更多的人能够了解go，学习go，使用go，热爱go.   :thumbsup:
 - [go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [shuttle](https://github.com/sipt/shuttle) - A web proxy in Golang with amazing features.
 - [athens](https://github.com/gomods/athens) - A Go module datastore and proxy
@@ -825,7 +826,7 @@
 - [go-realtime-collaborative-drawing-app](https://github.com/tinrab/go-realtime-collaborative-drawing-app) - A simple real-time collaborative drawing app built with Go
 - [2fa](https://github.com/rsc/2fa) - Two-factor authentication on the command line
 - [node-prune](https://github.com/tj/node-prune) - Remove unnecessary files from node_modules (.md, .ts, ...)
-- [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service.
+- [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [glide](https://github.com/Masterminds/glide) - Package Management for Golang
 - [riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine
 - [wow](https://github.com/gernest/wow) - :open_mouth::exclamation::exclamation: Wow:exclamation: now my Go commandline app is spinning with :rainbow: and :horse:
@@ -938,13 +939,12 @@
 
 - [incubator-dolphinscheduler](https://github.com/apache/incubator-dolphinscheduler) - Dolphin Scheduler is a distributed and easy-to-expand visual DAG workflow scheduling system, dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing.(分布式易扩展的可视化工作流任务调度)
 - [react-native-camera](https://github.com/react-native-community/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
-- [apollo](https://github.com/ctripcorp/apollo) - Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。2019年度最受欢迎中国开源软件评选中，请为apollo投上你的宝贵一票：https://www.oschina.net/project/top_cn_2019
+- [apollo](https://github.com/ctripcorp/apollo) - Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
 - [pinpoint](https://github.com/naver/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems written in Java.
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 - [COLA](https://github.com/alibaba/COLA) - Clean Object-oriented & Layered Architecture
 - [JustAuth](https://github.com/justauth/JustAuth) - :100: 史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么和推特等第三方平台的授权登录。 Login, so easy!
-- [magnetW](https://github.com/dengyuhan/magnetW) - 磁力搜网页版 - 磁力链接聚合搜索 - https://bt.lansou.pw
 - [SoloPi](https://github.com/alipay/SoloPi) - SoloPi 自动化测试工具
 - [vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
 - [server](https://github.com/wildfirechat/server) - 即时通讯(IM)系统
@@ -1065,6 +1065,7 @@
 - [vue-client-only](https://github.com/egoist/vue-client-only) - Vue component to wrap non SSR friendly components (428 bytes)
 - [node-lru-cache](https://github.com/isaacs/node-lru-cache) - 
 - [RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub
+- [magnetW](https://github.com/xiandanin/magnetW) - 磁力链接聚合搜索
 - [mc.js](https://github.com/ian13456/mc.js) - Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS.
 - [fullstack-tutorial](https://github.com/apollographql/fullstack-tutorial) - 🚀 The Apollo platform tutorial app
 - [gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
@@ -1937,7 +1938,6 @@
 - [handbook](https://github.com/basecamp/handbook) - Basecamp Employee Handbook
 - [book](https://github.com/KeKe-Li/book) - :books: All programming languages books
 - [ideas](https://github.com/probot/ideas) - Share ideas for new GitHub Apps built with Probot
-- [gonote](https://github.com/xmge/gonote) - 欢迎各位gopher一起来完善这份笔记，让更多的人能够了解go，学习go，使用go，热爱go.   :thumbsup:
 - [awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
 - [balanced-employee-ip-agreement](https://github.com/github/balanced-employee-ip-agreement) - GitHub's employee IP agreement, open sourced and reusable
 - [git-commit-emoji-cn](https://github.com/liuchengxu/git-commit-emoji-cn) - 😁 git commit message emoji 使用指南
@@ -2382,7 +2382,7 @@
 - [phaser-catch-the-cat](https://github.com/ganlvtech/phaser-catch-the-cat) - An HTML5 game 'Catch The Cat' powered by Phaser 3
 - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - 💬 The most complete chat UI for React Native
 - [tiktok-api](https://github.com/szdc/tiktok-api) - Unofficial API wrapper for TikTok (previously musical.ly)
-- [material-components-web-components](https://github.com/material-components/material-components-web-components) - Material Web Components - Material Design implemented as Web Components
+- [material-components-web-components](https://github.com/material-components/material-components-web-components) - Material Design Web Components
 - [canvg](https://github.com/canvg/canvg) - Javascript SVG parser and renderer on Canvas
 - [signature_pad](https://github.com/szimek/signature_pad) - HTML5 canvas based smooth signature drawing
 - [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer) - Dialog creation and management for Microsoft Bot Framework Applications
