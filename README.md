@@ -192,6 +192,7 @@
 
 ## CoffeeScript 
 
+- [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [pagedraw](https://github.com/Pagedraw/pagedraw) - a UI builder for React web apps
 - [At.js](https://github.com/ichord/At.js) - Add Github like mentions autocomplete to your application.
 - [trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
@@ -975,6 +976,7 @@
 
 ## JavaScript 
 
+- [goober](https://github.com/cristianbote/goober) - 🥜 goober, a less than 1KB 🎉css-in-js alternative with a familiar API
 - [vue-webpack4-template](https://github.com/dfcook/vue-webpack4-template) - VueJs template using Webpack 4
 - [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js - Open Source Analytics Framework
 - [Dream](https://github.com/KieSun/Dream) - 我是 yck，✍️ 这里是写博客以及记录学习的地方
@@ -1023,7 +1025,7 @@
 - [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [data-directory](https://github.com/docs/data-directory) - A Node.js module to recursively load a directory of YAML, JSON, and Markdown files into a JavaScript object.
 - [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen WebDriver test automation framework for Node.js
-- [gridsome](https://github.com/gridsome/gridsome) - ⚡️Build lightning fast websites and apps with Vue.js
+- [gridsome](https://github.com/gridsome/gridsome) - ⚡️Build modern JAMstack websites with Vue.js
 - [generative-artistry](https://github.com/tholman/generative-artistry) - A website for self coding generative art tutorials.
 - [stickers-for-discord](https://github.com/DarylPinto/stickers-for-discord) - Custom stickers and sticker packs for Discord servers!
 - [cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
@@ -1065,7 +1067,7 @@
 - [vue-client-only](https://github.com/egoist/vue-client-only) - Vue component to wrap non SSR friendly components (428 bytes)
 - [node-lru-cache](https://github.com/isaacs/node-lru-cache) - 
 - [RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub
-- [magnetW](https://github.com/xiandanin/magnetW) - 磁力链接聚合搜索
+- [magnetW](https://github.com/xiandanin/magnetW) - 磁力链接聚合搜索 - https://magnetw.app
 - [mc.js](https://github.com/ian13456/mc.js) - Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS.
 - [fullstack-tutorial](https://github.com/apollographql/fullstack-tutorial) - 🚀 The Apollo platform tutorial app
 - [gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
@@ -1137,7 +1139,6 @@
 - [vega](https://github.com/vega/vega) - A visualization grammar.
 - [pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed
 - [marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
-- [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [mini-github](https://github.com/kezhenxu94/mini-github) - GitHub WeChat Mini Program
 - [wux-weapp](https://github.com/wux-weapp/wux-weapp) - :dog: 一套组件化、可复用、易扩展的微信小程序 UI 组件库
 - [coolhue](https://github.com/webkul/coolhue) - Coolest Gradient Hues and Swatches
@@ -2085,7 +2086,7 @@
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code
-- [Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习开源书，基于TensorFlow 2.0实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
+- [Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
 - [models](https://github.com/PaddlePaddle/models) - Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）
 - [iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport) - This repository holds the device support files for the iOS, and I will update it regularly.
 - [pkuseg-python](https://github.com/lancopku/pkuseg-python) - pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation
