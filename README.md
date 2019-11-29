@@ -1001,7 +1001,7 @@
 - [electron-timber](https://github.com/sindresorhus/electron-timber) - Pretty logger for Electron apps
 - [d3-require](https://github.com/d3/d3-require) - A minimal, promise-based implementation to require asynchronous module definitions.
 - [f2](https://github.com/antvis/f2) - 📱📈An elegant, interactive and flexible charting library for mobile.
-- [g2](https://github.com/antvis/g2) - 📊 The Grammar of Graphics in JavaScript
+- [G2](https://github.com/antvis/G2) - 📊 The Grammar of Graphics in JavaScript
 - [BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React.
 - [create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [electron-osx-sign](https://github.com/electron/electron-osx-sign) - Codesign Electron macOS apps
@@ -1383,7 +1383,7 @@
 - [open-pull-request](https://github.com/github-modules/open-pull-request) - All-in-one module for forking repos, changing their files, and opening pull requests on GitHub
 - [qrious](https://github.com/neocotic/qrious) - Pure JavaScript library for QR code generation using canvas
 - [taro](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。  https://taro.jd.com/
-- [g6](https://github.com/antvis/g6) - ♾ A Graph Visualization Framework in JavaScript
+- [G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
 - [search-with-your-keyboard](https://github.com/electron/search-with-your-keyboard) - Add keyboard navigation to your existing client-side search interface.
 - [awesome-talks](https://github.com/SaraVieira/awesome-talks) - Awesome Talks Curated By the Community
 - [maid](https://github.com/egoist/maid) - Markdown driven task runner.
@@ -2604,7 +2604,7 @@
 - [vue-feather-icons](https://github.com/egoist/vue-feather-icons) - Simply beautiful open source icons as Vue functional components.
 - [ct-hodor](https://github.com/koakumaping/ct-hodor) - ct-hodor
 - [vuepress-theme-egoist](https://github.com/ulivz/vuepress-theme-egoist) - [WIP] A blog theme for @EGOIST and a mirror of egoist/blog, but powered by VuePress.
-- [raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
+- [raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful. Black friday sale coming soon! 30% off on Raven Reader
 - [topsi-project-manager](https://github.com/Physiix/topsi-project-manager) - A Desktop Kanban board app.
 - [music](https://github.com/sunzongzheng/music) - electron跨平台音乐播放器；可搜网易云、QQ音乐、虾米音乐；支持QQ、微博、Github登录，云歌单; 支持一键导入音乐平台歌单
 - [koala](https://github.com/apm-ai/koala) - :koala:   is a next-generation APM backend for @open-telemetry, written in go and rust
