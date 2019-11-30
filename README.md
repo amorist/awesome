@@ -247,6 +247,8 @@
 
 ## Go 
 
+- [tour](https://github.com/golang/tour) - [mirror] A Tour of Go
+- [tour](https://github.com/Go-zh/tour) - Go 语言官方教程中文版
 - [drone-plugin-lib](https://github.com/drone-plugins/drone-plugin-lib) - Helpers for creating plugins for Drone in Go
 - [rainbond](https://github.com/goodrain/rainbond) - Enterprise application cloud operating system(企业应用云操作系统)
 - [jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
@@ -976,6 +978,7 @@
 
 ## JavaScript 
 
+- [blocks](https://github.com/blocks/blocks) - A JSX-based page builder for creating beautiful websites without writing code
 - [goober](https://github.com/cristianbote/goober) - 🥜 goober, a less than 1KB 🎉css-in-js alternative with a familiar API
 - [vue-webpack4-template](https://github.com/dfcook/vue-webpack4-template) - VueJs template using Webpack 4
 - [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js - Open Source Analytics Framework
@@ -1000,7 +1003,7 @@
 - [cat-facts](https://github.com/vadimdemedes/cat-facts) - Interesting cat facts
 - [electron-timber](https://github.com/sindresorhus/electron-timber) - Pretty logger for Electron apps
 - [d3-require](https://github.com/d3/d3-require) - A minimal, promise-based implementation to require asynchronous module definitions.
-- [f2](https://github.com/antvis/f2) - 📱📈An elegant, interactive and flexible charting library for mobile.
+- [F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
 - [G2](https://github.com/antvis/G2) - 📊 The Grammar of Graphics in JavaScript
 - [BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React.
 - [create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
@@ -1199,7 +1202,7 @@
 - [electron-window-state](https://github.com/mawie81/electron-window-state) - A library to store and restore window sizes and positions for your Electron app
 - [vmd](https://github.com/yoshuawuyts/vmd) - :pray: preview markdown files
 - [release](https://github.com/zeit/release) - Generate changelogs with a single command
-- [nuclear](https://github.com/nukeop/nuclear) - Desktop music player for streaming from free sources
+- [nuclear](https://github.com/nukeop/nuclear) - User freedom-oriented streaming music player
 - [spectron](https://github.com/electron-userland/spectron) - 🔎 Test Electron apps using ChromeDriver
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 - [CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
@@ -2209,7 +2212,6 @@
 - [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-- [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [WeixinBot](https://github.com/Urinx/WeixinBot) - 网页版微信API，包含终端版微信及微信机器人
 - [AiLearning](https://github.com/apachecn/AiLearning) - AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
@@ -2259,6 +2261,8 @@
 
 ## Rust 
 
+- [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [starship](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts.
 - [quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [nushell](https://github.com/nushell/nushell) - A modern shell written in Rust
@@ -2314,6 +2318,7 @@
 - [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 - [javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript
+- [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
 - [osx-iso](https://github.com/busterc/osx-iso) -  Create a bootable ISO of OS X / macOS, from the installation app file
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -2326,6 +2331,7 @@
 
 ## Swift 
 
+- [Ink](https://github.com/JohnSundell/Ink) - A fast and flexible Markdown parser written in Swift.
 - [OpenSwiftUI](https://github.com/Cosmo/OpenSwiftUI) - WIP — OpenSwiftUI is an OpenSource implementation of Apple's SwiftUI DSL.
 - [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance GIF engine
 - [swift-numerics](https://github.com/apple/swift-numerics) - Numerical APIs for Swift
