@@ -437,7 +437,7 @@
 - [php2go](https://github.com/syyongx/php2go) - Use Golang to implement PHP's common built-in functions.
 - [go-ext-wasm](https://github.com/wasmerio/go-ext-wasm) - 🐹🕸️ Go library to run WebAssembly binaries.
 - [tensorflow-and-go](https://github.com/Pisush/tensorflow-and-go) - Use the Go API to read CAPTCHAs using TensorFlow
-- [cloud-game](https://github.com/giongto35/cloud-game) - Web-based Cloud Gaming service with Retro Game
+- [cloud-game](https://github.com/giongto35/cloud-game) - Web-based Cloud Gaming service for Retro Game
 - [svgo](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation
 - [gulu](https://github.com/b3log/gulu) - ⭕ Go 语言常用工具库，这个轱辘还算圆！
 - [dive-to-gosync-workshop](https://github.com/smallnest/dive-to-gosync-workshop) - 深入Go并发编程研讨课
@@ -888,6 +888,7 @@
 - [build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
 - [nataliemarleny.github.io](https://github.com/nataliemarleny/nataliemarleny.github.io) - A GitHubbified Resume using Primer CSS, a d3.js customised heatmap and illustrated with Figma
 - [Characters_of_the_Three_Kingdoms](https://github.com/myvin/Characters_of_the_Three_Kingdoms) - :three: 三国人物结构化数据 - Characters of the Three Kingdoms
+- [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGiИX config generator on steroids 💉
 - [hugo-coder-portfolio](https://github.com/naro143/hugo-coder-portfolio) - It is a theme to have you know yourself than developed based on "hugo-coder".
 - [awesome-list](https://github.com/apachecn/awesome-list) - awesome-list
@@ -963,7 +964,7 @@
 - [NewXmPluginSDK](https://github.com/MiEcosystem/NewXmPluginSDK) - xiaomi smarthome app plugin sdk
 - [spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [coody-icop](https://github.com/coodyer/coody-icop) - cglib轻量化mvc框架(ioc+aop+mvc+orm+切面级事物)
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、Java、C++、Python、操作系统、网络、系统设计
 - [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [Luban](https://github.com/Curzibn/Luban) - Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法
 - [CommonUtilLibrary](https://github.com/AbrahamCaiJin/CommonUtilLibrary) - 快速开发工具类收集，史上最全的开发工具类，欢迎Follow、Fork、Star
@@ -1241,7 +1242,6 @@
 - [jimp](https://github.com/oliver-moran/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [Picas](https://github.com/djyde/Picas) - Generate Wordmark Logo with Google Fonts
 - [chronocube](https://github.com/pablopunk/chronocube) - [UNMANTAINED]. Simple app to time your Rubik's Cube solves
-- [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [pomelo](https://github.com/NetEase/pomelo) - A fast,scalable,distributed game server framework for Node.js.
 - [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - TypeScript Deep Dive 中文版
 - [recall-app](https://github.com/recall-photos/recall-app) - 🖼️ An open-source and decentralized alternative to Google Photos built on top of Blockstack
@@ -2085,7 +2085,7 @@
 - [bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [Cat-Breeds](https://github.com/samarjit98/Cat-Breeds) - Cat breed classification using RowCNN and deriving inter-breed relationships
-- [cat-breeds-classifier](https://github.com/batogov/cat-breeds-classifier) - 🐱 Neural network classifies kittens
+- [cat-breeds-classifier](https://github.com/batogov/cat-breeds-classifier) - Neural network classifies kittens 🐱
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code
@@ -2407,7 +2407,7 @@
 - [tecalliance-onedb-application](https://github.com/vauman/tecalliance-onedb-application) - This is the OneDB application to manage vehicles, parts, etc. build with Angular
 - [dts-gen](https://github.com/microsoft/dts-gen) - dts-gen creates starter TypeScript definition files for any module or library.
 - [vue-next](https://github.com/vuejs/vue-next) - 
-- [got](https://github.com/sindresorhus/got) - Simplified HTTP requests
+- [got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [clerk](https://github.com/electron/clerk) - Verify PRs have release notes
 - [setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go
