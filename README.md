@@ -192,7 +192,6 @@
 
 ## CoffeeScript 
 
-- [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [pagedraw](https://github.com/Pagedraw/pagedraw) - a UI builder for React web apps
 - [At.js](https://github.com/ichord/At.js) - Add Github like mentions autocomplete to your application.
 - [trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
@@ -730,7 +729,7 @@
 - [scheduler](https://github.com/carlescere/scheduler) - Job scheduling made easy.
 - [gateway](https://github.com/fagongzi/gateway) - An HTTP API Gateway
 - [terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-- [alipay](https://github.com/smartwalle/alipay) - 支付宝 AliPay SDK for Go, 集成简单，功能完善，持续更新，已支持公钥证书签名和验签。
+- [alipay](https://github.com/smartwalle/alipay) - 支付宝 AliPay SDK for Go, 集成简单，功能完善，持续更新，支持公钥证书和普通公钥进行签名和验签。
 - [gopub](https://github.com/linclin/gopub) - vue.js(element框架)+golang(beego框架)开发的运维发布系统,支持git,jenkins版本发布,go ssh,BT两种文件传输方式选择,支持部署前准备任务和部署后任务钩子函数
 - [gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL
 - [gvisor](https://github.com/google/gvisor) - Container Runtime Sandbox
@@ -1143,6 +1142,7 @@
 - [vega](https://github.com/vega/vega) - A visualization grammar.
 - [pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed
 - [marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
+- [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [mini-github](https://github.com/kezhenxu94/mini-github) - GitHub WeChat Mini Program
 - [wux-weapp](https://github.com/wux-weapp/wux-weapp) - :dog: 一套组件化、可复用、易扩展的微信小程序 UI 组件库
 - [coolhue](https://github.com/webkul/coolhue) - Coolest Gradient Hues and Swatches
@@ -2263,7 +2263,7 @@
 
 - [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
-- [starship](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts.
+- [starship](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts
 - [quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [nushell](https://github.com/nushell/nushell) - A modern shell written in Rust
 - [rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
@@ -2299,7 +2299,6 @@
 - [vuepress-theme-bulma](https://github.com/nakorndev/vuepress-theme-bulma) - A pure Bulma.css theme for VuePress
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [chromium_os_for_raspberry_pi](https://github.com/FydeOS/chromium_os_for_raspberry_pi) - Build your Chromium OS for Raspberry Pi 3B/3B+/4B
-- [npm](https://github.com/actions/npm) - GitHub Action for interacting with npm
 - [make-node-meeting](https://github.com/nodejs/make-node-meeting) - Generate a text for a GitHub issue announcing a Node.js working group meeting
 - [vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [chromedriver-centos6-installation](https://github.com/staier/chromedriver-centos6-installation) - easy install google chrome  and chromedriver  on  centos 6.X
