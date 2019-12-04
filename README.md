@@ -963,7 +963,7 @@
 - [NewXmPluginSDK](https://github.com/MiEcosystem/NewXmPluginSDK) - xiaomi smarthome app plugin sdk
 - [spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [coody-icop](https://github.com/coodyer/coody-icop) - cglib轻量化mvc框架(ioc+aop+mvc+orm+切面级事物)
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、Java、C++、Python、操作系统、网络、系统设计
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
 - [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [Luban](https://github.com/Curzibn/Luban) - Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法
 - [CommonUtilLibrary](https://github.com/AbrahamCaiJin/CommonUtilLibrary) - 快速开发工具类收集，史上最全的开发工具类，欢迎Follow、Fork、Star
@@ -1307,7 +1307,7 @@
 - [SketchI18N](https://github.com/cute/SketchI18N) - Sketch Internationalization Plugin
 - [docute](https://github.com/egoist/docute) - 📚 Effortless documentation, done right.
 - [westore](https://github.com/Tencent/westore) - 微信小程序解决方案 - 1KB javascript 覆盖状态管理、跨页通讯、插件开发和云数据库开发
-- [codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online code editor tailored for web application development 🏖️
+- [codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [ytdl-webserver](https://github.com/Algram/ytdl-webserver) - 📻 Webserver for downloading youtube videos. Ready for docker.
 - [semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
@@ -2277,7 +2277,7 @@
 - [cargo_gn](https://github.com/denoland/cargo_gn) - Cargo GN integration
 - [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [swc](https://github.com/swc-project/swc) - Super-fast javascript to javascript compiler written in rust
+- [swc](https://github.com/swc-project/swc) - Super-fast typescript / javascript compiler written in rust
 - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
