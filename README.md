@@ -390,7 +390,7 @@
 - [wechat](https://github.com/silenceper/wechat) - WeChat SDK for Go （微信SDK：简单、易用）
 - [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage. / LeetCode 题解
 - [golang_step_by_step](https://github.com/Shitaibin/golang_step_by_step) - Golang入门教程的文章、示例代码，喜欢就star，订阅就watch
-- [subfinder](https://github.com/subfinder/subfinder) - SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+- [subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 - [mongo-go-examples](https://github.com/simagix/mongo-go-examples) - mongo-go-driver examples
 - [gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [go-tensorflow-image-recognition](https://github.com/tinrab/go-tensorflow-image-recognition) - Image Recognition API in Go using TensorFlow
@@ -604,7 +604,7 @@
 - [participle](https://github.com/alecthomas/participle) - A parser library for Go
 - [hassio-cli](https://github.com/home-assistant/hassio-cli) - :white_square_button: Hass.io command line interface
 - [gi](https://github.com/goki/gi) - Native Go (golang) Graphical Interface system (2D and 3D), built on GoKi tree framework
-- [writefreely](https://github.com/writeas/writefreely) - A simple, federated writing platform.
+- [writefreely](https://github.com/writeas/writefreely) - A focused writing and publishing space.
 - [chain33](https://github.com/33cn/chain33) - 高度模块化, 遵循 KISS原则的区块链开发框架
 - [vuego](https://github.com/chanwit/vuego) - 
 - [logger](https://github.com/google/logger) - Cross platform Go logging library.
@@ -1534,7 +1534,7 @@
 - [node-elm](https://github.com/bailicangdu/node-elm) - 基于 node.js + Mongodb 构建的后台系统
 - [schnack](https://github.com/schn4ck/schnack) - 🗣️ Simple self-hosted node app for Disqus-like drop-in commenting on static websites
 - [poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [unistore](https://github.com/developit/unistore) - 🌶 350b / 650b state container with component actions for Preact & React
 - [muuri](https://github.com/haltu/muuri) - Responsive, sortable, filterable and draggable grid layouts
 - [wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架
