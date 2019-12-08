@@ -1243,7 +1243,6 @@
 - [Picas](https://github.com/djyde/Picas) - Generate Wordmark Logo with Google Fonts
 - [chronocube](https://github.com/pablopunk/chronocube) - [UNMANTAINED]. Simple app to time your Rubik's Cube solves
 - [pomelo](https://github.com/NetEase/pomelo) - A fast,scalable,distributed game server framework for Node.js.
-- [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - TypeScript Deep Dive 中文版
 - [recall-app](https://github.com/recall-photos/recall-app) - 🖼️ An open-source and decentralized alternative to Google Photos built on top of Blockstack
 - [dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
 - [apps](https://github.com/electron/apps) - A collection of apps built on Electron
@@ -2099,7 +2098,7 @@
 - [imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
 - [CodingInterviews2-ByPython](https://github.com/NLP-LOVE/CodingInterviews2-ByPython) - 此项目是《剑指offer》第二版里算法面试题的Python3实现版本，作为一本经典书籍，可以时常拿出来看一看、翻一翻、记一记。同时也是为了Python程序员能够更好的通过公司的技术面试，拿到心仪的offer。
 - [espresso](https://github.com/freewym/espresso) - Espresso: A Fast End-to-End Neural Speech Recognition Toolkit
-- [signature_algorithm](https://github.com/gadfly0x/signature_algorithm) - 各种App、小程序、网站的请求签名或加密算法。 现已有：自如、小红书、蛋壳公寓、luckin coffee(瑞幸咖啡)
+- [signature_algorithm](https://github.com/gadfly0x/signature_algorithm) - 各种App、小程序、网站的请求签名或加密算法。 现已有：自如、小红书、蛋壳公寓、luckin coffee(瑞幸咖啡)、bangkokair(曼谷航空)
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets
 - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).
@@ -2109,7 +2108,7 @@
 - [public-speaking-with-meaning](https://github.com/xiaolai/public-speaking-with-meaning) - 《我也有话要说》—— 普通人的当众讲话技能
 - [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multifunction Discord bot
 - [hassio-wheels](https://github.com/home-assistant/hassio-wheels) - Build wheels for Home Assistant
-- [hub](https://github.com/pytorch/hub) - 
+- [hub](https://github.com/pytorch/hub) - Submission to https://pytorch.org/hub/
 - [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [gryphon](https://github.com/garethdmm/gryphon) - Powerful, proven, and extensible framework for building trading strategies at any frequency, with a focus on crypto currencies. Battle-tested with billions traded.
 - [instabot.py](https://github.com/instabot-py/instabot.py) - Instagram bot. It works without instagram api, need only login and password. Write on python.
@@ -2502,6 +2501,7 @@
 - [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences.
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
+- [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - TypeScript Deep Dive 中文版
 - [devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Issues, Activities & Notifications - Web, Mobile & Desktop
 - [react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit) - A lightweight magic-move library for configurable layout transitions
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
