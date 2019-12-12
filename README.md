@@ -330,7 +330,7 @@
 - [watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [sync](https://github.com/golang/sync) - [mirror] concurrency primitives
 - [fsnotify](https://github.com/howeyc/fsnotify) - File system notification for Go
-- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place →
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place
 - [gapid](https://github.com/google/gapid) - Graphics API Debugger
 - [gocmpp](https://github.com/bigwhite/gocmpp) - An implementation of China Mobile Peer to Peer protocol in golang for both client and server sides.
 - [chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
@@ -978,6 +978,7 @@
 
 ## JavaScript 
 
+- [iptv](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world
 - [lambda-lite-js](https://github.com/moevis/lambda-lite-js) - a tiny FUNCITONAL LANGUAGE implemented by javascript. 一个函数式语言，使用 js 实现。
 - [bustag](https://github.com/gxtrobot/bustag) - a tag and recommend system for old bus driver 给老司机用的一个番号推荐系统
 - [blocks](https://github.com/blocks/blocks) - A JSX-based page builder for creating beautiful websites without writing code
@@ -2265,6 +2266,7 @@
 
 ## Rust 
 
+- [rust-vst-gui](https://github.com/vanderlokken/rust-vst-gui) - An extension to the 'rust-vst' crate to create VST plugin GUIs
 - [orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit.
 - [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
@@ -2387,6 +2389,7 @@
 
 ## TypeScript 
 
+- [checkout](https://github.com/actions/checkout) - 
 - [BoostNote.next](https://github.com/BoostIO/BoostNote.next) - A Polished Notes App with Github Flavored Markdown
 - [sign-action](https://github.com/jeffrafter/sign-action) - A GitHub Action which allows users to reply to an issue with a comment to sign a petition.
 - [expo-cli](https://github.com/expo/expo-cli) - Tools for making Expo apps
