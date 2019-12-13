@@ -144,7 +144,6 @@
 
 ## CSS 
 
-- [form-render](https://github.com/alibaba/form-render) - 🏄 跨组件体系的表单渲染引擎 - 通过 JSON Schema 快速生成自定义表单配置界面
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [switch-desktop](https://github.com/ahkohd/switch-desktop) - Switch between your favourite apps lightning fast.
 - [dragon](https://github.com/tomhodgins/dragon) - dragon.js is a bookmarklet that lets you drag any element on a website using a mouse or touchscreen. The goal is to speed up in-browser design critiques and brainstorming new layout ideas.
@@ -322,7 +321,7 @@
 - [go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
 - [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache
-- [gopay](https://github.com/iGoogle-ink/gopay) - 微信（WeChat）、支付宝（AliPay）的Go版本SDK。【持续更新，望开发者及时升级】
+- [gopay](https://github.com/iGoogle-ink/gopay) - QQ、微信（WeChat）、支付宝（AliPay）的Go版本SDK。【持续更新，望开发者及时升级】
 - [code](https://github.com/goinaction/code) - Source Code for Go In Action examples
 - [TopList](https://github.com/tophubs/TopList) - 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://tophub.fun
 - [compress](https://github.com/klauspost/compress) - Optimized compression packages
@@ -978,12 +977,15 @@
 
 ## JavaScript 
 
+- [waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
+- [geoapi](https://github.com/Risk3sixty-Labs/geoapi) - Lightweight API service to get geolocation data from IP addresses.
 - [iptv](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world
 - [lambda-lite-js](https://github.com/moevis/lambda-lite-js) - a tiny FUNCITONAL LANGUAGE implemented by javascript. 一个函数式语言，使用 js 实现。
 - [bustag](https://github.com/gxtrobot/bustag) - a tag and recommend system for old bus driver 给老司机用的一个番号推荐系统
 - [blocks](https://github.com/blocks/blocks) - A JSX-based page builder for creating beautiful websites without writing code
 - [goober](https://github.com/cristianbote/goober) - 🥜 goober, a less than 1KB 🎉css-in-js alternative with a familiar API
 - [vue-webpack4-template](https://github.com/dfcook/vue-webpack4-template) - VueJs template using Webpack 4
+- [form-render](https://github.com/alibaba/form-render) - 🏄 跨组件体系的表单渲染引擎 - 通过 JSON Schema 快速生成自定义表单配置界面
 - [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js - Open Source Analytics Framework
 - [Dream](https://github.com/KieSun/Dream) - 我是 yck，✍️ 这里是写博客以及记录学习的地方
 - [react-frame-component](https://github.com/ryanseddon/react-frame-component) - Render your React app to an iFrame
@@ -1159,7 +1161,7 @@
 - [escodegen](https://github.com/estools/escodegen) - ECMAScript code generator
 - [hyntax](https://github.com/mykolaharmash/hyntax) - Straightforward HTML parser for JavaScript
 - [himalaya](https://github.com/andrejewski/himalaya) - JavaScript HTML to JSON Parser
-- [jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation various web standards, for use with Node.js
+- [jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [parse5](https://github.com/inikulin/parse5) - HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
 - [csstree](https://github.com/csstree/csstree) - A tool set for CSS including fast detailed parser, walker, generator and lexer based on W3C specs and browser implementations
 - [hast-util-to-html](https://github.com/syntax-tree/hast-util-to-html) - utility to transform hast to an HTML string
@@ -1781,7 +1783,7 @@
 - [pytorch-book](https://github.com/chenyuntc/pytorch-book) - PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation
 - [tensorflow-docs](https://github.com/xitu/tensorflow-docs) - TensorFlow 最新官方文档中文版
 - [pydata-notebook](https://github.com/BrambleXu/pydata-notebook) - 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
-- [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - NLP Code for Everyone in TensorFlow
+- [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - Text Processing and Generation in TensorFlow 2/1
 
 ## Kotlin 
 
@@ -2005,7 +2007,6 @@
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form
 - [awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
-- [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [Raspberry-Pi](https://github.com/wtsxDev/Raspberry-Pi) - Raspberry Pi A to Z List
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide) - React Native指南汇集了各类react-native学习资源、开源App和组件
@@ -2085,6 +2086,7 @@
 
 ## Python 
 
+- [textfilter](https://github.com/observerss/textfilter) - 敏感词过滤的几种实现+某1w词敏感词库
 - [demucs](https://github.com/facebookresearch/demucs) - Code for the paper Music Source Separation in the Waveform Domain
 - [geo-heatmap](https://github.com/luka1199/geo-heatmap) - :world_map: Generate an interactive geo heatmap from your Google location data
 - [bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
@@ -2196,7 +2198,7 @@
 - [model-analysis](https://github.com/tensorflow/model-analysis) - Model analysis tools for TensorFlow
 - [persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [algorithms](https://github.com/marcosfede/algorithms) - Solved algorithms and data structures problems in many languages
-- [hue](https://github.com/s0md3v/hue) - Hue will help you to print awesomely in terminals.
+- [huepy](https://github.com/s0md3v/huepy) - Hue will help you to print awesomely in terminals.
 - [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
 - [hosts](https://github.com/StevenBlack/hosts) - Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.  You can optionally invoke extensions to block additional sites by category.
 - [fooltrader](https://github.com/foolcage/fooltrader) - trade as a fool
@@ -2214,6 +2216,7 @@
 - [models](https://github.com/Sarasra/models) - Models and examples built with TensorFlow
 - [TopSup](https://github.com/Skyexu/TopSup) - 答题辅助决策：冲顶大会等答题类游戏
 - [wechat_jump_game](https://github.com/wangshub/wechat_jump_game) - 微信《跳一跳》Python 辅助
+- [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
@@ -2389,6 +2392,7 @@
 
 ## TypeScript 
 
+- [electron-react-typescript](https://github.com/Robinfr/electron-react-typescript) - Electron boilerplate with React, Redux, and TypeScript
 - [checkout](https://github.com/actions/checkout) - 
 - [BoostNote.next](https://github.com/BoostIO/BoostNote.next) - A Polished Notes App with Github Flavored Markdown
 - [sign-action](https://github.com/jeffrafter/sign-action) - A GitHub Action which allows users to reply to an issue with a comment to sign a petition.
