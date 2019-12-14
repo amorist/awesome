@@ -246,6 +246,8 @@
 
 ## Go 
 
+- [staticgen](https://github.com/tj/staticgen) - Static website generator that lets you use HTTP servers and frameworks you already know
+- [XConf](https://github.com/micro-in-cn/XConf) - 分布式配置中心
 - [tour](https://github.com/golang/tour) - [mirror] A Tour of Go
 - [tour](https://github.com/Go-zh/tour) - Go 语言官方教程中文版
 - [drone-plugin-lib](https://github.com/drone-plugins/drone-plugin-lib) - Helpers for creating plugins for Drone in Go
@@ -562,7 +564,7 @@
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [gitbase](https://github.com/src-d/gitbase) - SQL interface to git repositories, written in Go. https://docs.sourced.tech/gitbase
 - [gonn](https://github.com/sausheong/gonn) - Building a simple neural network in Go
-- [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
+- [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple 🎂🎁
 - [cellnet](https://github.com/davyxu/cellnet) - High performance, simple, extensible golang open source network library
 - [ethr](https://github.com/microsoft/ethr) - Ethr is a Network Performance Measurement Tool for TCP, UDP & HTTP.
 - [playground](https://github.com/golang/playground) - [mirror] The Go Playground
@@ -2064,6 +2066,7 @@
 
 ## PHP 
 
+- [crater](https://github.com/bytefury/crater) - Free & Open Source Invoice App for Freelancers & Small Businesses
 - [PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop offers a fully scalable open source ecommerce solution.
 - [typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
 - [apache2nginx](https://github.com/mow/apache2nginx) - Converts apache rewrite rules to nginx rewrite rules
