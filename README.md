@@ -1027,7 +1027,7 @@
 - [repo-analytics.github.io](https://github.com/repo-analytics/repo-analytics.github.io) - Thorough analytics for your GitHub repos
 - [react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
-- [appwrite](https://github.com/appwrite/appwrite) - End to end backend server for frontend and mobile developers. 👩‍💻👨‍💻
+- [appwrite](https://github.com/appwrite/appwrite) - End-to-end backend server for frontend and mobile developers. 🚀
 - [appmetrics-dash](https://github.com/RuntimeTools/appmetrics-dash) - A data visualizer that uses " Node Application Metrics" (appmetrics) to monitor and display Node.js application data as a html web application.
 - [appmetrics](https://github.com/RuntimeTools/appmetrics) - Node Application Metrics provides a foundational infrastructure for collecting resource and performance monitoring data for Node.js-based applications.
 - [iconv-lite](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings in pure javascript.
@@ -2217,7 +2217,7 @@
 - [macOS-Security-and-Privacy-Guide](https://github.com/xitu/macOS-Security-and-Privacy-Guide) - A practical guide to securing macOS.
 - [fbs](https://github.com/mherrmann/fbs) - Create Python GUIs with Qt in minutes
 - [models](https://github.com/Sarasra/models) - Models and examples built with TensorFlow
-- [TopSup](https://github.com/Skyexu/TopSup) - 答题辅助决策：冲顶大会等答题类游戏
+- [TopSup](https://github.com/Skyexu/TopSup) - 答题辅助决策：头号英雄等答题类游戏
 - [wechat_jump_game](https://github.com/wangshub/wechat_jump_game) - 微信《跳一跳》Python 辅助
 - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [keras](https://github.com/keras-team/keras) - Deep Learning for humans
