@@ -979,6 +979,7 @@
 
 ## JavaScript 
 
+- [ci-detect](https://github.com/npm/ci-detect) - Detect what kind of CI environment the program is in
 - [waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
 - [geoapi](https://github.com/Risk3sixty-Labs/geoapi) - Lightweight API service to get geolocation data from IP addresses.
 - [iptv](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world
@@ -2302,6 +2303,7 @@
 
 ## Shell 
 
+- [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [onpremise](https://github.com/getsentry/onpremise) - Sentry On-Premise setup
 - [rebase](https://github.com/ljharb/rebase) - GitHub Action to automatically rebase PRs
 - [stacks](https://github.com/real-dev/stacks) - Various tech "stacks" for Real Dev tasks
@@ -2395,6 +2397,7 @@
 
 ## TypeScript 
 
+- [deno_storage](https://github.com/axetroy/deno_storage) - implementation of localStorage and sessionStorage for Deno
 - [electron-react-typescript](https://github.com/Robinfr/electron-react-typescript) - Electron boilerplate with React, Redux, and TypeScript
 - [checkout](https://github.com/actions/checkout) - 
 - [BoostNote.next](https://github.com/BoostIO/BoostNote.next) - A Polished Notes App with Github Flavored Markdown
@@ -2450,7 +2453,7 @@
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode
 - [motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [playground](https://github.com/tensorflow/playground) - Play with neural networks!
-- [prisma2](https://github.com/prisma/prisma2) - DB toolkit to query, model and migrate your data
+- [prisma2](https://github.com/prisma/prisma2) - DB toolkit to query, model and migrate your data. (Prisma replaces ORMs and other database tooling.)
 - [vue-class-component](https://github.com/vuejs/vue-class-component) - ES / TypeScript decorator for class-style Vue components.
 - [voice-web](https://github.com/mozilla/voice-web) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private npm proxy registry
@@ -2610,7 +2613,7 @@
 - [postwoman](https://github.com/liyasthomas/postwoman) - 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥
 - [OverVue](https://github.com/open-source-labs/OverVue) - Prototyping Tool For Vue Devs 适用于Vue的原型工具
 - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
-- [vuepress-plugin-code-switcher](https://github.com/padarom/vuepress-plugin-code-switcher) - :arrows_clockwise: Component that allows having synchronized language switchable code blocks in your Vuepress sites
+- [vuepress-plugin-code-switcher](https://github.com/padarom/vuepress-plugin-code-switcher) - :arrows_clockwise: Component that adds synchronized code blocks with multiple language support to your Vuepress sites
 - [el-data-table](https://github.com/FEMessage/el-data-table) - 🥘Base on element-ui, makes crud easily
 - [vue-upload-component](https://github.com/lian-yue/vue-upload-component) - Vue.js file upload component, Multi-file upload, Upload directory, Drag upload, Drag the directory, Upload multiple files at the same time, html4 (IE 9), `PUT` method, Customize the filter
 - [vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) - 🖖 A vue-cli 3.0 + typescript minimal admin template
