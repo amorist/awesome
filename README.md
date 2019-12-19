@@ -64,6 +64,7 @@
 
 ## C 
 
+- [smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。
 - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 - [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
@@ -979,6 +980,7 @@
 
 ## JavaScript 
 
+- [concent](https://github.com/concentjs/concent) - 一个可预测、0入侵、渐进式、高性能的增强型状态管理方案，power your react！
 - [ci-detect](https://github.com/npm/ci-detect) - Detect what kind of CI environment the program is in
 - [waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
 - [geoapi](https://github.com/Risk3sixty-Labs/geoapi) - Lightweight API service to get geolocation data from IP addresses.
@@ -2202,10 +2204,10 @@
 - [model-analysis](https://github.com/tensorflow/model-analysis) - Model analysis tools for TensorFlow
 - [persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [algorithms](https://github.com/marcosfede/algorithms) - Solved algorithms and data structures problems in many languages
-- [huepy](https://github.com/s0md3v/huepy) - Hue will help you to print awesomely in terminals.
+- [huepy](https://github.com/s0md3v/huepy) - Print awesomely in terminals.
 - [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
 - [hosts](https://github.com/StevenBlack/hosts) - Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.  You can optionally invoke extensions to block additional sites by category.
-- [fooltrader](https://github.com/foolcage/fooltrader) - trade as a fool
+- [fooltrader](https://github.com/foolcage/fooltrader) - a modular quant framework
 - [python-spider](https://github.com/Jack-Cherish/python-spider) - :rainbow:Python3网络爬虫实战
 - [akbl](https://github.com/rsm-gh/akbl) - Control the lights of Alienware computers under GNU-Linux systems.
 - [alienware15r3_ubuntu14](https://github.com/awesomebytes/alienware15r3_ubuntu14) - Instructions on how to install Ubuntu 14.04 on the Alienware 15 R3 (and installing cuda, tensorflow and disabling intel graphics card)
@@ -2346,6 +2348,7 @@
 
 ## Swift 
 
+- [hidden](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons
 - [free-sidecar](https://github.com/ben-z/free-sidecar) - Enable Sidecar on Unsupported iPads and Macs running iPadOS 13 and macOS Catalina
 - [Ink](https://github.com/JohnSundell/Ink) - A fast and flexible Markdown parser written in Swift.
 - [OpenSwiftUI](https://github.com/Cosmo/OpenSwiftUI) - WIP — OpenSwiftUI is an OpenSource implementation of Apple's SwiftUI DSL.
@@ -2397,6 +2400,7 @@
 
 ## TypeScript 
 
+- [rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
 - [deno_storage](https://github.com/axetroy/deno_storage) - implementation of localStorage and sessionStorage for Deno
 - [electron-react-typescript](https://github.com/Robinfr/electron-react-typescript) - Electron boilerplate with React, Redux, and TypeScript
 - [checkout](https://github.com/actions/checkout) - 
