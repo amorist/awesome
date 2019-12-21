@@ -248,6 +248,7 @@
 
 ## Go 
 
+- [mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [leetcode](https://github.com/pengliheng/leetcode) - ✍
 - [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
 - [staticgen](https://github.com/tj/staticgen) - Static website generator that lets you use HTTP servers and frameworks you already know
@@ -348,7 +349,7 @@
 - [go-slugify](https://github.com/mozillazg/go-slugify) - Pretty Slug.
 - [aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
 - [oauth2_proxy](https://github.com/pusher/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other providers.
-- [fabric](https://github.com/hyperledger/fabric) - 
+- [fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
 - [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [ratelimit](https://github.com/uber-go/ratelimit) - A Golang blocking leaky-bucket rate limit implementation
@@ -983,6 +984,7 @@
 
 ## JavaScript 
 
+- [wenyan-lang](https://github.com/LingDong-/wenyan-lang) - 文言文編程語言 A programming language for the ancient Chinese.
 - [nuxt.js](https://github.com/nuxt/nuxt.js) - The Vue.js Framework
 - [concent](https://github.com/concentjs/concent) - 一个可预测、0入侵、渐进式、高性能的增强型状态管理方案，power your react！
 - [ci-detect](https://github.com/npm/ci-detect) - Detect what kind of CI environment the program is in
@@ -1962,7 +1964,6 @@
 - [resources](https://github.com/BestDingSheng/resources) - 知名互联网企业内推资料整理 持续更新ing 。 目前已经维护五个微信群接近3000人，欢迎你的加入！
 - [open-source-ideas](https://github.com/open-source-ideas/open-source-ideas) - 💡Ever had a cool idea for an Open Source project but didn't have the time to implement it yourself? Let someone else give it a try!
 - [vue-patterns](https://github.com/learn-vuejs/vue-patterns) - Useful Vue patterns, techniques, tips and tricks and helpful curated links.
-- [Web-Series](https://github.com/wx-chevalier/Web-Series) - :books: 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇
 - [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi Mobile Phone Kernel OpenSource
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
@@ -2159,7 +2160,7 @@
 - [python-shortcuts](https://github.com/alexander-akhmetov/python-shortcuts) - Create Siri Shortcuts with Python
 - [walle-web](https://github.com/meolu/walle-web) - walle - 瓦力 Devops开源项目代码部署平台
 - [uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
-- [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Find usernames across social networks
+- [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [visdom](https://github.com/facebookresearch/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
 - [bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 - [d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。
@@ -2406,6 +2407,7 @@
 
 ## TypeScript 
 
+- [artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
 - [rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
 - [deno_storage](https://github.com/axetroy/deno_storage) - implementation of localStorage and sessionStorage for Deno
 - [electron-react-typescript](https://github.com/Robinfr/electron-react-typescript) - Electron boilerplate with React, Redux, and TypeScript
