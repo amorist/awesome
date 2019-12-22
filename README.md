@@ -248,6 +248,7 @@
 
 ## Go 
 
+- [faasd](https://github.com/alexellis/faasd) - faasd - serverless with containerd
 - [mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [leetcode](https://github.com/pengliheng/leetcode) - ✍
 - [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
@@ -984,6 +985,7 @@
 
 ## JavaScript 
 
+- [sentineljs](https://github.com/muicss/sentineljs) - Detect new DOM nodes using CSS selectors (650 bytes)
 - [wenyan-lang](https://github.com/LingDong-/wenyan-lang) - 文言文編程語言 A programming language for the ancient Chinese.
 - [nuxt.js](https://github.com/nuxt/nuxt.js) - The Vue.js Framework
 - [concent](https://github.com/concentjs/concent) - 一个可预测、0入侵、渐进式、高性能的增强型状态管理方案，power your react！
@@ -1507,7 +1509,6 @@
 - [nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js website.
 - [driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [redirectify](https://github.com/imurray/redirectify) - Browser extension to redirect pages based on rules. Intended to stop the browser following links straight to the PDF of a paper, but instead to go first to the HTML index page for the paper.
-- [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
 - [turbo-ws](https://github.com/hugmanrique/turbo-ws) - :dash: Blazing fast low-level WebSocket server
 - [packages](https://github.com/electron/packages) - A collection of all npm packages that mention `electron` in their package.json
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
@@ -1531,7 +1532,7 @@
 - [github-webhook-handler](https://github.com/rvagg/github-webhook-handler) - Node.js web handler / middleware for processing GitHub Webhooks
 - [HexoEditor](https://github.com/zhuzhuyule/HexoEditor) - this markdown Editor for hexo blog
 - [life-commit](https://github.com/ByronHsu/life-commit) - 🏃📆  Life as a git. Commit on your life.
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [carbon](https://github.com/carbon-app/carbon) - 🎨 Create and share beautiful images of your source code
 - [viron](https://github.com/cam-inc/viron) - ☕️ Automated Design-based Management Console.
 - [ice](https://github.com/alibaba/ice) - 🚀Simple and friendly front-end development system（飞冰，简单而友好的前端研发体系 ）
@@ -1793,7 +1794,7 @@
 - [pytorch-book](https://github.com/chenyuntc/pytorch-book) - PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation
 - [tensorflow-docs](https://github.com/xitu/tensorflow-docs) - TensorFlow 最新官方文档中文版
 - [pydata-notebook](https://github.com/BrambleXu/pydata-notebook) - 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
-- [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - Text Processing and Generation in TensorFlow 2/1
+- [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - Text Processing and Generation in TensorFlow 2.x / 1.x
 
 ## Kotlin 
 
@@ -2581,6 +2582,7 @@
 - [propel](https://github.com/propelml/propel) - Differential Programming in JavaScript.
 - [sentry-electron](https://github.com/getsentry/sentry-electron) - The official Sentry SDK for Electron
 - [rough](https://github.com/pshihn/rough) - Create graphics with a hand-drawn, sketchy, appearance
+- [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
 - [pandora](https://github.com/midwayjs/pandora) - A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
 - [now](https://github.com/zeit/now) - The easiest way to deploy websites
 - [caprover](https://github.com/caprover/caprover) - [previously CaptainDuckDuck] Automated Scalable PaaS Package (automated Docker+nginx) - Heroku on Steroids
