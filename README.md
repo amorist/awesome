@@ -96,7 +96,6 @@
 
 ## C# # 
 
-- [AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
 - [BotSharp](https://github.com/SciSharp/BotSharp) - The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
 - [ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [SteamBot](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with Steam Trade
@@ -105,6 +104,7 @@
 ## C++ 
 
 - [Cheating-Plugin-Program](https://github.com/luguanxing/Cheating-Plugin-Program) - 从零开始研究外挂设计原理
+- [AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
 - [plato](https://github.com/Tencent/plato) - 腾讯高性能分布式图计算框架Plato
 - [node-report](https://github.com/nodejs/node-report) - Delivers a human-readable diagnostic summary, written to file.
 - [nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  For React NodeGUI, visit: https://github.com/nodegui/react-nodegui ⚛️
@@ -1080,7 +1080,7 @@
 - [leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 - [yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [GGEditor](https://github.com/alibaba/GGEditor) - A visual graph editor based on G6 and React
-- [bank](https://github.com/pietrzakadrian/bank) - Full Stack Web Application using ReactJS (with Hooks) + Redux + Redux-Saga with NodeJS (Express+TypeORM), RESTful API, MySQL and Swagger
+- [bank](https://github.com/pietrzakadrian/bank) - Full Stack Web Application using ReactJS (with Hooks) + Redux + Redux-Saga with NodeJS (Express+TypeORM), RESTful API, MySQL and Swagger Documentation
 - [virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
 - [leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
@@ -1806,7 +1806,7 @@
 - [neural-style](https://github.com/jcjohnson/neural-style) - Torch implementation of neural style algorithm
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [VeryNginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
-- [chatbot-zh-torch7](https://github.com/fatecbf/chatbot-zh-torch7) - 中文Neural conversational model in Torch
+- [chatbot-zh-torch7](https://github.com/skdjfla/chatbot-zh-torch7) - 中文Neural conversational model in Torch
 
 ## Makefile 
 
@@ -1973,7 +1973,7 @@
 - [wxappUnpacker](https://github.com/qwerty472123/wxappUnpacker) - wxml被“编译“后”压缩“一下多好！😀
 - [Learn_Deep_Learning_in_6_Weeks](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks) - This is the Curriculum for "Learn Deep Learning in 6 Weeks" by Siraj Raval on Youtube
 - [Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
-- [MasterBitcoin2CN](https://github.com/tianmingyun/MasterBitcoin2CN) - 《精通比特币》第二版  区块链研习社 云天明联合出品
+- [MasterBitcoin2CN](https://github.com/tianmingyun/MasterBitcoin2CN) - 《精通比特币》第二版  区块链研习社 云天明联合出品。本书更名《精通区块链编程第二版》已由机械工业出版社出版，京东有售。
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [LineStickersEditor](https://github.com/line-stickers/LineStickersEditor) - 
 - [Release](https://github.com/nodejs/Release) - Node.js Foundation Release Working Group
@@ -2309,7 +2309,7 @@
 
 ## SRecode Template 
 
-- [dgk_lost_conv](https://github.com/fatecbf/dgk_lost_conv) - dgk_lost_conv 中文对白语料 chinese conversation corpus
+- [dgk_lost_conv](https://github.com/skdjfla/dgk_lost_conv) - dgk_lost_conv 中文对白语料 chinese conversation corpus
 
 ## Shell 
 
@@ -2520,7 +2520,7 @@
 - [nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, Emotion, and Remark.
 - [vditor](https://github.com/b3log/vditor) - ♏ 一款浏览器端的 Markdown 编辑器。
 - [react-insta-stories](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
-- [typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [archaeologist](https://github.com/electron/archaeologist) - Digging up your artifacts since 2018
 - [typescript-definitions](https://github.com/electron/typescript-definitions) - Convert the Electron API JSON file to electron.d.ts
 - [vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
