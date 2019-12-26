@@ -49,8 +49,8 @@
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [VBA](#vba)
   - [Vim script](#vim-script)
-  - [Visual Basic](#visual-basic)
   - [Vue](#vue)
 
 ## AppleScript 
@@ -229,6 +229,7 @@
 
 ## Dockerfile 
 
+- [build-images](https://github.com/electron/build-images) - Base docker image used to build Electron on CI
 - [puppeteer](https://github.com/ianwalter/puppeteer) - A GitHub Action / Docker image for   Puppeteer, the Headless Chrome Node API
 - [vscode-remote-try-go](https://github.com/microsoft/vscode-remote-try-go) - Go sample project for trying out the 'VS Code Remote - Containers' extension
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -250,6 +251,8 @@
 
 ## Go 
 
+- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database, long-term remote storage for Prometheus
+- [crossplane](https://github.com/crossplaneio/crossplane) - The open source multicloud control plane.
 - [go-wechat](https://github.com/nilorg/go-wechat) - 💥weixin、wechat、微信公众平台 golang/go sdk
 - [go-spring](https://github.com/go-spring/go-spring) - 基于 IoC 实现的一套 GoLang 的应用程序框架 🚀
 - [bfe](https://github.com/baidu/bfe) - Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd
@@ -390,7 +393,7 @@
 - [sling](https://github.com/dghubble/sling) - A Go HTTP client library for creating and sending API requests
 - [snowflake](https://github.com/bwmarrin/snowflake) - A simple to use Go (golang) package to generate or parse Twitter snowflake IDs
 - [listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Go + React.
-- [mango](https://github.com/amorist/mango) - use mongo-go-driver  like mgo
+- [mango](https://github.com/amorist/mango) - Use mongo-go-driver  like mgo
 - [melody](https://github.com/olahol/melody) - :notes: Minimalist websocket framework for Go
 - [scipipe](https://github.com/scipipe/scipipe) - Robust, flexible and resource-efficient pipelines using Go and the commandline
 - [errors](https://github.com/cockroachdb/errors) - Go error library with error portability over the network
@@ -991,6 +994,7 @@
 
 ## JavaScript 
 
+- [ajax-interceptor](https://github.com/YGYOOO/ajax-interceptor) - 可以修改ajax请求返回结果的chrome插件
 - [flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [sentineljs](https://github.com/muicss/sentineljs) - Detect new DOM nodes using CSS selectors (650 bytes)
@@ -1856,6 +1860,7 @@
 
 ## Others 
 
+- [computer-science-cn](https://github.com/ossu/computer-science-cn) - 🎓计算机技术与科学自学之旅
 - [coco-framework](https://github.com/Azure/coco-framework) - The Confidential Consortium Blockchain Framework is an open-source system that enables high-scale, confidential blockchain networks that meet all key enterprise requirements—providing a means to accelerate production enterprise adoption of blockchain technology.
 - [typescript-definition-style-guide](https://github.com/sindresorhus/typescript-definition-style-guide) - Style guide for adding type definitions to my npm packages
 - [iCloudBypassCA](https://github.com/crazymind90/iCloudBypassCA) - 
@@ -2292,6 +2297,7 @@
 
 ## Rust 
 
+- [ws-rs](https://github.com/housleyjk/ws-rs) - Lightweight, event-driven WebSockets for Rust.
 - [rust-vst-gui](https://github.com/vanderlokken/rust-vst-gui) - An extension to the 'rust-vst' crate to create VST plugin GUIs
 - [orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit.
 - [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
@@ -2417,13 +2423,16 @@
 
 ## TypeScript 
 
+- [umi-next](https://github.com/umijs/umi-next) - The next version of umi. (under development)
+- [uform](https://github.com/alibaba/uform) - ⚡React High Performance Form (JSON Schema Form) Solution For Enterprise.
+- [qiniu-upload-action](https://github.com/hujiulong/qiniu-upload-action) - Github Action for Uploading Files to Qiniu.com
 - [namae](https://github.com/uetchy/namae) - ☕️ name your new project.
 - [artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
 - [rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
 - [deno_storage](https://github.com/axetroy/deno_storage) - implementation of localStorage and sessionStorage for Deno
 - [electron-react-typescript](https://github.com/Robinfr/electron-react-typescript) - Electron boilerplate with React, Redux, and TypeScript
 - [checkout](https://github.com/actions/checkout) - 
-- [BoostNote.next](https://github.com/BoostIO/BoostNote.next) - A Polished Notes App with Github Flavored Markdown.
+- [BoostNote.next](https://github.com/BoostIO/BoostNote.next) - An intuitive and stylish markdown editor for the developers.
 - [sign-action](https://github.com/jeffrafter/sign-action) - A GitHub Action which allows users to reply to an issue with a comment to sign a petition.
 - [expo-cli](https://github.com/expo/expo-cli) - Tools for making Expo apps
 - [material-ui-pickers](https://github.com/mui-org/material-ui-pickers) - Date & Time pickers, built with ❤️ for @material-ui/core
@@ -2615,6 +2624,10 @@
 - [tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 - [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) - A javascript Bitcoin library for node.js and browsers.
 
+## VBA 
+
+- [books](https://github.com/mymmsc/books) - 常用书籍
+
 ## Vim script 
 
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -2622,10 +2635,6 @@
 - [vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
 - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
-
-## Visual Basic 
-
-- [books](https://github.com/mymmsc/books) - 常用书籍
 
 ## Vue 
 
