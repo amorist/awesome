@@ -65,6 +65,7 @@
 
 ## C 
 
+- [darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
 - [smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。
 - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
@@ -996,13 +997,14 @@
 
 ## JavaScript 
 
+- [resumd](https://github.com/timqian/resumd) - Write resume with markdown
 - [ajax-interceptor](https://github.com/YGYOOO/ajax-interceptor) - 可以修改ajax请求返回结果的chrome插件
 - [flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [sentineljs](https://github.com/muicss/sentineljs) - Detect new DOM nodes using CSS selectors (650 bytes)
 - [wenyan-lang](https://github.com/LingDong-/wenyan-lang) - 文言文編程語言 A programming language for the ancient Chinese.
 - [nuxt.js](https://github.com/nuxt/nuxt.js) - The Vue.js Framework
-- [concent](https://github.com/concentjs/concent) - 一个可预测、0入侵、渐进式、高性能的增强型状态管理方案，power your react！
+- [concent](https://github.com/concentjs/concent) - A predictable、zero-cost-use、progressive、high performance's enhanced state management solution
 - [ci-detect](https://github.com/npm/ci-detect) - Detect what kind of CI environment the program is in
 - [waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
 - [geoapi](https://github.com/Risk3sixty-Labs/geoapi) - Lightweight API service to get geolocation data from IP addresses.
@@ -1807,7 +1809,7 @@
 - [pytorch-book](https://github.com/chenyuntc/pytorch-book) - PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
 - [tensorflow-docs](https://github.com/xitu/tensorflow-docs) - TensorFlow 最新官方文档中文版
 - [pydata-notebook](https://github.com/BrambleXu/pydata-notebook) - 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
-- [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - Text Processing and Generation in TensorFlow 2.x / 1.x
+- [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - Code for Natural Language Processing, and Text Generation, in TensorFlow 2.x / 1.x
 
 ## Kotlin 
 
@@ -2111,6 +2113,7 @@
 
 ## Python 
 
+- [AV_Data_Capture](https://github.com/yoshiko2/AV_Data_Capture) - 日本电影元数据刮削器，配合kodi,emby等本地媒体管理工具使用
 - [textfilter](https://github.com/observerss/textfilter) - 敏感词过滤的几种实现+某1w词敏感词库
 - [demucs](https://github.com/facebookresearch/demucs) - Code for the paper Music Source Separation in the Waveform Domain
 - [geo-heatmap](https://github.com/luka1199/geo-heatmap) - :world_map: Generate an interactive geo heatmap from your Google location data
@@ -2640,6 +2643,7 @@
 
 ## Vue 
 
+- [Daily-Question](https://github.com/shfshanyue/Daily-Question) - 每天一道面试题，有关前端，后端，devops以及软技能，促进职业成长，敲开大厂之门。
 - [saber-theme-paper](https://github.com/geekplux/saber-theme-paper) - A simple theme like read on a paper.
 - [vue-material-admin](https://github.com/tookit/vue-material-admin) - A vue material design admin template
 - [theme-blog](https://github.com/vuetifyjs/theme-blog) - A Free Material Blog Theme for Vuetify
@@ -2670,7 +2674,7 @@
 - [topsi-project-manager](https://github.com/Physiix/topsi-project-manager) - A Desktop Kanban board app.
 - [music](https://github.com/sunzongzheng/music) - electron跨平台音乐播放器；可搜网易云、QQ音乐、虾米音乐；支持QQ、微博、Github登录，云歌单; 支持一键导入音乐平台歌单
 - [koala](https://github.com/apm-ai/koala) - :koala:   is a next-generation APM backend for @open-telemetry, written in go and rust
-- [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by electron-vue
+- [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [VBlog](https://github.com/GitHub-Laziji/VBlog) - 使用GitHub API 搭建一个可动态发布文章的博客
 - [vue2-manage](https://github.com/bailicangdu/vue2-manage) - 基于 vue + element-ui 的后台管理系统
 - [Vue-Router](https://github.com/weipxiu/Vue-Router) - 世上最完整的vue-router配置demo，包含了有关vue-router所有相关核心知识点，一个需求多种解决方式的体现，据说配置出了一朵花儿，不服来战！
