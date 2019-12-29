@@ -110,7 +110,7 @@
 - [AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
 - [plato](https://github.com/Tencent/plato) - 腾讯高性能分布式图计算框架Plato
 - [node-report](https://github.com/nodejs/node-report) - Delivers a human-readable diagnostic summary, written to file.
-- [nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  For React NodeGUI, visit: https://github.com/nodegui/react-nodegui ⚛️
+- [nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  For React NodeGui, visit: https://github.com/nodegui/react-nodegui ⚛️
 - [flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
 - [devilution-nx](https://github.com/lantus/devilution-nx) - Diablo for the Nintendo Switch
@@ -259,7 +259,7 @@
 - [go-wechat](https://github.com/nilorg/go-wechat) - 💥weixin、wechat、微信公众平台 golang/go sdk
 - [go-spring](https://github.com/go-spring/go-spring) - 基于 IoC 实现的一套 GoLang 的应用程序框架 🚀
 - [bfe](https://github.com/baidu/bfe) - Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd
-- [faasd](https://github.com/alexellis/faasd) - faasd - serverless with containerd
+- [faasd](https://github.com/alexellis/faasd) - faasd - serverless with containerd 🐳
 - [mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [leetcode](https://github.com/pengliheng/leetcode) - ✍
 - [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
@@ -745,7 +745,7 @@
 - [go-sitemap-generator](https://github.com/ikeikeikeike/go-sitemap-generator) - go-sitemap-generator is the easiest way to generate Sitemaps in Go
 - [radix](https://github.com/yourbasic/radix) - A fast string sorting algorithm (MSD radix sort)
 - [scheduler](https://github.com/carlescere/scheduler) - Job scheduling made easy.
-- [gateway](https://github.com/fagongzi/gateway) - An HTTP API Gateway
+- [manba](https://github.com/fagongzi/manba) - An HTTP API Gateway
 - [terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [alipay](https://github.com/smartwalle/alipay) - 支付宝 AliPay SDK for Go, 集成简单，功能完善，持续更新，支持公钥证书和普通公钥进行签名和验签。
 - [gopub](https://github.com/linclin/gopub) - vue.js(element框架)+golang(beego框架)开发的运维发布系统,支持git,jenkins版本发布,go ssh,BT两种文件传输方式选择,支持部署前准备任务和部署后任务钩子函数
@@ -1440,7 +1440,6 @@
 - [first-timers-bot](https://github.com/hoodiehq/first-timers-bot) - A friendly bot that helps onboarding new Open Source Contributors
 - [slack-invite-automation](https://github.com/outsideris/slack-invite-automation) - A tiny web application to invite a user into your slack team.
 - [get-image-colors](https://github.com/colorjs/get-image-colors) - Extract colors from GIF, PNG, JPG, and SVG images
-- [cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
 - [algolia-indices](https://github.com/electron/algolia-indices) - Algolia search index data for Electron APIs, Tutorials, Packages, and Repos
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
@@ -2593,6 +2592,7 @@
 - [wired-elements](https://github.com/wiredjs/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [botpress](https://github.com/botpress/botpress) - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
+- [cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
 - [vscode-go](https://github.com/microsoft/vscode-go) - An extension for VS Code which provides support for the Go language.
 - [incremental-dom](https://github.com/google/incremental-dom) - An in-place DOM diffing library
 - [Zoe](https://github.com/iawia002/Zoe) - 快捷上传文件到七牛云 for macOS
