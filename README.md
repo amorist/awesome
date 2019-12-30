@@ -145,7 +145,6 @@
 - [nodejieba](https://github.com/yanyiwu/nodejieba) - "结巴"中文分词的Node.js版本
 - [jsdx-toolkit](https://github.com/cfsghost/jsdx-toolkit) - A graphical toolkit on JSDX framework. It aims to provide a node.js module for 3D user interface development.
 - [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
-- [nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 
 ## CSS 
 
@@ -171,7 +170,7 @@
 - [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [isometric-contributions](https://github.com/jasonlong/isometric-contributions) - Browser extension for rendering an isometric pixel art version of your GitHub contribution graph.
 - [website](https://github.com/sharecuts/website) - A public repository of shortcuts for the Shortcuts app
-- [clock-shop](https://github.com/a-jie/clock-shop) - 🕙⏰🕰Clock Shop is a website that collects beautiful clock codes
+- [clock-shop](https://github.com/drawcall/clock-shop) - 🕙⏰🕰Clock Shop is a website that collects beautiful clock codes
 - [iview-weapp](https://github.com/TalkingData/iview-weapp) - 一套高质量的微信小程序 UI 组件库
 - [nodejs-zh-CN](https://github.com/nodejs/nodejs-zh-CN) - node.js 中文化 & 中文社区
 - [hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🌩 A simple, clean, flexible Hugo theme
@@ -1549,7 +1548,7 @@
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [carbon](https://github.com/carbon-app/carbon) - 🎨 Create and share beautiful images of your source code
 - [viron](https://github.com/cam-inc/viron) - ☕️ Automated Design-based Management Console.
-- [ice](https://github.com/alibaba/ice) - 🚀Simple and friendly front-end development system（飞冰，简单而友好的前端研发体系 ）
+- [ice](https://github.com/alibaba/ice) - 🚀Simple and friendly front-end development system（飞冰，简单而友好的前端研发体系 ）https://ice.work/
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [pdf-viewer](https://github.com/electron/pdf-viewer) - Fork of Chrome pdf extension to work as webui page in Electron
 - [FlyingChat](https://github.com/hstarorg/FlyingChat) - 即时聊天系统
@@ -1779,6 +1778,7 @@
 - [covervid](https://github.com/stefanerickson/covervid) - Make your HTML5 video behave like a background cover image with this lightweight Javascript plugin / jQuery extension
 - [Quintus](https://github.com/cykod/Quintus) - HTML5 Game Engine
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
+- [nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 
 ## Jupyter Notebook 
 
@@ -2428,7 +2428,7 @@
 
 - [umi-next](https://github.com/umijs/umi-next) - The next version of umi. (under development)
 - [uform](https://github.com/alibaba/uform) - ⚡React High Performance Form (JSON Schema Form) Solution For Enterprise.
-- [qiniu-upload-action](https://github.com/hujiulong/qiniu-upload-action) - Github Action for Uploading Files to Qiniu.com
+- [action-qiniu-upload](https://github.com/hujiulong/action-qiniu-upload) - Github Action for Uploading Files to Qiniu.com
 - [namae](https://github.com/uetchy/namae) - ☕️ name your new project.
 - [artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
 - [rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
