@@ -105,6 +105,7 @@
 
 ## C++ 
 
+- [yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 - [node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using N-API from C++
 - [Cheating-Plugin-Program](https://github.com/luguanxing/Cheating-Plugin-Program) - 从零开始研究外挂设计原理
 - [AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
@@ -251,6 +252,9 @@
 
 ## Go 
 
+- [errwrap](https://github.com/fatih/errwrap) - Go tool to wrap and fix errors with the new %w verb directive
+- [docker-compose-files](https://github.com/yeasy/docker-compose-files) - Some typical docker compose templates.
+- [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.
 - [nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS, the cloud native messaging system.
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database, long-term remote storage for Prometheus
@@ -996,6 +1000,8 @@
 
 ## JavaScript 
 
+- [github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - :octocat: :rocket: GitHub action for deploying a project to GitHub pages.
+- [express-jwt](https://github.com/auth0/express-jwt) - connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes
 - [resumd](https://github.com/timqian/resumd) - Write resume with markdown
 - [ajax-interceptor](https://github.com/YGYOOO/ajax-interceptor) - 可以修改ajax请求返回结果的chrome插件
 - [flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
@@ -1862,6 +1868,7 @@
 
 ## Others 
 
+- [awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn) - 一个很棒的Go框架、库和软件的中文收录大全。:alarm_clock:脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~
 - [computer-science-cn](https://github.com/ossu/computer-science-cn) - 🎓计算机技术与科学自学之旅
 - [coco-framework](https://github.com/Azure/coco-framework) - The Confidential Consortium Blockchain Framework is an open-source system that enables high-scale, confidential blockchain networks that meet all key enterprise requirements—providing a means to accelerate production enterprise adoption of blockchain technology.
 - [typescript-definition-style-guide](https://github.com/sindresorhus/typescript-definition-style-guide) - Style guide for adding type definitions to my npm packages
@@ -2112,6 +2119,7 @@
 
 ## Python 
 
+- [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for neural architecture search, model compression and hyper-parameter tuning.
 - [AV_Data_Capture](https://github.com/yoshiko2/AV_Data_Capture) - 日本电影元数据刮削器，配合kodi,emby等本地媒体管理工具使用
 - [textfilter](https://github.com/observerss/textfilter) - 敏感词过滤的几种实现+某1w词敏感词库
 - [demucs](https://github.com/facebookresearch/demucs) - Code for the paper Music Source Separation in the Waveform Domain
@@ -2374,6 +2382,7 @@
 
 ## Swift 
 
+- [NetNewsWire](https://github.com/brentsimmons/NetNewsWire) - RSS reader for macOS.
 - [hidden](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons
 - [free-sidecar](https://github.com/ben-z/free-sidecar) - Enable Sidecar on Unsupported iPads and Macs running iPadOS 13 and macOS Catalina
 - [Ink](https://github.com/JohnSundell/Ink) - A fast and flexible Markdown parser written in Swift.
@@ -2426,6 +2435,7 @@
 
 ## TypeScript 
 
+- [electron-in-page-search](https://github.com/rhysd/electron-in-page-search) - Module to introduce Electron's native in-page search avoiding pitfalls
 - [umi-next](https://github.com/umijs/umi-next) - The next version of umi. (under development)
 - [uform](https://github.com/alibaba/uform) - ⚡React High Performance Form (JSON Schema Form) Solution For Enterprise.
 - [action-qiniu-upload](https://github.com/hujiulong/action-qiniu-upload) - Github Action for Uploading Files to Qiniu.com
