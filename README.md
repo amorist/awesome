@@ -252,6 +252,7 @@
 
 ## Go 
 
+- [ok-zoomer](https://github.com/jbirms/ok-zoomer) - A Go program that takes an image, uses pigo to detect a face, and creates a gif that zooms in on the face
 - [errwrap](https://github.com/fatih/errwrap) - Go tool to wrap and fix errors with the new %w verb directive
 - [docker-compose-files](https://github.com/yeasy/docker-compose-files) - Some typical docker compose templates.
 - [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.
@@ -345,7 +346,7 @@
 - [golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache
 - [gopay](https://github.com/iGoogle-ink/gopay) - QQ、微信（WeChat）、支付宝（AliPay）的Go版本SDK。【持续更新，望开发者及时升级】
 - [code](https://github.com/goinaction/code) - Source Code for Go In Action examples
-- [TopList](https://github.com/tophubs/TopList) - 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://tophub.fun
+- [TopList](https://github.com/tophubs/TopList) - 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish
 - [compress](https://github.com/klauspost/compress) - Optimized compression packages
 - [vdom](https://github.com/albrow/vdom) - A virtual dom implementation written in go which is compatible with gopherjs
 - [watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -1000,6 +1001,7 @@
 
 ## JavaScript 
 
+- [git-topics-cli](https://github.com/bukinoshita/git-topics-cli) - Auto create Github topics for repositories
 - [github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - :octocat: :rocket: GitHub action for deploying a project to GitHub pages.
 - [express-jwt](https://github.com/auth0/express-jwt) - connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes
 - [resumd](https://github.com/timqian/resumd) - Write resume with markdown
@@ -1110,7 +1112,7 @@
 - [vue-client-only](https://github.com/egoist/vue-client-only) - Vue component to wrap non SSR friendly components (428 bytes)
 - [node-lru-cache](https://github.com/isaacs/node-lru-cache) - 
 - [RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub
-- [magnetW](https://github.com/xiandanin/magnetW) - 磁力链接聚合搜索 - https://magnetw.app
+- [magnetW](https://github.com/xiandanin/magnetW) - 磁力链接聚合搜索
 - [mc.js](https://github.com/ian13456/mc.js) - Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS.
 - [fullstack-tutorial](https://github.com/apollographql/fullstack-tutorial) - 🚀 The Apollo platform tutorial app
 - [gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
