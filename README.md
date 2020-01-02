@@ -252,6 +252,7 @@
 
 ## Go 
 
+- [go-plugins-helpers](https://github.com/docker/go-plugins-helpers) - Go helper packages to extend the Docker Engine
 - [ok-zoomer](https://github.com/jbirms/ok-zoomer) - A Go program that takes an image, uses pigo to detect a face, and creates a gif that zooms in on the face
 - [errwrap](https://github.com/fatih/errwrap) - Go tool to wrap and fix errors with the new %w verb directive
 - [docker-compose-files](https://github.com/yeasy/docker-compose-files) - Some typical docker compose templates.
@@ -261,7 +262,7 @@
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database, long-term remote storage for Prometheus
 - [crossplane](https://github.com/crossplaneio/crossplane) - The open source multicloud control plane.
 - [go-wechat](https://github.com/nilorg/go-wechat) - 💥weixin、wechat、微信公众平台 golang/go sdk
-- [go-spring](https://github.com/go-spring/go-spring) - 基于 IoC 实现的一套 GoLang 的应用程序框架 🚀
+- [go-spring](https://github.com/go-spring/go-spring) - 基于 IoC 的一站式开发框架 🚀
 - [bfe](https://github.com/baidu/bfe) - Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd
 - [faasd](https://github.com/alexellis/faasd) - faasd - serverless with containerd 🐳
 - [mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
@@ -1001,6 +1002,7 @@
 
 ## JavaScript 
 
+- [braft-editor](https://github.com/margox/braft-editor) - 美观易用的React富文本编辑器，基于draft-js开发
 - [git-topics-cli](https://github.com/bukinoshita/git-topics-cli) - Auto create Github topics for repositories
 - [github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - :octocat: :rocket: GitHub action for deploying a project to GitHub pages.
 - [express-jwt](https://github.com/auth0/express-jwt) - connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes
@@ -1482,7 +1484,7 @@
 - [electron-installer-dmg](https://github.com/electron-userland/electron-installer-dmg) - Create DMG installers for your electron apps using appdmg.
 - [sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [name-your-contributors](https://github.com/mntnr/name-your-contributors) - Name your GitHub contributors; get commits, issues, and comments
-- [handsontable](https://github.com/handsontable/handsontable) - Handsontable - JavaScript/HTML5 Data Grid Component with Spreadsheet Look & Feel. Available for React, Vue and Angular.
+- [handsontable](https://github.com/handsontable/handsontable) - JavaScript/HTML5 Data Grid Component with Spreadsheet Look & Feel. Available for React, Vue and Angular.
 - [gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 - [SorryPress](https://github.com/fritx/SorryPress) - Sorry动图 VuePress版
 - [update-electron-app](https://github.com/electron/update-electron-app) - 🌲 A drop-in module that adds autoUpdating capabilities to Electron apps
@@ -1870,6 +1872,7 @@
 
 ## Others 
 
+- [geektime-nginx](https://github.com/geektime-geekbang/geektime-nginx) - 极客时间：nginx核心知识100讲配置文件与代码分享
 - [awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn) - 一个很棒的Go框架、库和软件的中文收录大全。:alarm_clock:脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~
 - [computer-science-cn](https://github.com/ossu/computer-science-cn) - 🎓计算机技术与科学自学之旅
 - [coco-framework](https://github.com/Azure/coco-framework) - The Confidential Consortium Blockchain Framework is an open-source system that enables high-scale, confidential blockchain networks that meet all key enterprise requirements—providing a means to accelerate production enterprise adoption of blockchain technology.
@@ -2437,6 +2440,7 @@
 
 ## TypeScript 
 
+- [machinelearnjs](https://github.com/machinelearnjs/machinelearnjs) - Machine Learning library for the web and Node.
 - [electron-in-page-search](https://github.com/rhysd/electron-in-page-search) - Module to introduce Electron's native in-page search avoiding pitfalls
 - [umi-next](https://github.com/umijs/umi-next) - The next version of umi. (under development)
 - [uform](https://github.com/alibaba/uform) - ⚡React High Performance Form (JSON Schema Form) Solution For Enterprise.
