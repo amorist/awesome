@@ -252,6 +252,7 @@
 
 ## Go 
 
+- [codeclass](https://github.com/Golangltd/codeclass) - Golang语言社区--腾讯课堂、网易云课堂、字节教育课程PPT及代码
 - [go-plugins-helpers](https://github.com/docker/go-plugins-helpers) - Go helper packages to extend the Docker Engine
 - [ok-zoomer](https://github.com/jbirms/ok-zoomer) - A Go program that takes an image, uses pigo to detect a face, and creates a gif that zooms in on the face
 - [errwrap](https://github.com/fatih/errwrap) - Go tool to wrap and fix errors with the new %w verb directive
@@ -262,7 +263,7 @@
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database, long-term remote storage for Prometheus
 - [crossplane](https://github.com/crossplaneio/crossplane) - The open source multicloud control plane.
 - [go-wechat](https://github.com/nilorg/go-wechat) - 💥weixin、wechat、微信公众平台 golang/go sdk
-- [go-spring](https://github.com/go-spring/go-spring) - 基于 IoC 的一站式开发框架 🚀
+- [go-spring](https://github.com/go-spring/go-spring) - 基于 IoC 的 Go 后端一站式开发框架 🚀
 - [bfe](https://github.com/baidu/bfe) - Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd
 - [faasd](https://github.com/alexellis/faasd) - faasd - serverless with containerd 🐳
 - [mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
@@ -586,7 +587,7 @@
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [gitbase](https://github.com/src-d/gitbase) - SQL interface to git repositories, written in Go. https://docs.sourced.tech/gitbase
 - [gonn](https://github.com/sausheong/gonn) - Building a simple neural network in Go
-- [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple 🎂🎁
+- [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [cellnet](https://github.com/davyxu/cellnet) - High performance, simple, extensible golang open source network library
 - [ethr](https://github.com/microsoft/ethr) - Ethr is a Network Performance Measurement Tool for TCP, UDP & HTTP.
 - [playground](https://github.com/golang/playground) - [mirror] The Go Playground
@@ -1872,6 +1873,7 @@
 
 ## Others 
 
+- [data-structures-questions](https://github.com/KeKe-Li/data-structures-questions) - golang sorting algorithm and data construction.
 - [geektime-nginx](https://github.com/geektime-geekbang/geektime-nginx) - 极客时间：nginx核心知识100讲配置文件与代码分享
 - [awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn) - 一个很棒的Go框架、库和软件的中文收录大全。:alarm_clock:脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~
 - [computer-science-cn](https://github.com/ossu/computer-science-cn) - 🎓计算机技术与科学自学之旅
@@ -2313,6 +2315,7 @@
 
 ## Rust 
 
+- [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool (formerly known as "what")
 - [ws-rs](https://github.com/housleyjk/ws-rs) - Lightweight, event-driven WebSockets for Rust.
 - [rust-vst-gui](https://github.com/vanderlokken/rust-vst-gui) - An extension to the 'rust-vst' crate to create VST plugin GUIs
 - [orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit.
@@ -2387,6 +2390,7 @@
 
 ## Swift 
 
+- [Publish](https://github.com/JohnSundell/Publish) - A static site generator for Swift developers
 - [NetNewsWire](https://github.com/brentsimmons/NetNewsWire) - RSS reader for macOS.
 - [hidden](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons
 - [free-sidecar](https://github.com/ben-z/free-sidecar) - Enable Sidecar on Unsupported iPads and Macs running iPadOS 13 and macOS Catalina
@@ -2440,6 +2444,7 @@
 
 ## TypeScript 
 
+- [Rocket.Chat.GitHub.Action.Notification](https://github.com/RocketChat/Rocket.Chat.GitHub.Action.Notification) - Rocket.Chat Notification for GitHub Actions :bell: :rocket:
 - [machinelearnjs](https://github.com/machinelearnjs/machinelearnjs) - Machine Learning library for the web and Node.
 - [electron-in-page-search](https://github.com/rhysd/electron-in-page-search) - Module to introduce Electron's native in-page search avoiding pitfalls
 - [umi-next](https://github.com/umijs/umi-next) - The next version of umi. (under development)
