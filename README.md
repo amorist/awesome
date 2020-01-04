@@ -149,6 +149,8 @@
 
 ## CSS 
 
+- [hugo-hero-theme](https://github.com/JugglerX/hugo-hero-theme) - Hero is a modern fullwidth business theme for Hugo.
+- [hugo-lime](https://github.com/uicardiodev/hugo-lime) - Hugo Lime is a business theme for GoHugo by https://uicard.io
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [switch-desktop](https://github.com/ahkohd/switch-desktop) - Switch between your favourite apps lightning fast.
 - [dragon](https://github.com/tomhodgins/dragon) - dragon.js is a bookmarklet that lets you drag any element on a website using a mouse or touchscreen. The goal is to speed up in-browser design critiques and brainstorming new layout ideas.
@@ -2391,7 +2393,7 @@
 ## Swift 
 
 - [Publish](https://github.com/JohnSundell/Publish) - A static site generator for Swift developers
-- [NetNewsWire](https://github.com/brentsimmons/NetNewsWire) - RSS reader for macOS.
+- [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 - [hidden](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons
 - [free-sidecar](https://github.com/ben-z/free-sidecar) - Enable Sidecar on Unsupported iPads and Macs running iPadOS 13 and macOS Catalina
 - [Ink](https://github.com/JohnSundell/Ink) - A fast and flexible Markdown parser written in Swift.
@@ -2509,7 +2511,7 @@
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode
 - [motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [playground](https://github.com/tensorflow/playground) - Play with neural networks!
-- [prisma2](https://github.com/prisma/prisma2) - DB toolkit to query, model and migrate your data. (Prisma replaces ORMs and other database tooling.)
+- [prisma2](https://github.com/prisma/prisma2) - Modern DB toolkit to query, migrate and model your database
 - [vue-class-component](https://github.com/vuejs/vue-class-component) - ES / TypeScript decorator for class-style Vue components.
 - [voice-web](https://github.com/mozilla/voice-web) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private npm proxy registry
