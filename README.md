@@ -1005,6 +1005,8 @@
 
 ## JavaScript 
 
+- [ChristmasHat](https://github.com/jasscia/ChristmasHat) - 我要圣诞帽 微信小程序
+- [node-http-proxy](https://github.com/http-party/node-http-proxy) - A full-featured http proxy for node.js
 - [braft-editor](https://github.com/margox/braft-editor) - 美观易用的React富文本编辑器，基于draft-js开发
 - [git-topics-cli](https://github.com/bukinoshita/git-topics-cli) - Auto create Github topics for repositories
 - [github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - :octocat: :rocket: GitHub action for deploying a project to GitHub pages.
@@ -1481,7 +1483,7 @@
 - [chromedotfiles](https://github.com/matthewhadley/chromedotfiles) - a dotjs alternative, inject js and css into chrome tabs
 - [gitment](https://github.com/imsun/gitment) - A comment system based on GitHub Issues.
 - [github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
-- [proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform native desktop apps
+- [proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
 - [egg-cnode](https://github.com/cnodejs/egg-cnode) - CNode 社区 Egg 版本
 - [stream-handbook](https://github.com/substack/stream-handbook) - how to write node programs with streams
 - [electron-installer-dmg](https://github.com/electron-userland/electron-installer-dmg) - Create DMG installers for your electron apps using appdmg.
@@ -2016,7 +2018,7 @@
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [mentorship](https://github.com/nodejs/mentorship) - Node.js Mentorship Program Initiative
 - [conference](https://github.com/gopherchina/conference) - 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2019
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2020
 - [share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  我个人曾经做过的技术分享...
 - [weixin-xiaochengxu666-info](https://github.com/xiaobei666/weixin-xiaochengxu666-info) - 微信小程序开发框架、资源-干货汇总
 - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
@@ -2673,7 +2675,7 @@
 - [gods-pen](https://github.com/ymm-tech/gods-pen) - 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink.
 - [saber-theme-template](https://github.com/saberland/saber-theme-template) - A template for creating Saber theme.
 - [GitDataV](https://github.com/HongqingCao/GitDataV) - 基于Vue框架构建的github数据可视化平台
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 API request builder - A free, fast and beautiful alternative to Postman https://postwoman.io 🔥
 - [OverVue](https://github.com/open-source-labs/OverVue) - Prototyping Tool For Vue Devs 适用于Vue的原型工具
 - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
 - [vuepress-plugin-code-switcher](https://github.com/padarom/vuepress-plugin-code-switcher) - :arrows_clockwise: Component that adds synchronized code blocks with multiple language support to your Vuepress sites
