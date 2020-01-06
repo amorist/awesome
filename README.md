@@ -525,7 +525,7 @@
 - [evio](https://github.com/tidwall/evio) - Fast event-loop networking for Go
 - [go2-book](https://github.com/chai2010/go2-book) - :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-- [inlets](https://github.com/inlets/inlets) - Expose your local endpoints to the Internet
+- [inlets](https://github.com/inlets/inlets) - Reverse proxy and service tunnel written in Go
 - [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning models in production
 - [tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
@@ -789,7 +789,7 @@
 - [endless](https://github.com/fvbock/endless) - Zero downtime restarts for go servers (Drop in replacement for http.ListenAndServe)
 - [find3](https://github.com/schollz/find3) - High-precision indoor positioning framework, version 3.
 - [jp](https://github.com/sgreben/jp) - dead simple terminal plots from JSON data. single binary, no dependencies. linux, osx, windows.
-- [torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent-client package and utilities
+- [torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
 - [qr-filetransfer](https://github.com/claudiodangelis/qr-filetransfer) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON
 - [annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
