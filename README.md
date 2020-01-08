@@ -76,7 +76,7 @@
 - [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 - [earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering) - Reversing Google's 3D satellite mode
-- [webview](https://github.com/zserge/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)
+- [webview](https://github.com/zserge/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
 - [nnn](https://github.com/jarun/nnn) - :dolphin: The missing terminal file manager for X.
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [ish](https://github.com/tbodt/ish) - Linux shell for iOS
@@ -254,6 +254,7 @@
 
 ## Go 
 
+- [kratos](https://github.com/bilibili/kratos) - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
 - [codeclass](https://github.com/Golangltd/codeclass) - Golang语言社区--腾讯课堂、网易云课堂、字节教育课程PPT及代码
 - [go-plugins-helpers](https://github.com/docker/go-plugins-helpers) - Go helper packages to extend the Docker Engine
 - [ok-zoomer](https://github.com/jbirms/ok-zoomer) - A Go program that takes an image, uses pigo to detect a face, and creates a gif that zooms in on the face
@@ -2133,6 +2134,7 @@
 
 ## Python 
 
+- [keras-ocr](https://github.com/faustomorales/keras-ocr) - A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
 - [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for neural architecture search, model compression and hyper-parameter tuning.
 - [AV_Data_Capture](https://github.com/yoshiko2/AV_Data_Capture) - 日本电影元数据刮削器，配合kodi,emby等本地媒体管理工具使用
 - [textfilter](https://github.com/observerss/textfilter) - 敏感词过滤的几种实现+某1w词敏感词库
@@ -2397,6 +2399,7 @@
 
 ## Swift 
 
+- [SOTabBar](https://github.com/Ahmadalsofi/SOTabBar) - Light way to add Fancy bottom bar 📲
 - [Publish](https://github.com/JohnSundell/Publish) - A static site generator for Swift developers
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 - [hidden](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons
@@ -2451,6 +2454,7 @@
 
 ## TypeScript 
 
+- [excalidraw](https://github.com/excalidraw/excalidraw) - Sketch hand-drawn like diagrams
 - [Rocket.Chat.GitHub.Action.Notification](https://github.com/RocketChat/Rocket.Chat.GitHub.Action.Notification) - Rocket.Chat Notification for GitHub Actions :bell: :rocket:
 - [machinelearnjs](https://github.com/machinelearnjs/machinelearnjs) - Machine Learning library for the web and Node.
 - [electron-in-page-search](https://github.com/rhysd/electron-in-page-search) - Module to introduce Electron's native in-page search avoiding pitfalls
@@ -2607,7 +2611,7 @@
 - [windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [moonight](https://github.com/Ovilia/moonight) - 音频手绘可视化 - 今夜月色真美
 - [serlina](https://github.com/djyde/serlina) - A progressive React serverside-rendering framework.
-- [refined-github](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features
+- [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [GoogleTranslate](https://github.com/MoeFE/GoogleTranslate) - 🌐 Google 翻译 Mac 客户端
 - [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
