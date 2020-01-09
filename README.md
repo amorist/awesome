@@ -507,7 +507,7 @@
 - [gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 - [free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.
 - [reftools](https://github.com/davidrjenni/reftools) - reftools - refactoring tools for Go
-- [nps](https://github.com/cnlh/nps) - 一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
+- [nps](https://github.com/ehang-io/nps) - a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [akutan](https://github.com/eBay/akutan) - A distributed knowledge graph store
 - [capella.go](https://github.com/codex-team/capella.go) - Capella SDK for Golang
 - [catsay](https://github.com/muhammadmuzzammil1998/catsay) - A program that generates pictures of a cat holding a sign with a message.
@@ -1880,6 +1880,7 @@
 
 ## Others 
 
+- [toolbox](https://github.com/amitness/toolbox) - Curated list of libraries for a faster machine learning workflow
 - [awesome-mpvue](https://github.com/mpvue/awesome-mpvue) - A curated list of awesome things related to mpvue
 - [data-structures-questions](https://github.com/KeKe-Li/data-structures-questions) - golang sorting algorithm and data construction.
 - [geektime-nginx](https://github.com/geektime-geekbang/geektime-nginx) - 极客时间：nginx核心知识100讲配置文件与代码分享
@@ -1894,7 +1895,7 @@
 - [real](https://github.com/real-dev/real) - Real Dev Platform
 - [GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
-- [awesome-minio](https://github.com/minio/awesome-minio) - A curated list of MinIO community projects.
+- [awesome-minio](https://github.com/minio/awesome-minio) - A curated list of Awesome MinIO community projects.
 - [sponsors](https://github.com/tj/sponsors) - Open-source project suggestions powered by my GitHub sponsors
 - [computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [github-sponsors-beta](https://github.com/github/github-sponsors-beta) - Fund your work.  Build what matters. 💖
@@ -2134,6 +2135,7 @@
 
 ## Python 
 
+- [2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement](https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement) - 2019CCF-BDCI大赛 最佳创新探索奖获得者 基于OCR身份证要素提取赛题冠军 天晨破晓团队 赛题源码
 - [keras-ocr](https://github.com/faustomorales/keras-ocr) - A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
 - [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for neural architecture search, model compression and hyper-parameter tuning.
 - [AV_Data_Capture](https://github.com/yoshiko2/AV_Data_Capture) - 日本电影元数据刮削器，配合kodi,emby等本地媒体管理工具使用
