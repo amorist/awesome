@@ -105,6 +105,7 @@
 
 ## C++ 
 
+- [taichi](https://github.com/taichi-dev/taichi) - The Taichi programming language
 - [yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 - [node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using N-API from C++
 - [Cheating-Plugin-Program](https://github.com/luguanxing/Cheating-Plugin-Program) - 从零开始研究外挂设计原理
@@ -507,7 +508,7 @@
 - [gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 - [free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.
 - [reftools](https://github.com/davidrjenni/reftools) - reftools - refactoring tools for Go
-- [nps](https://github.com/ehang-io/nps) - a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+- [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [akutan](https://github.com/eBay/akutan) - A distributed knowledge graph store
 - [capella.go](https://github.com/codex-team/capella.go) - Capella SDK for Golang
 - [catsay](https://github.com/muhammadmuzzammil1998/catsay) - A program that generates pictures of a cat holding a sign with a message.
@@ -1113,7 +1114,6 @@
 - [vapper](https://github.com/shuidi-fed/vapper) - 🔥 A Vue-based server-side rendering framework
 - [leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 - [yup](https://github.com/jquense/yup) - Dead simple Object schema validation
-- [GGEditor](https://github.com/alibaba/GGEditor) - A visual graph editor based on G6 and React
 - [bank](https://github.com/pietrzakadrian/bank) - Full Stack Web Application using ReactJS (with Hooks) + Redux + Redux-Saga with NodeJS (Express+TypeORM), RESTful API, MySQL and Swagger Documentation
 - [virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
 - [leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
@@ -1880,6 +1880,7 @@
 
 ## Others 
 
+- [eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [toolbox](https://github.com/amitness/toolbox) - Curated list of libraries for a faster machine learning workflow
 - [awesome-mpvue](https://github.com/mpvue/awesome-mpvue) - A curated list of awesome things related to mpvue
 - [data-structures-questions](https://github.com/KeKe-Li/data-structures-questions) - golang sorting algorithm and data construction.
@@ -2307,6 +2308,7 @@
 
 ## Ruby 
 
+- [chatwoot](https://github.com/chatwoot/chatwoot) - Simple and elegant live chat software 🔥💬
 - [homebrew-gh](https://github.com/github/homebrew-gh) - Homebrew tap for GitHub CLI
 - [dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖The core logic behind Dependabot's update PR creation
 - [t](https://github.com/sferik/t) - A command-line power tool for Twitter.
@@ -2510,6 +2512,7 @@
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
 - [messaging-apis](https://github.com/Yoctol/messaging-apis) - Messaging APIs for multi-platform
+- [GGEditor](https://github.com/alibaba/GGEditor) - A visual graph editor based on G6 and React
 - [crud](https://github.com/nestjsx/crud) - NestJs CRUD for RESTful APIs
 - [webauthn-json](https://github.com/github/webauthn-json) - 🔏 A WebAuthn API wrapper that translates to/from pure JSON using base64url.
 - [icestark](https://github.com/ice-lab/icestark) - :tiger: Micro Frontends solution for large application（面向大型应用的微前端解决方案）
