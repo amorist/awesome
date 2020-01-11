@@ -255,6 +255,7 @@
 
 ## Go 
 
+- [govalidate](https://github.com/rakyll/govalidate) - Validates your Go installation and dependencies.
 - [kratos](https://github.com/bilibili/kratos) - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
 - [codeclass](https://github.com/Golangltd/codeclass) - Golang语言社区--腾讯课堂、网易云课堂、字节教育课程PPT及代码
 - [go-plugins-helpers](https://github.com/docker/go-plugins-helpers) - Go helper packages to extend the Docker Engine
@@ -2136,6 +2137,7 @@
 
 ## Python 
 
+- [ALBERT](https://github.com/google-research/ALBERT) - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
 - [2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement](https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement) - 2019CCF-BDCI大赛 最佳创新探索奖获得者 基于OCR身份证要素提取赛题冠军 天晨破晓团队 赛题源码
 - [keras-ocr](https://github.com/faustomorales/keras-ocr) - A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
 - [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for neural architecture search, model compression and hyper-parameter tuning.
@@ -2470,7 +2472,7 @@
 - [rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
 - [deno_storage](https://github.com/axetroy/deno_storage) - implementation of localStorage and sessionStorage for Deno
 - [electron-react-typescript](https://github.com/Robinfr/electron-react-typescript) - Electron boilerplate with React, Redux, and TypeScript
-- [checkout](https://github.com/actions/checkout) - 
+- [checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [BoostNote.next](https://github.com/BoostIO/BoostNote.next) - An intuitive and stylish markdown editor for the developers.
 - [sign-action](https://github.com/jeffrafter/sign-action) - A GitHub Action which allows users to reply to an issue with a comment to sign a petition.
 - [expo-cli](https://github.com/expo/expo-cli) - Tools for making Expo apps
