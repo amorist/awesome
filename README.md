@@ -547,7 +547,7 @@
 - [xioc](https://github.com/assafmo/xioc) - Extract indicators of compromise from text, including "escaped" ones.
 - [go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
 - [rancher](https://github.com/rancher/rancher) - Complete container management platform
-- [stegify](https://github.com/DimitarPetrov/stegify) - Go tool for LSB steganography, capable of hiding any file within an image.
+- [stegify](https://github.com/DimitarPetrov/stegify) - 🔍 Go tool for LSB steganography, capable of hiding any file within an image.
 - [notionapi](https://github.com/kjk/notionapi) - Unofficial Go API for Notion.so
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally
 - [hil](https://github.com/hashicorp/hil) - HIL is a small embedded language for string interpolations.
@@ -736,7 +736,6 @@
 - [pigo](https://github.com/esimov/pigo) - Go implementation of Pico face detection library.
 - [sessions](https://github.com/gin-contrib/sessions) - Gin middleware for session management
 - [mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-- [supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
 - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
 - [discovery](https://github.com/bilibili/discovery) - A registry for resilient mid-tier load balancing and failover.
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -1008,6 +1007,8 @@
 
 ## JavaScript 
 
+- [manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning
+- [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [fly](https://github.com/wendux/fly) - :rocket: Supporting request forwarding and Promise based HTTP client for all JavaScript runtimes.
 - [vant-weapp](https://github.com/youzan/vant-weapp) - 轻量、可靠的小程序 UI 组件库
 - [wepy-mall](https://github.com/dyq086/wepy-mall) - 微信小程序--基于wepy 商城(微店)微信小程序 欢迎学习交流
@@ -1022,7 +1023,7 @@
 - [flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [sentineljs](https://github.com/muicss/sentineljs) - Detect new DOM nodes using CSS selectors (650 bytes)
-- [wenyan-lang](https://github.com/LingDong-/wenyan-lang) - 文言文編程語言 A programming language for the ancient Chinese.
+- [wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [nuxt.js](https://github.com/nuxt/nuxt.js) - The Vue.js Framework
 - [concent](https://github.com/concentjs/concent) - A predictable、zero-cost-use、progressive、high performance's enhanced state management solution
 - [ci-detect](https://github.com/npm/ci-detect) - Detect what kind of CI environment the program is in
@@ -1439,6 +1440,7 @@
 - [G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
 - [search-with-your-keyboard](https://github.com/electron/search-with-your-keyboard) - Add keyboard navigation to your existing client-side search interface.
 - [awesome-talks](https://github.com/SaraVieira/awesome-talks) - Awesome Talks Curated By the Community
+- [supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
 - [maid](https://github.com/egoist/maid) - Markdown driven task runner.
 - [router](https://github.com/reach/router) - 
 - [learntocrypto](https://github.com/sodium-friends/learntocrypto) - Learn to crypto workshop
@@ -2488,7 +2490,7 @@
 - [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer) - Dialog creation and management for Microsoft Bot Framework Applications
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [vuetify-module](https://github.com/nuxt-community/vuetify-module) - Vuetify Module for Nuxt.js
-- [L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization
+- [L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL  or AMap to render basemaps.
 - [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [swr](https://github.com/zeit/swr) - React Hooks library for remote data fetching
 - [remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建小程序
