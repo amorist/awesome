@@ -65,6 +65,7 @@
 
 ## C 
 
+- [TencentOS-kernel](https://github.com/Tencent/TencentOS-kernel) - 腾讯针对云的场景研发的服务器操作系统
 - [darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
 - [smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。
 - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -1232,7 +1233,7 @@
 - [koa-prerender](https://github.com/RisingStack/koa-prerender) - KOA middleware for prerendering javascript-rendered pages on the fly for SEO
 - [prerender](https://github.com/prerender/prerender) - Node server that uses Headless Chrome to render a javascript-rendered page as HTML. To be used in conjunction with prerender middleware.
 - [ghChat](https://github.com/aermin/ghChat) - :octocat: 📱A chat application for GitHub. Front-End : React+Redux+React-router+axios+scss；Back-end: node(koa2)+mysql+JWT+ Typescripts; Socket.io, PWA
-- [snowpack](https://github.com/pikapkg/snowpack) - 📦✨ Run npm packages directly in the browser. No Webpack, Parcel, or bundlers required.
+- [snowpack](https://github.com/pikapkg/snowpack) - 📦✨ Build web applications with less tooling and 10x faster iteration. No bundler required.
 - [vue-dev-server](https://github.com/vuejs/vue-dev-server) - A POC dev server that allows you to import `*.vue` files via native ES modules imports.
 - [grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [node-formidable](https://github.com/node-formidable/node-formidable) - A node.js module for parsing form data, especially file uploads.
@@ -1938,7 +1939,7 @@
 - [gsy_flutter_book](https://github.com/CarGuo/gsy_flutter_book) - Flutter 完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
 - [swiftui](https://github.com/ygit/swiftui) - A collaborative list of awesome SwiftUI resources. Feel free to contribute!
 - [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
-- [development](https://github.com/micro/development) - The micro development roadmap and contribution guide
+- [development](https://github.com/micro/development) - The micro development roadmap, team and contribution guide
 - [ui-libraries](https://github.com/jefflombard/ui-libraries) - A collection of UI Frameworks and their platform implementations.
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
