@@ -1350,7 +1350,7 @@
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
 - [pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable
 - [Yosoro](https://github.com/IceEnd/Yosoro) - :shaved_ice:Beautiful Markdown NoteBook. 🏖
-- [ream](https://github.com/ream/ream) - 🚀 Framework for building universal web app and static website in Vue.js (beta)
+- [deprecated](https://github.com/ream/deprecated) - 🚀 Framework for building universal web app and static website in Vue.js (beta)
 - [tiptap](https://github.com/scrumpy/tiptap) - A rich-text editor for Vue.js
 - [electron-cn-docs](https://github.com/amhoho/electron-cn-docs) - Electron中文文档! 精心翻译,完美排版,实时同步更新!, 最后同步:2017-05-23(个人比较忙,本项目已经不再维护了)
 - [rest.js](https://github.com/octokit/rest.js) - GitHub REST API client for JavaScript
@@ -1390,7 +1390,7 @@
 - [semantic-pull-requests](https://github.com/zeke/semantic-pull-requests) - Ensure your pull requests follow the Conventional Commits spec
 - [mauerwerk](https://github.com/drcmda/mauerwerk) - ⚒  A react-spring driven masonry-like grid with enter/exit and shared element transitions
 - [peco](https://github.com/upash/peco) - nothing here, move on..
-- [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive SVG Charts
+- [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [serviceworker-cookbook](https://github.com/mozilla/serviceworker-cookbook) - It's online. It's offline. It's a Service Worker!
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [v8n](https://github.com/imbrn/v8n) - ☑️ JavaScript fluent validation library
