@@ -145,7 +145,6 @@
 - [electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [cppjieba](https://github.com/yanyiwu/cppjieba) - "结巴"中文分词的C++版本
-- [nodejieba](https://github.com/yanyiwu/nodejieba) - "结巴"中文分词的Node.js版本
 - [jsdx-toolkit](https://github.com/cfsghost/jsdx-toolkit) - A graphical toolkit on JSDX framework. It aims to provide a node.js module for 3D user interface development.
 - [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 
@@ -256,6 +255,7 @@
 
 ## Go 
 
+- [sqlvet](https://github.com/houqp/sqlvet) - Go fearless SQL. Sqlvet performs static analysis on raw SQL queries in your Go code base.
 - [govalidate](https://github.com/rakyll/govalidate) - Validates your Go installation and dependencies.
 - [kratos](https://github.com/bilibili/kratos) - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
 - [codeclass](https://github.com/Golangltd/codeclass) - Golang语言社区--腾讯课堂、网易云课堂、字节教育课程PPT及代码
@@ -271,7 +271,7 @@
 - [go-wechat](https://github.com/nilorg/go-wechat) - 💥weixin、wechat、微信公众平台 golang/go sdk
 - [go-spring](https://github.com/go-spring/go-spring) - 基于 IoC 的 Go 后端一站式开发框架 🚀
 - [bfe](https://github.com/baidu/bfe) - Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd
-- [faasd](https://github.com/alexellis/faasd) - faasd - serverless with containerd 🐳
+- [faasd](https://github.com/alexellis/faasd) - faasd - serverless with CNI and containerd 🐳
 - [mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [leetcode](https://github.com/pengliheng/leetcode) - ✍
 - [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
@@ -280,7 +280,7 @@
 - [tour](https://github.com/golang/tour) - [mirror] A Tour of Go
 - [tour](https://github.com/Go-zh/tour) - Go 语言官方教程中文版
 - [drone-plugin-lib](https://github.com/drone-plugins/drone-plugin-lib) - Helpers for creating plugins for Drone in Go
-- [rainbond](https://github.com/goodrain/rainbond) - Enterprise application cloud operating system(企业应用云操作系统)
+- [rainbond](https://github.com/goodrain/rainbond) - Enterprise Application System 以企业云原生应用开发、架构、运维、共享、交付为核心的Kubernetes多云赋能平台
 - [jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
 - [mongo-tools](https://github.com/mongodb/mongo-tools) - 
 - [seesaw](https://github.com/google/seesaw) - Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.
@@ -969,6 +969,7 @@
 
 ## Java 
 
+- [newbee-mall](https://github.com/newbee-ltd/newbee-mall) - newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
 - [YCStatusBar](https://github.com/yangchong211/YCStatusBar) - 关于状态栏方案总结案例，适合于绝大多数的使用场景……同时，兼容了小米，魅族等手机状态栏字体颜色设置失效问题。已经用于实际项目投资界，新芽，沙丘大学等APP，一键集成并使用！支持单Activity多Fragment动态修改状态栏颜色，入侵性低，一行代码即可实现你需要的需求
 - [incubator-dolphinscheduler](https://github.com/apache/incubator-dolphinscheduler) - Dolphin Scheduler is a distributed and easy-to-expand visual DAG workflow scheduling system, dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing.(分布式易扩展的可视化工作流任务调度)
 - [react-native-camera](https://github.com/react-native-community/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
@@ -1753,6 +1754,7 @@
 - [natural](https://github.com/NaturalNode/natural) - general natural language facilities for node
 - [socket.io-stream](https://github.com/nkzawa/socket.io-stream) - Stream for Socket.IO
 - [node-segment](https://github.com/leizongmin/node-segment) - 基于Node.js的中文分词模块
+- [nodejieba](https://github.com/yanyiwu/nodejieba) - "结巴"中文分词的Node.js版本
 - [pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [wechat-h5-boilerplate](https://github.com/panteng/wechat-h5-boilerplate) - 为腾讯微信优化的H5动效模板，帮助你快速构建全屏滚动型H5页面。
 - [node-webgl](https://github.com/mikeseven/node-webgl) - WebGL bindings to desktop OpenGL
