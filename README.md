@@ -255,6 +255,8 @@
 
 ## Go 
 
+- [apm-agent-go](https://github.com/elastic/apm-agent-go) - Official Go agent for Elastic APM
+- [nats-http](https://github.com/derekcollison/nats-http) - Using HTTP Request and Response with NATS
 - [sqlvet](https://github.com/houqp/sqlvet) - Go fearless SQL. Sqlvet performs static analysis on raw SQL queries in your Go code base.
 - [govalidate](https://github.com/rakyll/govalidate) - Validates your Go installation and dependencies.
 - [kratos](https://github.com/bilibili/kratos) - Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
@@ -750,7 +752,7 @@
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
 - [helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [DocHub](https://github.com/TruthHun/DocHub) - 参考百度文库，使用Beego（Golang）开发的开源文库系统
-- [night-reading-go](https://github.com/developer-learning/night-reading-go) - Night-Reading-Go《Go 夜读》 &gt; Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics.      每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。
+- [night-reading-go](https://github.com/developer-learning/night-reading-go) - 【春节暂停更新】Night-Reading-Go《Go 夜读》 &gt; Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics.      每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。
 - [redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go
 - [dateparse](https://github.com/araddon/dateparse) - GoLang Parse many date strings without knowing format in advance.
 - [go-sitemap-generator](https://github.com/ikeikeikeike/go-sitemap-generator) - go-sitemap-generator is the easiest way to generate Sitemaps in Go
@@ -1009,6 +1011,8 @@
 
 ## JavaScript 
 
+- [nodejs-recommender](https://github.com/googleapis/nodejs-recommender) - Recommender client for Node.js
+- [vue-cli-plugin-sd-luban](https://github.com/shuidi-fed/vue-cli-plugin-sd-luban) - 鲁班组件vue-cli插件
 - [manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning
 - [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [fly](https://github.com/wendux/fly) - :rocket: Supporting request forwarding and Promise based HTTP client for all JavaScript runtimes.
@@ -1152,6 +1156,7 @@
 - [cursor-dot](https://github.com/gaoryrt/cursor-dot) - 🖱️Fancy cursor dot
 - [bricks.js](https://github.com/callmecavs/bricks.js) - A blazing fast masonry layout generator for fixed width elements.
 - [geolib](https://github.com/manuelbieh/geolib) - Zero dependency library to provide some basic geo functions
+- [TypeScript-React-Conversion-Guide](https://github.com/microsoft/TypeScript-React-Conversion-Guide) - A guide for converting a simple JavaScript/React project to TypeScript. Contains both before an after code with the step-by-step process in the README below.
 - [zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
 - [color](https://github.com/Qix-/color) - :rainbow: Javascript color conversion and manipulation library
 - [get-port](https://github.com/sindresorhus/get-port) - Get an available port
@@ -2547,7 +2552,6 @@
 - [vue-async-manager](https://github.com/shuidi-fed/vue-async-manager) - 【deprecated】Manage asynchronous calls more easily in Vue apps.
 - [rollup-plugin-vue](https://github.com/vuejs/rollup-plugin-vue) - Roll .vue files
 - [koa-ts](https://github.com/unix/koa-ts) - The best practice of building Koa2 with TypeScript
-- [TypeScript-React-Conversion-Guide](https://github.com/microsoft/TypeScript-React-Conversion-Guide) - A guide for converting a simple JavaScript/React project to TypeScript. Contains both before an after code with the step-by-step process in the README below.
 - [og-image](https://github.com/zeit/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [vue-compile](https://github.com/egoist/vue-compile) - Compile the blocks in Vue single-file components to use JS/CSS instead of Babel/Sass/Stylus.
 - [type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
