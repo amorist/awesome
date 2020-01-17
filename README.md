@@ -985,7 +985,6 @@
 - [vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
 - [server](https://github.com/wildfirechat/server) - 即时通讯(IM)系统
 - [DoraemonKit](https://github.com/didi/DoraemonKit) - 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。
-- [react-native-webview](https://github.com/react-native-community/react-native-webview) - React Native Cross-Platform WebView
 - [miaosha](https://github.com/qiurunze123/miaosha) - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 - [ratel](https://github.com/ainilili/ratel) - A fighting landlord program that can be played on the command line
@@ -1444,7 +1443,6 @@
 - [open-pull-request](https://github.com/github-modules/open-pull-request) - All-in-one module for forking repos, changing their files, and opening pull requests on GitHub
 - [qrious](https://github.com/neocotic/qrious) - Pure JavaScript library for QR code generation using canvas
 - [taro](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。  https://taro.jd.com/
-- [G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
 - [search-with-your-keyboard](https://github.com/electron/search-with-your-keyboard) - Add keyboard navigation to your existing client-side search interface.
 - [awesome-talks](https://github.com/SaraVieira/awesome-talks) - Awesome Talks Curated By the Community
 - [supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
@@ -1463,7 +1461,7 @@
 - [polacode](https://github.com/octref/polacode) - 📸 Polaroid for your code
 - [passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [webogram](https://github.com/zhukov/webogram) - Telegram web application, GPL v3
-- [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 万物皆可 RSS
+- [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [first-timers-bot](https://github.com/hoodiehq/first-timers-bot) - A friendly bot that helps onboarding new Open Source Contributors
 - [slack-invite-automation](https://github.com/outsideris/slack-invite-automation) - A tiny web application to invite a user into your slack team.
 - [get-image-colors](https://github.com/colorjs/get-image-colors) - Extract colors from GIF, PNG, JPG, and SVG images
@@ -1870,6 +1868,7 @@
 - [bitbar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar
 - [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 - [ios-deploy](https://github.com/ios-control/ios-deploy) - Install and debug iPhone apps from the command line, without using Xcode
+- [react-native-webview](https://github.com/react-native-community/react-native-webview) - React Native Cross-Platform WebView
 - [EarlGrey](https://github.com/google/EarlGrey) - :tea: iOS UI Automation Test Framework
 - [QQPlugin-macOS](https://github.com/TKkk-iOSer/QQPlugin-macOS) - 
 - [VipVideo](https://github.com/iodefog/VipVideo) - 各大网站vip视频免费观看 等 Mac版。付费电影，VIP会员剧等，去广告播放。自用视频或者电影URL，音乐破解URL，CCTV等电视播放URL，爱奇艺，腾讯视频，土豆视频，搜狐视频，乐视视频
@@ -2383,7 +2382,7 @@
 - [kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
 - [vuepress-theme-bulma](https://github.com/nakorndev/vuepress-theme-bulma) - A pure Bulma.css theme for VuePress
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-- [chromium_os_for_raspberry_pi](https://github.com/FydeOS/chromium_os_for_raspberry_pi) - Build your Chromium OS for Raspberry Pi 3B/3B+/4B
+- [chromium_os-raspberry_pi](https://github.com/FydeOS/chromium_os-raspberry_pi) - Build your Chromium OS for Raspberry Pi 3B/3B+/4B
 - [make-node-meeting](https://github.com/nodejs/make-node-meeting) - Generate a text for a GitHub issue announcing a Node.js working group meeting
 - [vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [chromedriver-centos6-installation](https://github.com/staier/chromedriver-centos6-installation) - easy install google chrome  and chromedriver  on  centos 6.X
@@ -2637,6 +2636,7 @@
 - [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
+- [G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [wired-elements](https://github.com/wiredjs/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
