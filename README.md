@@ -150,7 +150,7 @@
 
 ## CSS 
 
-- [hugo-hero-theme](https://github.com/JugglerX/hugo-hero-theme) - Hero is a modern fullwidth business theme for Hugo.
+- [hugo-hero-theme](https://github.com/JugglerX/hugo-hero-theme) - A modern business theme for Hugo.
 - [hugo-lime](https://github.com/uicardiodev/hugo-lime) - Hugo Lime is a business theme for GoHugo by https://uicard.io
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [switch-desktop](https://github.com/ahkohd/switch-desktop) - Switch between your favourite apps lightning fast.
@@ -225,6 +225,7 @@
 
 ## Dart 
 
+- [getflutter](https://github.com/ionicfirebaseapp/getflutter) - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
 - [day.dart](https://github.com/dayjs/day.dart) - ⏰ Day.js in dart. Day.dart is inspired by Day.js. Write with nearly the same API. Build on the top of the powerful DateTime class.
 - [plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
 - [flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
@@ -1028,7 +1029,6 @@
 - [flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [sentineljs](https://github.com/muicss/sentineljs) - Detect new DOM nodes using CSS selectors (650 bytes)
-- [wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [nuxt.js](https://github.com/nuxt/nuxt.js) - The Vue.js Framework
 - [concent](https://github.com/concentjs/concent) - A predictable、zero-cost-use、progressive、high performance's enhanced state management solution
 - [ci-detect](https://github.com/npm/ci-detect) - Detect what kind of CI environment the program is in
@@ -1261,7 +1261,7 @@
 - [electron-window-state](https://github.com/mawie81/electron-window-state) - A library to store and restore window sizes and positions for your Electron app
 - [vmd](https://github.com/yoshuawuyts/vmd) - :pray: preview markdown files
 - [release](https://github.com/zeit/release) - Generate changelogs with a single command
-- [nuclear](https://github.com/nukeop/nuclear) - User freedom-oriented streaming music player
+- [nuclear](https://github.com/nukeop/nuclear) - User freedom-oriented streaming music player - welcoming to new contributors
 - [spectron](https://github.com/electron-userland/spectron) - 🔎 Test Electron apps using ChromeDriver
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 - [CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
@@ -2349,7 +2349,7 @@
 - [quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [nushell](https://github.com/nushell/nushell) - A modern shell written in Rust
 - [rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
-- [actix-web](https://github.com/actix/actix-web) - Actix web is a small, pragmatic, and extremely fast rust web framework.
+- [actix-web](https://github.com/fafhrd91/actix-web) - Actix web is a small, pragmatic, and extremely fast rust web framework.
 - [actix](https://github.com/actix/actix) - Actor framework for Rust
 - [learning-rust](https://github.com/developer-learning/learning-rust) - Rust 学习之路 &gt; Rust Programming Tutorial, include articles, interview, example, problems.
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
@@ -2376,7 +2376,7 @@
 - [rebase](https://github.com/ljharb/rebase) - GitHub Action to automatically rebase PRs
 - [stacks](https://github.com/real-dev/stacks) - Various tech "stacks" for Real Dev tasks
 - [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
-- [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100.
+- [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [github-sync](https://github.com/repo-sync/github-sync) - ⤵️ A GitHub Action for syncing current repository with remote
 - [one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
 - [kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
@@ -2478,6 +2478,7 @@
 - [action-qiniu-upload](https://github.com/hujiulong/action-qiniu-upload) - Github Action for Uploading Files to Qiniu.com
 - [namae](https://github.com/uetchy/namae) - ☕️ name your new project.
 - [artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
+- [wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
 - [deno_storage](https://github.com/axetroy/deno_storage) - implementation of localStorage and sessionStorage for Deno
 - [electron-react-typescript](https://github.com/Robinfr/electron-react-typescript) - Electron boilerplate with React, Redux, and TypeScript
