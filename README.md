@@ -256,6 +256,7 @@
 
 ## Go 
 
+- [go-under-the-hood](https://github.com/changkun/go-under-the-hood) - 📚 Go Under The Hood: A Source Code Study of Go (1.14, WIP)
 - [apm-agent-go](https://github.com/elastic/apm-agent-go) - Official Go agent for Elastic APM
 - [nats-http](https://github.com/derekcollison/nats-http) - Using HTTP Request and Response with NATS
 - [sqlvet](https://github.com/houqp/sqlvet) - Go fearless SQL. Sqlvet performs static analysis on raw SQL queries in your Go code base.
@@ -1012,6 +1013,7 @@
 
 ## JavaScript 
 
+- [emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [nodejs-recommender](https://github.com/googleapis/nodejs-recommender) - Recommender client for Node.js
 - [vue-cli-plugin-sd-luban](https://github.com/shuidi-fed/vue-cli-plugin-sd-luban) - 鲁班组件vue-cli插件
 - [manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning
@@ -1495,7 +1497,6 @@
 - [chromedotfiles](https://github.com/matthewhadley/chromedotfiles) - a dotjs alternative, inject js and css into chrome tabs
 - [gitment](https://github.com/imsun/gitment) - A comment system based on GitHub Issues.
 - [github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
-- [proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
 - [egg-cnode](https://github.com/cnodejs/egg-cnode) - CNode 社区 Egg 版本
 - [stream-handbook](https://github.com/substack/stream-handbook) - how to write node programs with streams
 - [electron-installer-dmg](https://github.com/electron-userland/electron-installer-dmg) - Create DMG installers for your electron apps using appdmg.
@@ -1946,7 +1947,7 @@
 - [gsy_flutter_book](https://github.com/CarGuo/gsy_flutter_book) - Flutter 完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
 - [swiftui](https://github.com/ygit/swiftui) - A collaborative list of awesome SwiftUI resources. Feel free to contribute!
 - [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
-- [development](https://github.com/micro/development) - The micro development roadmap, team and contribution guide
+- [development](https://github.com/micro/development) - The micro development roadmap, team and contribution guide https://micro.mu/development
 - [ui-libraries](https://github.com/jefflombard/ui-libraries) - A collection of UI Frameworks and their platform implementations.
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
@@ -2648,6 +2649,7 @@
 - [incremental-dom](https://github.com/google/incremental-dom) - An in-place DOM diffing library
 - [Zoe](https://github.com/iawia002/Zoe) - 快捷上传文件到七牛云 for macOS
 - [vuepack](https://github.com/znck/vuepack) - Publish .vue files in NPM packages
+- [proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
 - [wechaty](https://github.com/wechaty/wechaty) - WeChat Bot SDK for Individual Account, Powered by TypeScript, Docker, and 💖
 - [tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
