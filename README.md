@@ -1117,7 +1117,7 @@
 - [wewe](https://github.com/t9tio/wewe) - Open group chat messages to the world
 - [node-file-trace](https://github.com/zeit/node-file-trace) - Node.js dependency tracing utility
 - [datamaps](https://github.com/markmarkoh/datamaps) - Customizable SVG map visualizations for the web in a single Javascript file using D3.js
-- [luban-h5](https://github.com/ly525/luban-h5) - [WIP]en: web design tool || mobile page builder/editor || mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具.
+- [luban-h5](https://github.com/ly525/luban-h5) - [WIP]en: web design tool || mobile page builder/editor || mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具、可视化搭建系统.
 - [funcraft](https://github.com/alibaba/funcraft) - (have) Fun with Serverless(API Gateway & Function Compute)
 - [composition-api](https://github.com/vuejs/composition-api) - Vue2 plugin for the Composition API.
 - [crowdin-node](https://github.com/crowdin-node/crowdin-node) - A Node.js client for the v1 and v2 Crowdin APIs
@@ -1181,7 +1181,7 @@
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [vuegg](https://github.com/vuegg/vuegg) - :hatching_chick: vue GUI generator
 - [dev-null-cli](https://github.com/sindresorhus/dev-null-cli) - Cross-platform `/dev/null`
-- [buster](https://github.com/dessant/buster) - Captcha solver extension for humans
+- [buster](https://github.com/dessant/buster) - Captcha solver extension for humans 🐶
 - [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript
 - [tink](https://github.com/npm/tink) - a dependency unwinder for javascript
 - [VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
@@ -1630,7 +1630,7 @@
 - [notifme-sdk](https://github.com/notifme/notifme-sdk) - A Node.js library to send all kinds of transactional notifications.
 - [makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) - Create Anime Characters with MakeGirlsMoe
 - [machine-learning-with-js](https://github.com/abhisheksoni27/machine-learning-with-js) - Machine Learning with JavaScript. Fast and Simple. :rocket:
-- [nanoid](https://github.com/ai/nanoid) - A tiny (137 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [nanoid](https://github.com/ai/nanoid) - A tiny (127 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [wtfjs](https://github.com/denysdovhan/wtfjs) - A list of funny and tricky JavaScript examples
 - [Hilo](https://github.com/hiloteam/Hilo) - A Cross-end HTML5 Game development solution developed by Alibaba Group
 - [botui-examples](https://github.com/botui/botui-examples) - Some examples on how to use BotUI
