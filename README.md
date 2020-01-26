@@ -256,6 +256,8 @@
 
 ## Go 
 
+- [gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
+- [sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [go-under-the-hood](https://github.com/changkun/go-under-the-hood) - 📚 Go Under The Hood: A Source Code Study of Go (1.14, WIP)
 - [apm-agent-go](https://github.com/elastic/apm-agent-go) - Official Go agent for Elastic APM
 - [nats-http](https://github.com/derekcollison/nats-http) - Using HTTP Request and Response with NATS
@@ -275,7 +277,7 @@
 - [go-wechat](https://github.com/nilorg/go-wechat) - 💥weixin、wechat、微信公众平台 golang/go sdk
 - [go-spring](https://github.com/go-spring/go-spring) - 基于 IoC 的 Go 后端一站式开发框架 🚀
 - [bfe](https://github.com/baidu/bfe) - Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd
-- [faasd](https://github.com/alexellis/faasd) - faasd - serverless with CNI and containerd 🐳
+- [faasd](https://github.com/alexellis/faasd) - faasd - serverless with containerd and CNI  🐳
 - [mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [leetcode](https://github.com/pengliheng/leetcode) - ✍
 - [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
@@ -1014,6 +1016,8 @@
 
 ## JavaScript 
 
+- [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
+- [city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [nodejs-recommender](https://github.com/googleapis/nodejs-recommender) - Recommender client for Node.js
 - [vue-cli-plugin-sd-luban](https://github.com/shuidi-fed/vue-cli-plugin-sd-luban) - 鲁班组件vue-cli插件
@@ -1198,7 +1202,7 @@
 - [fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
 - [node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
 - [vue-i18n](https://github.com/kazupon/vue-i18n) - :globe_with_meridians: Internationalization plugin for Vue.js
-- [an-array-of-english-words](https://github.com/words/an-array-of-english-words) - An array of ~275,000 English words derived from the Letterpress word list. Works with Node and Browserify.
+- [an-array-of-english-words](https://github.com/words/an-array-of-english-words) - List of ~275,000 English words
 - [vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - A Vue Cli 3 plugin for Electron with no required configuration
 - [omina](https://github.com/lijsh/omina) - 🎡 小程序运行时增强库
 - [zoom.js](https://github.com/fat/zoom.js) - Medium's Image Zoom for jQuery
@@ -1891,6 +1895,8 @@
 
 ## Others 
 
+- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱
+- [backendlore](https://github.com/fpereiro/backendlore) - How I write backends
 - [eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [toolbox](https://github.com/amitness/toolbox) - Curated list of libraries for a faster machine learning workflow
 - [awesome-mpvue](https://github.com/mpvue/awesome-mpvue) - A curated list of awesome things related to mpvue
@@ -1956,11 +1962,11 @@
 - [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
-- [TSC](https://github.com/nodejs/TSC) - The Node.js Foundation Technical Steering Committee
+- [TSC](https://github.com/nodejs/TSC) - The Node.js Technical Steering Committee
 - [DDFE-blog](https://github.com/DDFE/DDFE-blog) - :clap: welcome to DDFE's blog
 - [cross-project-council](https://github.com/openjs-foundation/cross-project-council) - OpenJS Foundation Cross Project Council
 - [golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) - 在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。
-- [ideas](https://github.com/egoist/ideas) - ideas / thoughts / polls from egoist
+- [ideas](https://github.com/egoist/ideas) - 💡ideas / thoughts / polls from egoist
 - [Jinyong-Corpus](https://github.com/KehaoWu/Jinyong-Corpus) - 金庸15部小说字典
 - [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2019
 - [estree](https://github.com/estree/estree) - The ESTree Spec
@@ -2025,7 +2031,7 @@
 - [MasterBitcoin2CN](https://github.com/tianmingyun/MasterBitcoin2CN) - 《精通比特币》第二版  区块链研习社 云天明联合出品。本书更名《精通区块链编程第二版》已由机械工业出版社出版，京东有售。
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [LineStickersEditor](https://github.com/line-stickers/LineStickersEditor) - 
-- [Release](https://github.com/nodejs/Release) - Node.js Foundation Release Working Group
+- [Release](https://github.com/nodejs/Release) - Node.js Release Working Group
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [Tvlist-awesome-m3u-m3u8](https://github.com/billy21/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U
 - [7-secret-patterns](https://github.com/chrisvfritz/7-secret-patterns) - 
@@ -2470,7 +2476,7 @@
 
 ## TypeScript 
 
-- [excalidraw](https://github.com/excalidraw/excalidraw) - Sketch hand-drawn like diagrams
+- [excalidraw](https://github.com/excalidraw/excalidraw) - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 - [Rocket.Chat.GitHub.Action.Notification](https://github.com/RocketChat/Rocket.Chat.GitHub.Action.Notification) - Rocket.Chat Notification for GitHub Actions :bell: :rocket:
 - [machinelearnjs](https://github.com/machinelearnjs/machinelearnjs) - Machine Learning library for the web and Node.
 - [electron-in-page-search](https://github.com/rhysd/electron-in-page-search) - Module to introduce Electron's native in-page search avoiding pitfalls
@@ -2703,7 +2709,7 @@
 - [gods-pen](https://github.com/ymm-tech/gods-pen) - 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink.
 - [saber-theme-template](https://github.com/saberland/saber-theme-template) - A template for creating Saber theme.
 - [GitDataV](https://github.com/HongqingCao/GitDataV) - 基于Vue框架构建的github数据可视化平台
-- [postwoman](https://github.com/liyasthomas/postwoman) - 🛸👽 A free, fast & beautiful API request builder (online alternative to Postman) https://postwoman.io 🔥
+- [postwoman](https://github.com/liyasthomas/postwoman) - 🛸👽 A free, fast & beautiful API request builder (web alternative to Postman) https://postwoman.io 🔥
 - [OverVue](https://github.com/open-source-labs/OverVue) - Prototyping Tool For Vue Devs 适用于Vue的原型工具
 - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
 - [vuepress-plugin-code-switcher](https://github.com/padarom/vuepress-plugin-code-switcher) - :arrows_clockwise: Component that adds synchronized code blocks with multiple language support to your Vuepress sites
