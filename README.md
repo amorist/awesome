@@ -1190,7 +1190,6 @@
 - [tink](https://github.com/npm/tink) - a dependency unwinder for javascript
 - [VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
 - [zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
-- [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [imgsquash](https://github.com/eashish93/imgsquash) - Simple image compression full website code written in node, react and next.js framework. Easy to deploy as a microservice.
 - [js-cloudimage-360-view](https://github.com/scaleflex/js-cloudimage-360-view) - Engage your customers with a stunning 360 view of your products
 - [webpack-asset-relocator-loader](https://github.com/zeit/webpack-asset-relocator-loader) - Used in ncc while emitting and relocating any asset references
@@ -1827,6 +1826,7 @@
 - [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft
 - [tf-quant-finance](https://github.com/google/tf-quant-finance) - High-performance TensorFlow library for quantitative finance.
 - [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Notebooks, resources and references accompanying the book Machine Learning for Algorithmic Trading
+- [regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box) - 定投改变命运 —— 让时间陪你慢慢变富
 - [ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
@@ -2187,7 +2187,6 @@
 - [calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [public-speaking-with-meaning](https://github.com/xiaolai/public-speaking-with-meaning) - 《我也有话要说》—— 普通人的当众讲话技能
 - [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multifunction Discord bot
-- [regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box) - 定投改变命运 —— 让时间陪你慢慢变富
 - [hassio-wheels](https://github.com/home-assistant/hassio-wheels) - Build wheels for Home Assistant
 - [hub](https://github.com/pytorch/hub) - Submission to https://pytorch.org/hub/
 - [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -2515,7 +2514,7 @@
 - [takenote](https://github.com/taniarascia/takenote) - 📝 A web-based note-taking app with GitHub sync and Markdown support. (WIP)
 - [tecalliance-onedb-application](https://github.com/vauman/tecalliance-onedb-application) - This is the OneDB application to manage vehicles, parts, etc. build with Angular
 - [dts-gen](https://github.com/microsoft/dts-gen) - dts-gen creates starter TypeScript definition files for any module or library.
-- [vue-next](https://github.com/vuejs/vue-next) - 
+- [vue-next](https://github.com/vuejs/vue-next) - The next major version of Vue (WIP)
 - [got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [clerk](https://github.com/electron/clerk) - Verify PRs have release notes
@@ -2573,6 +2572,7 @@
 - [fullstack](https://github.com/TrillCyborg/fullstack) - React/ApolloGraphQL/Node/Mongo demo written in Typescript
 - [electron-notarize](https://github.com/electron/electron-notarize) - Notarize your macOS Electron Apps
 - [fabulous](https://github.com/Raathigesh/fabulous) - 🎨 CSS properties sidebar for VS Code
+- [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [gaea-editor](https://github.com/ascoders/gaea-editor) - Design websites in your browser. A smart web editor!
 - [vscode-gitlens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 - [vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
