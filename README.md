@@ -180,6 +180,7 @@
 - [hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🌩 A simple, clean, flexible Hugo theme
 - [hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh) - :book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】
 - [mvvm](https://github.com/DMQ/mvvm) - 剖析vue实现原理，自己动手实现mvvm
+- [dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [purecss-francine](https://github.com/cyanharlow/purecss-francine) - HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
 - [Pressure2](https://github.com/DirtDiglett/Pressure2) - Pressure² - a beautiful theme for your Steam Client.
 - [hexo-theme-next](https://github.com/theme-next/hexo-theme-next) - Elegant and powerful theme for Hexo.
@@ -1487,7 +1488,6 @@
 - [node-schedule](https://github.com/node-schedule/node-schedule) - A cron-like and not-cron-like job scheduler for Node.
 - [webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
-- [dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) - :speech_balloon: Easy way to create conversation chats
 - [mississippi](https://github.com/maxogden/mississippi) - A collection of useful stream utility modules for writing better code using streams
 - [webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
@@ -1563,7 +1563,6 @@
 - [numeronyms](https://github.com/zeke/numeronyms) - Turn words into neuronyms
 - [mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [i18n](https://github.com/nodejs/i18n) - The Node.js Internationalization Working Group – A Community Committee initiative.
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [wemark](https://github.com/TooBug/wemark) - 微信小程序Markdown渲染库
 - [dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -1860,6 +1859,7 @@
 
 - [api](https://github.com/istio/api) - API definitions for the Istio project
 - [project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 
 ## NSIS 
 
