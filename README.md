@@ -257,6 +257,7 @@
 
 ## Go 
 
+- [iis](https://github.com/coyove/iis) - Code that powers IIS
 - [gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [go-under-the-hood](https://github.com/changkun/go-under-the-hood) - 📚 Go Under The Hood: A Source Code Study of Go (1.14, WIP)
@@ -829,8 +830,8 @@
 - [img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
 - [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [schematyper](https://github.com/idubinskiy/schematyper) - Generates Go types based on JSON Schemas
-- [fastlane](https://github.com/tidwall/fastlane) - Fast multi-producer / single-consumer channels for Go
-- [go-micro](https://github.com/micro/go-micro) - A Go microservices development framework
+- [chanx](https://github.com/tidwall/chanx) - A simple interface wrapper around a Go channel.
+- [go-micro](https://github.com/micro/go-micro) - A Go microservices development framework https://go-micro.dev
 - [gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [go-apla](https://github.com/AplaProject/go-apla) - A blockchain platform with a simplified programming language
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
@@ -1017,6 +1018,7 @@
 
 ## JavaScript 
 
+- [report-toolkit](https://github.com/IBM/report-toolkit) - A toolkit for consumers of Node.js diagnostic Reports
 - [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
 - [city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
@@ -1328,7 +1330,7 @@
 - [miikun](https://github.com/hiro0218/miikun) - Simple Markdown Editor using Electron.
 - [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [build-your-own-vuejs](https://github.com/jsrebuild/build-your-own-vuejs) - [Deprecated] Build Vuejs from scratch to learn how it works internally
-- [style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art:
+- [style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
 - [DoodleMaster](https://github.com/karanchahal/DoodleMaster) - "Don't code your UI, Draw  it !"
 - [koot](https://github.com/cmux/koot) - Koot是基于React和Koa的WEB全栈技术解决方案。
 - [electron-hacking-for-beginners](https://github.com/ckerr/electron-hacking-for-beginners) - A gentle introduction to becoming productive in a 2.5 million LOC codebase
@@ -1633,7 +1635,7 @@
 - [notifme-sdk](https://github.com/notifme/notifme-sdk) - A Node.js library to send all kinds of transactional notifications.
 - [makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) - Create Anime Characters with MakeGirlsMoe
 - [machine-learning-with-js](https://github.com/abhisheksoni27/machine-learning-with-js) - Machine Learning with JavaScript. Fast and Simple. :rocket:
-- [nanoid](https://github.com/ai/nanoid) - A tiny (127 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [nanoid](https://github.com/ai/nanoid) - A tiny (119 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [wtfjs](https://github.com/denysdovhan/wtfjs) - A list of funny and tricky JavaScript examples
 - [Hilo](https://github.com/hiloteam/Hilo) - A Cross-end HTML5 Game development solution developed by Alibaba Group
 - [botui-examples](https://github.com/botui/botui-examples) - Some examples on how to use BotUI
@@ -2153,6 +2155,7 @@
 
 ## Python 
 
+- [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 - [ALBERT](https://github.com/google-research/ALBERT) - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
 - [2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement](https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement) - 2019CCF-BDCI大赛 最佳创新探索奖获得者 基于OCR身份证要素提取赛题冠军 天晨破晓团队 赛题源码
 - [keras-ocr](https://github.com/faustomorales/keras-ocr) - A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
@@ -2181,13 +2184,13 @@
 - [signature_algorithm](https://github.com/gadfly0x/signature_algorithm) - 各种App、小程序、网站的请求签名或加密算法。 现已有：自如、小红书、蛋壳公寓、luckin coffee(瑞幸咖啡)、bangkokair(曼谷航空)
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets
-- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).
+- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deep fakes.
 - [presidio](https://github.com/microsoft/presidio) - Context aware, pluggable and customizable data protection and anonymization service for text and images
 - [octodns](https://github.com/github/octodns) - Tools for managing DNS across multiple providers
 - [calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [public-speaking-with-meaning](https://github.com/xiaolai/public-speaking-with-meaning) - 《我也有话要说》—— 普通人的当众讲话技能
 - [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multifunction Discord bot
-- [hassio-wheels](https://github.com/home-assistant/hassio-wheels) - Build wheels for Home Assistant
+- [wheels](https://github.com/home-assistant/wheels) - Build wheels for Home Assistant
 - [hub](https://github.com/pytorch/hub) - Submission to https://pytorch.org/hub/
 - [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [gryphon](https://github.com/garethdmm/gryphon) - Powerful, proven, and extensible framework for building trading strategies at any frequency, with a focus on crypto currencies. Battle-tested with billions traded.
@@ -2345,6 +2348,7 @@
 
 ## Rust 
 
+- [actix-extras](https://github.com/actix/actix-extras) - A collection of additional crates supporting the actix and actix-web frameworks.
 - [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [ws-rs](https://github.com/housleyjk/ws-rs) - Lightweight, event-driven WebSockets for Rust.
 - [rust-vst-gui](https://github.com/vanderlokken/rust-vst-gui) - An extension to the 'rust-vst' crate to create VST plugin GUIs
