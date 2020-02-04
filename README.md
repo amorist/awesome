@@ -257,6 +257,8 @@
 
 ## Go 
 
+- [cli](https://github.com/cli/cli) - the GitHub CLI
+- [git-all-secrets](https://github.com/anshumanbh/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
 - [iis](https://github.com/coyove/iis) - Code that powers
 - [gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
@@ -282,6 +284,7 @@
 - [faasd](https://github.com/alexellis/faasd) - faasd - serverless with containerd and CNI  🐳
 - [mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [leetcode](https://github.com/pengliheng/leetcode) - ✍
+- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
 - [staticgen](https://github.com/tj/staticgen) - Static website generator that lets you use HTTP servers and frameworks you already know
 - [XConf](https://github.com/micro-in-cn/XConf) - 分布式配置中心
 - [tour](https://github.com/golang/tour) - [mirror] A Tour of Go
@@ -471,7 +474,6 @@
 - [unioffice](https://github.com/unidoc/unioffice) - Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents
 - [sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
 - [php2go](https://github.com/syyongx/php2go) - Use Golang to implement PHP's common built-in functions.
-- [go-ext-wasm](https://github.com/wasmerio/go-ext-wasm) - 🐹🕸️ Go library to run WebAssembly binaries.
 - [tensorflow-and-go](https://github.com/Pisush/tensorflow-and-go) - Use the Go API to read CAPTCHAs using TensorFlow
 - [cloud-game](https://github.com/giongto35/cloud-game) - Web-based Cloud Gaming service for Retro Game
 - [svgo](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation
@@ -741,7 +743,7 @@
 - [learn](https://github.com/gyuho/learn) - learn
 - [casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
-- [pigo](https://github.com/esimov/pigo) - Go implementation of Pico face detection library.
+- [pigo](https://github.com/esimov/pigo) - Pure Go face detection library.
 - [sessions](https://github.com/gin-contrib/sessions) - Gin middleware for session management
 - [mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
@@ -1018,6 +1020,7 @@
 
 ## JavaScript 
 
+- [wear-a-mask](https://github.com/zamhown/wear-a-mask) - 😷 一个纯前端实现的对图像进行基于深度学习的人脸关键点检测并自动添加口罩贴纸的单页应用
 - [report-toolkit](https://github.com/IBM/report-toolkit) - A toolkit for consumers of Node.js diagnostic Reports
 - [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
 - [city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
@@ -2156,6 +2159,7 @@
 
 ## Python 
 
+- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) - Python有趣的小例子一网打尽。Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 - [ALBERT](https://github.com/google-research/ALBERT) - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
@@ -2485,7 +2489,7 @@
 - [machinelearnjs](https://github.com/machinelearnjs/machinelearnjs) - Machine Learning library for the web and Node.
 - [electron-in-page-search](https://github.com/rhysd/electron-in-page-search) - Module to introduce Electron's native in-page search avoiding pitfalls
 - [umi-next](https://github.com/umijs/umi-next) - The next version of umi. (under development)
-- [uform](https://github.com/alibaba/uform) - ⚡React High Performance Form (JSON Schema Form) Solution For Enterprise.
+- [formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution.
 - [action-qiniu-upload](https://github.com/hujiulong/action-qiniu-upload) - Github Action for Uploading Files to Qiniu.com
 - [namae](https://github.com/uetchy/namae) - ☕️ name your new project.
 - [artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
@@ -2708,7 +2712,6 @@
 ## Vue 
 
 - [Daily-Question](https://github.com/shfshanyue/Daily-Question) - 每天一道面试题，有关前端，后端，devops以及软技能，促进职业成长，敲开大厂之门。
-- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
 - [saber-theme-paper](https://github.com/geekplux/saber-theme-paper) - A simple theme like read on a paper.
 - [vue-material-admin](https://github.com/tookit/vue-material-admin) - A vue material design admin template
 - [theme-blog](https://github.com/vuetifyjs/theme-blog) - A Free Material Blog Theme for Vuetify
