@@ -641,7 +641,7 @@
 - [lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [gocelery](https://github.com/gocelery/gocelery) - Celery Distributed Task Queue in Go
 - [participle](https://github.com/alecthomas/participle) - A parser library for Go
-- [hassio-cli](https://github.com/home-assistant/hassio-cli) - :white_square_button: Hass.io command line interface
+- [cli](https://github.com/home-assistant/cli) - :white_square_button: Home Assistant command line interface
 - [gi](https://github.com/goki/gi) - Native Go (golang) Graphical Interface system (2D and 3D), built on GoKi tree framework
 - [writefreely](https://github.com/writeas/writefreely) - A focused writing and publishing space.
 - [chain33](https://github.com/33cn/chain33) - 高度模块化, 遵循 KISS原则的区块链开发框架
@@ -855,6 +855,7 @@
 - [oauth2](https://github.com/golang/oauth2) - Go OAuth2
 - [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
+- [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [blockchain_guide](https://github.com/yeasy/blockchain_guide) - Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger.
 - [promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
 - [nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
@@ -1020,6 +1021,7 @@
 
 ## JavaScript 
 
+- [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [wear-a-mask](https://github.com/zamhown/wear-a-mask) - 😷 一个纯前端实现的对图像进行基于深度学习的人脸关键点检测并自动添加口罩贴纸的单页应用
 - [report-toolkit](https://github.com/IBM/report-toolkit) - A toolkit for consumers of Node.js diagnostic Reports
 - [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
@@ -2295,7 +2297,6 @@
 - [models](https://github.com/Sarasra/models) - Models and examples built with TensorFlow
 - [TopSup](https://github.com/Skyexu/TopSup) - 答题辅助决策：头号英雄等答题类游戏
 - [wechat_jump_game](https://github.com/wangshub/wechat_jump_game) - 微信《跳一跳》Python 辅助
-- [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
