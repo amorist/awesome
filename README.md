@@ -257,6 +257,8 @@
 
 ## Go 
 
+- [asynq](https://github.com/hibiken/asynq) - A simple asynchronous task queue library for Go
+- [gommon](https://github.com/labstack/gommon) - Common packages for Go
 - [cli](https://github.com/cli/cli) - the GitHub CLI
 - [git-all-secrets](https://github.com/anshumanbh/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
 - [iis](https://github.com/coyove/iis) - Code that powers
@@ -281,7 +283,7 @@
 - [go-wechat](https://github.com/nilorg/go-wechat) - 💥weixin、wechat、微信公众平台 golang/go sdk
 - [go-spring](https://github.com/go-spring/go-spring) - 基于 IoC 的 Go 后端一站式开发框架 🚀
 - [bfe](https://github.com/baidu/bfe) - Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd
-- [faasd](https://github.com/alexellis/faasd) - faasd - serverless with containerd and CNI  🐳
+- [faasd](https://github.com/openfaas/faasd) - faasd - serverless with containerd and CNI  🐳
 - [mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [leetcode](https://github.com/pengliheng/leetcode) - ✍
 - [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
@@ -538,7 +540,7 @@
 - [evio](https://github.com/tidwall/evio) - Fast event-loop networking for Go
 - [go2-book](https://github.com/chai2010/go2-book) - :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-- [inlets](https://github.com/inlets/inlets) - Reverse proxy and service tunnel written in Go
+- [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel written in Go
 - [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning models in production
 - [tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
@@ -1830,7 +1832,6 @@
 - [CodeSearchNet](https://github.com/github/CodeSearchNet) - Datasets, tools, and benchmarks for representation learning of code.
 - [examples](https://github.com/tensorflow/examples) - TensorFlow examples
 - [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft
-- [tf-quant-finance](https://github.com/google/tf-quant-finance) - High-performance TensorFlow library for quantitative finance.
 - [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Notebooks, resources and references accompanying the book Machine Learning for Algorithmic Trading
 - [regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box) - 定投改变命运 —— 让时间陪你慢慢变富
 - [ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
@@ -1904,7 +1905,7 @@
 
 ## Others 
 
-- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱
+- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱。Most of this not work outside China , so no English translate, sorry
 - [backendlore](https://github.com/fpereiro/backendlore) - How I write backends
 - [eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [toolbox](https://github.com/amitness/toolbox) - Curated list of libraries for a faster machine learning workflow
@@ -2189,6 +2190,7 @@
 - [imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
 - [CodingInterviews2-ByPython](https://github.com/NLP-LOVE/CodingInterviews2-ByPython) - 此项目是《剑指offer》第二版里算法面试题的Python3实现版本，作为一本经典书籍，可以时常拿出来看一看、翻一翻、记一记。同时也是为了Python程序员能够更好的通过公司的技术面试，拿到心仪的offer。
 - [espresso](https://github.com/freewym/espresso) - Espresso: A Fast End-to-End Neural Speech Recognition Toolkit
+- [tf-quant-finance](https://github.com/google/tf-quant-finance) - High-performance TensorFlow library for quantitative finance.
 - [signature_algorithm](https://github.com/gadfly0x/signature_algorithm) - 各种App、小程序、网站的请求签名或加密算法。 现已有：自如、小红书、蛋壳公寓、luckin coffee(瑞幸咖啡)、bangkokair(曼谷航空)
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets
