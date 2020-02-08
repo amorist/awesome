@@ -257,7 +257,7 @@
 
 ## Go 
 
-- [asynq](https://github.com/hibiken/asynq) - A simple asynchronous task queue library for Go
+- [asynq](https://github.com/hibiken/asynq) - Simple task queue for Go
 - [gommon](https://github.com/labstack/gommon) - Common packages for Go
 - [cli](https://github.com/cli/cli) - the GitHub CLI
 - [git-all-secrets](https://github.com/anshumanbh/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
