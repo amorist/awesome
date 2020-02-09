@@ -1024,7 +1024,7 @@
 ## JavaScript 
 
 - [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
-- [wear-a-mask](https://github.com/zamhown/wear-a-mask) - 😷 一个纯前端实现的对图像进行基于深度学习的人脸关键点检测并自动添加口罩贴纸的单页应用
+- [wear-a-mask](https://github.com/zamhown/wear-a-mask) - 😷 An SPA that uses only the front-end to perform deep-learning-based facial landmark detection on images and automatically adds breathing mask stickers.
 - [report-toolkit](https://github.com/IBM/report-toolkit) - A toolkit for consumers of Node.js diagnostic Reports
 - [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
 - [city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
