@@ -1572,6 +1572,7 @@
 - [numeronyms](https://github.com/zeke/numeronyms) - Turn words into neuronyms
 - [mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [i18n](https://github.com/nodejs/i18n) - The Node.js Internationalization Working Group – A Community Committee initiative.
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [wemark](https://github.com/TooBug/wemark) - 微信小程序Markdown渲染库
 - [dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -1868,7 +1869,6 @@
 
 - [api](https://github.com/istio/api) - API definitions for the Istio project
 - [project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 
 ## NSIS 
 
