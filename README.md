@@ -257,9 +257,10 @@
 
 ## Go 
 
+- [besticon](https://github.com/mat/besticon) - Favicon service written in Go
 - [asynq](https://github.com/hibiken/asynq) - Simple task queue for Go
 - [gommon](https://github.com/labstack/gommon) - Common packages for Go
-- [cli](https://github.com/cli/cli) - the GitHub CLI
+- [cli](https://github.com/cli/cli) - The GitHub CLI
 - [git-all-secrets](https://github.com/anshumanbh/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
 - [iis](https://github.com/coyove/iis) - Code that powers
 - [gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
@@ -1819,7 +1820,7 @@
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [covervid](https://github.com/stefanerickson/covervid) - Make your HTML5 video behave like a background cover image with this lightweight Javascript plugin / jQuery extension
 - [Quintus](https://github.com/cykod/Quintus) - HTML5 Game Engine
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - The https://www.freecodecamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
 - [nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 
 ## Jupyter Notebook 
