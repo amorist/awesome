@@ -68,6 +68,7 @@
 - [TencentOS-kernel](https://github.com/Tencent/TencentOS-kernel) - 腾讯针对云的场景研发的服务器操作系统
 - [darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
 - [smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。
+- [bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 - [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
@@ -118,7 +119,7 @@
 - [devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
 - [devilution-nx](https://github.com/lantus/devilution-nx) - Diablo for the Nintendo Switch
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal, and the original Windows console host - all in the same place!
+- [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [osx-mouse](https://github.com/kapetan/osx-mouse) - Mouse tracking for OS X
 - [flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) - Examples of using, and testbed for, the in-development Flutter for Desktop
 - [react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
@@ -261,7 +262,7 @@
 - [microservices](https://github.com/Allenxuxu/microservices) - micro 微服务实例教程，包含JWT鉴权、熔断、监控、链路追踪、健康检查、跨域等
 - [go-advice](https://github.com/cristaloleg/go-advice) - List of advices and tricks for Go  ʕ◔ϖ◔ʔ
 - [besticon](https://github.com/mat/besticon) - Favicon service written in Go
-- [asynq](https://github.com/hibiken/asynq) - Simple task queue for Go
+- [asynq](https://github.com/hibiken/asynq) - Simple, Reliable, and Efficient task queue for Go
 - [gommon](https://github.com/labstack/gommon) - Common packages for Go
 - [cli](https://github.com/cli/cli) - The GitHub CLI
 - [git-all-secrets](https://github.com/anshumanbh/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
@@ -1045,7 +1046,7 @@
 - [github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - :octocat: :rocket: GitHub action for deploying a project to GitHub pages.
 - [express-jwt](https://github.com/auth0/express-jwt) - connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes
 - [resumd](https://github.com/timqian/resumd) - Write resume with markdown
-- [ajax-interceptor](https://github.com/YGYOOO/ajax-interceptor) - 可以修改ajax请求返回结果的chrome插件
+- [ajax-interceptor](https://github.com/YGYOOO/ajax-interceptor) - 修改ajax请求返回结果的chrome插件
 - [flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [sentineljs](https://github.com/muicss/sentineljs) - Detect new DOM nodes using CSS selectors (650 bytes)
@@ -2170,12 +2171,11 @@
 - [ALBERT](https://github.com/google-research/ALBERT) - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
 - [2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement](https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement) - 2019CCF-BDCI大赛 最佳创新探索奖获得者 基于OCR身份证要素提取赛题冠军 天晨破晓团队 赛题源码
 - [keras-ocr](https://github.com/faustomorales/keras-ocr) - A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
-- [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for neural architecture search, model compression and hyper-parameter tuning.
+- [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [AV_Data_Capture](https://github.com/yoshiko2/AV_Data_Capture) - 日本电影元数据刮削器，配合kodi,emby等本地媒体管理工具使用
 - [textfilter](https://github.com/observerss/textfilter) - 敏感词过滤的几种实现+某1w词敏感词库
 - [demucs](https://github.com/facebookresearch/demucs) - Code for the paper Music Source Separation in the Waveform Domain
 - [geo-heatmap](https://github.com/luka1199/geo-heatmap) - :world_map: Generate an interactive geo heatmap from your Google location data
-- [bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [Cat-Breeds](https://github.com/samarjit98/Cat-Breeds) - Cat breed classification using RowCNN and deriving inter-breed relationships
 - [cat-breeds-classifier](https://github.com/batogov/cat-breeds-classifier) - Neural network classifies photos of kittens
@@ -2365,7 +2365,7 @@
 - [orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit.
 - [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
-- [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, fast, and customizable prompt for any shell.
+- [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [nushell](https://github.com/nushell/nushell) - A modern shell written in Rust
 - [rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
