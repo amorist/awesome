@@ -258,6 +258,7 @@
 
 ## Go 
 
+- [telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [fiber](https://github.com/gofiber/fiber) - 🚀 Fiber is an Express inspired web framework written in Go with 💖
 - [microservices](https://github.com/Allenxuxu/microservices) - micro 微服务实例教程，包含JWT鉴权、熔断、监控、链路追踪、健康检查、跨域等
 - [go-advice](https://github.com/cristaloleg/go-advice) - List of advices and tricks for Go  ʕ◔ϖ◔ʔ
@@ -2196,7 +2197,7 @@
 - [signature_algorithm](https://github.com/gadfly0x/signature_algorithm) - 各种App、小程序、网站的请求签名或加密算法。 现已有：自如、小红书、蛋壳公寓、luckin coffee(瑞幸咖啡)、bangkokair(曼谷航空)
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets
-- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deep fakes.
+- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [presidio](https://github.com/microsoft/presidio) - Context aware, pluggable and customizable data protection and anonymization service for text and images
 - [octodns](https://github.com/github/octodns) - Tools for managing DNS across multiple providers
 - [calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
@@ -2433,6 +2434,7 @@
 
 ## Swift 
 
+- [ControlRoom](https://github.com/twostraws/ControlRoom) - A macOS app to control the Xcode Simulator.
 - [SOTabBar](https://github.com/Ahmadalsofi/SOTabBar) - Light way to add Fancy bottom bar 📲
 - [Publish](https://github.com/JohnSundell/Publish) - A static site generator for Swift developers
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
