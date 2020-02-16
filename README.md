@@ -263,7 +263,7 @@
 - [microservices](https://github.com/Allenxuxu/microservices) - micro 微服务实例教程，包含JWT鉴权、熔断、监控、链路追踪、健康检查、跨域等
 - [go-advice](https://github.com/cristaloleg/go-advice) - List of advices and tricks for Go  ʕ◔ϖ◔ʔ
 - [besticon](https://github.com/mat/besticon) - Favicon service written in Go
-- [asynq](https://github.com/hibiken/asynq) - Simple, Reliable, and Efficient task queue for Go
+- [asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient task queue for Go
 - [gommon](https://github.com/labstack/gommon) - Common packages for Go
 - [cli](https://github.com/cli/cli) - The GitHub CLI
 - [git-all-secrets](https://github.com/anshumanbh/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
@@ -1027,6 +1027,7 @@
 
 ## JavaScript 
 
+- [live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 - [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [wear-a-mask](https://github.com/zamhown/wear-a-mask) - 😷 An SPA that uses only the front-end to perform deep-learning-based facial landmark detection on images and automatically adds breathing mask stickers.
 - [report-toolkit](https://github.com/IBM/report-toolkit) - A toolkit for consumers of Node.js diagnostic Reports
