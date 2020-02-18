@@ -262,9 +262,9 @@
 - [telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [fiber](https://github.com/gofiber/fiber) - 🚀 Fiber is an Express inspired web framework written in Go with 💖
 - [microservices](https://github.com/Allenxuxu/microservices) - micro 微服务实例教程，包含JWT鉴权、熔断、监控、链路追踪、健康检查、跨域等
-- [go-advice](https://github.com/cristaloleg/go-advice) - List of advices and tricks for Go  ʕ◔ϖ◔ʔ
+- [go-advice](https://github.com/cristaloleg/go-advice) - List of advice and tricks for Go  ʕ◔ϖ◔ʔ
 - [besticon](https://github.com/mat/besticon) - Favicon service written in Go
-- [asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient task queue for Go
+- [asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [gommon](https://github.com/labstack/gommon) - Common packages for Go
 - [cli](https://github.com/cli/cli) - The GitHub CLI
 - [git-all-secrets](https://github.com/anshumanbh/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
@@ -1784,7 +1784,7 @@
 - [node-webgl](https://github.com/mikeseven/node-webgl) - WebGL bindings to desktop OpenGL
 - [ejs-mate](https://github.com/JacksonTian/ejs-mate) - Express 4.x layout, partial template functions for the EJS template engine.
 - [node-tensorflow](https://github.com/nikhilk/node-tensorflow) - Node.js + TensorFlow
-- [plotly-nodejs](https://github.com/plotly/plotly-nodejs) - node.js wrapper for Plotly's Streaming and REST APIs
+- [plotly-nodejs](https://github.com/plotly/plotly-nodejs) - node.js wrapper for Plotly's Chart Studio Streaming and REST APIs
 - [mongoose-role](https://github.com/ksmithut/mongoose-role) - 
 - [wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 - [uploadify](https://github.com/i5ting/uploadify) - uploadify = express && koa 2 uploadify with jquery fileupload
@@ -2561,7 +2561,7 @@
 - [toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [graphql-cli](https://github.com/Urigo/graphql-cli) - 📟  Command line tool for common GraphQL development workflows
 - [fullstack-tutorial](https://github.com/apollographql/fullstack-tutorial) - 🚀 The Apollo platform tutorial app
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [playground](https://github.com/tensorflow/playground) - Play with neural networks!
 - [prisma2](https://github.com/prisma/prisma2) - Modern DB toolkit to query, migrate and model your database
