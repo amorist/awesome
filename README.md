@@ -286,7 +286,7 @@
 - [nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS, the cloud native messaging system.
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database, long-term remote storage for Prometheus
-- [crossplane](https://github.com/crossplaneio/crossplane) - The open source multicloud control plane.
+- [crossplane](https://github.com/crossplane/crossplane) - The open source multicloud control plane.
 - [go-wechat](https://github.com/nilorg/go-wechat) - 💥weixin、wechat、微信公众平台 golang/go sdk
 - [go-spring](https://github.com/go-spring/go-spring) - 基于 IoC 的 Go 后端一站式开发框架 🚀
 - [bfe](https://github.com/baidu/bfe) - Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd
@@ -1372,7 +1372,7 @@
 - [simple](https://github.com/poi-starters/simple) - A simple web app starter for Poi, with zero config.
 - [vuepress-blog-example-egoist](https://github.com/ulivz/vuepress-blog-example-egoist) - 
 - [Dusk](https://github.com/pacocoursey/Dusk) - simple, customizable macOS application icons
-- [Opus](https://github.com/pacocoursey/Opus) - minimal note-taking app.
+- [Opus](https://github.com/pacocoursey/Opus) - minimal note-taking app
 - [platelet](https://github.com/amorist/platelet) - けっしょうばん
 - [symbol-server](https://github.com/electron/symbol-server) - Electron symbol server
 - [omi](https://github.com/Tencent/omi) - Front End Cross-Frameworks Framework - 前端跨框架跨平台框架
@@ -1411,7 +1411,7 @@
 - [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [gitignore-org](https://github.com/gitignore-org/gitignore-org) - A collection of useful .gitignore templates
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a  Puppeteer script.
-- [wx-promise-pro](https://github.com/youngjuning/wx-promise-pro) - :sparkles:强大、优雅的小程序异步库:rocket: 小程序promise
+- [wx-promise-pro](https://github.com/youngjuning/wx-promise-pro) - ✨强大、优雅的微信小程序异步库🚀
 - [react-move](https://github.com/react-tools/react-move) - :black_medium_small_square:React Move | Beautiful, data-driven animations for React
 - [dbkoda](https://github.com/SouthbankSoftware/dbkoda) - State of the art MongoDB IDE
 - [mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and express
@@ -1911,7 +1911,7 @@
 
 ## Others 
 
-- [Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础面试问题全面总结，包含详细的follow-up question以及答案；模拟面试，知识点复习，快速备战面试...
+- [Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；模拟面试，知识点复习，快速备战面试...
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱。Most of this not work outside China , so no English translate, sorry
 - [backendlore](https://github.com/fpereiro/backendlore) - How I write backends
 - [eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
@@ -2176,7 +2176,7 @@
 - [2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement](https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement) - 2019CCF-BDCI大赛 最佳创新探索奖获得者 基于OCR身份证要素提取赛题冠军 天晨破晓团队 赛题源码
 - [keras-ocr](https://github.com/faustomorales/keras-ocr) - A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
 - [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
-- [AV_Data_Capture](https://github.com/yoshiko2/AV_Data_Capture) - 日本电影元数据刮削器，配合kodi,emby等本地媒体管理工具使用
+- [AV_Data_Capture](https://github.com/yoshiko2/AV_Data_Capture) - 本地电影刮削与整理一体化解决方案
 - [textfilter](https://github.com/observerss/textfilter) - 敏感词过滤的几种实现+某1w词敏感词库
 - [demucs](https://github.com/facebookresearch/demucs) - Code for the paper Music Source Separation in the Waveform Domain
 - [geo-heatmap](https://github.com/luka1199/geo-heatmap) - :world_map: Generate an interactive geo heatmap from your Google location data
