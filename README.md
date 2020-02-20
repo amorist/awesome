@@ -258,6 +258,7 @@
 
 ## Go 
 
+- [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, etc)  7天用Go动手写系列[从零实现]
 - [esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
 - [telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [fiber](https://github.com/gofiber/fiber) - 🚀 Fiber is an Express inspired web framework written in Go with 💖
@@ -304,7 +305,7 @@
 - [seesaw](https://github.com/google/seesaw) - Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.
 - [s4](https://github.com/axetroy/s4) - :rocket: 集成本地/远程的工作流 Integrate local and remote workflow
 - [sudolikeaboss](https://github.com/ravenac95/sudolikeaboss) - Get 1password access from iterm2
-- [expr](https://github.com/antonmedv/expr) - Expression evaluation with static typing for Go
+- [expr](https://github.com/antonmedv/expr) - Expression evaluation engine for Go: fast, non-Turing complete, dynamic typing, static typing
 - [gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language"
 - [githubv4](https://github.com/shurcooL/githubv4) - Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://developer.github.com/v4/).
 - [triage](https://github.com/tj/triage) - Interactive command-line GitHub issue & notification triaging tool.
@@ -1262,7 +1263,7 @@
 - [wechat-format](https://github.com/lyricat/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
 - [koa-prerender](https://github.com/RisingStack/koa-prerender) - KOA middleware for prerendering javascript-rendered pages on the fly for SEO
 - [prerender](https://github.com/prerender/prerender) - Node server that uses Headless Chrome to render a javascript-rendered page as HTML. To be used in conjunction with prerender middleware.
-- [ghChat](https://github.com/aermin/ghChat) - :octocat: 📱A chat application for GitHub. Front-End : React+Redux+React-router+axios+scss；Back-end: node(koa2)+mysql+JWT+ Typescripts; Socket.io, PWA
+- [ghChat](https://github.com/aermin/ghChat) - :octocat: 📱A chat application for GitHub. React + Node(koa2)+Mysql  + Socket.io + Typescripts + PWA
 - [snowpack](https://github.com/pikapkg/snowpack) - 📦✨ Build web applications with less tooling and 10x faster iteration. No bundler required.
 - [vue-dev-server](https://github.com/vuejs/vue-dev-server) - A POC dev server that allows you to import `*.vue` files via native ES modules imports.
 - [grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
@@ -1830,6 +1831,7 @@
 
 ## Jupyter Notebook 
 
+- [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
 - [Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0) - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为TensorFlow 2.0实现，项目已得到李沐老师的同意
 - [Financial-Models-Numerical-Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods) - Collection of notebooks about quantitative finance, with interactive python code.
 - [Cat_Recognition](https://github.com/tinalulu1327/Cat_Recognition) - Cat Detection and Breed Recognition
@@ -2061,7 +2063,7 @@
 - [share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  我个人曾经做过的技术分享...
 - [weixin-xiaochengxu666-info](https://github.com/xiaobei666/weixin-xiaochengxu666-info) - 微信小程序开发框架、资源-干货汇总
 - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
-- [hosts](https://github.com/googlehosts/hosts) - 镜像：https://coding.net/u/scaffrey/p/hosts/git
+- [hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
 - [nginx-tutorial](https://github.com/jaywcjlove/nginx-tutorial) - Nginx安装维护入门学习笔记，以及各种实例。
 - [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -2427,7 +2429,7 @@
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
 - [osx-iso](https://github.com/busterc/osx-iso) -  Create a bootable ISO of OS X / macOS, from the installation app file
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [archey-osx](https://github.com/obihann/archey-osx) - An archey script clone for OS X
 - [setup-simple-pptp-vpn](https://github.com/viljoviitanen/setup-simple-pptp-vpn) - Setup Simple PPTP VPN Server for Ubuntu and Debian
 
