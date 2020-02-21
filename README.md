@@ -515,7 +515,7 @@
 - [macaron](https://github.com/go-macaron/macaron) - Package macaron is a high productive and modular web framework in Go.
 - [dig](https://github.com/uber-go/dig) - A reflection based dependency injection toolkit for Go.
 - [tutorials](https://github.com/micro-in-cn/tutorials) - Micro 中文示例、教程、资料，源码解读
-- [space-cloud](https://github.com/spaceuptech/space-cloud) - Space Cloud is an open source, web server that provides instant Realtime APIs on any database of your choice. Build highly scalable apps with the agility of a prototype!
+- [space-cloud](https://github.com/spaceuptech/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
 - [go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [go-logging](https://github.com/op/go-logging) - Golang logging library
 - [casbin-server](https://github.com/casbin/casbin-server) - Casbin as a Service (CaaS)
@@ -995,7 +995,7 @@
 - [incubator-dolphinscheduler](https://github.com/apache/incubator-dolphinscheduler) - Dolphin Scheduler is a distributed and easy-to-expand visual DAG workflow scheduling system, dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing.(分布式易扩展的可视化工作流任务调度)
 - [react-native-camera](https://github.com/react-native-community/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
 - [apollo](https://github.com/ctripcorp/apollo) - Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
-- [pinpoint](https://github.com/naver/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems written in Java.
+- [pinpoint](https://github.com/naver/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 - [COLA](https://github.com/alibaba/COLA) - Clean Object-oriented & Layered Architecture
@@ -2065,7 +2065,7 @@
 - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
 - [nginx-tutorial](https://github.com/jaywcjlove/nginx-tutorial) - Nginx安装维护入门学习笔记，以及各种实例。
-- [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
+- [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [admin](https://github.com/nodejs/admin) - Facilitating joint collaboration amongst the TSC and CommComm
 - [hack-the-media](https://github.com/nemild/hack-the-media) - This repo collects examples of intentional and unintentional hacks of media sources
@@ -2733,7 +2733,7 @@
 - [gods-pen](https://github.com/ymm-tech/gods-pen) - 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink.
 - [saber-theme-template](https://github.com/saberland/saber-theme-template) - A template for creating Saber theme.
 - [GitDataV](https://github.com/HongqingCao/GitDataV) - 基于Vue框架构建的github数据可视化平台
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast & beautiful API request builder (web alternative to Postman) https://postwoman.io 🔥
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) https://postwoman.io 🔥
 - [OverVue](https://github.com/open-source-labs/OverVue) - Prototyping Tool For Vue Devs 适用于Vue的原型工具
 - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
 - [vuepress-plugin-code-switcher](https://github.com/padarom/vuepress-plugin-code-switcher) - :arrows_clockwise: Component that adds synchronized code blocks with multiple language support to your Vuepress sites
