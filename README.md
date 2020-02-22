@@ -1009,7 +1009,7 @@
 - [ratel](https://github.com/ainilili/ratel) - A fighting landlord program that can be played on the command line
 - [symphony](https://github.com/b3log/symphony) - 🎶 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。
 - [Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
-- [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is less then 5Mb with all ip address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
+- [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine
 - [NewXmPluginSDK](https://github.com/MiEcosystem/NewXmPluginSDK) - xiaomi smarthome app plugin sdk
 - [spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
@@ -1263,7 +1263,7 @@
 - [wechat-format](https://github.com/lyricat/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
 - [koa-prerender](https://github.com/RisingStack/koa-prerender) - KOA middleware for prerendering javascript-rendered pages on the fly for SEO
 - [prerender](https://github.com/prerender/prerender) - Node server that uses Headless Chrome to render a javascript-rendered page as HTML. To be used in conjunction with prerender middleware.
-- [ghChat](https://github.com/aermin/ghChat) - :octocat: 📱A chat application for GitHub. React + Node(koa2)+Mysql  + Socket.io + Typescripts + PWA
+- [ghChat](https://github.com/aermin/ghChat) - :octocat: 📱A chat application for GitHub. React + PWA + Node(koa2) + Typescripts  + Mysql  + Socket.io
 - [snowpack](https://github.com/pikapkg/snowpack) - 📦✨ Build web applications with less tooling and 10x faster iteration. No bundler required.
 - [vue-dev-server](https://github.com/vuejs/vue-dev-server) - A POC dev server that allows you to import `*.vue` files via native ES modules imports.
 - [grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
@@ -1731,7 +1731,6 @@
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [scotch-player](https://github.com/christiannwamba/scotch-player) - Demo for a Scotch Article
-- [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [mongotron](https://github.com/officert/mongotron) - Cross platform Mongo DB management
 - [medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
 - [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
@@ -2591,7 +2590,6 @@
 - [accounts](https://github.com/accounts-js/accounts) - Fullstack authentication and accounts-management for Javascript.
 - [ant-design-colors](https://github.com/ant-design/ant-design-colors) - :art: Color Palettes Calculator of Ant Design
 - [emma-cli](https://github.com/maticzav/emma-cli) - 📦 Terminal assistant to find and install node packages.
-- [fullstack](https://github.com/TrillCyborg/fullstack) - React/ApolloGraphQL/Node/Mongo demo written in Typescript
 - [electron-notarize](https://github.com/electron/electron-notarize) - Notarize your macOS Electron Apps
 - [fabulous](https://github.com/Raathigesh/fabulous) - 🎨 CSS properties sidebar for VS Code
 - [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
@@ -2702,6 +2700,7 @@
 - [HAP-NodeJS](https://github.com/KhaosT/HAP-NodeJS) - Node.js implementation of HomeKit Accessory Server.
 - [ioredis](https://github.com/luin/ioredis) - 🚀A robust, performance-focused and full-featured Redis client for Node.js.
 - [menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
+- [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [vscode-background](https://github.com/shalldie/vscode-background) - A vscode extension to make it lovely.
 - [caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
