@@ -182,6 +182,7 @@
 - [hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh) - :book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】
 - [mvvm](https://github.com/DMQ/mvvm) - 剖析vue实现原理，自己动手实现mvvm
 - [dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
+- [ycmjason.com](https://github.com/ycmjason/ycmjason.com) - 
 - [purecss-francine](https://github.com/cyanharlow/purecss-francine) - HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
 - [Pressure2](https://github.com/DirtDiglett/Pressure2) - Pressure² - a beautiful theme for your Steam Client.
 - [hexo-theme-next](https://github.com/theme-next/hexo-theme-next) - Elegant and powerful theme for Hexo.
@@ -258,7 +259,8 @@
 
 ## Go 
 
-- [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, etc)  7天用Go动手写系列[从零实现]
+- [goxygen](https://github.com/Shpota/goxygen) - 👩🏻‍💻 Generate a modern web project with Go, React and MongoDB in seconds 🚀
+- [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc)  7天用Go动手写/从零实现系列
 - [esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
 - [telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [fiber](https://github.com/gofiber/fiber) - 🚀 Fiber is an Express inspired web framework written in Go with 💖
@@ -988,6 +990,7 @@
 
 ## Java 
 
+- [fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) - 🚀 fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
 - [mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [migration](https://github.com/phodal/migration) - 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护
 - [newbee-mall](https://github.com/newbee-ltd/newbee-mall) - newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
@@ -1007,7 +1010,7 @@
 - [miaosha](https://github.com/qiurunze123/miaosha) - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 - [ratel](https://github.com/ainilili/ratel) - A fighting landlord program that can be played on the command line
-- [symphony](https://github.com/b3log/symphony) - 🎶 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。
+- [symphony](https://github.com/b3log/symphony) - 仓库已经迁移到 https://github.com/88250/symphony
 - [Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
 - [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine
@@ -1025,7 +1028,7 @@
 - [webmagic](https://github.com/code4craft/webmagic) - A scalable web crawler framework for Java.
 - [jeecg](https://github.com/zhangdaiscott/jeecg) - JEECG是一款基于代码生成器的J2EE快速开发平台，开源界“小普元”超越传统商业企业级开发平台。引领新的开发模式(Online Coding模式(自定义表单) - &gt; 代码生成器模式 - &gt; 手工MERGE智能开发)， 可以帮助解决Java项目90%的重复工作，让开发更多关注业务逻辑。既能快速提高开发效率，帮助公司节省人力成本，同时又不失灵活性。具备：表单配置能力（无需编码）、移动配置能力、工作流配置能力、报表配置能力（支持移动端）、插件开发能力（可插拔）
 - [jfinal](https://github.com/jfinal/jfinal) - JAVA WEB + ORM Framework
-- [solo](https://github.com/b3log/solo) - 🎸 一款小而美的博客系统，专为程序员设计。
+- [solo](https://github.com/b3log/solo) - 仓库已经迁移到 https://github.com/88250/solo
 
 ## JavaScript 
 
@@ -1512,7 +1515,6 @@
 - [baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx) - ⚡️ 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。
 - [chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
-- [ycmjason.com](https://github.com/ycmjason/ycmjason.com) - 
 - [markdown-pdf](https://github.com/alanshaw/markdown-pdf) - :page_facing_up: Markdown to PDF converter
 - [update.electronjs.org](https://github.com/electron/update.electronjs.org) - 📡 A free service that makes it easy for open-source Electron apps to update themselves.
 - [tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
@@ -1856,6 +1858,7 @@
 - [kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [pytorch-book](https://github.com/chenyuntc/pytorch-book) - PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
+- [swift](https://github.com/tensorflow/swift) - Swift for TensorFlow Project Home Page
 - [tensorflow-docs](https://github.com/xitu/tensorflow-docs) - TensorFlow 最新官方文档中文版
 - [pydata-notebook](https://github.com/BrambleXu/pydata-notebook) - 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
 - [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - Code for Natural Language Processing, and Text Generation, in TensorFlow 2.x / 1.x
@@ -1912,7 +1915,7 @@
 
 ## Others 
 
-- [Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；模拟面试，知识点复习，快速备战面试...
+- [Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试；可用于模拟面试、面试前复习、短期内快速备战面试...
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱。Most of this not work outside China , so no English translate, sorry
 - [backendlore](https://github.com/fpereiro/backendlore) - How I write backends
 - [eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
@@ -2051,7 +2054,7 @@
 - [LineStickersEditor](https://github.com/line-stickers/LineStickersEditor) - 
 - [Release](https://github.com/nodejs/Release) - Node.js Release Working Group
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
-- [Tvlist-awesome-m3u-m3u8](https://github.com/billy21/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U
+- [Tvlist-awesome-m3u-m3u8](https://github.com/billy21/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 武汉加油
 - [7-secret-patterns](https://github.com/chrisvfritz/7-secret-patterns) - 
 - [architecture.wechat-tencent](https://github.com/davideuler/architecture.wechat-tencent) - 互联网公司架构: 微信技术架构， 腾讯技术架构
 - [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
@@ -2146,7 +2149,7 @@
 
 ## PHP 
 
-- [monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends and family.
+- [monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [crater](https://github.com/bytefury/crater) - Free & Open Source Invoice App for Freelancers & Small Businesses
 - [PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop offers a fully scalable open source ecommerce solution.
 - [typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
@@ -2228,7 +2231,7 @@
 - [Machine-Learning](https://github.com/shunliz/Machine-Learning) - 机器学习原理
 - [jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
 - [py-futu-api](https://github.com/FutunnOpen/py-futu-api) - 富途开放API  Python SDK
-- [requests3](https://github.com/kennethreitz/requests3) - Requests 3.0, for Humans and Machines, alike. 🤖
+- [requests3](https://github.com/kennethreitz-archive/requests3) - Requests 3.0, for Humans and Machines, alike. 🤖
 - [USTC-Course](https://github.com/USTC-Resource/USTC-Course) - :heart:中国科学技术大学课程资源
 - [docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
 - [Lihang](https://github.com/SmirkCao/Lihang) - Statistical learning methods, 统计学习方法(第2版)[李航]  [笔记, 代码, notebook, 参考文献, Errata, lihang]
@@ -2474,7 +2477,6 @@
 - [WebShell](https://github.com/djyde/WebShell) - Bundle web apps to native OS X app
 - [vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift web framework.
 - [Charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
-- [swift](https://github.com/tensorflow/swift) - Swift for TensorFlow Project Home Page
 - [Clock.saver](https://github.com/soffes/Clock.saver) - Simple clock screensaver written in Swift
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS.
 - [Peek](https://github.com/shaps80/Peek) - All new design. Inspect your iOS application at runtime.
@@ -2494,6 +2496,7 @@
 
 ## TypeScript 
 
+- [react-visual-editor](https://github.com/anye931123/react-visual-editor) - React可视化编辑
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 - [Rocket.Chat.GitHub.Action.Notification](https://github.com/RocketChat/Rocket.Chat.GitHub.Action.Notification) - Rocket.Chat Notification for GitHub Actions :bell: :rocket:
