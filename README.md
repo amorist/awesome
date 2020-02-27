@@ -883,7 +883,7 @@
 - [riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine
 - [wow](https://github.com/gernest/wow) - :open_mouth::exclamation::exclamation: Wow:exclamation: now my Go commandline app is spinning with :rainbow: and :horse:
 - [triangle](https://github.com/esimov/triangle) - Convert images to computer generated art using delaunay triangulation.
-- [app](https://github.com/maxence-charriere/app) - A WebAssembly framework to build GUI with Go, HTML and CSS.
+- [go-app](https://github.com/maxence-charriere/go-app) - A WebAssembly framework to build GUI with Go, HTML and CSS.
 - [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [caddy](https://github.com/caddyserver/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
@@ -1449,7 +1449,7 @@
 - [react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
 - [cn.vuejs.org](https://github.com/vuejs/cn.vuejs.org) - 🇨🇳 Chinese translation for vuejs.org
 - [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
-- [d2-admin](https://github.com/d2-projects/d2-admin) - :rainbow: An elegant dashboard
+- [d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
 - [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 - [hocs](https://github.com/deepsweet/hocs) - :bento: Higher-Order Components for React
@@ -1592,7 +1592,6 @@
 - [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
 - [Cumulus](https://github.com/gillesdemey/Cumulus) - ☁️  A SoundCloud player that lives in your menubar.
 - [just-dashboard](https://github.com/kantord/just-dashboard) - :bar_chart: :clipboard: Dashboards using YAML or JSON files
-- [i18n](https://github.com/electron/i18n) - 🌍 The home of Electron's translated documentation
 - [strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [github-webhook-handler](https://github.com/rvagg/github-webhook-handler) - Node.js web handler / middleware for processing GitHub Webhooks
@@ -1916,7 +1915,7 @@
 
 ## Others 
 
-- [Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试；可用于模拟面试、面试前复习、短期内快速备战面试...
+- [Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱。Most of this not work outside China , so no English translate, sorry
 - [backendlore](https://github.com/fpereiro/backendlore) - How I write backends
 - [eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
@@ -2197,7 +2196,7 @@
 - [iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport) - This repository holds the device support files for the iOS, and I will update it regularly.
 - [pkuseg-python](https://github.com/lancopku/pkuseg-python) - pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation
 - [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB) - 💎1MB lightweight face detection model  (1MB轻量级人脸检测模型)
-- [detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is FAIR's next-generation research platform for object detection and segmentation.
+- [detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is FAIR's next-generation platform for object detection and segmentation.
 - [interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
 - [CodingInterviews2-ByPython](https://github.com/NLP-LOVE/CodingInterviews2-ByPython) - 此项目是《剑指offer》第二版里算法面试题的Python3实现版本，作为一本经典书籍，可以时常拿出来看一看、翻一翻、记一记。同时也是为了Python程序员能够更好的通过公司的技术面试，拿到心仪的offer。
@@ -2259,7 +2258,7 @@
 - [pywonderland](https://github.com/neozhaoliang/pywonderland) - A tour in the wonderland of math with python.
 - [chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 🎮 Chinese DOS games in browser.
 - [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
-- [QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS) - QUANTAXIS 支持任务调度 分布式部署的 股票/期货/自定义市场 数据/回测/模拟/交易/可视化 纯本地PAAS量化解决方案
+- [QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS) - QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币  数据/回测/模拟/交易/可视化 纯本地PAAS量化解决方案
 - [termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
 - [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [hub](https://github.com/tensorflow/hub) - A library for transfer learning by reusing parts of TensorFlow models.
@@ -2498,7 +2497,7 @@
 
 ## TypeScript 
 
-- [react-visual-editor](https://github.com/anye931123/react-visual-editor) - React可视化编辑,自由拖拽，dom实时追踪，组件无限制嵌套组合，保证组件完整性，代码生成，实时预览
+- [react-visual-editor](https://github.com/anye931123/react-visual-editor) - 基于 React 的可视化编辑,自由拖拽，dom实时追踪，组件无限制嵌套组合，保证组件完整性，多平台支持，代码生成，实时预览，喜欢的请点颗星，鼓励一下作者！
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 - [Rocket.Chat.GitHub.Action.Notification](https://github.com/RocketChat/Rocket.Chat.GitHub.Action.Notification) - Rocket.Chat Notification for GitHub Actions :bell: :rocket:
@@ -2692,6 +2691,7 @@
 - [rough](https://github.com/pshihn/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
 - [pandora](https://github.com/midwayjs/pandora) - A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
+- [i18n](https://github.com/electron/i18n) - 🌍 The home of Electron's translated documentation
 - [now](https://github.com/zeit/now) - The easiest way to deploy websites
 - [caprover](https://github.com/caprover/caprover) - [previously CaptainDuckDuck] Automated Scalable PaaS Package (automated Docker+nginx) - Heroku on Steroids
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
