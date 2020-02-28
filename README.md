@@ -259,7 +259,7 @@
 
 ## Go 
 
-- [goxygen](https://github.com/Shpota/goxygen) - Generate a modern web project with Go, React and MongoDB in seconds 👩🏻‍💻 🚀
+- [goxygen](https://github.com/Shpota/goxygen) - Generate a modern web project with Go, React and MongoDB in seconds🚀
 - [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc)  7天用Go动手写/从零实现系列
 - [esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
 - [telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
@@ -914,6 +914,8 @@
 
 ## HTML 
 
+- [hiwifi.easucks](https://github.com/Paull/hiwifi.easucks) - 极路由器官方固件的插件，FIFA助手，SS，For 1.2.5-1.5.9
+- [nndl.github.io](https://github.com/nndl/nndl.github.io) - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
 - [catch-the-cat](https://github.com/xf11075/catch-the-cat) - 圈小猫canvas游戏
 - [istio.io](https://github.com/istio/istio.io) - Source for the istio.io site
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -1095,7 +1097,6 @@
 - [d3-require](https://github.com/d3/d3-require) - A minimal, promise-based implementation to require asynchronous module definitions.
 - [use-codemirror](https://github.com/jamesknelson/use-codemirror) - CodeMirror support for React
 - [F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
-- [G2](https://github.com/antvis/G2) - 📊 The Grammar of Graphics in JavaScript
 - [BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React.
 - [create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [electron-osx-sign](https://github.com/electron/electron-osx-sign) - Codesign Electron macOS apps
@@ -2497,7 +2498,7 @@
 
 ## TypeScript 
 
-- [react-visual-editor](https://github.com/anye931123/react-visual-editor) - 基于 React 的可视化编辑,自由拖拽，dom实时追踪，组件无限制嵌套组合，保证组件完整性，多平台支持，代码生成，实时预览，喜欢的请点颗星，鼓励一下作者！
+- [react-visual-editor](https://github.com/anye931123/react-visual-editor) - 基于 React 的可视化编辑,自由拖拽，dom实时追踪，组件无限制嵌套组合，保证组件完整性，多平台支持，代码生成，实时预览，项目于2020.2.22开源，喜欢的点颗星支持鼓励一下！
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 - [Rocket.Chat.GitHub.Action.Notification](https://github.com/RocketChat/Rocket.Chat.GitHub.Action.Notification) - Rocket.Chat Notification for GitHub Actions :bell: :rocket:
@@ -2529,6 +2530,7 @@
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [vuetify-module](https://github.com/nuxt-community/vuetify-module) - Vuetify Module for Nuxt.js
 - [L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL  or AMap to render basemaps.
+- [G2](https://github.com/antvis/G2) - 📊 A highly interactive data-driven visualization grammar for statistical charts.
 - [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [swr](https://github.com/zeit/swr) - React Hooks library for remote data fetching
 - [remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建小程序
