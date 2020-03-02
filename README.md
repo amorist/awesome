@@ -746,7 +746,7 @@
 - [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
 - [asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 - [cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
-- [pulumi](https://github.com/pulumi/pulumi) - Give your team cloud superpowers 🚀: Modern Infrastructure Provisioning, Delivery, Architecture, Policy, and Testing as Code. Any cloud, any language.
+- [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language. Give your team cloud superpowers 🚀
 - [golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记
 - [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [nanoserver](https://github.com/lonng/nanoserver) - DEMO: Mahjong server base on nano(https://github.com/lonng/nano)
@@ -887,7 +887,7 @@
 - [triangle](https://github.com/esimov/triangle) - Convert images to computer generated art using delaunay triangulation.
 - [go-app](https://github.com/maxence-charriere/go-app) - A WebAssembly framework to build GUI with Go, HTML and CSS.
 - [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
-- [caddy](https://github.com/caddyserver/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
+- [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
 - [gorm](https://github.com/jinzhu/gorm) - The fantastic ORM library for Golang, aims to be developer friendly (v2 is under development, PR based on master branch won't be accepted)
@@ -1309,7 +1309,6 @@
 - [deeptraffic](https://github.com/lexfridman/deeptraffic) - DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series.
 - [registry](https://github.com/denoland/registry) - 
 - [apollo](https://github.com/apollographql/apollo) - :rocket: Open source tools for GraphQL. Central repo for discussion.
-- [umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) - :closed_lock_with_key: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
 - [brain.js](https://github.com/BrainJS/brain.js) - 🤖 Neural networks in JavaScript
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -1853,6 +1852,7 @@
 - [regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box) - 定投改变命运 —— 让时间陪你慢慢变富
 - [ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
+- [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries.
 - [deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
 - [tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese) - tensorflow2中文教程，持续更新(当前版本:tensorflow2.0)，tag: tensorflow 2.0 tutorials
 - [recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
@@ -1865,7 +1865,7 @@
 - [kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [pytorch-book](https://github.com/chenyuntc/pytorch-book) - PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
-- [swift](https://github.com/tensorflow/swift) - Swift for TensorFlow Project Home Page
+- [swift](https://github.com/tensorflow/swift) - Swift for TensorFlow
 - [tensorflow-docs](https://github.com/xitu/tensorflow-docs) - TensorFlow 最新官方文档中文版
 - [pydata-notebook](https://github.com/BrambleXu/pydata-notebook) - 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
 - [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - Code for Natural Language Processing, and Text Generation, in TensorFlow 2.x / 1.x
@@ -1923,7 +1923,7 @@
 ## Others 
 
 - [heroicons](https://github.com/refactoringui/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English translation is processing... Star this repo and come back soon:)
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English version supported!
 - [Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱。Most of this not work outside China , so no English translate, sorry
 - [backendlore](https://github.com/fpereiro/backendlore) - How I write backends
@@ -1966,13 +1966,12 @@
 - [awesome-architecture](https://github.com/toutiaoio/awesome-architecture) - 架构师技术图谱，助你早日成为架构师
 - [technology_books](https://github.com/arpitjindal97/technology_books) - Premium eBook free for Geeks
 - [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
-- [learning-english](https://github.com/developer-learning/learning-english) - 英语学习，资料来源英语流利说，英语平台：medium、kubernetes 等各种技术网站、博客等。
+- [learning-english](https://github.com/developer-learning/learning-english) - 英语学习，资料来源英语流利说，英语平台：medium、kubernetes 等各种技术网站、博客等。该项目即将 Archive，请移步 https://github.com/yangwenmai/learning-growth
 - [docs-api](https://github.com/gogs/docs-api) - A repository for Gogs API v1 documentation.
 - [hire](https://github.com/ElemeFE/hire) - 寻找热爱生活，把世界变的更好的人
 - [debian-media-box](https://github.com/moesoha/debian-media-box) - “Debian 小药盒”，一个用来包装 Debian 安装介质的盒子的平面设计。
 - [SJTU-Courses](https://github.com/CoolPhilChen/SJTU-Courses) - 上海交通大学课程资料分享
 - [awesome-swiftui](https://github.com/vlondon/awesome-swiftui) - A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.
-- [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries.
 - [sms-boom](https://github.com/axetroy/sms-boom) - 利用chrome的headless模式，模拟用户注册进行短信轰炸机
 - [vscode-snippets](https://github.com/tj/vscode-snippets) - Personal VSCode snippets for Go, JS, Elm, etc.
 - [rfcs](https://github.com/vuejs/rfcs) - RFCs for substantial changes / feature additions to Vue core
@@ -2651,6 +2650,7 @@
 - [ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [apollo-server](https://github.com/apollographql/apollo-server) - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
 - [apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
+- [umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [deno_std](https://github.com/denoland/deno_std) - deno standard modules
 - [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences.
