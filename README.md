@@ -20,6 +20,7 @@
   - [Gnuplot](#gnuplot)
   - [Go](#go)
   - [Groovy](#groovy)
+  - [HCL](#hcl)
   - [HTML](#html)
   - [Haskell](#haskell)
   - [Java](#java)
@@ -261,6 +262,10 @@
 
 ## Go 
 
+- [dex](https://github.com/dexidp/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
+- [desktop](https://github.com/fyne-io/desktop) - A full desktop environment for Linux/Unix using Fyne
+- [esim](https://github.com/jukylin/esim) - 微服务业务框架
+- [go](https://github.com/stellar/go) - Stellar's public monorepo of go code
 - [stripe-go](https://github.com/stripe/stripe-go) - Go library for the Stripe API.
 - [agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
 - [goav](https://github.com/giorgisio/goav) - Golang bindings for FFmpeg
@@ -923,6 +928,10 @@
 
 - [gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
 
+## HCL 
+
+- [k8s-cluster](https://github.com/k8s-at-home/k8s-cluster) - Bootstrap a k3s cluster running Ubuntu 18.04 to be managed by Flux
+
 ## HTML 
 
 - [hiwifi.easucks](https://github.com/Paull/hiwifi.easucks) - 极路由器官方固件的插件，FIFA助手，SS，For 1.2.5-1.5.9
@@ -1004,7 +1013,7 @@
 ## Java 
 
 - [mall-swarm](https://github.com/macrozheng/mall-swarm) - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Greenwich、Spring Boot 2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
-- [fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) - 🚀 fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
+- [fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) - 🚀 fullstack tutorial 2020，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
 - [mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [migration](https://github.com/phodal/migration) - 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护
 - [newbee-mall](https://github.com/newbee-ltd/newbee-mall) - newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
@@ -1046,6 +1055,7 @@
 
 ## JavaScript 
 
+- [octicons-v2](https://github.com/primer/octicons-v2) - [WIP] A new look for Octicons, GitHub's icon set
 - [is-sponsor-label-action](https://github.com/JasonEtco/is-sponsor-label-action) - 💖🔖 A GitHub Action that labels issues/PRs if the creator is a sponsor of the owner
 - [stage.js](https://github.com/shakiba/stage.js) - 2D HTML5 rendering and layout engine for game development
 - [Rules](https://github.com/lhie1/Rules) - Rules / 规则：Surge / Shadowrocket / Surfboard / Clash
@@ -1878,7 +1888,7 @@
 - [swift](https://github.com/tensorflow/swift) - Swift for TensorFlow
 - [tensorflow-docs](https://github.com/xitu/tensorflow-docs) - TensorFlow 最新官方文档中文版
 - [pydata-notebook](https://github.com/BrambleXu/pydata-notebook) - 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
-- [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - Code for Natural Language Processing, and Text Generation, in TensorFlow 2.x / 1.x
+- [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - Code, for Natural Language Processing, and Text Generation, in TensorFlow 2.x / 1.x
 
 ## Kotlin 
 
@@ -2463,6 +2473,7 @@
 
 ## Swift 
 
+- [Tiercel](https://github.com/Danie1s/Tiercel) - 简单易用、功能丰富的纯 Swift 下载框架
 - [swift-argument-parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift
 - [ControlRoom](https://github.com/twostraws/ControlRoom) - A macOS app to control the Xcode Simulator.
 - [SOTabBar](https://github.com/Ahmadalsofi/SOTabBar) - Light way to add Fancy bottom bar 📲
@@ -2519,6 +2530,7 @@
 
 ## TypeScript 
 
+- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - The source for REST API specifications for Microsoft Azure.
 - [shadowsocks-global](https://github.com/igoogolx/shadowsocks-global) - A VPN or proxy client for Windows
 - [ever](https://github.com/ever-co/ever) - Ever® - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
 - [gauzy](https://github.com/ever-co/gauzy) - Gauzy™ - Open-Source ERP Platform focused on Fairness and Transparency
@@ -2634,7 +2646,7 @@
 - [vue-svgicon](https://github.com/MMF-FE/vue-svgicon) - A tool to create svg icon components. (vue 2.x). Using inline svg.
 - [reakit](https://github.com/reakit/reakit) - Toolkit for building accessible rich web apps with React
 - [react-virtuoso](https://github.com/petyosi/react-virtuoso) - An elegant virtual list component for React
-- [bolt](https://github.com/slackapi/bolt) - A framework for building Slack apps
+- [bolt](https://github.com/slackapi/bolt) - A framework to build Slack apps using JavaScript
 - [snackbar](https://github.com/egoist/snackbar) - A tiny browser library for showing a brief message at the bottom of the screen (1kB gzipped).
 - [amis](https://github.com/baidu/amis) - 前端低代码框架
 - [faast.js](https://github.com/faastjs/faast.js) - Serverless batch computing made simple.
@@ -2761,6 +2773,10 @@
 
 ## Vue 
 
+- [vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 💥 A simple and beautiful vuepress Blog & Doc theme.
+- [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
+- [coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - CoreUI Vue is free Vue admin template based on Bootstrap 4
+- [coco-annotator](https://github.com/jsbroks/coco-annotator) - :pencil2: Web-based image segmentation tool for object detection, localization and keypoints
 - [Daily-Question](https://github.com/shfshanyue/Daily-Question) - 每天一道面试题，有关前端，后端，devops以及软技能，促进职业成长，敲开大厂之门。
 - [saber-theme-paper](https://github.com/geekplux/saber-theme-paper) - A simple theme like read on a paper.
 - [vue-material-admin](https://github.com/tookit/vue-material-admin) - A vue material design admin template
