@@ -626,7 +626,7 @@
 - [go-rock-libraries-showcases](https://github.com/unknwon/go-rock-libraries-showcases) - 《Go名库讲解》是一套针对 Google 出品的 Go 语言的第三方库进行评测讲解的集博客、示例与语音视频为一体的综合教程，适合完成学习完成《Go编程基础》教程的学习者。
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
-- [certmagic](https://github.com/mholt/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
+- [certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 - [jl](https://github.com/koenbollen/jl) - jl — JSON Logs, a development tool for working with structured JSON logging.
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [gitbase](https://github.com/src-d/gitbase) - SQL interface to git repositories, written in Go. https://docs.sourced.tech/gitbase
@@ -900,7 +900,7 @@
 - [riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine
 - [wow](https://github.com/gernest/wow) - :open_mouth::exclamation::exclamation: Wow:exclamation: now my Go commandline app is spinning with :rainbow: and :horse:
 - [triangle](https://github.com/esimov/triangle) - Convert images to computer generated art using delaunay triangulation.
-- [go-app](https://github.com/maxence-charriere/go-app) - A WebAssembly framework to build GUI with Go, HTML and CSS.
+- [go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
@@ -941,7 +941,7 @@
 - [istio.io](https://github.com/istio/istio.io) - Source for the istio.io site
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [animated-deno-logo](https://github.com/denolib/animated-deno-logo) - Animated Deno Logo
-- [goproxy.cn](https://github.com/goproxy/goproxy.cn) - A trustworthy Go module proxy in China.
+- [goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [jia](https://github.com/jia-inc/jia) - 
 - [blackeye](https://github.com/thelinuxchoice/blackeye) - The most complete Phishing Tool,  with 32 templates +1 customizable
 - [hiwifi-ss](https://github.com/qiwihui/hiwifi-ss) - 极路由+ss配置
@@ -1057,6 +1057,7 @@
 
 ## JavaScript 
 
+- [github-actions-demo](https://github.com/zeke/github-actions-demo) - A quick tour of GitHub Actions
 - [octicons-v2](https://github.com/primer/octicons-v2) - [WIP] A new look for Octicons, GitHub's icon set
 - [is-sponsor-label-action](https://github.com/JasonEtco/is-sponsor-label-action) - 💖🔖 A GitHub Action that labels issues/PRs if the creator is a sponsor of the owner
 - [stage.js](https://github.com/shakiba/stage.js) - 2D HTML5 rendering and layout engine for game development
@@ -2436,6 +2437,7 @@
 
 ## Shell 
 
+- [rebase](https://github.com/cirrus-actions/rebase) - GitHub Action to automatically rebase PRs
 - [onpremise](https://github.com/getsentry/onpremise) - Sentry On-Premise setup
 - [rebase](https://github.com/ljharb/rebase) - GitHub Action to automatically rebase PRs
 - [stacks](https://github.com/real-dev/stacks) - Various tech "stacks" for Real Dev tasks
