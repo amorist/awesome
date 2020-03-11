@@ -289,7 +289,7 @@
 - [besticon](https://github.com/mat/besticon) - Favicon service written in Go
 - [asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue for Go
 - [gommon](https://github.com/labstack/gommon) - Common packages for Go
-- [cli](https://github.com/cli/cli) - The GitHub CLI
+- [cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [git-all-secrets](https://github.com/anshumanbh/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
 - [iis](https://github.com/coyove/iis) - Code that powers
 - [gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
@@ -522,7 +522,7 @@
 - [hdfs-mount](https://github.com/microsoft/hdfs-mount) - A tool to mount HDFS as a local Linux file system
 - [go-daemon](https://github.com/sevlyar/go-daemon) - A library for writing system daemons in golang.
 - [descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
-- [gloo](https://github.com/solo-io/gloo) - An Envoy-Powered API Gateway
+- [gloo](https://github.com/solo-io/gloo) - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
 - [gameboy.live](https://github.com/HFO4/gameboy.live) - 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
 - [go-concurrent-quiz](https://github.com/smallnest/go-concurrent-quiz) - Go concurrency quizzes
 - [websocket](https://github.com/nhooyr/websocket) - Minimal and idiomatic WebSocket library for Go
@@ -1033,7 +1033,7 @@
 - [SoloPi](https://github.com/alipay/SoloPi) - SoloPi 自动化测试工具
 - [vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
 - [server](https://github.com/wildfirechat/server) - 即时通讯(IM)系统
-- [DoraemonKit](https://github.com/didi/DoraemonKit) - 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。
+- [DoraemonKit](https://github.com/didi/DoraemonKit) - 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。https://www.dokit.cn/
 - [miaosha](https://github.com/qiurunze123/miaosha) - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 - [ratel](https://github.com/ainilili/ratel) - A fighting landlord program that can be played on the command line
@@ -1128,6 +1128,7 @@
 - [BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React.
 - [create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [electron-osx-sign](https://github.com/electron/electron-osx-sign) - Codesign Electron macOS apps
+- [remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建小程序
 - [i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
 - [comments-api](https://github.com/dev-mastery/comments-api) - 
 - [vue-interactive-paycard](https://github.com/muhammederdem/vue-interactive-paycard) - Credit card form with smooth and sweet micro-interactions
@@ -1869,7 +1870,7 @@
 - [Cat_Recognition](https://github.com/tinalulu1327/Cat_Recognition) - Cat Detection and Breed Recognition
 - [lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
 - [fastai](https://github.com/fastai/fastai) - The fastai deep learning library, plus lessons and tutorials
-- [google-research](https://github.com/google-research/google-research) - Google AI Research
+- [google-research](https://github.com/google-research/google-research) - Google Research
 - [CodeSearchNet](https://github.com/github/CodeSearchNet) - Datasets, tools, and benchmarks for representation learning of code.
 - [examples](https://github.com/tensorflow/examples) - TensorFlow examples
 - [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft
@@ -1949,7 +1950,7 @@
 
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [heroicons](https://github.com/refactoringui/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. Crack LeetCode, English version supported!
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
 - [Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱。Most of this not work outside China , so no English translate, sorry
 - [backendlore](https://github.com/fpereiro/backendlore) - How I write backends
@@ -2584,7 +2585,6 @@
 - [G2](https://github.com/antvis/G2) - 📊 A highly interactive data-driven visualization grammar for statistical charts.
 - [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [swr](https://github.com/zeit/swr) - React Hooks library for remote data fetching
-- [remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建小程序
 - [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [github-funding-yml-updater](https://github.com/azu/github-funding-yml-updater) - Update multiple repositories's `.github/FUNDING.yml` via GitHub API
 - [saturn-datepicker](https://github.com/SaturnTeam/saturn-datepicker) - Angular Material Datepicker with range selection
