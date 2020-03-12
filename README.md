@@ -309,7 +309,7 @@
 - [nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS, the cloud native messaging system.
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database, long-term remote storage for Prometheus
-- [crossplane](https://github.com/crossplane/crossplane) - The open source multicloud control plane.
+- [crossplane](https://github.com/crossplane/crossplane) - The open source control plane to manage your infrastructure and applications the Kubernetes way.
 - [go-wechat](https://github.com/nilorg/go-wechat) - 💥weixin、wechat、微信公众平台 golang/go sdk
 - [go-spring](https://github.com/go-spring/go-spring) - 基于 IoC 的 Go 后端一站式开发框架 🚀
 - [bfe](https://github.com/baidu/bfe) - Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd
@@ -1059,6 +1059,7 @@
 
 ## JavaScript 
 
+- [react-dom-mini](https://github.com/sophiebits/react-dom-mini) - Toy React renderer from my React Conf 2019 talk, "Building a Custom React Renderer"
 - [github-actions-demo](https://github.com/zeke/github-actions-demo) - A quick tour of GitHub Actions
 - [octicons-v2](https://github.com/primer/octicons-v2) - [WIP] A new look for Octicons, GitHub's icon set
 - [is-sponsor-label-action](https://github.com/JasonEtco/is-sponsor-label-action) - 💖🔖 A GitHub Action that labels issues/PRs if the creator is a sponsor of the owner
