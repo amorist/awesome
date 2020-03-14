@@ -66,6 +66,7 @@
 
 ## C 
 
+- [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
 - [TencentOS-kernel](https://github.com/Tencent/TencentOS-kernel) - 腾讯针对云的场景研发的服务器操作系统
 - [darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
 - [smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。
@@ -381,6 +382,7 @@
 - [bild](https://github.com/anthonynsimon/bild) - A collection of parallel image processing algorithms in pure Go
 - [v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
+- [goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka 0.8, and up.
 - [opencensus-go](https://github.com/census-instrumentation/opencensus-go) - A stats collection and distributed tracing framework
@@ -943,7 +945,6 @@
 - [istio.io](https://github.com/istio/istio.io) - Source for the istio.io site
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [animated-deno-logo](https://github.com/denolib/animated-deno-logo) - Animated Deno Logo
-- [goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [jia](https://github.com/jia-inc/jia) - 
 - [blackeye](https://github.com/thelinuxchoice/blackeye) - The most complete Phishing Tool,  with 32 templates +1 customizable
 - [hiwifi-ss](https://github.com/qiwihui/hiwifi-ss) - 极路由+ss配置
@@ -1059,6 +1060,7 @@
 
 ## JavaScript 
 
+- [anyproxy](https://github.com/alibaba/anyproxy) - A fully configurable http/https proxy in NodeJS
 - [react-dom-mini](https://github.com/sophiebits/react-dom-mini) - Toy React renderer from my React Conf 2019 talk, "Building a Custom React Renderer"
 - [github-actions-demo](https://github.com/zeke/github-actions-demo) - A quick tour of GitHub Actions
 - [octicons-v2](https://github.com/primer/octicons-v2) - [WIP] A new look for Octicons, GitHub's icon set
@@ -1735,7 +1737,7 @@
 - [Amor](https://github.com/amorist/Amor) - Amor
 - [react-trader](https://github.com/ccoenraets/react-trader) - Sample application built with React and Socket.io
 - [examples](https://github.com/eggjs/examples) - Store all egg examples in one place
-- [homebridge](https://github.com/nfarina/homebridge) - HomeKit support for the impatient
+- [homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient
 - [react-native-web](https://github.com/necolas/react-native-web) - React Native for Web
 - [GitHubPopular](https://github.com/crazycodeboy/GitHubPopular) - 这是一个用来查看GitHub最受欢迎与最热项目的App,它基于React Native支持Android和iOS双平台。#适配RN最新版在这里☞#
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
@@ -2739,7 +2741,7 @@
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
-- [intelligo](https://github.com/intelligo-systems/intelligo) - 🤖 Chatbot Framework for Node.js.
+- [intelligo](https://github.com/intelligo-systems/intelligo) - 🤖 Chatbot Framework for Node.js.  https://intelligo.js.org
 - [propel](https://github.com/propelml/propel) - Differential Programming in JavaScript.
 - [sentry-electron](https://github.com/getsentry/sentry-electron) - The official Sentry SDK for Electron
 - [rough](https://github.com/pshihn/rough) - Create graphics with a hand-drawn, sketchy, appearance
