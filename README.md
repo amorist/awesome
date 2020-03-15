@@ -1023,7 +1023,7 @@
 - [migration](https://github.com/phodal/migration) - 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护
 - [newbee-mall](https://github.com/newbee-ltd/newbee-mall) - newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
 - [YCStatusBar](https://github.com/yangchong211/YCStatusBar) - 关于状态栏方案总结案例，适合于绝大多数的使用场景……同时，兼容了小米，魅族等手机状态栏字体颜色设置失效问题。已经用于实际项目投资界，新芽，沙丘大学等APP，一键集成并使用！支持单Activity多Fragment动态修改状态栏颜色，入侵性低，一行代码即可实现你需要的需求
-- [incubator-dolphinscheduler](https://github.com/apache/incubator-dolphinscheduler) - Dolphin Scheduler is a distributed and easy-to-expand visual DAG workflow scheduling system, dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing.(分布式易扩展的可视化工作流任务调度)
+- [incubator-dolphinscheduler](https://github.com/apache/incubator-dolphinscheduler) - Dolphin Scheduler is a distributed and easy-to-extend visual workflow scheduling platform, dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing.(分布式易扩展的可视化工作流任务调度)
 - [react-native-camera](https://github.com/react-native-community/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
 - [apollo](https://github.com/ctripcorp/apollo) - Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
 - [pinpoint](https://github.com/naver/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
@@ -1060,6 +1060,7 @@
 
 ## JavaScript 
 
+- [kbone-template-vue](https://github.com/wechat-miniprogram/kbone-template-vue) - a simple vue template for kbone
 - [anyproxy](https://github.com/alibaba/anyproxy) - A fully configurable http/https proxy in NodeJS
 - [react-dom-mini](https://github.com/sophiebits/react-dom-mini) - Toy React renderer from my React Conf 2019 talk, "Building a Custom React Renderer"
 - [github-actions-demo](https://github.com/zeke/github-actions-demo) - A quick tour of GitHub Actions
@@ -1093,7 +1094,7 @@
 - [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [sentineljs](https://github.com/muicss/sentineljs) - Detect new DOM nodes using CSS selectors (650 bytes)
 - [nuxt.js](https://github.com/nuxt/nuxt.js) - The Vue.js Framework
-- [concent](https://github.com/concentjs/concent) - A predictable、zero-cost-use、progressive、high performance's enhanced state management solution
+- [concent](https://github.com/concentjs/concent) - Build-in dependency collection, a predictable、zero-cost-use、progressive、high performance's enhanced state management solution
 - [ci-detect](https://github.com/npm/ci-detect) - Detect what kind of CI environment the program is in
 - [waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
 - [geoapi](https://github.com/Risk3sixty-Labs/geoapi) - Lightweight API service to get geolocation data from IP addresses.
@@ -1150,7 +1151,7 @@
 - [expressjs-k8s](https://github.com/alexellis/expressjs-k8s) - Express.js microservice with a Dockerfile, Kubernetes YAMLs and a non-root user
 - [image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
 - [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
-- [data-directory](https://github.com/docs/data-directory) - A Node.js module to recursively load a directory of YAML, JSON, and Markdown files into a JavaScript object.
+- [data-directory](https://github.com/docs/data-directory) - 🌳 A Node.js module to recursively load a directory of YAML, JSON, and Markdown files into a JavaScript object.
 - [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen WebDriver test automation framework for Node.js
 - [gridsome](https://github.com/gridsome/gridsome) - ⚡️Build modern JAMstack websites with Vue.js
 - [generative-artistry](https://github.com/tholman/generative-artistry) - A website for self coding generative art tutorials.
@@ -1199,7 +1200,7 @@
 - [piano](https://github.com/Wscats/piano) - 🎹用键盘8个键演奏一首蒲公英的约定送给自己或月亮代表我的心送给她
 - [docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [mongoose-sequence](https://github.com/ramiel/mongoose-sequence) - Sequence and autoincrement handling for mongoose
-- [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.
+- [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [portal-vue](https://github.com/LinusBorg/portal-vue) - A feature-rich Portal Plugin for Vuejs, for rendering DOM outside of a component, anywhere our app or the entire document.
 - [github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) - GitHub do not ban us from open source world :iran:
 - [imouto](https://github.com/itorr/imouto) - 快速、明确、极简
