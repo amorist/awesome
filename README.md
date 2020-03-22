@@ -1062,6 +1062,8 @@
 
 ## JavaScript 
 
+- [keystone](https://github.com/keystonejs/keystone) - A scalable platform and CMS to build Node.js applications
+- [electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Context menu for your Electron app
 - [micro](https://github.com/zeit/micro) - Asynchronous HTTP microservices
 - [ui](https://github.com/rancher/ui) - Rancher UI
 - [kbone-template-vue](https://github.com/wechat-miniprogram/kbone-template-vue) - a simple vue template for kbone
@@ -1956,6 +1958,7 @@
 
 ## Others 
 
+- [introRL](https://github.com/zhoubolei/introRL) - Intro to Reinforcement Learning (强化学习纲要）
 - [CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [heroicons](https://github.com/refactoringui/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
@@ -2215,6 +2218,7 @@
 
 ## Python 
 
+- [automl](https://github.com/google/automl) - Google Brain AutoML
 - [akshare](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings!
 - [kindle](https://github.com/muzi502/kindle) - kindle 标注笔记
 - [word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
