@@ -159,7 +159,6 @@
 - [hugo-hero-theme](https://github.com/JugglerX/hugo-hero-theme) - A modern business theme for Hugo.
 - [hugo-lime](https://github.com/uicardiodev/hugo-lime) - Hugo Lime is a business theme for GoHugo by https://uicard.io
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
-- [switch-desktop](https://github.com/ahkohd/switch-desktop) - Switch between your favourite apps lightning fast.
 - [dragon](https://github.com/tomhodgins/dragon) - dragon.js is a bookmarklet that lets you drag any element on a website using a mouse or touchscreen. The goal is to speed up in-browser design critiques and brainstorming new layout ideas.
 - [layer.Cake](https://github.com/leram84/layer.Cake) - layer.Cake is working to combine several OSS projects in the personal media server space into a single continuous uniform app.
 - [InterImmBook](https://github.com/InterImm/InterImmBook) - :seedling: The Book of Interplanetary Civilization;星际移民之书.
@@ -265,6 +264,7 @@
 
 ## Go 
 
+- [protoc-gen-micro](https://github.com/micro/protoc-gen-micro) - Protobuf code generation for Micro services
 - [cli](https://github.com/rancher/cli) - Rancher CLI
 - [kubeless](https://github.com/kubeless/kubeless) - Kubernetes Native Serverless Framework
 - [netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting
@@ -1065,6 +1065,7 @@
 
 ## JavaScript 
 
+- [Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js) - 这是一个数据可视化项目，能够将历史数据排名转化为动态柱状图图表
 - [keystone](https://github.com/keystonejs/keystone) - A scalable platform and CMS to build Node.js applications
 - [electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Context menu for your Electron app
 - [micro](https://github.com/zeit/micro) - Asynchronous HTTP microservices
@@ -2609,6 +2610,7 @@
 - [tecalliance-onedb-application](https://github.com/vauman/tecalliance-onedb-application) - This is the OneDB application to manage vehicles, parts, etc. build with Angular
 - [dts-gen](https://github.com/microsoft/dts-gen) - dts-gen creates starter TypeScript definition files for any module or library.
 - [vue-next](https://github.com/vuejs/vue-next) - The next major version of Vue (WIP)
+- [switch-desktop](https://github.com/ahkohd/switch-desktop) - Switch between your favourite apps lightning fast.
 - [got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [clerk](https://github.com/electron/clerk) - Verify PRs have release notes
