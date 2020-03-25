@@ -94,6 +94,7 @@
 - [Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [OBS](https://github.com/jp9000/OBS) - Open Broadcaster Software (Deprecated: See OBS Studio repository instead)
+- [OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine
 - [kterm](https://github.com/bfabiszewski/kterm) - gtk+ terminal emulator with embedded virtual keyboard for Kindle
 - [robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
 - [node-rpio](https://github.com/jperkin/node-rpio) - Raspberry Pi GPIO library for node.js
@@ -143,7 +144,6 @@
 - [apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [Familia](https://github.com/baidu/Familia) - A Toolkit for Industrial Topic Modeling
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
-- [OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine
 - [yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
 - [electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -771,7 +771,7 @@
 - [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
 - [asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 - [cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
-- [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language. Give your team cloud superpowers 🚀
+- [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
 - [golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记
 - [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [nanoserver](https://github.com/lonng/nanoserver) - DEMO: Mahjong server base on nano(https://github.com/lonng/nano)
@@ -1876,6 +1876,7 @@
 
 ## Jupyter Notebook 
 
+- [automl](https://github.com/google/automl) - Google Brain AutoML
 - [fastbook](https://github.com/fastai/fastbook) - Draft of the fastai book
 - [vectorbt](https://github.com/polakowo/vectorbt) - Python library for backtesting and analyzing trading strategies at scale
 - [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
@@ -2222,7 +2223,6 @@
 
 ## Python 
 
-- [automl](https://github.com/google/automl) - Google Brain AutoML
 - [akshare](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings!
 - [kindle](https://github.com/muzi502/kindle) - kindle 标注笔记
 - [word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
@@ -2232,7 +2232,7 @@
 - [python-small-examples](https://github.com/jackzhenguo/python-small-examples) - Python有趣的小例子一网打尽。Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
-- [ALBERT](https://github.com/google-research/ALBERT) - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
+- [albert](https://github.com/google-research/albert) - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
 - [2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement](https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement) - 2019CCF-BDCI大赛 最佳创新探索奖获得者 基于OCR身份证要素提取赛题冠军 天晨破晓团队 赛题源码
 - [keras-ocr](https://github.com/faustomorales/keras-ocr) - A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
 - [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
@@ -2566,7 +2566,7 @@
 - [react-native-netinfo](https://github.com/react-native-community/react-native-netinfo) - React Native Network Info API for Android & iOS
 - [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [WebWindow](https://github.com/SteveSandersonMS/WebWindow) - .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental.
-- [react-visual-editor](https://github.com/anye931123/react-visual-editor) - 基于 React 的可视化编辑,组件自由拖拽，dom实时追踪，组件无限制嵌套组合，不添加多余节点，可完美还原UI设计，多平台支持，代码生成，实时预览，项目于2020.2.22开源，喜欢的点颗星支持鼓励一下！
+- [react-visual-editor](https://github.com/anye931123/react-visual-editor) - 基于 React 的组件可视化拖拽页面搭建代码生成工具，代码生成工具,组件自由拖拽，dom实时追踪，组件无限制嵌套组合，不添加多余节点，可完美还原UI设计，多平台支持，代码生成，实时预览，项目于2020.2.22开源，喜欢的点颗星支持鼓励一下！
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 - [Rocket.Chat.GitHub.Action.Notification](https://github.com/RocketChat/Rocket.Chat.GitHub.Action.Notification) - Rocket.Chat Notification for GitHub Actions :bell: :rocket:
