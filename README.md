@@ -242,6 +242,7 @@
 
 ## Dockerfile 
 
+- [xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [build-images](https://github.com/electron/build-images) - Base docker image used to build Electron on CI
 - [puppeteer](https://github.com/ianwalter/puppeteer) - A GitHub Action / Docker image for   Puppeteer, the Headless Chrome Node API
 - [vscode-remote-try-go](https://github.com/microsoft/vscode-remote-try-go) - Go sample project for trying out the 'VS Code Remote - Containers' extension
@@ -264,6 +265,7 @@
 
 ## Go 
 
+- [nightingale](https://github.com/didi/nightingale) - A Distributed and High-Performance Monitoring System
 - [protoc-gen-micro](https://github.com/micro/protoc-gen-micro) - Protobuf code generation for Micro services
 - [cli](https://github.com/rancher/cli) - Rancher CLI
 - [kubeless](https://github.com/kubeless/kubeless) - Kubernetes Native Serverless Framework
@@ -281,7 +283,6 @@
 - [captcha](https://github.com/dchest/captcha) - Go package captcha implements generation and verification of image and audio CAPTCHAs.
 - [base64Captcha](https://github.com/mojocn/base64Captcha) - captcha of base64 and diversity
 - [swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
-- [xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [charts](https://github.com/helm/charts) - Curated applications for Kubernetes
 - [goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go, Angular/React/Vue, and MongoDB in seconds🚀
@@ -577,7 +578,7 @@
 - [go2-book](https://github.com/chai2010/go2-book) - :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel written in Go
-- [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning models in production
+- [cortex](https://github.com/cortexlabs/cortex) - Machine learning model serving infrastructure for AWS
 - [tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
 - [gh-polls](https://github.com/apex/gh-polls) - Polls for user feedback in GitHub issues
@@ -1065,6 +1066,7 @@
 
 ## JavaScript 
 
+- [grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 - [Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js) - 这是一个数据可视化项目，能够将历史数据排名转化为动态柱状图图表
 - [keystone](https://github.com/keystonejs/keystone) - A scalable platform and CMS to build Node.js applications
 - [electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Context menu for your Electron app
@@ -2566,7 +2568,7 @@
 - [react-native-netinfo](https://github.com/react-native-community/react-native-netinfo) - React Native Network Info API for Android & iOS
 - [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [WebWindow](https://github.com/SteveSandersonMS/WebWindow) - .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental.
-- [react-visual-editor](https://github.com/anye931123/react-visual-editor) - 基于 React 的组件可视化拖拽页面搭建代码生成工具，代码生成工具,组件自由拖拽，dom实时追踪，组件无限制嵌套组合，不添加多余节点，可完美还原UI设计，多平台支持，代码生成，实时预览，项目于2020.2.22开源，喜欢的点颗星支持鼓励一下！
+- [react-visual-editor](https://github.com/anye931123/react-visual-editor) - 基于 React 的组件可视化拖拽页面搭建代码生成工具,组件自由拖拽，dom实时追踪，组件无限制嵌套组合，不添加多余节点，可完美还原UI设计，多平台支持，代码生成，实时预览，项目于2020.2.22开源，喜欢的点颗星支持鼓励一下！
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 - [Rocket.Chat.GitHub.Action.Notification](https://github.com/RocketChat/Rocket.Chat.GitHub.Action.Notification) - Rocket.Chat Notification for GitHub Actions :bell: :rocket:
