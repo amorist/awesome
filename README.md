@@ -265,6 +265,7 @@
 
 ## Go 
 
+- [codenames](https://github.com/jbowens/codenames) - Play codenames using a TV or computer for the board
 - [ion](https://github.com/pion/ion) - Distributed RTC System by pure Go and Flutter
 - [nightingale](https://github.com/didi/nightingale) - A Distributed and High-Performance Monitoring System
 - [protoc-gen-micro](https://github.com/micro/protoc-gen-micro) - Protobuf code generation for Micro services
@@ -983,6 +984,7 @@
 - [Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [TinyEditor](https://github.com/umpox/TinyEditor) - A functional HTML/CSS/JS editor in less than 400 bytes
 - [gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
+- [crx-selection-translate](https://github.com/Selection-Translator/crx-selection-translate) - 让浏览任意语言的网站变得无比轻松的浏览器扩展程序。
 - [node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
 - [itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [react-from-zero](https://github.com/kay-is/react-from-zero) - A simple (99% ES2015 less) tutorial for React
@@ -1067,6 +1069,8 @@
 
 ## JavaScript 
 
+- [twitter-together](https://github.com/gr2m/twitter-together) - :bird: A GitHub action to tweet from a repository
+- [SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for rocket, core, capsule, pad, and launch data
 - [grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 - [Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js) - 这是一个数据可视化项目，能够将历史数据排名转化为动态柱状图图表
 - [keystone](https://github.com/keystonejs/keystone) - A scalable platform and CMS to build Node.js applications
@@ -1477,7 +1481,6 @@
 - [v8n](https://github.com/imbrn/v8n) - ☑️ JavaScript fluent validation library
 - [unswitch](https://github.com/vaneenige/unswitch) - 🕹 A tiny event handler for Switch controllers!
 - [react-pdf](https://github.com/diegomura/react-pdf) - 📄 Create PDF files using React
-- [crx-selection-translate](https://github.com/Selection-Translator/crx-selection-translate) - 让浏览任意语言的网站变得无比轻松的浏览器扩展程序。
 - [remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech.
 - [passive-income-with-cassidoo](https://github.com/zeke/passive-income-with-cassidoo) - A chat about passive income with @cassidoo
 - [evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
@@ -1893,7 +1896,7 @@
 - [examples](https://github.com/tensorflow/examples) - TensorFlow examples
 - [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft
 - [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Notebooks, resources and references accompanying the book Machine Learning for Algorithmic Trading
-- [regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box) - 定投改变命运 —— 让时间陪你慢慢变富
+- [regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box) - 定投改变命运 —— 让时间陪你慢慢变富 https://onregularinvesting.com
 - [ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries.
@@ -2806,6 +2809,7 @@
 
 ## Vue 
 
+- [PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit) - 一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。
 - [eros](https://github.com/bmfe/eros) - 📱一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [kbone-ui](https://github.com/wechat-miniprogram/kbone-ui) - kbone-ui 是一套能同时支持 小程序(kbone) 和 vue 框架开发的多端 UI 库
