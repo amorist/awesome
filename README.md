@@ -1014,6 +1014,7 @@
 - [mailgen](https://github.com/eladnava/mailgen) - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.
 - [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
+- [twitter-text](https://github.com/twitter/twitter-text) - Twitter Text Libraries
 - [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [designiot](https://github.com/phodal/designiot) - 教你设计物联网系统。构建自己的Internet of Things 。
 - [repractise](https://github.com/phodal/repractise) - RePractise
@@ -1824,7 +1825,6 @@
 - [instantclick](https://github.com/dieulot/instantclick) - InstantClick makes following links in your website instant.
 - [HiChat2](https://github.com/LingyuCoder/HiChat2) - Web IM工具HiChat v2——开发中
 - [etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: real-time collaborative document editor
-- [twitter-text](https://github.com/twitter/twitter-text) - Twitter Text Libraries
 - [brain](https://github.com/harthur/brain) - [UNMAINTAINED] Simple feed-forward neural network in JavaScript
 - [N-chat](https://github.com/nswbmw/N-chat) - 使用 Express +  Socket.IO 搭建的多人聊天室
 - [natural](https://github.com/NaturalNode/natural) - general natural language facilities for node
@@ -2646,7 +2646,7 @@
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [playground](https://github.com/tensorflow/playground) - Play with neural networks!
-- [prisma2](https://github.com/prisma/prisma2) - Modern DB toolkit to query, migrate and model your database
+- [prisma](https://github.com/prisma/prisma) - Modern DB toolkit to query, migrate and model your database
 - [vue-class-component](https://github.com/vuejs/vue-class-component) - ES / TypeScript decorator for class-style Vue components.
 - [voice-web](https://github.com/mozilla/voice-web) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private npm proxy registry
@@ -2853,7 +2853,6 @@
 - [vue2-manage](https://github.com/bailicangdu/vue2-manage) - 基于 vue + element-ui 的后台管理系统
 - [Vue-Router](https://github.com/weipxiu/Vue-Router) - 世上最完整的vue-router配置demo，包含了有关vue-router所有相关核心知识点，一个需求多种解决方式的体现，据说配置出了一朵花儿，不服来战！
 - [vue2-elm](https://github.com/bailicangdu/vue2-elm) - 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
-- [blog](https://github.com/egoist/blog) - 
 - [VuePressNext](https://github.com/amorist/VuePressNext) - blog based vuepress
 - [vuepress-theme-yubisaki](https://github.com/Yubisaki/vuepress-theme-yubisaki) - :sparkles: A blog theme for vuepress
 - [iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
