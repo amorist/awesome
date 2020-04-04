@@ -1084,7 +1084,6 @@
 - [octicons-v2](https://github.com/primer/octicons-v2) - [WIP] A new look for Octicons, GitHub's icon set
 - [is-sponsor-label-action](https://github.com/JasonEtco/is-sponsor-label-action) - 💖🔖 A GitHub Action that labels issues/PRs if the creator is a sponsor of the owner
 - [stage.js](https://github.com/shakiba/stage.js) - 2D HTML5 rendering and layout engine for game development
-- [Rules](https://github.com/lhie1/Rules) - Rules / 规则：Surge / Shadowrocket / Surfboard / Clash
 - [netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
 - [live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 - [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
@@ -1149,7 +1148,7 @@
 - [BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React.
 - [create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [electron-osx-sign](https://github.com/electron/electron-osx-sign) - Codesign Electron macOS apps
-- [remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建小程序
+- [remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建跨平台小程序
 - [i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
 - [comments-api](https://github.com/dev-mastery/comments-api) - 
 - [vue-interactive-paycard](https://github.com/muhammederdem/vue-interactive-paycard) - Credit card form with smooth and sweet micro-interactions
@@ -1882,6 +1881,7 @@
 
 ## Jupyter Notebook 
 
+- [RL-Stock](https://github.com/wangshub/RL-Stock) - 📈 如何用深度强化学习自动炒股
 - [automl](https://github.com/google/automl) - Google Brain AutoML
 - [fastbook](https://github.com/fastai/fastbook) - Draft of the fastai book
 - [vectorbt](https://github.com/polakowo/vectorbt) - Python library for backtesting and analyzing trading strategies at scale
@@ -1972,6 +1972,7 @@
 - [introRL](https://github.com/zhoubolei/introRL) - Intro to Reinforcement Learning (强化学习纲要）
 - [CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [Rules](https://github.com/lhie1/Rules) - Rules / 规则：Surge / Shadowrocket / Surfboard / Clash
 - [heroicons](https://github.com/refactoringui/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
 - [Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
