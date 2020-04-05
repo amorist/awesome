@@ -2570,7 +2570,7 @@
 - [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - The source for REST API specifications for Microsoft Azure.
 - [shadowsocks-global](https://github.com/igoogolx/shadowsocks-global) - A VPN or proxy client for Windows
 - [ever](https://github.com/ever-co/ever) - Ever® - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
-- [gauzy](https://github.com/ever-co/gauzy) - Gauzy™ - Open-Source ERP Platform focused on Fairness and Transparency
+- [gauzy](https://github.com/ever-co/gauzy) - Gauzy™ - Open-Source Business Management Platform focused on Fairness and Transparency
 - [react-native-netinfo](https://github.com/react-native-community/react-native-netinfo) - React Native Network Info API for Android & iOS
 - [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [WebWindow](https://github.com/SteveSandersonMS/WebWindow) - .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental.
