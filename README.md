@@ -682,7 +682,7 @@
 - [participle](https://github.com/alecthomas/participle) - A parser library for Go
 - [cli](https://github.com/home-assistant/cli) - :white_square_button: Home Assistant command line interface
 - [gi](https://github.com/goki/gi) - Native Go (golang) Graphical Interface system (2D and 3D), built on GoKi tree framework
-- [writefreely](https://github.com/writeas/writefreely) - A community writing space.
+- [writefreely](https://github.com/writeas/writefreely) - A collective writing platform.
 - [chain33](https://github.com/33cn/chain33) - 高度模块化, 遵循 KISS原则的区块链开发框架
 - [vuego](https://github.com/chanwit/vuego) - 
 - [logger](https://github.com/google/logger) - Cross platform Go logging library.
@@ -1069,6 +1069,8 @@
 
 ## JavaScript 
 
+- [live2d-widget.js](https://github.com/xiazeyu/live2d-widget.js) - Live2D on webpages with out-of-the-box experience.
+- [IconGenerator](https://github.com/onmyway133/IconGenerator) - 🍱 A macOS app to generate app icons
 - [noble](https://github.com/noble/noble) - A Node.js BLE (Bluetooth Low Energy) central module
 - [electron-web-bluetooth](https://github.com/aalhaimi/electron-web-bluetooth) - 
 - [twitter-together](https://github.com/gr2m/twitter-together) - :bird: A GitHub action to tweet from a repository
@@ -1687,7 +1689,7 @@
 - [chimee](https://github.com/Chimeejs/chimee) - a video player framework aims to bring wonderful experience on browser
 - [electron-installer-windows](https://github.com/electron-userland/electron-installer-windows) - Create a Windows package for your Electron app.
 - [lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
-- [nba-go](https://github.com/xxhomey19/nba-go) - 🏀 💻 The finest NBA CLI.
+- [nba-go](https://github.com/homerchen19/nba-go) - 🏀 💻 The finest NBA CLI.
 - [area-data](https://github.com/dwqs/area-data) - 中国省市区数据(含港澳台)
 - [js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
 - [react-tv](https://github.com/raphamorim/react-tv) - [Looking for maintainers] React development for TVs (Renderer for low memory applications and Packager for TVs)
@@ -1971,6 +1973,9 @@
 
 ## Others 
 
+- [kanban-musume-desktop](https://github.com/amorist/kanban-musume-desktop) - Kanban Musume Desktop
+- [live2d-widget-models](https://github.com/xiazeyu/live2d-widget-models) - The model library for live2d-widget.js
+- [live2d_models_collection](https://github.com/xiaoski/live2d_models_collection) - Collections of live2d models
 - [introRL](https://github.com/zhoubolei/introRL) - Intro to Reinforcement Learning (强化学习纲要）
 - [CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -2208,6 +2213,7 @@
 
 ## PHP 
 
+- [live2d_api](https://github.com/fghrsh/live2d_api) - Live2D 看板娘插件 (https://www.fghrsh.net/post/123.html) 上使用的后端 API
 - [monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [crater](https://github.com/bytefury/crater) - Free & Open Source Invoice App for Freelancers & Small Businesses
 - [PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop offers a fully scalable open source ecommerce solution.
@@ -2505,6 +2511,7 @@
 
 ## Swift 
 
+- [playbook-ios](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically snapshots of them.
 - [Tiercel](https://github.com/Danie1s/Tiercel) - 简单易用、功能丰富的纯 Swift 下载框架
 - [swift-argument-parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift
 - [ControlRoom](https://github.com/twostraws/ControlRoom) - A macOS app to control the Xcode Simulator.
@@ -2562,6 +2569,7 @@
 
 ## TypeScript 
 
+- [setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
 - [nightingale](https://github.com/didi/nightingale) - A Distributed and High-Performance Monitoring System
 - [frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [backstage](https://github.com/spotify/backstage) - Backstage is an open platform for building developer portals
