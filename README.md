@@ -157,7 +157,7 @@
 - [papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [css.gg](https://github.com/astrit/css.gg) - 500+ CSS Icons. Customizable, Retina Ready with API & NPM
-- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate, sorry
+- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 - [hugo-hero-theme](https://github.com/JugglerX/hugo-hero-theme) - A modern business theme for Hugo.
 - [hugo-lime](https://github.com/uicardiodev/hugo-lime) - Hugo Lime is a business theme for GoHugo by https://uicard.io
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
@@ -279,7 +279,6 @@
 - [apiproject](https://github.com/wangshibiaoFlytiger/apiproject) - golang项目开发脚手架,集成最佳实践(gin+gorm+go-redis+mongo+cors+jwt+json日志库zap(支持日志收集到kafka或mongo)+消息队列kafka+微信支付宝支付gopay+api加密+api反向代理+go modules依赖管理+headless爬虫chromedp+makefile+二进制压缩+livereload热加载)
 - [dex](https://github.com/dexidp/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
 - [desktop](https://github.com/fyne-io/desktop) - A full desktop environment for Linux/Unix using Fyne
-- [esim](https://github.com/jukylin/esim) - 微服务业务框架
 - [go](https://github.com/stellar/go) - Stellar's public monorepo of go code
 - [stripe-go](https://github.com/stripe/stripe-go) - Go library for the Stripe API.
 - [agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
@@ -684,7 +683,7 @@
 - [participle](https://github.com/alecthomas/participle) - A parser library for Go
 - [cli](https://github.com/home-assistant/cli) - :white_square_button: Home Assistant command line interface
 - [gi](https://github.com/goki/gi) - Native Go (golang) Graphical Interface system (2D and 3D), built on GoKi tree framework
-- [writefreely](https://github.com/writeas/writefreely) - A collective writing platform.
+- [writefreely](https://github.com/writeas/writefreely) - A community writing platform.
 - [chain33](https://github.com/33cn/chain33) - 高度模块化, 遵循 KISS原则的区块链开发框架
 - [vuego](https://github.com/chanwit/vuego) - 
 - [logger](https://github.com/google/logger) - Cross platform Go logging library.
@@ -2329,7 +2328,7 @@
 - [pywonderland](https://github.com/neozhaoliang/pywonderland) - A tour in the wonderland of math with python.
 - [chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 🎮 Chinese DOS games in browser.
 - [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
-- [QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS) - QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币  数据/回测/模拟/交易/可视化 纯本地PAAS量化解决方案
+- [QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS) - QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币  数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案
 - [termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
 - [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [hub](https://github.com/tensorflow/hub) - A library for transfer learning by reusing parts of TensorFlow models.
