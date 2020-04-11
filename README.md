@@ -110,6 +110,7 @@
 
 ## C++ 
 
+- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
 - [taichi](https://github.com/taichi-dev/taichi) - Productive programming language for portable, high-performance, sparse & differentiable computing
 - [yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 - [node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using N-API from C++
@@ -783,7 +784,7 @@
 - [learn](https://github.com/gyuho/learn) - learn
 - [casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
-- [pigo](https://github.com/esimov/pigo) - Pure Go face detection library.
+- [pigo](https://github.com/esimov/pigo) - Pure Go face detection library
 - [sessions](https://github.com/gin-contrib/sessions) - Gin middleware for session management
 - [mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
@@ -2601,7 +2602,7 @@
 - [deno_storage](https://github.com/axetroy/deno_storage) - implementation of localStorage and sessionStorage for Deno
 - [electron-react-typescript](https://github.com/Robinfr/electron-react-typescript) - Electron boilerplate with React, Redux, and TypeScript
 - [checkout](https://github.com/actions/checkout) - Action for checking out a repo
-- [BoostNote.next](https://github.com/BoostIO/BoostNote.next) - An intuitive and stylish markdown editor for the developers.
+- [BoostNote.next](https://github.com/BoostIO/BoostNote.next) - An intuitive and stylish markdown note app for the developers.
 - [sign-action](https://github.com/jeffrafter/sign-action) - A GitHub Action which allows users to reply to an issue with a comment to sign a petition.
 - [expo-cli](https://github.com/expo/expo-cli) - Tools for making Expo apps
 - [material-ui-pickers](https://github.com/mui-org/material-ui-pickers) - Date & Time pickers, built with ❤️ for @material-ui/core
