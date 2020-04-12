@@ -318,7 +318,7 @@
 - [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.
 - [nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS, the cloud native messaging system.
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database, long-term remote storage for Prometheus
+- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database
 - [crossplane](https://github.com/crossplane/crossplane) - The open source control plane to manage your infrastructure and applications the Kubernetes way.
 - [go-wechat](https://github.com/nilorg/go-wechat) - 💥weixin、wechat、微信公众平台 golang/go sdk
 - [go-spring](https://github.com/go-spring/go-spring) - 基于 IoC 的 Go 后端一站式开发框架 🚀
@@ -398,7 +398,7 @@
 - [jsonc](https://github.com/muhammadmuzzammil1998/jsonc) - JSON with comments for Go!
 - [godoctor](https://github.com/godoctor/godoctor) - Go Doctor - The Golang Refactoring Engine
 - [github-actions-golang](https://github.com/mvdan/github-actions-golang) - GitHub Actions as CI for Go
-- [go-plugins](https://github.com/micro/go-plugins) - The community maintained plugins for Micro
+- [go-plugins](https://github.com/micro/go-plugins) - Community maintained plugins for Go Micro
 - [falcon-plus](https://github.com/open-falcon/falcon-plus) - An open-source and enterprise-level monitoring system.
 - [go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
 - [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
@@ -759,7 +759,7 @@
 - [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [vertigo](https://github.com/toldjuuso/vertigo) - Blog engine in Go (golang)
 - [strict-request](https://github.com/kozmos/strict-request) - Send strict HTTP Requests with Go
-- [micro](https://github.com/micro/micro) - Micro is a microservices runtime for the Cloud
+- [micro](https://github.com/micro/micro) - Micro is a distributed service runtime for the Cloud
 - [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
@@ -1070,6 +1070,7 @@
 
 ## JavaScript 
 
+- [web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [live2d-widget.js](https://github.com/xiazeyu/live2d-widget.js) - Live2D on webpages with out-of-the-box experience.
 - [IconGenerator](https://github.com/onmyway133/IconGenerator) - 🍱 A macOS app to generate app icons
 - [noble](https://github.com/noble/noble) - A Node.js BLE (Bluetooth Low Energy) central module
@@ -1551,7 +1552,6 @@
 - [slack-invite-automation](https://github.com/outsideris/slack-invite-automation) - A tiny web application to invite a user into your slack team.
 - [get-image-colors](https://github.com/colorjs/get-image-colors) - Extract colors from GIF, PNG, JPG, and SVG images
 - [algolia-indices](https://github.com/electron/algolia-indices) - Algolia search index data for Electron APIs, Tutorials, Packages, and Repos
-- [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
 - [crowdin-glossary](https://github.com/crowdin-node/crowdin-glossary) - 📖 Create and upload glossaries using the Crowdin API
 - [monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
@@ -1975,7 +1975,7 @@
 
 ## Others 
 
-- [kanban-musume-desktop](https://github.com/amorist/kanban-musume-desktop) - Kanban Musume Desktop
+- [git-github](https://github.com/gustavoguanabara/git-github) - Material do Curso de Git e GitHub
 - [live2d-widget-models](https://github.com/xiazeyu/live2d-widget-models) - The model library for live2d-widget.js
 - [live2d_models_collection](https://github.com/xiaoski/live2d_models_collection) - Collections of live2d models
 - [introRL](https://github.com/zhoubolei/introRL) - Intro to Reinforcement Learning (强化学习纲要）
@@ -2039,7 +2039,7 @@
 - [gsy_flutter_book](https://github.com/CarGuo/gsy_flutter_book) - Flutter 完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
 - [swiftui](https://github.com/ygit/swiftui) - A collaborative list of awesome SwiftUI resources. Feel free to contribute!
 - [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
-- [development](https://github.com/micro/development) - The Micro development roadmap, team and contribution guide
+- [development](https://github.com/micro/development) - Micro development roadmap and contribution guide
 - [ui-libraries](https://github.com/jefflombard/ui-libraries) - A collection of UI Frameworks and their platform implementations.
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
@@ -2229,6 +2229,7 @@
 
 ## PowerShell 
 
+- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
 - [k8s-for-docker-desktop](https://github.com/AliyunContainerService/k8s-for-docker-desktop) - 为Docker Desktop for Mac/Windows开启Kubernetes和Istio - Enable Kubernetes/Istio on Docker Desktop in China
 - [Thanos.sh](https://github.com/hotvulcan/Thanos.sh) - if you are Thanos(root), this command could delete half your files randomly
 - [deno_install](https://github.com/denoland/deno_install) - Deno Binary Installer
@@ -2239,6 +2240,7 @@
 
 ## Python 
 
+- [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom and Skype
 - [kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [akshare](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings! 一款丰富的开源财经数据接口库
 - [kindle](https://github.com/muzi502/kindle) - kindle 标注笔记
@@ -2571,6 +2573,7 @@
 
 ## TypeScript 
 
+- [kanban-musume-desktop](https://github.com/amorist/kanban-musume-desktop) - Kanban Musume Desktop
 - [setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
 - [frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [backstage](https://github.com/spotify/backstage) - Backstage is an open platform for building developer portals
@@ -2767,6 +2770,7 @@
 - [botpress](https://github.com/botpress/botpress) - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
 - [cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
 - [vscode-go](https://github.com/microsoft/vscode-go) - An extension for VS Code which provides support for the Go language.
+- [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [incremental-dom](https://github.com/google/incremental-dom) - An in-place DOM diffing library
 - [Zoe](https://github.com/iawia002/Zoe) - 快捷上传文件到七牛云 for macOS
 - [vuepack](https://github.com/znck/vuepack) - Publish .vue files in NPM packages
