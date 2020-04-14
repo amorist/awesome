@@ -760,7 +760,7 @@
 - [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [vertigo](https://github.com/toldjuuso/vertigo) - Blog engine in Go (golang)
 - [strict-request](https://github.com/kozmos/strict-request) - Send strict HTTP Requests with Go
-- [micro](https://github.com/micro/micro) - Micro is a distributed service runtime for the Cloud
+- [micro](https://github.com/micro/micro) - Micro is a distributed systems runtime for the Cloud
 - [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
@@ -1361,6 +1361,7 @@
 - [apollo](https://github.com/apollographql/apollo) - :rocket: Open source tools for GraphQL. Central repo for discussion.
 - [umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) - :closed_lock_with_key: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
+- [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - Cheatsheets for experienced React developers getting started with TypeScript
 - [brain.js](https://github.com/BrainJS/brain.js) - 🤖 Neural networks in JavaScript
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [electron-store](https://github.com/sindresorhus/electron-store) - Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc
@@ -2040,7 +2041,7 @@
 - [gsy_flutter_book](https://github.com/CarGuo/gsy_flutter_book) - Flutter 完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
 - [swiftui](https://github.com/ygit/swiftui) - A collaborative list of awesome SwiftUI resources. Feel free to contribute!
 - [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
-- [development](https://github.com/micro/development) - Micro development roadmap and contribution guide
+- [development](https://github.com/micro/development) - Micro contribution guide, design docs and roadmap
 - [ui-libraries](https://github.com/jefflombard/ui-libraries) - A collection of UI Frameworks and their platform implementations.
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
@@ -2073,7 +2074,6 @@
 - [lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
 - [chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [electron-frameworks](https://github.com/electron/electron-frameworks) - Frameworks used by Electron
-- [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - Cheatsheets for experienced React developers getting started with TypeScript
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security) - Awesome Golang Security resources 🕶🔐
@@ -2243,7 +2243,7 @@
 
 - [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom and Skype
 - [kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
-- [akshare](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings! 一款丰富的开源财经数据接口库
+- [akshare](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings!
 - [kindle](https://github.com/muzi502/kindle) - kindle 标注笔记
 - [word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch) - 搜索所有中文NLP数据集，附常用英文NLP数据集
@@ -2651,7 +2651,7 @@
 - [messaging-apis](https://github.com/Yoctol/messaging-apis) - Messaging APIs for multi-platform
 - [GGEditor](https://github.com/alibaba/GGEditor) - A visual graph editor based on G6 and React
 - [crud](https://github.com/nestjsx/crud) - NestJs CRUD for RESTful APIs
-- [webauthn-json](https://github.com/github/webauthn-json) - 🔏 A WebAuthn API wrapper that translates to/from pure JSON using base64url.
+- [webauthn-json](https://github.com/github/webauthn-json) - 🔏 A small WebAuthn API wrapper that translates to/from pure JSON using base64url.
 - [icestark](https://github.com/ice-lab/icestark) - :tiger: Micro Frontends solution for large application（面向大型应用的微前端解决方案）
 - [bistate](https://github.com/Lucifier129/bistate) - A state management library for React combined immutable, mutable and reactive mode
 - [renderer](https://github.com/amorist/renderer) - vue ssr template renderer
@@ -2776,7 +2776,7 @@
 - [Zoe](https://github.com/iawia002/Zoe) - 快捷上传文件到七牛云 for macOS
 - [vuepack](https://github.com/znck/vuepack) - Publish .vue files in NPM packages
 - [proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
-- [wechaty](https://github.com/wechaty/wechaty) - WeChat Bot SDK for Individual Account, Powered by TypeScript, Docker, and 💖
+- [wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for WeChat Individual Account, Powered by TypeScript, Docker, and 💖
 - [tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
