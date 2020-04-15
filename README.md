@@ -268,6 +268,9 @@
 
 ## Go 
 
+- [sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
+- [go-admin](https://github.com/wenjianzhang/go-admin) - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RABC资源控制，表单构建等）
+- [trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
 - [go-lottery](https://github.com/goodcan/go-lottery) - Golang 实现各式各样的抽奖逻辑后台
 - [codenames](https://github.com/jbowens/codenames) - Play codenames using a TV or computer for the board
 - [ion](https://github.com/pion/ion) - Distributed RTC System by pure Go and Flutter
@@ -1584,7 +1587,7 @@
 - [electron-installer-dmg](https://github.com/electron-userland/electron-installer-dmg) - Create DMG installers for your electron apps using appdmg.
 - [sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [name-your-contributors](https://github.com/mntnr/name-your-contributors) - Name your GitHub contributors; get commits, issues, and comments
-- [handsontable](https://github.com/handsontable/handsontable) - JavaScript/HTML5 Data Grid Component with Spreadsheet Look & Feel. Available for React, Vue and Angular.
+- [handsontable](https://github.com/handsontable/handsontable) - 🚀 Handsontable is a JavaScript/HTML5 data grid with spreadsheet look & feel. Available for React, Vue and Angular.
 - [gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 - [SorryPress](https://github.com/fritx/SorryPress) - Sorry动图 VuePress版
 - [update-electron-app](https://github.com/electron/update-electron-app) - 🌲 A drop-in module that adds autoUpdating capabilities to Electron apps
