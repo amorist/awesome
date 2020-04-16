@@ -283,7 +283,7 @@
 - [netgraph](https://github.com/ga0/netgraph) - A cross platform http sniffer with a web UI
 - [apiproject](https://github.com/wangshibiaoFlytiger/apiproject) - golang项目开发脚手架,集成最佳实践(gin+gorm+go-redis+mongo+cors+jwt+json日志库zap(支持日志收集到kafka或mongo)+消息队列kafka+微信支付宝支付gopay+api加密+api反向代理+go modules依赖管理+headless爬虫chromedp+makefile+二进制压缩+livereload热加载)
 - [dex](https://github.com/dexidp/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
-- [desktop](https://github.com/fyne-io/desktop) - A full desktop environment for Linux/Unix using Fyne
+- [fynedesk](https://github.com/fyne-io/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 - [go](https://github.com/stellar/go) - Stellar's public monorepo of go code
 - [stripe-go](https://github.com/stripe/stripe-go) - Go library for the Stripe API.
 - [agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
