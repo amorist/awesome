@@ -556,7 +556,7 @@
 - [go-logging](https://github.com/op/go-logging) - Golang logging library
 - [casbin-server](https://github.com/casbin/casbin-server) - Casbin as a Service (CaaS)
 - [mahjong-helper](https://github.com/EndlessCheng/mahjong-helper) - 日本麻将助手：牌效+防守+记牌（支持雀魂、天凤）
-- [leaseapp](https://github.com/taigacute/leaseapp) - go开发的后台API
+- [leaseapp](https://github.com/raphaelxs/leaseapp) - go开发的后台API
 - [red](https://github.com/antonmedv/red) - Terminal log analysis tools
 - [high-performance-go-workshop](https://github.com/davecheney/high-performance-go-workshop) - 
 - [go-runewidth](https://github.com/mattn/go-runewidth) - wcwidth for golang
@@ -853,7 +853,7 @@
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [chat](https://github.com/tinode/chat) - Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots
 - [shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go) - go port of shadowsocks (Deprecated)
-- [livego](https://github.com/gwuhaolin/livego) - 纯 Go 写的直播服务器
+- [livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
 - [gojson](https://github.com/ChimeraCoder/gojson) - Automatically generate Go (golang) struct definitions from example JSON
 - [structs](https://github.com/fatih/structs) - Utilities for Go structs
@@ -2602,7 +2602,7 @@
 - [umi-next](https://github.com/umijs/umi-next) - The next version of umi. (under development)
 - [formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution.
 - [action-qiniu-upload](https://github.com/hujiulong/action-qiniu-upload) - Github Action for Uploading Files to Qiniu.com
-- [namae](https://github.com/uetchy/namae) - ☕️ Grab a slick name for your new app.
+- [namae](https://github.com/uetchy/namae) - ☕️ Grab a slick name for your new project.
 - [artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
 - [wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
