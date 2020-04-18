@@ -556,7 +556,7 @@
 - [go-logging](https://github.com/op/go-logging) - Golang logging library
 - [casbin-server](https://github.com/casbin/casbin-server) - Casbin as a Service (CaaS)
 - [mahjong-helper](https://github.com/EndlessCheng/mahjong-helper) - 日本麻将助手：牌效+防守+记牌（支持雀魂、天凤）
-- [leaseapp](https://github.com/raphaelxs/leaseapp) - go开发的后台API
+- [leaseapp](https://github.com/raphaer/leaseapp) - go开发的后台API
 - [red](https://github.com/antonmedv/red) - Terminal log analysis tools
 - [high-performance-go-workshop](https://github.com/davecheney/high-performance-go-workshop) - 
 - [go-runewidth](https://github.com/mattn/go-runewidth) - wcwidth for golang
@@ -2292,7 +2292,6 @@
 - [hub](https://github.com/pytorch/hub) - Submission to https://pytorch.org/hub/
 - [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [gryphon](https://github.com/garethdmm/gryphon) - Powerful, proven, and extensible framework for building trading strategies at any frequency, with a focus on crypto currencies. Battle-tested with billions traded.
-- [instabot.py](https://github.com/instabot-py/instabot.py) - Instagram bot. It works without instagram api, need only login and password. Write on python.
 - [integration](https://github.com/hacs/integration) - Manage (Install, track, upgrade) and discover custom elements for Home Assistant.
 - [stylegan](https://github.com/NVlabs/stylegan) - StyleGAN - Official TensorFlow Implementation
 - [aswan](https://github.com/momosecurity/aswan) - 陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
@@ -2459,7 +2458,7 @@
 - [actix](https://github.com/actix/actix) - Actor framework for Rust
 - [learning-rust](https://github.com/yangwenmai/learning-rust) - Rust 学习之路 &gt; Rust Programming Tutorial, include articles, interview, example, problems.
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
-- [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+- [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 - [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [stdweb](https://github.com/koute/stdweb) - A standard library for the client-side Web
 - [cargo_gn](https://github.com/denoland/cargo_gn) - Cargo GN integration
