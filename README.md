@@ -555,7 +555,7 @@
 - [go-logging](https://github.com/op/go-logging) - Golang logging library
 - [casbin-server](https://github.com/casbin/casbin-server) - Casbin as a Service (CaaS)
 - [mahjong-helper](https://github.com/EndlessCheng/mahjong-helper) - 日本麻将助手：牌效+防守+记牌（支持雀魂、天凤）
-- [leaseapp](https://github.com/raphaer/leaseapp) - go开发的后台API
+- [leaseapp](https://github.com/glepnir/leaseapp) - go开发的后台API
 - [red](https://github.com/antonmedv/red) - Terminal log analysis tools
 - [high-performance-go-workshop](https://github.com/davecheney/high-performance-go-workshop) - 
 - [go-runewidth](https://github.com/mattn/go-runewidth) - wcwidth for golang
@@ -1902,6 +1902,7 @@
 - [Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0) - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为TensorFlow 2.0实现，项目已得到李沐老师的同意
 - [Financial-Models-Numerical-Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods) - Collection of notebooks about quantitative finance, with interactive python code.
 - [Cat_Recognition](https://github.com/tinalulu1327/Cat_Recognition) - Cat Detection and Breed Recognition
+- [Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
 - [lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
 - [fastai](https://github.com/fastai/fastai) - The fastai deep learning library, plus lessons and tutorials
 - [google-research](https://github.com/google-research/google-research) - Google Research
@@ -2273,7 +2274,6 @@
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code
-- [Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
 - [models](https://github.com/PaddlePaddle/models) - Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）
 - [iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport) - This repository holds the device support files for the iOS, and I will update it regularly.
 - [pkuseg-python](https://github.com/lancopku/pkuseg-python) - pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation
@@ -2373,7 +2373,7 @@
 - [algorithms](https://github.com/marcosfede/algorithms) - Solved algorithms and data structures problems in many languages
 - [huepy](https://github.com/s0md3v/huepy) - Print awesomely in terminals.
 - [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
-- [hosts](https://github.com/StevenBlack/hosts) - Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.  You can optionally invoke extensions to block additional sites by category.
+- [hosts](https://github.com/StevenBlack/hosts) - Consolidating and Extending hosts files from several well-curated sources. You can optionally pick extensions to block Porn, Social Media, and other categories..
 - [fooltrader](https://github.com/foolcage/fooltrader) - a modular quant framework
 - [python-spider](https://github.com/Jack-Cherish/python-spider) - :rainbow:Python3网络爬虫实战
 - [akbl](https://github.com/rsm-gh/akbl) - Control the lights of Alienware computers under GNU-Linux systems.
@@ -2449,7 +2449,7 @@
 - [actix-extras](https://github.com/actix/actix-extras) - A collection of additional crates supporting the actix and actix-web frameworks.
 - [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [ws-rs](https://github.com/housleyjk/ws-rs) - Lightweight, event-driven WebSockets for Rust.
-- [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+- [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
 - [rust-vst-gui](https://github.com/vanderlokken/rust-vst-gui) - An extension to the 'rust-vst' crate to create VST plugin GUIs
 - [orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit.
 - [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
@@ -2580,6 +2580,7 @@
 
 ## TypeScript 
 
+- [eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [kanban-musume-desktop](https://github.com/amorist/kanban-musume-desktop) - Kanban Musume Desktop
 - [setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
 - [frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
@@ -2752,7 +2753,7 @@
 - [eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
-- [vuese](https://github.com/shuidi-fed/vuese) - 🤗 One-stop solution for vue component documentation. Original org: https://github.com/vuese
+- [vuese](https://github.com/vuese/vuese) - 🤗 One-stop solution for vue component documentation. Original org: https://github.com/vuese
 - [metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
 - [zan-proxy](https://github.com/youzan/zan-proxy) - An extensible proxy for PC/Mobile/APP developer
 - [markbox](https://github.com/djyde/markbox) - Parse your code in markdown into CodeSandbox.
