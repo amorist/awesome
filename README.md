@@ -293,7 +293,7 @@
 - [swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [charts](https://github.com/helm/charts) - Curated applications for Kubernetes
-- [goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go, Angular/React/Vue, and MongoDB in seconds🚀
+- [goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React or Vue in seconds🚀
 - [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc)  7天用Go动手写/从零实现系列
 - [esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
 - [telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
@@ -1331,7 +1331,6 @@
 - [prerender](https://github.com/prerender/prerender) - Node server that uses Headless Chrome to render a javascript-rendered page as HTML. To be used in conjunction with prerender middleware.
 - [ghChat](https://github.com/aermin/ghChat) - :octocat: 📱A chat application for GitHub. React + PWA + Node(koa2) + Typescripts  + Mysql  + Socket.io
 - [snowpack](https://github.com/pikapkg/snowpack) - 📦✨ Build web applications with less tooling and 10x faster iteration. No bundler required.
-- [vue-dev-server](https://github.com/vuejs/vue-dev-server) - A POC dev server that allows you to import `*.vue` files via native ES modules imports.
 - [grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [formidable](https://github.com/node-formidable/formidable) - A node.js module for parsing form data, especially file uploads.
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
@@ -2248,6 +2247,7 @@
 
 ## Python 
 
+- [bird-bot](https://github.com/natewong1313/bird-bot) - A Nintendo Switch checkout bot. Currently supports Walmart and Best buy
 - [examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
 - [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom and Skype
 - [kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
@@ -2721,6 +2721,7 @@
 - [gcoord](https://github.com/hujiulong/gcoord) - 地理坐标系转换工具，支持WGS84/GCJ02/BD09等常用坐标系互转
 - [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
 - [reaviz](https://github.com/jask-oss/reaviz) - 📊  Data visualization library for React based on D3
+- [vue-dev-server](https://github.com/vuejs/vue-dev-server) - A POC dev server that allows you to import `*.vue` files via native ES modules imports.
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
 - [react-native-webview](https://github.com/react-native-community/react-native-webview) - React Native Cross-Platform WebView
