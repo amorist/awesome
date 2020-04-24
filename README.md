@@ -158,7 +158,7 @@
 - [InternetArchitect](https://github.com/bjmashibing/InternetArchitect) - 年薪百万互联网架构师课程文档及源码(公开部分)
 - [papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
-- [css.gg](https://github.com/astrit/css.gg) - 500+ CSS Icons. Customizable, Retina Ready with API & NPM
+- [css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 - [hugo-hero-theme](https://github.com/JugglerX/hugo-hero-theme) - A modern business theme for Hugo.
 - [hugo-lime](https://github.com/uicardiodev/hugo-lime) - Hugo Lime is a business theme for GoHugo by https://uicard.io
@@ -1331,7 +1331,7 @@
 - [koa-prerender](https://github.com/RisingStack/koa-prerender) - KOA middleware for prerendering javascript-rendered pages on the fly for SEO
 - [prerender](https://github.com/prerender/prerender) - Node server that uses Headless Chrome to render a javascript-rendered page as HTML. To be used in conjunction with prerender middleware.
 - [ghChat](https://github.com/aermin/ghChat) - :octocat: 📱A chat application for GitHub. React + PWA + Node(koa2) + Typescripts  + Mysql  + Socket.io
-- [snowpack](https://github.com/pikapkg/snowpack) - 📦✨ Build web applications with less tooling and 10x faster iteration. No bundler required.
+- [snowpack](https://github.com/pikapkg/snowpack) - ☶ The fastest way to build any web app.
 - [grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [formidable](https://github.com/node-formidable/formidable) - A node.js module for parsing form data, especially file uploads.
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
@@ -2501,7 +2501,7 @@
 - [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [branch-cleanup-action](https://github.com/jessfraz/branch-cleanup-action) - A GitHub action to automatically delete the branch after a pull request has been merged.
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. No free support is provided at the moment.
+- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. No free support is provided at the moment. With OpenCore Now!!
 - [kubernetes-tutorial](https://github.com/KeKe-Li/kubernetes-tutorial) - Running Kubernetes cluster Locally tutorial
 - [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [debian-sysroot-image-creator](https://github.com/electron/debian-sysroot-image-creator) - Scripts to create debian sysroot image for building electron
@@ -2829,6 +2829,7 @@
 
 ## Vim script 
 
+- [til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [yapi-docker](https://github.com/crper/yapi-docker) - 使用docker构建yapi容器
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
