@@ -125,6 +125,7 @@
 - [devilution-nx](https://github.com/lantus/devilution-nx) - Diablo for the Nintendo Switch
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [USTC-Course](https://github.com/USTC-Resource/USTC-Course) - :heart:中国科学技术大学课程资源
 - [osx-mouse](https://github.com/kapetan/osx-mouse) - Mouse tracking for OS X
 - [flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) - Examples of using, and testbed for, the in-development Flutter for Desktop
 - [react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
@@ -155,6 +156,7 @@
 
 ## CSS 
 
+- [98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [InternetArchitect](https://github.com/bjmashibing/InternetArchitect) - 年薪百万互联网架构师课程文档及源码(公开部分)
 - [papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
@@ -268,6 +270,7 @@
 
 ## Go 
 
+- [go-interview](https://github.com/shomali11/go-interview) - Collection of Technical Interview Questions solved with Go
 - [sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [go-admin](https://github.com/wenjianzhang/go-admin) - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RABC资源控制，表单构建等）
 - [trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
@@ -490,7 +493,7 @@
 - [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 - [wechat-go](https://github.com/songtianyi/wechat-go) - go version wechat web api and message framework for building wechat robot
 - [pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
-- [smscode](https://github.com/xluohome/smscode) - 专为需要【手机短信验证码】使用场景而设计的微服务(Micro service)，如：用户注册、找回密码、用户身份验证、验证码登录等等。支持阿里大鱼、云通信、互亿无线
+- [smscode](https://github.com/xluohome/smscode) - 专为需要【手机短信验证码】使用场景而设计的微服务(Micro service)，如：用户注册、找回密码、用户身份验证、验证码登录等等。支持阿里大于(短信)、云通信、互亿无线
 - [fileboy](https://github.com/dengsgo/fileboy) - fileboy，文件变更监听通知系统，使用 Go 编写。Fileboy, File Change Monitoring Notification System, written with Go.
 - [sentences](https://github.com/neurosnap/sentences) - A multilingual command line sentence tokenizer in Golang
 - [go-chat](https://github.com/ItsWewin/go-chat) - Golang 高并发聊天程序/go chat room
@@ -687,7 +690,7 @@
 - [participle](https://github.com/alecthomas/participle) - A parser library for Go
 - [cli](https://github.com/home-assistant/cli) - :white_square_button: Home Assistant command line interface
 - [gi](https://github.com/goki/gi) - Native Go (golang) Graphical Interface system (2D and 3D), built on GoKi tree framework
-- [writefreely](https://github.com/writeas/writefreely) - Build a community writing space on the web.
+- [writefreely](https://github.com/writeas/writefreely) - A platform for writing communities.
 - [chain33](https://github.com/33cn/chain33) - 高度模块化, 遵循 KISS原则的区块链开发框架
 - [vuego](https://github.com/chanwit/vuego) - 
 - [logger](https://github.com/google/logger) - Cross platform Go logging library.
@@ -904,7 +907,7 @@
 - [nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [commento](https://github.com/adtac/commento) - A fast, bloat-free comments platform (Github mirror)
 - [tui-go](https://github.com/marcusolsson/tui-go) - A UI library for terminal applications.
-- [iris](https://github.com/kataras/iris) - 感谢中国开发者 - https://bit.ly/謝謝 | The fastest community-driven web framework for Go. Webassembly, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. | https://bit.ly/iriscandothat1 | https://bit.ly/iriscandothat3 |
+- [iris](https://github.com/kataras/iris) - 感谢中国开发者 - https://bit.ly/謝謝 | The fastest community-driven web framework for Go. gRPC, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. | https://bit.ly/iriscandothat1 | https://bit.ly/iriscandothat3 |
 - [matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go.
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [go-realtime-collaborative-drawing-app](https://github.com/tinrab/go-realtime-collaborative-drawing-app) - A simple real-time collaborative drawing app built with Go
@@ -1332,7 +1335,7 @@
 - [koa-prerender](https://github.com/RisingStack/koa-prerender) - KOA middleware for prerendering javascript-rendered pages on the fly for SEO
 - [prerender](https://github.com/prerender/prerender) - Node server that uses Headless Chrome to render a javascript-rendered page as HTML. To be used in conjunction with prerender middleware.
 - [ghChat](https://github.com/aermin/ghChat) - :octocat: 📱A chat application for GitHub. React + PWA + Node(koa2) + Typescripts  + Mysql  + Socket.io
-- [snowpack](https://github.com/pikapkg/snowpack) - ⛰ The fastest, simplest way to build a web application.
+- [snowpack](https://github.com/pikapkg/snowpack) - ⛰ The fastest way to build a web application. Get a 10x faster dev environment.
 - [grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [formidable](https://github.com/node-formidable/formidable) - A node.js module for parsing form data, especially file uploads.
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
@@ -2249,6 +2252,7 @@
 
 ## Python 
 
+- [Background-Matting](https://github.com/senguptaumd/Background-Matting) - Background Matting: The World is Your Green Screen
 - [bird-bot](https://github.com/natewong1313/bird-bot) - A Nintendo Switch checkout bot. Currently supports Walmart and Best buy
 - [examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
 - [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom and Skype
@@ -2315,7 +2319,6 @@
 - [jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
 - [py-futu-api](https://github.com/FutunnOpen/py-futu-api) - 富途开放API  Python SDK
 - [requests3](https://github.com/kennethreitz-archive/requests3) - Requests 3.0, for Humans and Machines, alike. 🤖
-- [USTC-Course](https://github.com/USTC-Resource/USTC-Course) - :heart:中国科学技术大学课程资源
 - [docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
 - [Lihang](https://github.com/SmirkCao/Lihang) - Statistical learning methods, 统计学习方法(第2版)[李航]  [笔记, 代码, notebook, 参考文献, Errata, lihang]
 - [mailin](https://github.com/Flolagale/mailin) - Artisanal inbound emails for every web app
@@ -2582,6 +2585,7 @@
 
 ## TypeScript 
 
+- [mordred](https://github.com/egoist/mordred) - Source data from anywhere, for Next.js, Nuxt.js, Eleventy and many more.
 - [eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [kanban-musume-desktop](https://github.com/amorist/kanban-musume-desktop) - Kanban Musume Desktop
 - [setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
