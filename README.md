@@ -277,7 +277,7 @@
 - [go-admin](https://github.com/wenjianzhang/go-admin) - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RABC资源控制，表单构建等）
 - [trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
 - [go-lottery](https://github.com/goodcan/go-lottery) - Golang 实现各式各样的抽奖逻辑后台
-- [codenames](https://github.com/jbowens/codenames) - Play codenames using a TV or computer for the board
+- [codenames](https://github.com/jbowens/codenames) - Play codenames online
 - [ion](https://github.com/pion/ion) - Distributed RTC System by pure Go and Flutter
 - [nightingale](https://github.com/didi/nightingale) - A Distributed and High-Performance Monitoring System
 - [protoc-gen-micro](https://github.com/asim/protoc-gen-micro) - Protobuf code generation for Micro services
@@ -501,7 +501,7 @@
 - [go-chat](https://github.com/ItsWewin/go-chat) - Golang 高并发聊天程序/go chat room
 - [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [dep](https://github.com/golang/dep) - Go dependency management tool
-- [olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend built with an artificial neural network
+- [olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️your new best friend built with an artificial neural network
 - [zek](https://github.com/miku/zek) - Generate a Go struct from XML.
 - [homo](https://github.com/countstarlight/homo) - An open source natural interaction system based on offline wake-up, natural language understanding and sentiment analysis
 - [goalert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert
@@ -578,7 +578,7 @@
 - [vugu](https://github.com/vugu/vugu) - Vugu: A modern UI library for Go+WebAssembly (experimental)
 - [packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [gsm](https://github.com/knownsec/gsm) - 使用树莓派配合硬件来进行短信转发
-- [auxpi](https://github.com/aimerforreimu/auxpi) - 🍭 集合多家 API 的新一代图床
+- [auxpi](https://github.com/0xDkd/auxpi) - 🍭 集合多家 API 的新一代图床
 - [Go42](https://github.com/ffhelicopter/Go42) - 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。
 - [konfig](https://github.com/lalamove/konfig) - Composable, observable and performant config handling for Go for the distributed processing era
 - [vulcanizer](https://github.com/github/vulcanizer) - GitHub's ops focused Elasticsearch library
@@ -974,6 +974,7 @@
 - [js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist
 - [glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery
 - [watchme](https://github.com/vsoch/watchme) - Reproducible watchers for research
+- [apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [dropcss](https://github.com/leeoniya/dropcss) - An exceptionally fast, thorough and tiny unused-CSS cleaner
@@ -1079,6 +1080,7 @@
 
 ## JavaScript 
 
+- [kbone-ts-template](https://github.com/stephenml/kbone-ts-template) - 
 - [active-win](https://github.com/sindresorhus/active-win) - Get metadata about the active window (title, id, bounds, owner, etc)
 - [oss-browser](https://github.com/aliyun/oss-browser) - OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。
 - [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using PostCSS
@@ -1198,7 +1200,6 @@
 - [grapesjs-cli](https://github.com/artf/grapesjs-cli) - GrapesJS CLI helper for the development
 - [signmeup](https://github.com/signmeup/signmeup) - Real-time application to sign up for and manage TA hours.
 - [webcrypto](https://github.com/nodejs/webcrypto) - Implementation of WebCrypto API as an npm package
-- [comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching.
 - [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [kbone](https://github.com/Tencent/kbone) - 一个致力于微信小程序和 Web 端同构的解决方案
@@ -1319,7 +1320,6 @@
 - [html-parse-stringify](https://github.com/HenrikJoreteg/html-parse-stringify) - Parses well-formed HTML (meaning all tags closed) into an AST and back. quickly.
 - [squeezer](https://github.com/SqueezerIO/squeezer) - Squeezer Framework - Build serverless dApps
 - [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
-- [apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 - [yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 - [vuepress-plugin-yuque](https://github.com/ulivz/vuepress-plugin-yuque) - Input: Yuque Repo, Output: VuePress Site!
@@ -1337,7 +1337,7 @@
 - [koa-prerender](https://github.com/RisingStack/koa-prerender) - KOA middleware for prerendering javascript-rendered pages on the fly for SEO
 - [prerender](https://github.com/prerender/prerender) - Node server that uses Headless Chrome to render a javascript-rendered page as HTML. To be used in conjunction with prerender middleware.
 - [ghChat](https://github.com/aermin/ghChat) - :octocat: 📱A chat application for GitHub. React + PWA + Node(koa2) + Typescripts  + Mysql  + Socket.io
-- [snowpack](https://github.com/pikapkg/snowpack) - ⛰ The fastest way to build a web application. Get a 10x faster dev environment.
+- [snowpack](https://github.com/pikapkg/snowpack) - ⛰ The fastest way to build a web app.
 - [grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [formidable](https://github.com/node-formidable/formidable) - A node.js module for parsing form data, especially file uploads.
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
@@ -1772,7 +1772,6 @@
 - [Amor](https://github.com/amorist/Amor) - Amor
 - [react-trader](https://github.com/ccoenraets/react-trader) - Sample application built with React and Socket.io
 - [examples](https://github.com/eggjs/examples) - Store all egg examples in one place
-- [homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient
 - [react-native-web](https://github.com/necolas/react-native-web) - React Native for Web
 - [GitHubPopular](https://github.com/crazycodeboy/GitHubPopular) - 这是一个用来查看GitHub最受欢迎与最热项目的App,它基于React Native支持Android和iOS双平台。#适配RN最新版在这里☞#
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
@@ -2658,6 +2657,7 @@
 - [got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [clerk](https://github.com/electron/clerk) - Verify PRs have release notes
+- [comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go
 - [serverless-core](https://github.com/nestjs/serverless-core) - Serverless Core module for Nest framework (node.js)  🦊
 - [get](https://github.com/electron/get) - Download Electron release artifacts
@@ -2692,7 +2692,7 @@
 - [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [instagram-private-api](https://github.com/dilame/instagram-private-api) - NodeJS Instagram private API client. Written in TypeScript.
-- [react-intl](https://github.com/formatjs/react-intl) - Internationalize React apps. This library provides React components and an API to format dates, numbers, and strings, including pluralization and handling translations.
+- [formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries.
 - [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) - Tasks for Azure Pipelines
 - [ide-props-editor](https://github.com/one-gourd/ide-props-editor) - 属性编辑器 ，demo https://one-gourd.github.io/ide-props-editor/
 - [vue-async-manager](https://github.com/shuidi-fed/vue-async-manager) - 【deprecated】Manage asynchronous calls more easily in Vue apps.
@@ -2822,6 +2822,7 @@
 - [react-page](https://github.com/react-page/react-page) - Next-gen, highly customizable content editor for the browser - based on React and Redux and written in TypeScript. WYSIWYG on steroids.
 - [windows-installer](https://github.com/electron/windows-installer) - Build Windows Installers for Electron apps
 - [HAP-NodeJS](https://github.com/homebridge/HAP-NodeJS) - Node.js implementation of HomeKit Accessory Server.
+- [homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient
 - [ioredis](https://github.com/luin/ioredis) - 🚀A robust, performance-focused and full-featured Redis client for Node.js.
 - [menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
 - [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
