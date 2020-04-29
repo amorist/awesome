@@ -81,7 +81,7 @@
 - [zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 - [earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering) - Reversing Google's 3D satellite mode
 - [webview](https://github.com/zserge/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
-- [nnn](https://github.com/jarun/nnn) - :tangerine: The missing terminal file manager for X.
+- [nnn](https://github.com/jarun/nnn) - n³ The missing terminal file manager for X.
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
@@ -159,7 +159,6 @@
 
 - [magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
 - [98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
-- [InternetArchitect](https://github.com/bjmashibing/InternetArchitect) - 年薪百万互联网架构师课程文档及源码(公开部分)
 - [papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
@@ -335,8 +334,9 @@
 - [faasd](https://github.com/openfaas/faasd) - faasd - serverless with containerd and CNI  🐳
 - [mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [leetcode](https://github.com/pengliheng/leetcode) - ✍
-- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
+- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [staticgen](https://github.com/tj/staticgen) - Static website generator that lets you use HTTP servers and frameworks you already know
+- [XConf](https://github.com/micro-in-cn/XConf) - 分布式配置中心
 - [tour](https://github.com/golang/tour) - [mirror] A Tour of Go
 - [tour](https://github.com/Go-zh/tour) - Go 语言官方教程中文版
 - [drone-plugin-lib](https://github.com/drone-plugins/drone-plugin-lib) - Helpers for creating plugins for Drone in Go
@@ -1037,6 +1037,7 @@
 
 ## Java 
 
+- [InternetArchitect](https://github.com/bjmashibing/InternetArchitect) - 年薪百万互联网架构师课程文档及源码(公开部分)
 - [mall-swarm](https://github.com/macrozheng/mall-swarm) - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Greenwich、Spring Boot 2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
 - [fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) - 🚀 fullstack tutorial 2020，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
 - [mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
@@ -1082,6 +1083,7 @@
 
 - [kbone-ts-template](https://github.com/stephenml/kbone-ts-template) - 
 - [active-win](https://github.com/sindresorhus/active-win) - Get metadata about the active window (title, id, bounds, owner, etc)
+- [CylindricalEarth](https://github.com/Treeki/CylindricalEarth) - research into the internals of Animal Crossing: New Horizons
 - [oss-browser](https://github.com/aliyun/oss-browser) - OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。
 - [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using PostCSS
 - [lib-flexible](https://github.com/amfe/lib-flexible) - 可伸缩布局方案
@@ -1189,7 +1191,7 @@
 - [image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
 - [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [data-directory](https://github.com/docs/data-directory) - 🌳 A Node.js module to recursively load a directory of YAML, JSON, and Markdown files into a JavaScript object.
-- [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen WebDriver test automation framework for Node.js
+- [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [gridsome](https://github.com/gridsome/gridsome) - ⚡️Build modern JAMstack websites with Vue.js
 - [generative-artistry](https://github.com/tholman/generative-artistry) - A website for self coding generative art tutorials.
 - [stickers-for-discord](https://github.com/DarylPinto/stickers-for-discord) - Custom stickers and sticker packs for Discord servers!
@@ -2254,19 +2256,18 @@
 
 ## Python 
 
-- [CylindricalEarth](https://github.com/Treeki/CylindricalEarth) - research into the internals of Animal Crossing: New Horizons
 - [Background-Matting](https://github.com/senguptaumd/Background-Matting) - Background Matting: The World is Your Green Screen
 - [bird-bot](https://github.com/natewong1313/bird-bot) - A Nintendo Switch checkout bot. Currently supports Walmart and Best buy
 - [examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
 - [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom and Skype
 - [kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
-- [akshare](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings!
+- [akshare](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 - [kindle](https://github.com/muzi502/kindle) - kindle 标注笔记
 - [word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch) - 搜索所有中文NLP数据集，附常用英文NLP数据集
 - [newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
 - [FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection) - 开源人脸口罩检测模型和数据 Detect faces and determine whether people are wearing mask.
-- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) - Python有趣的小例子一网打尽。Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。
+- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，60 秒学会一个 Python 小例子，已有 223 个
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 - [albert](https://github.com/google-research/albert) - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
@@ -2622,7 +2623,6 @@
 - [wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
 - [deno_storage](https://github.com/axetroy/deno_storage) - implementation of localStorage and sessionStorage for Deno
-- [XConf](https://github.com/micro-in-cn/XConf) - 分布式配置中心
 - [electron-react-typescript](https://github.com/Robinfr/electron-react-typescript) - Electron boilerplate with React, Redux, and TypeScript
 - [checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [BoostNote.next](https://github.com/BoostIO/BoostNote.next) - An intuitive and stylish markdown note app for the developers.
