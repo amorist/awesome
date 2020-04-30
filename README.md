@@ -881,7 +881,7 @@
 - [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [schematyper](https://github.com/idubinskiy/schematyper) - Generates Go types based on JSON Schemas
 - [chanx](https://github.com/tidwall/chanx) - A simple interface wrapper around a Go channel.
-- [go-micro](https://github.com/micro/go-micro) - The Go Micro services development framework
+- [go-micro](https://github.com/micro/go-micro) - A distributed systems development framework
 - [gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [go-apla](https://github.com/AplaProject/go-apla) - A blockchain platform with a simplified programming language
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
@@ -1129,11 +1129,11 @@
 - [git-topics-cli](https://github.com/bukinoshita/git-topics-cli) - Auto create Github topics for repositories
 - [express-jwt](https://github.com/auth0/express-jwt) - connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes
 - [resumd](https://github.com/timqian/resumd) - Write resume with markdown
-- [ajax-interceptor](https://github.com/YGYOOO/ajax-interceptor) - A chrome extension for modifing response text of ajax requests | 修改ajax请求返回结果的chrome插件
+- [ajax-interceptor](https://github.com/YGYOOO/ajax-interceptor) - A chrome extension to modify response text of ajax requests | 修改ajax请求返回结果的chrome插件
 - [flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [sentineljs](https://github.com/muicss/sentineljs) - Detect new DOM nodes using CSS selectors (650 bytes)
-- [nuxt.js](https://github.com/nuxt/nuxt.js) - The Vue.js Framework
+- [nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
 - [concent](https://github.com/concentjs/concent) - Build-in dependency collection, a predictable、zero-cost-use、progressive、high performance's react develop framework
 - [ci-detect](https://github.com/npm/ci-detect) - Detect what kind of CI environment the program is in
 - [waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
@@ -1339,7 +1339,7 @@
 - [koa-prerender](https://github.com/RisingStack/koa-prerender) - KOA middleware for prerendering javascript-rendered pages on the fly for SEO
 - [prerender](https://github.com/prerender/prerender) - Node server that uses Headless Chrome to render a javascript-rendered page as HTML. To be used in conjunction with prerender middleware.
 - [ghChat](https://github.com/aermin/ghChat) - :octocat: 📱A chat application for GitHub. React + PWA + Node(koa2) + Typescripts  + Mysql  + Socket.io
-- [snowpack](https://github.com/pikapkg/snowpack) - ⛰ The fastest way to build a web app.
+- [snowpack](https://github.com/pikapkg/snowpack) - ☶ The fast, simple dev environment for modern web apps.
 - [grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [formidable](https://github.com/node-formidable/formidable) - A node.js module for parsing form data, especially file uploads.
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
@@ -2134,7 +2134,7 @@
 - [LineStickersEditor](https://github.com/line-stickers/LineStickersEditor) - 
 - [Release](https://github.com/nodejs/Release) - Node.js Release Working Group
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
-- [Tvlist-awesome-m3u-m3u8](https://github.com/billy21/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 武汉加油
+- [Tvlist-awesome-m3u-m3u8](https://github.com/billy21/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
 - [7-secret-patterns](https://github.com/chrisvfritz/7-secret-patterns) - 
 - [architecture.wechat-tencent](https://github.com/davideuler/architecture.wechat-tencent) - 互联网公司架构: 微信技术架构， 腾讯技术架构
 - [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
