@@ -2653,7 +2653,7 @@
 - [takenote](https://github.com/taniarascia/takenote) - 📝 A free, open source notes app for the web.
 - [tecalliance-onedb-application](https://github.com/vauman/tecalliance-onedb-application) - This is the OneDB application to manage vehicles, parts, etc. build with Angular
 - [dts-gen](https://github.com/microsoft/dts-gen) - dts-gen creates starter TypeScript definition files for any module or library.
-- [vue-next](https://github.com/vuejs/vue-next) - The next major version of Vue (WIP)
+- [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0 (currently in beta)
 - [switch-desktop](https://github.com/ahkohd/switch-desktop) - Switch between your favourite apps lightning fast.
 - [got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
