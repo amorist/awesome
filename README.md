@@ -113,7 +113,7 @@
 
 - [cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src) - Leak of CS:GO Source code, provided by yours truly so go rep me
 - [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
-- [taichi](https://github.com/taichi-dev/taichi) - Productive programming language for portable, high-performance, sparse & differentiable computing
+- [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing
 - [yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 - [node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using N-API from C++
 - [Cheating-Plugin-Program](https://github.com/luguanxing/Cheating-Plugin-Program) - 从零开始研究外挂设计原理
@@ -403,7 +403,7 @@
 - [webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka 0.8, and up.
 - [opencensus-go](https://github.com/census-instrumentation/opencensus-go) - A stats collection and distributed tracing framework
-- [okteto](https://github.com/okteto/okteto) - Build better applications by developing and testing your code directly in Kubernetes
+- [okteto](https://github.com/okteto/okteto) - Local development experience for Kubernetes apps
 - [jsonc](https://github.com/muhammadmuzzammil1998/jsonc) - JSON with comments for Go!
 - [godoctor](https://github.com/godoctor/godoctor) - Go Doctor - The Golang Refactoring Engine
 - [github-actions-golang](https://github.com/mvdan/github-actions-golang) - GitHub Actions as CI for Go
@@ -659,7 +659,7 @@
 - [gq](https://github.com/housecanary/gq) - GQ is a library to help build GraphQL server in Go
 - [gomacro](https://github.com/cosmos72/gomacro) - Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros
 - [event-gateway](https://github.com/serverless/event-gateway) - React to any event with serverless functions across clouds
-- [go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian JIRA
+- [go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira
 - [scholar](https://github.com/cgxeiji/scholar) - Reference Manager in Go
 - [xorm](https://github.com/go-xorm/xorm) - Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm
 - [copernicus](https://github.com/copernet/copernicus) - An alternative implementation of the Bitcoin Cash protocol, written in Golang
@@ -2822,7 +2822,7 @@
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [react-page](https://github.com/react-page/react-page) - Next-gen, highly customizable content editor for the browser - based on React and Redux and written in TypeScript. WYSIWYG on steroids.
 - [windows-installer](https://github.com/electron/windows-installer) - Build Windows Installers for Electron apps
-- [HAP-NodeJS](https://github.com/homebridge/HAP-NodeJS) - Node.js implementation of HomeKit Accessory Server.
+- [HAP-NodeJS](https://github.com/homebridge/HAP-NodeJS) - Node.js implementation of an HomeKit Accessory Server.
 - [homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient
 - [ioredis](https://github.com/luin/ioredis) - 🚀A robust, performance-focused and full-featured Redis client for Node.js.
 - [menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
