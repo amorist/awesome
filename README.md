@@ -2721,7 +2721,7 @@
 - [vue-svgicon](https://github.com/MMF-FE/vue-svgicon) - A tool to create svg icon components. (vue 2.x). Using inline svg.
 - [reakit](https://github.com/reakit/reakit) - Toolkit for building accessible rich web apps with React
 - [react-virtuoso](https://github.com/petyosi/react-virtuoso) - An elegant virtual list component for React
-- [bolt](https://github.com/slackapi/bolt) - A framework to build Slack apps using JavaScript
+- [bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
 - [snackbar](https://github.com/egoist/snackbar) - A tiny browser library for showing a brief message at the bottom of the screen (1kB gzipped).
 - [amis](https://github.com/baidu/amis) - 前端低代码框架
 - [faast.js](https://github.com/faastjs/faast.js) - Serverless batch computing made simple.
