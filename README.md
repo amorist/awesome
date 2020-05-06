@@ -240,7 +240,7 @@
 
 ## Dart 
 
-- [getflutter](https://github.com/ionicfirebaseapp/getflutter) - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
+- [getwidget](https://github.com/ionicfirebaseapp/getwidget) - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
 - [day.dart](https://github.com/dayjs/day.dart) - ⏰ Day.js in dart. Day.dart is inspired by Day.js. Write with nearly the same API. Build on the top of the powerful DateTime class.
 - [plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
 - [flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
@@ -421,7 +421,7 @@
 - [watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [sync](https://github.com/golang/sync) - [mirror] concurrency primitives
 - [fsnotify](https://github.com/howeyc/fsnotify) - File system notification for Go
-- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide
 - [gapid](https://github.com/google/gapid) - Graphics API Debugger
 - [gocmpp](https://github.com/bigwhite/gocmpp) - An implementation of China Mobile Peer to Peer protocol in golang for both client and server sides.
 - [chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
@@ -588,7 +588,7 @@
 - [evio](https://github.com/tidwall/evio) - Fast event-loop networking for Go
 - [go2-book](https://github.com/chai2010/go2-book) - :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-- [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel written in Go
+- [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
 - [cortex](https://github.com/cortexlabs/cortex) - Machine learning model serving infrastructure
 - [tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
@@ -2270,7 +2270,7 @@
 - [FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection) - 开源人脸口罩检测模型和数据 Detect faces and determine whether people are wearing mask.
 - [python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，60 秒学会一个 Python 小例子
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
-- [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+- [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [albert](https://github.com/google-research/albert) - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
 - [2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement](https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement) - 2019CCF-BDCI大赛 最佳创新探索奖获得者 基于OCR身份证要素提取赛题冠军 天晨破晓团队 赛题源码
 - [keras-ocr](https://github.com/faustomorales/keras-ocr) - A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
