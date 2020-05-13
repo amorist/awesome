@@ -523,7 +523,7 @@
 - [go-chat](https://github.com/ItsWewin/go-chat) - Golang 高并发聊天程序/go chat room
 - [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [dep](https://github.com/golang/dep) - Go dependency management tool
-- [olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️your new best friend built with an artificial neural network
+- [olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend built with an artificial neural network
 - [zek](https://github.com/miku/zek) - Generate a Go struct from XML.
 - [homo](https://github.com/countstarlight/homo) - An open source natural interaction system based on offline wake-up, natural language understanding and sentiment analysis
 - [goalert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert
@@ -2769,7 +2769,7 @@
 - [frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
 - [editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
 - [gcoord](https://github.com/hujiulong/gcoord) - 地理坐标系转换工具，支持WGS84/GCJ02/BD09等常用坐标系互转
-- [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
+- [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [reaviz](https://github.com/jask-oss/reaviz) - 📊  Data visualization library for React based on D3
 - [vue-dev-server](https://github.com/vuejs/vue-dev-server) - A POC dev server that allows you to import `*.vue` files via native ES modules imports.
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
