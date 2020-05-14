@@ -104,6 +104,7 @@
 
 ## C# # 
 
+- [ACNHDesignPatternEditor](https://github.com/FluffyFishGames/ACNHDesignPatternEditor) - An editor for Animal Crossing: New Horizons design patterns.
 - [ACPatternMaker](https://github.com/sambeckingham/ACPatternMaker) - 
 - [runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [BotSharp](https://github.com/SciSharp/BotSharp) - The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
@@ -113,6 +114,7 @@
 
 ## C++ 
 
+- [react-native-macos](https://github.com/microsoft/react-native-macos) - Microsoft fork of react-native
 - [cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src) - Leak of CS:GO Source code, provided by yours truly so go rep me
 - [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
 - [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing
@@ -279,6 +281,7 @@
 
 ## Go 
 
+- [barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
 - [actions](https://github.com/micro/actions) - GitHub actions for Micro services
 - [starter-kit](https://github.com/micro-in-cn/starter-kit) - Quick Go-Micro 快速开发包
 - [shgw-manage](https://github.com/kdcer/shgw-manage) - 上海购物APP管理端
@@ -1104,6 +1107,9 @@
 
 ## JavaScript 
 
+- [AnimalCrossingHelper](https://github.com/aaBaO/AnimalCrossingHelper) - 动物之森小助手
+- [acnl-editor](https://github.com/marcrobledo/acnl-editor) - An Animal Crossing: New Leaf savegame editor made in HTML5
+- [villagerdb](https://github.com/jefflomacy/villagerdb) - Animal Crossing Item and Villager Database
 - [egoist.sh](https://github.com/egoist/egoist.sh) - EGOIST's homepage.
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Materials to help you rock your next coding interview
 - [wxParse](https://github.com/icindy/wxParse) - wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析
@@ -1565,7 +1571,7 @@
 - [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 - [sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM for Node.js
 - [vue-design](https://github.com/HcySunYang/vue-design) - 📖 master分支：《渲染器》 elegant分支：逐行级别的源码分析
-- [MicroHub](https://github.com/zhuowenli/MicroHub) - Microsoft + Github = MicroHub
+- [MicroHub](https://github.com/zhuowenli/MicroHub) - 🖼 Microsoft + Github = MicroHub
 - [babel-preset-minimal](https://github.com/egoist/babel-preset-minimal) - A babel preset that produces smallest possible code.
 - [open-pull-request](https://github.com/github-modules/open-pull-request) - All-in-one module for forking repos, changing their files, and opening pull requests on GitHub
 - [qrious](https://github.com/neocotic/qrious) - Pure JavaScript library for QR code generation using canvas
@@ -1896,7 +1902,7 @@
 - [node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [blur-admin](https://github.com/akveo/blur-admin) - AngularJS Bootstrap Admin Panel Framework
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
-- [react-native-macos](https://github.com/ptmt/react-native-macos) - React Native for macOS is an experimental fork for writing desktop apps using Cocoa
+- [react-native-macos](https://github.com/ptmt/react-native-macos) - [deprecated in favor of https://microsoft.github.io/react-native-windows/] React Native for macOS is an experimental fork for writing desktop apps using Cocoa
 - [jsgen](https://github.com/zensh/jsgen) - [DEPRECATED]JsGen is a next generation，free, open source web software that you can generate a powerful website, such as blog, forum, etc. It is coded by pure JavaScript, based on Node.js, AngularJS, MongoDB.
 - [nodeclub](https://github.com/cnodejs/nodeclub) - :baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
 - [reaction](https://github.com/reactioncommerce/reaction) - Reaction is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
@@ -1989,6 +1995,7 @@
 
 ## Objective-C 
 
+- [tip](https://github.com/tanin47/tip) - Programmable tooltip that can be used with any Mac OS app
 - [V2RayX](https://github.com/Cenmrev/V2RayX) - GUI for v2ray-core on macOS
 - [bitbar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar
 - [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
@@ -2014,6 +2021,7 @@
 
 ## Others 
 
+- [InterpretableMLBook](https://github.com/MingchaoZhu/InterpretableMLBook) - 《可解释的机器学习--黑盒模型可解释性理解指南》，该书为《Interpretable Machine Learning》中文版
 - [side-project-marketing](https://github.com/portable-cto/side-project-marketing) - A checklist of tactics for marketing your side projects.
 - [421pdf](https://github.com/yuanguangxin/421pdf) - 421页PDF 八卦汇总  824瓜
 - [awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentations from Hugging Face's weekly science day
@@ -2283,6 +2291,8 @@
 
 ## Python 
 
+- [animal-crossing-scraper](https://github.com/sungyeonu/animal-crossing-scraper) - Web scraper for Animal Crossing - New Horizons data using bs4
+- [handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs ✏️
 - [dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
 - [OneForAll](https://github.com/shmilylty/OneForAll) - OneForAll是一款功能强大的子域收集工具
 - [Background-Matting](https://github.com/senguptaumd/Background-Matting) - Background Matting: The World is Your Green Screen
@@ -2620,6 +2630,8 @@
 
 ## TypeScript 
 
+- [library](https://github.com/zxing-js/library) - Multi-format 1D/2D barcode image processing library, usable in JavaScript ecosystem.
+- [vscode-drawio](https://github.com/hediet/vscode-drawio) - This extension integrates Draw.io into VS Code.
 - [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language and React UI library
 - [type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 - [ream](https://github.com/ream/ream) - [Alpha] A Vue framework for building server-rendered or static sites.
@@ -2890,6 +2902,8 @@
 
 ## Vue 
 
+- [animal-crossing-trading-system](https://github.com/kastnerorz/animal-crossing-trading-system) - 🥬 《集合啦！动物森友会》的大头菜交易市场。
+- [ACNLPatternTool](https://github.com/Thulinma/ACNLPatternTool) - Animal Crossing: New Leaf Pattern Tool
 - [PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit) - 一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。
 - [eros](https://github.com/bmfe/eros) - 📱一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
