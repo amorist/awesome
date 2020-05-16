@@ -222,6 +222,8 @@
 
 ## CodeQL 
 
+- [codeql-go](https://github.com/github/codeql-go) - The CodeQL extractor and libraries for Go.
+- [vscode-codeql-starter](https://github.com/github/vscode-codeql-starter) - Starter workspace to use with the CodeQL extension for Visual Studio Code.
 - [codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (code scanning), LGTM.com, and LGTM Enterprise
 
 ## CoffeeScript 
@@ -282,6 +284,7 @@
 
 ## Go 
 
+- [certstore](https://github.com/github/certstore) - Go library for using system certificate stores on macOS/Windows
 - [barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
 - [actions](https://github.com/micro/actions) - GitHub actions for Micro services
 - [starter-kit](https://github.com/micro-in-cn/starter-kit) - Quick Go-Micro 快速开发包
@@ -981,7 +984,7 @@
 
 ## HTML 
 
-- [services](https://github.com/micro/services) - The home of Micro Services
+- [services](https://github.com/micro/services) - Home of the Micro Services Network
 - [nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
 - [hiwifi.easucks](https://github.com/Paull/hiwifi.easucks) - 极路由器官方固件的插件，FIFA助手，SS，For 1.2.5-1.5.9
 - [nndl.github.io](https://github.com/nndl/nndl.github.io) - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
@@ -1701,7 +1704,7 @@
 - [HexoEditor](https://github.com/zhuzhuyule/HexoEditor) - this markdown Editor for hexo blog
 - [life-commit](https://github.com/ByronHsu/life-commit) - 🏃📆  Life as a git. Commit on your life.
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
-- [carbon](https://github.com/carbon-app/carbon) - 🎨 Create and share beautiful images of your source code
+- [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [viron](https://github.com/cam-inc/viron) - ☕️ Automated Design-based Management Console.
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [pdf-viewer](https://github.com/electron/pdf-viewer) - Fork of Chrome pdf extension to work as webui page in Electron
@@ -2571,6 +2574,7 @@
 
 ## Swift 
 
+- [KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app in minutes
 - [CircleBar](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
 - [ACHNBrowserUI](https://github.com/Dimillian/ACHNBrowserUI) - Animal Crossing New Horizon companion app in SwiftUI
 - [playbook-ios](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically taking snapshots of them.
@@ -2631,6 +2635,8 @@
 
 ## TypeScript 
 
+- [bloomrpc](https://github.com/uw-labs/bloomrpc) - GUI Client for GRPC Services
+- [oak](https://github.com/oakserver/oak) - A middleware framework for Deno's net server 🦕
 - [library](https://github.com/zxing-js/library) - Multi-format 1D/2D barcode image processing library, usable in JavaScript ecosystem.
 - [vscode-drawio](https://github.com/hediet/vscode-drawio) - This extension integrates Draw.io into VS Code.
 - [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language and React UI library
