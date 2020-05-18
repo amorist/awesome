@@ -356,7 +356,7 @@
 - [nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS, the cloud native messaging system.
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database
-- [crossplane](https://github.com/crossplane/crossplane) - The open source control plane to manage your infrastructure and applications the Kubernetes way.
+- [crossplane](https://github.com/crossplane/crossplane) - Manage any infrastructure your applications need directly from Kubernetes
 - [go-wechat](https://github.com/nilorg/go-wechat) - 💥weixin、wechat、微信公众平台 golang/go sdk
 - [go-spring](https://github.com/go-spring/go-spring) - 基于 IoC 的 Go 后端一站式开发框架 🚀
 - [bfe](https://github.com/baidu/bfe) - Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd
@@ -848,7 +848,7 @@
 - [alipay](https://github.com/smartwalle/alipay) - 支付宝 AliPay SDK for Go, 集成简单，功能完善，持续更新，支持公钥证书和普通公钥进行签名和验签。
 - [gopub](https://github.com/linclin/gopub) - vue.js(element框架)+golang(beego框架)开发的运维发布系统,支持git,jenkins版本发布,go ssh,BT两种文件传输方式选择,支持部署前准备任务和部署后任务钩子函数
 - [gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL
-- [gvisor](https://github.com/google/gvisor) - Application Kernel & Container Runtime
+- [gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [gse](https://github.com/go-ego/gse) - Go efficient text segmentation  @vcaesar; support english, chinese, japanese and other. Go 语言高性能分词
 - [gojay](https://github.com/francoispqt/gojay) - fastest JSON encoder/decoder with powerful stream API for Golang
 - [coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
@@ -1425,7 +1425,6 @@
 - [node-html-pdf](https://github.com/marcbachmann/node-html-pdf) - :page_facing_up: Html to pdf converter in nodejs. It spawns a phantomjs process and passes the pdf as buffer or as filename.
 - [Magic-Grid](https://github.com/e-oj/Magic-Grid) - A simple, lightweight Javascript library for dynamic grid layouts.
 - [wx-cropper](https://github.com/IFmiss/wx-cropper) - :scissors: 微信小程序  图片裁剪工具，简单易用
-- [denopkg.com](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
 - [Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
 - [electron-gh-releases](https://github.com/jenslind/electron-gh-releases) - :shipit: Electron auto-update by releasing on Github.
 - [favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js
@@ -1714,7 +1713,7 @@
 - [data](https://github.com/GoogleTrends/data) - An index of all open-source data
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
-- [hyperapp](https://github.com/jorgebucaran/hyperapp) - The tiny framework for building web interfaces.
+- [hyperapp](https://github.com/jorgebucaran/hyperapp) - The tiny framework for building hypertext applications.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [node-elm](https://github.com/bailicangdu/node-elm) - 基于 node.js + Mongodb 构建的后台系统
@@ -2748,7 +2747,7 @@
 - [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [instagram-private-api](https://github.com/dilame/instagram-private-api) - NodeJS Instagram private API client. Written in TypeScript.
-- [formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries.
+- [formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
 - [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) - Tasks for Azure Pipelines
 - [ide-props-editor](https://github.com/one-gourd/ide-props-editor) - 属性编辑器 ，demo https://one-gourd.github.io/ide-props-editor/
 - [vue-async-manager](https://github.com/shuidi-fed/vue-async-manager) - 【deprecated】Manage asynchronous calls more easily in Vue apps.
@@ -2812,6 +2811,7 @@
 - [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [fluentui](https://github.com/microsoft/fluentui) - We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.
+- [denopkg.com](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - TypeScript Deep Dive 中文版
