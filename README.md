@@ -284,6 +284,8 @@
 
 ## Go 
 
+- [ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
+- [arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line interface
 - [certstore](https://github.com/github/certstore) - Go library for using system certificate stores on macOS/Windows
 - [barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
 - [actions](https://github.com/micro/actions) - GitHub actions for Micro services
@@ -796,7 +798,7 @@
 - [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [vertigo](https://github.com/toldjuuso/vertigo) - Blog engine in Go (golang)
 - [strict-request](https://github.com/kozmos/strict-request) - Send strict HTTP Requests with Go
-- [micro](https://github.com/micro/micro) - Micro is a distributed systems runtime for the Cloud
+- [micro](https://github.com/micro/micro) - Micro is a distributed systems runtime for the Cloud and beyond
 - [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
@@ -1111,6 +1113,8 @@
 
 ## JavaScript 
 
+- [vue-h5-template](https://github.com/sunniejs/vue-h5-template) - :tada:vue搭建移动端开发,基于vue-cli4.0+webpack 4+vant ui + sass+ rem适配方案+axios封装，构建手机端模板脚手架
+- [draw](https://github.com/thesephist/draw) - Real-time collaborative whiteboard on the web
 - [pose-animator](https://github.com/yemount/pose-animator) - 
 - [AnimalCrossingHelper](https://github.com/aaBaO/AnimalCrossingHelper) - 动物之森小助手
 - [acnl-editor](https://github.com/marcrobledo/acnl-editor) - An Animal Crossing: New Leaf savegame editor made in HTML5
@@ -2573,6 +2577,7 @@
 
 ## Swift 
 
+- [fluentui-apple](https://github.com/microsoft/fluentui-apple) - UIKit and AppKit controls for building native Microsoft experiences
 - [KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app in minutes
 - [CircleBar](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
 - [ACHNBrowserUI](https://github.com/Dimillian/ACHNBrowserUI) - Animal Crossing New Horizon companion app in SwiftUI
@@ -2645,7 +2650,7 @@
 - [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
 - [Thief-Book-VSCode](https://github.com/cteamx/Thief-Book-VSCode) - VScode 上一款真正的摸鱼插件
 - [html-dom](https://github.com/phuoc-ng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
-- [ts-toolbelt](https://github.com/pirix-gh/ts-toolbelt) - 👷 Higher Type Safety for TypeScript
+- [ts-toolbelt](https://github.com/pirix-gh/ts-toolbelt) - 👷 Higher Type Safety for TypeScript. A collection of useful type utilities.
 - [mordred](https://github.com/egoist/mordred) - Source data from anywhere, for Next.js, Nuxt.js, Eleventy and many more.
 - [eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [kanban-musume-desktop](https://github.com/amorist/kanban-musume-desktop) - Kanban Musume Desktop
