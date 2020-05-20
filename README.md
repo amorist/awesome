@@ -309,7 +309,7 @@
 - [go-lottery](https://github.com/goodcan/go-lottery) - Golang 实现各式各样的抽奖逻辑后台
 - [codenames](https://github.com/jbowens/codenames) - Play codenames online
 - [ion](https://github.com/pion/ion) - Distributed RTC System by pure Go and Flutter
-- [nightingale](https://github.com/didi/nightingale) - A Distributed and High-Performance Monitoring System
+- [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System
 - [protoc-gen-micro](https://github.com/asim/protoc-gen-micro) - Protobuf code generation for Micro services
 - [cli](https://github.com/rancher/cli) - Rancher CLI
 - [kubeless](https://github.com/kubeless/kubeless) - Kubernetes Native Serverless Framework
@@ -361,7 +361,7 @@
 - [crossplane](https://github.com/crossplane/crossplane) - Manage any infrastructure your applications need directly from Kubernetes
 - [go-wechat](https://github.com/nilorg/go-wechat) - 💥weixin、wechat、微信公众平台 golang/go sdk
 - [go-spring](https://github.com/go-spring/go-spring) - 基于 IoC 的 Go 后端一站式开发框架 🚀
-- [bfe](https://github.com/baidu/bfe) - Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd
+- [bfe](https://github.com/baidu/bfe) - A modern layer 7 load balancer from baidu
 - [faasd](https://github.com/openfaas/faasd) - faasd - serverless with containerd and CNI  🐳
 - [mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [leetcode](https://github.com/pengliheng/leetcode) - ✍
@@ -823,7 +823,7 @@
 - [learn](https://github.com/gyuho/learn) - learn
 - [casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
-- [pigo](https://github.com/esimov/pigo) - Pure Go face detection library
+- [pigo](https://github.com/esimov/pigo) - Pure Go face detection, pupil/eyes localization and facial landmark points detection library
 - [sessions](https://github.com/gin-contrib/sessions) - Gin middleware for session management
 - [mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
@@ -986,7 +986,6 @@
 
 ## HTML 
 
-- [services](https://github.com/micro/services) - Home of the Micro Services Network
 - [nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
 - [hiwifi.easucks](https://github.com/Paull/hiwifi.easucks) - 极路由器官方固件的插件，FIFA助手，SS，For 1.2.5-1.5.9
 - [nndl.github.io](https://github.com/nndl/nndl.github.io) - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
@@ -1119,6 +1118,7 @@
 - [AnimalCrossingHelper](https://github.com/aaBaO/AnimalCrossingHelper) - 动物之森小助手
 - [acnl-editor](https://github.com/marcrobledo/acnl-editor) - An Animal Crossing: New Leaf savegame editor made in HTML5
 - [villagerdb](https://github.com/jefflomacy/villagerdb) - Animal Crossing Item and Villager Database
+- [services](https://github.com/micro/services) - Home of the Micro Services Network
 - [egoist.sh](https://github.com/egoist/egoist.sh) - EGOIST's homepage.
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Materials to help you rock your next coding interview
 - [wxParse](https://github.com/icindy/wxParse) - wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析
@@ -1532,7 +1532,7 @@
 - [mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and express
 - [next.js](https://github.com/zeit/next.js) - The React Framework
 - [mdx](https://github.com/mdx-js/mdx) - JSX in Markdown for ambitious projects
-- [semantic-pull-requests](https://github.com/zeke/semantic-pull-requests) - :robot: A GitHub app that helps you let the robots do the versioning
+- [semantic-pull-requests](https://github.com/zeke/semantic-pull-requests) - :robot: Let the robots take care of the semantic versioning
 - [mauerwerk](https://github.com/drcmda/mauerwerk) - ⚒  A react-spring driven masonry-like grid with enter/exit and shared element transitions
 - [peco](https://github.com/upash/peco) - nothing here, move on..
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
@@ -1820,7 +1820,7 @@
 - [async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [alfred-link](https://github.com/SamVerschueren/alfred-link) - Make your Alfred workflows installable from npm
 - [egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
-- [kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology
+- [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 - [kindleBookMaker](https://github.com/barretlee/kindleBookMaker) - Kindle Book Maker with KindleGen, Make Book from RSS/single URL/directory and so on.
 - [titlebar](https://github.com/kapetan/titlebar) - Emulate OS X window title bar
@@ -2642,7 +2642,7 @@
 - [bloomrpc](https://github.com/uw-labs/bloomrpc) - GUI Client for GRPC Services
 - [oak](https://github.com/oakserver/oak) - A middleware framework for Deno's net server 🦕
 - [library](https://github.com/zxing-js/library) - Multi-format 1D/2D barcode image processing library, usable in JavaScript ecosystem.
-- [vscode-drawio](https://github.com/hediet/vscode-drawio) - This extension integrates Draw.io into VS Code.
+- [vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io into VS Code.
 - [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language and React UI library
 - [type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 - [ream](https://github.com/ream/ream) - [Alpha] A Vue framework for building server-rendered or static sites.
