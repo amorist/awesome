@@ -534,7 +534,7 @@
 - [go-chat](https://github.com/ItsWewin/go-chat) - Golang 高并发聊天程序/go chat room
 - [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [dep](https://github.com/golang/dep) - Go dependency management tool
-- [olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend built with an artificial neural network
+- [olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [zek](https://github.com/miku/zek) - Generate a Go struct from XML.
 - [homo](https://github.com/countstarlight/homo) - An open source natural interaction system based on offline wake-up, natural language understanding and sentiment analysis
 - [goalert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert
@@ -1114,6 +1114,7 @@
 
 ## JavaScript 
 
+- [microcn-site](https://github.com/micro-in-cn/microcn-site) - Micro 中文站点
 - [vue-h5-template](https://github.com/sunniejs/vue-h5-template) - :tada:vue搭建移动端开发,基于vue-cli4.0+webpack 4+vant ui + sass+ rem适配方案+axios封装，构建手机端模板脚手架
 - [draw](https://github.com/thesephist/draw) - Real-time collaborative whiteboard on the web
 - [pose-animator](https://github.com/yemount/pose-animator) - 
@@ -1945,6 +1946,7 @@
 - [automl](https://github.com/google/automl) - Google Brain AutoML
 - [fastbook](https://github.com/fastai/fastbook) - Draft of the fastai book
 - [vectorbt](https://github.com/polakowo/vectorbt) - Python library for backtesting and analyzing trading strategies at scale
+- [FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection) - 开源人脸口罩检测模型和数据 Detect faces and determine whether people are wearing mask.
 - [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
 - [Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0) - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为TensorFlow 2.0实现，项目已得到李沐老师的同意
 - [Financial-Models-Numerical-Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods) - Collection of notebooks about quantitative finance, with interactive python code.
@@ -2314,7 +2316,6 @@
 - [word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch) - 搜索所有中文NLP数据集，附常用英文NLP数据集
 - [newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
-- [FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection) - 开源人脸口罩检测模型和数据 Detect faces and determine whether people are wearing mask.
 - [python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，60 秒学会一个 Python 小例子
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
@@ -2354,7 +2355,7 @@
 - [hub](https://github.com/pytorch/hub) - Submission to https://pytorch.org/hub/
 - [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [gryphon](https://github.com/garethdmm/gryphon) - Powerful, proven, and extensible framework for building trading strategies at any frequency, with a focus on crypto currencies. Battle-tested with billions traded.
-- [integration](https://github.com/hacs/integration) - Manage (Install, track, upgrade) and discover custom elements for Home Assistant.
+- [integration](https://github.com/hacs/integration) - HACS gives you a powerful UI to handle downloads of all your custom needs.
 - [stylegan](https://github.com/NVlabs/stylegan) - StyleGAN - Official TensorFlow Implementation
 - [aswan](https://github.com/momosecurity/aswan) - 陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
 - [apex](https://github.com/NVIDIA/apex) - A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch
