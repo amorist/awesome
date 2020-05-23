@@ -1114,6 +1114,9 @@
 
 ## JavaScript 
 
+- [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
+- [Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
+- [hubs](https://github.com/mozilla/hubs) - Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.
 - [microcn-site](https://github.com/micro-in-cn/microcn-site) - Micro 中文站点
 - [vue-h5-template](https://github.com/sunniejs/vue-h5-template) - :tada:vue搭建移动端开发,基于vue-cli4.0+webpack 4+vant ui + sass+ rem适配方案+axios封装，构建手机端模板脚手架
 - [draw](https://github.com/thesephist/draw) - Real-time collaborative whiteboard on the web
@@ -2366,7 +2369,7 @@
 - [football](https://github.com/google-research/football) - Check out the new game server:
 - [redbeat](https://github.com/sibson/redbeat) - RedBeat is a Celery Beat Scheduler that stores the scheduled tasks and runtime metadata in Redis.
 - [smart_importer](https://github.com/beancount/smart_importer) - Augment Beancount importers with machine learning functionality.
-- [beancount](https://github.com/beancount/beancount) - Official mirror of Beancount Mercurial repo on Github (updated manually and infrequently)
+- [beancount_mirror_deprecated](https://github.com/beancount/beancount_mirror_deprecated) - Official mirror of Beancount Mercurial repo on Github (updated manually and infrequently)
 - [jasper-client](https://github.com/jasperproject/jasper-client) - Client code for Jasper voice computing platform
 - [Machine-Learning](https://github.com/shunliz/Machine-Learning) - 机器学习原理
 - [jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
