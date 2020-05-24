@@ -817,6 +817,7 @@
 - [cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
 - [golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记
+- [dispatch](https://github.com/khlieng/dispatch) - Web-based IRC client in Go.
 - [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [nanoserver](https://github.com/lonng/nanoserver) - DEMO: Mahjong server base on nano(https://github.com/lonng/nano)
 - [nano](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework
@@ -1230,7 +1231,7 @@
 - [repo-analytics.github.io](https://github.com/repo-analytics/repo-analytics.github.io) - Thorough analytics for your GitHub repos
 - [react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
-- [appwrite](https://github.com/appwrite/appwrite) - End to end backend server for web, native, and mobile developers 🚀
+- [appwrite](https://github.com/appwrite/appwrite) - End to end backend server for Web, Mobile, and Flutter developers 🚀
 - [appmetrics-dash](https://github.com/RuntimeTools/appmetrics-dash) - A data visualizer that uses " Node Application Metrics" (appmetrics) to monitor and display Node.js application data as a html web application.
 - [appmetrics](https://github.com/RuntimeTools/appmetrics) - Node Application Metrics provides a foundational infrastructure for collecting resource and performance monitoring data for Node.js-based applications.
 - [iconv-lite](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings in pure javascript.
@@ -1386,7 +1387,7 @@
 - [koa-prerender](https://github.com/RisingStack/koa-prerender) - KOA middleware for prerendering javascript-rendered pages on the fly for SEO
 - [prerender](https://github.com/prerender/prerender) - Node server that uses Headless Chrome to render a javascript-rendered page as HTML. To be used in conjunction with prerender middleware.
 - [ghChat](https://github.com/aermin/ghChat) - :octocat: 📱A chat application for GitHub. React + PWA + Node(koa2) + Typescripts  + Mysql  + Socket.io
-- [snowpack](https://github.com/pikapkg/snowpack) - The fastest dev environment for modern web apps.
+- [snowpack](https://github.com/pikapkg/snowpack) - ☶ A faster dev environment for modern web apps.
 - [grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [formidable](https://github.com/node-formidable/formidable) - A node.js module for parsing form data, especially file uploads.
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
@@ -1576,7 +1577,6 @@
 - [pangu.js](https://github.com/vinta/pangu.js) - Paranoid text spacing in JavaScript
 - [cax](https://github.com/dntzhang/cax) - HTML5 Canvas 2D Rendering Engine - 小程序、小游戏以及 Web 通用 Canvas 渲染引擎
 - [liman](https://github.com/salihciftci/liman) - Self-hosted web application for monitoring docker.
-- [dispatch](https://github.com/khlieng/dispatch) - Web-based IRC client in Go.
 - [xmysql](https://github.com/o1lab/xmysql) - :rocket: One command to generate REST APIs for any MySql Database.
 - [Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - :computer: 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成)
 - [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
