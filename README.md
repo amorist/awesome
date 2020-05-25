@@ -364,7 +364,7 @@
 - [go-wechat](https://github.com/nilorg/go-wechat) - 💥weixin、wechat、微信公众平台 golang/go sdk
 - [go-spring](https://github.com/go-spring/go-spring) - 基于 IoC 的 Go 后端一站式开发框架 🚀
 - [bfe](https://github.com/baidu/bfe) - A modern layer 7 load balancer from baidu
-- [faasd](https://github.com/openfaas/faasd) - faasd - serverless with containerd and CNI  🐳
+- [faasd](https://github.com/openfaas/faasd) - faasd - lightweight OSS serverless  🐳
 - [mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [leetcode](https://github.com/pengliheng/leetcode) - ✍
 - [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
@@ -800,7 +800,7 @@
 - [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [vertigo](https://github.com/toldjuuso/vertigo) - Blog engine in Go (golang)
 - [strict-request](https://github.com/kozmos/strict-request) - Send strict HTTP Requests with Go
-- [micro](https://github.com/micro/micro) - Micro is a distributed systems runtime for the Cloud and beyond
+- [micro](https://github.com/micro/micro) - A distributed systems server for the Cloud era
 - [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
@@ -1125,7 +1125,7 @@
 - [AnimalCrossingHelper](https://github.com/aaBaO/AnimalCrossingHelper) - 动物之森小助手
 - [acnl-editor](https://github.com/marcrobledo/acnl-editor) - An Animal Crossing: New Leaf savegame editor made in HTML5
 - [villagerdb](https://github.com/jefflomacy/villagerdb) - Animal Crossing Item and Villager Database
-- [services](https://github.com/micro/services) - Home of the Micro Services Network
+- [services](https://github.com/micro/services) - Home of the Micro Services
 - [egoist.sh](https://github.com/egoist/egoist.sh) - EGOIST's homepage.
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Materials to help you rock your next coding interview
 - [wxParse](https://github.com/icindy/wxParse) - wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析
@@ -2486,7 +2486,7 @@
 
 ## Ruby 
 
-- [chatwoot](https://github.com/chatwoot/chatwoot) - Simple and elegant live chat software 🔥💬
+- [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software 🔥💬
 - [homebrew-gh](https://github.com/github/homebrew-gh) - Homebrew tap for the GitHub CLI
 - [dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖The core logic behind Dependabot's update PR creation
 - [t](https://github.com/sferik/t) - A command-line power tool for Twitter.
