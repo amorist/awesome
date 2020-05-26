@@ -284,6 +284,8 @@
 
 ## Go 
 
+- [go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
+- [ntp](https://github.com/facebookincubator/ntp) - Facebook's NTP libraries
 - [jsonparser](https://github.com/buger/jsonparser) - Alternative JSON parser for Go that does not require schema (so far fastest)
 - [learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
 - [ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
@@ -800,7 +802,7 @@
 - [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [vertigo](https://github.com/toldjuuso/vertigo) - Blog engine in Go (golang)
 - [strict-request](https://github.com/kozmos/strict-request) - Send strict HTTP Requests with Go
-- [micro](https://github.com/micro/micro) - A distributed systems server for the Cloud era
+- [micro](https://github.com/micro/micro) - A distributed systems server for the cloud era
 - [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
@@ -1115,6 +1117,7 @@
 
 ## JavaScript 
 
+- [qrbtf](https://github.com/ciaochaos/qrbtf) - A parametric QR code beautifier based on React.  参数化二维码生成器。
 - [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
 - [Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
 - [hubs](https://github.com/mozilla/hubs) - Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.
@@ -1125,7 +1128,7 @@
 - [AnimalCrossingHelper](https://github.com/aaBaO/AnimalCrossingHelper) - 动物之森小助手
 - [acnl-editor](https://github.com/marcrobledo/acnl-editor) - An Animal Crossing: New Leaf savegame editor made in HTML5
 - [villagerdb](https://github.com/jefflomacy/villagerdb) - Animal Crossing Item and Villager Database
-- [services](https://github.com/micro/services) - Home of the Micro Services
+- [services](https://github.com/micro/services) - Home of the Micro Services Network
 - [egoist.sh](https://github.com/egoist/egoist.sh) - EGOIST's homepage.
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Materials to help you rock your next coding interview
 - [wxParse](https://github.com/icindy/wxParse) - wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析
@@ -2032,10 +2035,12 @@
 
 ## Objective-C++ 
 
+- [obs-mac-virtualcam](https://github.com/johnboiles/obs-mac-virtualcam) - Creates a virtual webcam device from the output of OBS. Especially useful for streaming smooth, composited video into Zoom, Hangouts, Jitsi etc. Like CatxFish/obs-virtualcam but for macOS.
 - [componentkit](https://github.com/facebook/componentkit) - A React-inspired view framework for iOS.
 
 ## Others 
 
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [InterpretableMLBook](https://github.com/MingchaoZhu/InterpretableMLBook) - 《可解释的机器学习--黑盒模型可解释性理解指南》，该书为《Interpretable Machine Learning》中文版
 - [side-project-marketing](https://github.com/portable-cto/side-project-marketing) - A checklist of tactics for marketing your side projects.
 - [421pdf](https://github.com/yuanguangxin/421pdf) - 421页PDF 八卦汇总  824瓜
@@ -2305,6 +2310,7 @@
 
 ## Python 
 
+- [textshot](https://github.com/ianzhao05/textshot) - Python tool for grabbing text via screenshot
 - [animal-crossing-scraper](https://github.com/sungyeonu/animal-crossing-scraper) - Web scraper for Animal Crossing - New Horizons data using bs4
 - [handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs ✏️
 - [dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
@@ -2540,6 +2546,7 @@
 
 ## Shell 
 
+- [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [rebase](https://github.com/cirrus-actions/rebase) - GitHub Action to automatically rebase PRs
 - [onpremise](https://github.com/getsentry/onpremise) - Sentry On-Premise setup
 - [rebase](https://github.com/ljharb/rebase) - GitHub Action to automatically rebase PRs
@@ -2644,6 +2651,7 @@
 
 ## TypeScript 
 
+- [vite](https://github.com/vitejs/vite) - An opinionated web dev build tool. It's fast.
 - [g](https://github.com/antvis/g) - A powerful rendering engine which providing Canvas and SVG draw for G2 & G6
 - [graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
@@ -2658,7 +2666,7 @@
 - [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
 - [Thief-Book-VSCode](https://github.com/cteamx/Thief-Book-VSCode) - VScode 上一款真正的摸鱼插件
 - [html-dom](https://github.com/phuoc-ng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
-- [ts-toolbelt](https://github.com/pirix-gh/ts-toolbelt) - 👷 Higher Type Safety for TypeScript. A collection of useful type utilities.
+- [ts-toolbelt](https://github.com/pirix-gh/ts-toolbelt) - 👷 Higher Type Safety for TypeScript
 - [mordred](https://github.com/egoist/mordred) - Source data from anywhere, for Next.js, Nuxt.js, Eleventy and many more.
 - [eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [kanban-musume-desktop](https://github.com/amorist/kanban-musume-desktop) - Kanban Musume Desktop
