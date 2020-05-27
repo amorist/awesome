@@ -284,6 +284,10 @@
 
 ## Go 
 
+- [ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game library for Go
+- [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
+- [proxypool](https://github.com/henson/proxypool) - Golang实现的IP代理池
+- [go-fault](https://github.com/github/go-fault) - Fault injection library in Go using standard http middleware
 - [go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
 - [ntp](https://github.com/facebookincubator/ntp) - Facebook's NTP libraries
 - [jsonparser](https://github.com/buger/jsonparser) - Alternative JSON parser for Go that does not require schema (so far fastest)
@@ -2040,6 +2044,8 @@
 
 ## Others 
 
+- [docs](https://github.com/gowechat/docs) - 【文档】微信开发SDK(Wechat SDK for Golang)
+- [Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [InterpretableMLBook](https://github.com/MingchaoZhu/InterpretableMLBook) - 《可解释的机器学习--黑盒模型可解释性理解指南》，该书为《Interpretable Machine Learning》中文版
 - [side-project-marketing](https://github.com/portable-cto/side-project-marketing) - A checklist of tactics for marketing your side projects.
@@ -2589,6 +2595,7 @@
 
 ## Swift 
 
+- [Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [fluentui-apple](https://github.com/microsoft/fluentui-apple) - UIKit and AppKit controls for building native Microsoft experiences
 - [KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app in minutes
 - [CircleBar](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
@@ -2651,6 +2658,7 @@
 
 ## TypeScript 
 
+- [vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
 - [vite](https://github.com/vitejs/vite) - An opinionated web dev build tool. It's fast.
 - [g](https://github.com/antvis/g) - A powerful rendering engine which providing Canvas and SVG draw for G2 & G6
 - [graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
