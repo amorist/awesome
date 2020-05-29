@@ -284,6 +284,8 @@
 
 ## Go 
 
+- [opentracing-go](https://github.com/opentracing/opentracing-go) - OpenTracing API for Go
+- [kratos](https://github.com/ory/kratos) - Never build user login, user registration, 2fa, profile management ever again! Works on any operating system, cloud, with any programming language, user interface, and user experience! Written in Go.
 - [ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game library for Go
 - [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [proxypool](https://github.com/henson/proxypool) - Golang实现的IP代理池
@@ -806,7 +808,7 @@
 - [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [vertigo](https://github.com/toldjuuso/vertigo) - Blog engine in Go (golang)
 - [strict-request](https://github.com/kozmos/strict-request) - Send strict HTTP Requests with Go
-- [micro](https://github.com/micro/micro) - A distributed systems server for the cloud era
+- [micro](https://github.com/micro/micro) - A distributed systems runtime for the cloud
 - [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
@@ -1740,7 +1742,7 @@
 - [poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [unistore](https://github.com/developit/unistore) - 🌶 350b / 650b state container with component actions for Preact & React
-- [muuri](https://github.com/haltu/muuri) - Responsive, sortable, filterable and draggable grid layouts
+- [muuri](https://github.com/haltu/muuri) - Responsive, sortable, filterable and draggable layouts
 - [wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架
 - [app-store-scraper](https://github.com/facundoolano/app-store-scraper) - scrape data from the itunes app store
 - [aso](https://github.com/facundoolano/aso) - Tools for app store optimization on iTunes and Google Play
@@ -2051,7 +2053,7 @@
 - [InterpretableMLBook](https://github.com/MingchaoZhu/InterpretableMLBook) - 《可解释的机器学习--黑盒模型可解释性理解指南》，该书为《Interpretable Machine Learning》中文版
 - [side-project-marketing](https://github.com/portable-cto/side-project-marketing) - A checklist of tactics for marketing your side projects.
 - [421pdf](https://github.com/yuanguangxin/421pdf) - 421页PDF 八卦汇总  824瓜
-- [awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentations from Hugging Face's weekly science day
+- [awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentation materials from Hugging Face's internal science day
 - [git-github](https://github.com/gustavoguanabara/git-github) - Material do Curso de Git e GitHub
 - [live2d-widget-models](https://github.com/xiazeyu/live2d-widget-models) - The model library for live2d-widget.js
 - [live2d_models_collection](https://github.com/xiaoski/live2d_models_collection) - Collections of live2d models
@@ -2317,6 +2319,7 @@
 
 ## Python 
 
+- [Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation) - The Project is real time application in opencv using first order model
 - [textshot](https://github.com/ianzhao05/textshot) - Python tool for grabbing text via screenshot
 - [animal-crossing-scraper](https://github.com/sungyeonu/animal-crossing-scraper) - Web scraper for Animal Crossing - New Horizons data using bs4
 - [handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs ✏️
@@ -2382,7 +2385,6 @@
 - [football](https://github.com/google-research/football) - Check out the new game server:
 - [redbeat](https://github.com/sibson/redbeat) - RedBeat is a Celery Beat Scheduler that stores the scheduled tasks and runtime metadata in Redis.
 - [smart_importer](https://github.com/beancount/smart_importer) - Augment Beancount importers with machine learning functionality.
-- [beancount_mirror_deprecated](https://github.com/beancount/beancount_mirror_deprecated) - Official mirror of Beancount Mercurial repo on Github (updated manually and infrequently)
 - [jasper-client](https://github.com/jasperproject/jasper-client) - Client code for Jasper voice computing platform
 - [Machine-Learning](https://github.com/shunliz/Machine-Learning) - 机器学习原理
 - [jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
@@ -2473,7 +2475,6 @@
 - [women-in-software-eng](https://github.com/triketora/women-in-software-eng) - Crowdsourced repository of women in software engineering stats.
 - [pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
 - [Lector](https://github.com/msuozzo/Lector) - An API for your Kindle data
-- [likefordear](https://github.com/ccbikai/likefordear) - 为女神点赞
 - [weibo_terminater](https://github.com/jinfagang/weibo_terminater) - Final Weibo Crawler Scrap Anything From Weibo, comments, weibo contents, followers, anything. The Terminator
 - [reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 - [rpi](https://github.com/zhaozhichen/rpi) - Raspberry Pi projects
@@ -2659,6 +2660,8 @@
 
 ## TypeScript 
 
+- [tailwind-nextjs-saas-template](https://github.com/egoist-sponsors/tailwind-nextjs-saas-template) - A TailwindCSS + Next.js template for your next SaaS product.
+- [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
 - [vite](https://github.com/vitejs/vite) - An opinionated web dev build tool. It's fast.
 - [g](https://github.com/antvis/g) - A powerful rendering engine which providing Canvas and SVG draw for G2 & G6
@@ -2940,6 +2943,10 @@
 
 ## Vue 
 
+- [DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
+- [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue.js Admin Template
+- [Workflow](https://github.com/StavinLi/Workflow) - 仿钉钉审批流程设置
+- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) - vue-admin-beautiful是一款绝佳的前端开发框架（同时支持电脑，手机，平板）,长期更新维护,感谢您的star,我一直在努力 Vue admin beautiful is an excellent front-end development framework (supporting computers, mobile phones and tablets at the same time), long-term update and maintenance, thank you for your star, I have been working hard
 - [animal-crossing-trading-system](https://github.com/kastnerorz/animal-crossing-trading-system) - 🥬 《集合啦！动物森友会》的大头菜交易市场。
 - [ACNLPatternTool](https://github.com/Thulinma/ACNLPatternTool) - Animal Crossing: New Leaf Pattern Tool
 - [PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit) - 一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。
