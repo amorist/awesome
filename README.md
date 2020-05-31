@@ -115,6 +115,7 @@
 
 ## C++ 
 
+- [mediapipe](https://github.com/google/mediapipe) - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
 - [react-native-macos](https://github.com/microsoft/react-native-macos) - Microsoft fork of react-native
 - [cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src) - Leak of CS:GO Source code, provided by yours truly so go rep me
 - [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
@@ -179,7 +180,7 @@
 - [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
 - [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [water.css](https://github.com/kognise/water.css) - A just-add-css collection of styles to make simple websites just a little nicer
+- [water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 - [devices.css](https://github.com/picturepan2/devices.css) - Devices.css - Modern devices in pure CSS
 - [argon-design-system](https://github.com/creativetimofficial/argon-design-system) - Argon - Design System for Bootstrap 4 by Creative Tim
 - [weui-wxss](https://github.com/Tencent/weui-wxss) - A UI library by WeChat official design team, includes the most useful widgets/modules.
@@ -210,7 +211,6 @@
 - [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no JS)
 - [instagram.css](https://github.com/picturepan2/instagram.css) - Instagram.css - Complete set of Instagram filters in pure CSS
 - [for-the-badge](https://github.com/BraveUX/for-the-badge) - Badges for badges' sake.
-- [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
 - [phugo](https://github.com/aerohub/phugo) - Phugo [ˈfjuːgəʊ] is a gallery/photoblog theme for Hugo.
 - [ghost-material](https://github.com/nauzethc/ghost-material) - Material Design theme for Ghost blogging platform
 - [hexo-theme-indigo](https://github.com/yscoder/hexo-theme-indigo) - 一个Material Design风格的Hexo主题。 https://imys.net/ 　　 备用:
@@ -285,6 +285,7 @@
 
 ## Go 
 
+- [alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
 - [opentracing-go](https://github.com/opentracing/opentracing-go) - OpenTracing API for Go
 - [kratos](https://github.com/ory/kratos) - Never build user login, user registration, 2fa, profile management ever again! Works on any operating system, cloud, with any programming language, user interface, and user experience! Written in Go.
 - [ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game library for Go
@@ -1974,7 +1975,7 @@
 - [regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box) - 定投改变命运 —— 让时间陪你慢慢变富 https://onregularinvesting.com
 - [ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
-- [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries.
+- [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)
 - [deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
 - [tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese) - tensorflow2中文教程，持续更新(当前版本:tensorflow2.0)，tag: tensorflow 2.0 tutorials
 - [recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
@@ -2247,6 +2248,7 @@
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
 - [machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+- [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN) - What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when
 - [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
@@ -2913,7 +2915,7 @@
 - [windows-installer](https://github.com/electron/windows-installer) - Build Windows Installers for Electron apps
 - [HAP-NodeJS](https://github.com/homebridge/HAP-NodeJS) - Node.js implementation of an HomeKit Accessory Server.
 - [homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient
-- [ioredis](https://github.com/luin/ioredis) - 🚀A robust, performance-focused and full-featured Redis client for Node.js.
+- [ioredis](https://github.com/luin/ioredis) - 🚀 A robust, performance-focused and full-featured Redis client for Node.js.
 - [menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
 - [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [vscode-background](https://github.com/shalldie/vscode-background) - A vscode extension to make it lovely.
