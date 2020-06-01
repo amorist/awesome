@@ -1354,7 +1354,7 @@
 - [node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
 - [vue-i18n](https://github.com/kazupon/vue-i18n) - :globe_with_meridians: Internationalization plugin for Vue.js
 - [an-array-of-english-words](https://github.com/words/an-array-of-english-words) - List of ~275,000 English words
-- [vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - A Vue Cli 3/4 plugin for Electron with no required configuration
+- [vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - Easily Build Your Vue.js App For Desktop With Electron
 - [omina](https://github.com/lijsh/omina) - 🎡 小程序运行时增强库
 - [zoom.js](https://github.com/fat/zoom.js) - Medium's Image Zoom for jQuery
 - [vega](https://github.com/vega/vega) - A visualization grammar.
@@ -2661,6 +2661,8 @@
 
 ## TypeScript 
 
+- [twilio-video-app-react](https://github.com/twilio/twilio-video-app-react) - A collaboration application built with the twilio-video.js SDK and React.js
+- [rough-notation](https://github.com/pshihn/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [tailwind-nextjs-saas-template](https://github.com/egoist-sponsors/tailwind-nextjs-saas-template) - A TailwindCSS + Next.js template for your next SaaS product.
 - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
