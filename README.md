@@ -654,7 +654,7 @@
 - [notionapi](https://github.com/kjk/notionapi) - Unofficial Go API for Notion.so
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [hil](https://github.com/hashicorp/hil) - HIL is a small embedded language for string interpolations.
-- [Beaver](https://github.com/Clivern/Beaver) - 💨A real time messaging server to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
+- [Beaver](https://github.com/Clivern/Beaver) - 💨 A real time messaging server to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
 - [syncd](https://github.com/dreamans/syncd) - syncd是一款开源的代码部署工具，它具有简单、高效、易用等特点，可以提高团队的工作效率.
 - [gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
 - [gophers](https://github.com/egonelbre/gophers) - Free gophers
@@ -1278,7 +1278,6 @@
 - [datamaps](https://github.com/markmarkoh/datamaps) - Customizable SVG map visualizations for the web in a single Javascript file using D3.js
 - [luban-h5](https://github.com/ly525/luban-h5) - [WIP]en: web design tool || mobile page builder/editor || mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具、可视化搭建系统.
 - [funcraft](https://github.com/alibaba/funcraft) - (have) Fun with Serverless(API Gateway & Function Compute)
-- [composition-api](https://github.com/vuejs/composition-api) - Vue2 plugin for the Composition API.
 - [crowdin-node](https://github.com/crowdin-node/crowdin-node) - A Node.js client for the v1 and v2 Crowdin APIs
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [vapper](https://github.com/shuidi-fed/vapper) - 🔥 A Vue-based server-side rendering framework
@@ -1433,7 +1432,6 @@
 - [registry](https://github.com/denoland/registry) - 
 - [ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [apollo](https://github.com/apollographql/apollo) - :rocket: Open source tools for GraphQL. Central repo for discussion.
-- [umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) - :closed_lock_with_key: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
 - [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - Cheatsheets for experienced React developers getting started with TypeScript
 - [brain.js](https://github.com/BrainJS/brain.js) - 🤖 Neural networks in JavaScript
@@ -2049,6 +2047,7 @@
 
 ## Others 
 
+- [.github](https://github.com/amorist/.github) - Default community health files for all my repos.
 - [docs](https://github.com/gowechat/docs) - 【文档】微信开发SDK(Wechat SDK for Golang)
 - [Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
@@ -2321,6 +2320,7 @@
 
 ## Python 
 
+- [jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation) - The Project is real time application in opencv using first order model
 - [textshot](https://github.com/ianzhao05/textshot) - Python tool for grabbing text via screenshot
 - [animal-crossing-scraper](https://github.com/sungyeonu/animal-crossing-scraper) - Web scraper for Animal Crossing - New Horizons data using bs4
@@ -2577,7 +2577,7 @@
 - [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [branch-cleanup-action](https://github.com/jessfraz/branch-cleanup-action) - A GitHub action to automatically delete the branch after a pull request has been merged.
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore Now! No free support is provided at the moment.
+- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore Now! No free support is provided. Open PR(s) to report and fix problems.
 - [kubernetes-tutorial](https://github.com/KeKe-Li/kubernetes-tutorial) - Running Kubernetes cluster Locally tutorial
 - [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [debian-sysroot-image-creator](https://github.com/electron/debian-sysroot-image-creator) - Scripts to create debian sysroot image for building electron
@@ -2757,6 +2757,7 @@
 - [qiankun](https://github.com/umijs/qiankun) - 📦🚀Blazing fast, simple and completed solution for micro frontends.
 - [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [discord-vscode](https://github.com/iCrawl/discord-vscode) - 🖋️ Update your discord status with the newly added rich presence
+- [composition-api](https://github.com/vuejs/composition-api) - Vue2 plugin for the Composition API.
 - [rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [ignite](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
@@ -2844,6 +2845,7 @@
 - [dejs](https://github.com/syumai/dejs) - ejs template engine for deno.
 - [apollo-server](https://github.com/apollographql/apollo-server) - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
 - [apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
+- [umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [deno_std](https://github.com/denoland/deno_std) - deno standard modules
 - [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
@@ -2892,7 +2894,7 @@
 - [Zoe](https://github.com/iawia002/Zoe) - 快捷上传文件到七牛云 for macOS
 - [vuepack](https://github.com/znck/vuepack) - Publish .vue files in NPM packages
 - [proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
-- [wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for WeChat Individual Account, Powered by TypeScript, Docker, and 💖
+- [wechaty](https://github.com/wechaty/wechaty) - A Conversational AI RPA SDK for Chatbot
 - [tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
