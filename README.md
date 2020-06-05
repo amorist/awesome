@@ -115,6 +115,7 @@
 
 ## C++ 
 
+- [lac](https://github.com/baidu/lac) - 百度开源中文词法分析工具: 分词，词性标注，命名实体识别
 - [mediapipe](https://github.com/google/mediapipe) - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
 - [react-native-macos](https://github.com/microsoft/react-native-macos) - Microsoft fork of react-native
 - [cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src) - Leak of CS:GO Source code, provided by yours truly so go rep me
@@ -1028,7 +1029,6 @@
 - [nataliemarleny.github.io](https://github.com/nataliemarleny/nataliemarleny.github.io) - A GitHubbified Resume using Primer CSS, a d3.js customised heatmap and illustrated with Figma
 - [Characters_of_the_Three_Kingdoms](https://github.com/myvin/Characters_of_the_Three_Kingdoms) - :three: 三国人物结构化数据 - Characters of the Three Kingdoms
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
-- [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGiИX config generator on steroids 💉
 - [hugo-coder-portfolio](https://github.com/naro143/hugo-coder-portfolio) - It is a theme to have you know yourself than developed based on "hugo-coder".
 - [awesome-list](https://github.com/apachecn/awesome-list) - awesome-list
 - [MMDLoader-app](https://github.com/takahirox/MMDLoader-app) - sample applications for THREE.MMDLoader
@@ -2322,7 +2322,7 @@
 
 - [jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation) - The Project is real time application in opencv using first order model
-- [textshot](https://github.com/ianzhao05/textshot) - Python tool for grabbing text via screenshot
+- [textshot](https://github.com/ianzhao05/textshot) - Cross-platform Python tool for grabbing text via screenshot
 - [animal-crossing-scraper](https://github.com/sungyeonu/animal-crossing-scraper) - Web scraper for Animal Crossing - New Horizons data using bs4
 - [handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs ✏️
 - [dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
@@ -2422,7 +2422,7 @@
 - [hub](https://github.com/tensorflow/hub) - A library for transfer learning by reusing parts of TensorFlow models.
 - [coinai](https://github.com/techbanca/coinai) - Seed applications based on AI for digital currency quantitative analysis, medium-term forecast and asset allocation for the secondary market of the BANCA community
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [magenta](https://github.com/tensorflow/magenta) - Magenta: Music and Art Generation with Machine Intelligence
+- [magenta](https://github.com/magenta/magenta) - Magenta: Music and Art Generation with Machine Intelligence
 - [word-mesh](https://github.com/mukund109/word-mesh) - A context-preserving word cloud generator
 - [cartoonify](https://github.com/danmacnish/cartoonify) - python app to turn a photograph into a cartoon
 - [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
@@ -2949,6 +2949,8 @@
 
 ## Vue 
 
+- [ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!
+- [mescroll](https://github.com/mescroll/mescroll) - 精致的下拉刷新和上拉加载 js框架.支持vue,完美运行于移动端和主流PC浏览器 (JS framework for pull-refresh and pull-up-loading)
 - [DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
 - [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue.js Admin Template
 - [Workflow](https://github.com/StavinLi/Workflow) - 仿钉钉审批流程设置
@@ -2986,6 +2988,7 @@
 - [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
 - [ui](https://github.com/vuejs/ui) - 💻 UI components for official Vue organization apps
+- [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGiИX config generator on steroids 💉
 - [vue-cropper](https://github.com/xyxiao001/vue-cropper) - A simple  picture clipping plugin for vue
 - [vue-feather-icons](https://github.com/egoist/vue-feather-icons) - Simply beautiful open source icons as Vue functional components.
 - [ct-hodor](https://github.com/koakumaping/ct-hodor) - ct-hodor
