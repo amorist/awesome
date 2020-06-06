@@ -115,9 +115,9 @@
 
 ## C++ 
 
-- [lac](https://github.com/baidu/lac) - 百度开源中文词法分析工具: 分词，词性标注，命名实体识别
+- [lac](https://github.com/baidu/lac) - 百度NLP：分词，词性标注，命名实体识别
 - [mediapipe](https://github.com/google/mediapipe) - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
-- [react-native-macos](https://github.com/microsoft/react-native-macos) - Microsoft fork of react-native
+- [react-native-macos](https://github.com/microsoft/react-native-macos) - A framework for building native macOS apps with React.
 - [cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src) - Leak of CS:GO Source code, provided by yours truly so go rep me
 - [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
 - [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing
@@ -286,6 +286,9 @@
 
 ## Go 
 
+- [dragon-iss-docking-autopilot](https://github.com/mbertschler/dragon-iss-docking-autopilot) - Autopilot in Go for docking the SpaceX Dragon capsule in the simulator
+- [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
+- [goplus](https://github.com/qiniu/goplus) - GoPlus - The Go+ language for data science
 - [jupiter](https://github.com/douyu/jupiter) - Jupiter是douyu开源的面向服务治理的Golang微服务框架
 - [alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
 - [opentracing-go](https://github.com/opentracing/opentracing-go) - OpenTracing API for Go
@@ -354,7 +357,7 @@
 - [gommon](https://github.com/labstack/gommon) - Common packages for Go
 - [cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [git-all-secrets](https://github.com/anshumanbh/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
-- [iis](https://github.com/coyove/iis) - Code that powers
+- [iis](https://github.com/coyove/iis) - Open source cloud powered microblog
 - [gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [go-under-the-hood](https://github.com/changkun/go-under-the-hood) - 📚 Go Under The Hood: A Source Code Study of Go (1.14, WIP)
@@ -708,7 +711,7 @@
 - [xorm](https://github.com/go-xorm/xorm) - Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm
 - [copernicus](https://github.com/copernet/copernicus) - An alternative implementation of the Bitcoin Cash protocol, written in Golang
 - [fastcache](https://github.com/VictoriaMetrics/fastcache) - Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead
-- [sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search and navigation tool (self-hosted)
+- [sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [cache2go](https://github.com/muesli/cache2go) - Concurrency-safe Go caching library with expiration capabilities and access counters
 - [allmark](https://github.com/andreaskoch/allmark) - A cross-platform markdown web server
@@ -812,7 +815,7 @@
 - [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [vertigo](https://github.com/toldjuuso/vertigo) - Blog engine in Go (golang)
 - [strict-request](https://github.com/kozmos/strict-request) - Send strict HTTP Requests with Go
-- [micro](https://github.com/micro/micro) - A distributed systems runtime for the cloud
+- [micro](https://github.com/micro/micro) - A development platform for cloud services
 - [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
@@ -1125,6 +1128,7 @@
 
 ## JavaScript 
 
+- [wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi
 - [content](https://github.com/nuxt/content) - Write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
 - [qrbtf](https://github.com/ciaochaos/qrbtf) - A parametric QR code beautifier based on React.  参数化二维码生成器。
 - [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
@@ -1232,7 +1236,6 @@
 - [F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
 - [create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [electron-osx-sign](https://github.com/electron/electron-osx-sign) - Codesign Electron macOS apps
-- [remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建跨平台小程序
 - [i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
 - [comments-api](https://github.com/dev-mastery/comments-api) - 
 - [vue-interactive-paycard](https://github.com/muhammederdem/vue-interactive-paycard) - Credit card form with smooth and sweet micro-interactions
@@ -2322,7 +2325,7 @@
 
 - [jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation) - The Project is real time application in opencv using first order model
-- [textshot](https://github.com/ianzhao05/textshot) - Cross-platform Python tool for grabbing text via screenshot
+- [textshot](https://github.com/ianzhao05/textshot) - Python tool for grabbing text via screenshot
 - [animal-crossing-scraper](https://github.com/sungyeonu/animal-crossing-scraper) - Web scraper for Animal Crossing - New Horizons data using bs4
 - [handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs ✏️
 - [dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
@@ -2737,6 +2740,7 @@
 - [BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React.
 - [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [swr](https://github.com/vercel/swr) - React Hooks library for remote data fetching
+- [remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建跨平台小程序
 - [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [github-funding-yml-updater](https://github.com/azu/github-funding-yml-updater) - Update multiple repositories's `.github/FUNDING.yml` via GitHub API
 - [saturn-datepicker](https://github.com/SaturnTeam/saturn-datepicker) - Angular Material Datepicker with range selection
