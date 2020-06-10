@@ -820,7 +820,7 @@
 - [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [vertigo](https://github.com/toldjuuso/vertigo) - Blog engine in Go (golang)
 - [strict-request](https://github.com/kozmos/strict-request) - Send strict HTTP Requests with Go
-- [micro](https://github.com/micro/micro) - Micro is a cloud native development platform
+- [micro](https://github.com/micro/micro) - Micro is a distributed systems runtime for the Cloud
 - [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
@@ -925,7 +925,7 @@
 - [ecoji](https://github.com/keith-turner/ecoji) - Encodes (and decodes) data as emojis
 - [emitter](https://github.com/emitter-io/emitter) - High performance, distributed and low latency publish-subscribe platform.
 - [go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
-- [minio](https://github.com/minio/minio) - MinIO is a high performance object storage server compatible with Amazon S3 APIs
+- [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [go-socket.io](https://github.com/googollee/go-socket.io) - socket.io library for golang, a realtime application framework.
 - [go-cache](https://github.com/huntsman-li/go-cache) - This project encapsulates multiple db servers, redis、ledis、memcache、file、memory、nosql、postgresql
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
@@ -1034,7 +1034,6 @@
 - [personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
-- [nataliemarleny.github.io](https://github.com/nataliemarleny/nataliemarleny.github.io) - A GitHubbified Resume using Primer CSS, a d3.js customised heatmap and illustrated with Figma
 - [Characters_of_the_Three_Kingdoms](https://github.com/myvin/Characters_of_the_Three_Kingdoms) - :three: 三国人物结构化数据 - Characters of the Three Kingdoms
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [hugo-coder-portfolio](https://github.com/naro143/hugo-coder-portfolio) - It is a theme to have you know yourself than developed based on "hugo-coder".
@@ -1134,6 +1133,7 @@
 
 ## JavaScript 
 
+- [http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API
 - [settings](https://github.com/probot/settings) - Pull Requests for GitHub repository settings
 - [slice-machine](https://github.com/prismicio/slice-machine) - Common utilities to build Slice Machine libraries
 - [wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi
@@ -2331,6 +2331,7 @@
 
 ## Python 
 
+- [genetic-drawing](https://github.com/anopara/genetic-drawing) - A genetic algorithm toy project for drawing
 - [jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation) - The Project is real time application in opencv using first order model
 - [textshot](https://github.com/ianzhao05/textshot) - Python tool for grabbing text via screenshot
@@ -2449,7 +2450,7 @@
 - [Synonyms](https://github.com/huyingxi/Synonyms) - 中文近义词工具包
 - [shadowbroker](https://github.com/misterch0c/shadowbroker) - The Shadow Brokers "Lost In Translation" leak
 - [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers
-- [pytube](https://github.com/nficano/pytube) - 🎞 A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+- [pytube](https://github.com/nficano/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [Deep-Learning-21-Examples](https://github.com/hzy46/Deep-Learning-21-Examples) - 《21个项目玩转深度学习———基于TensorFlow的实践详解》配套代码
@@ -2753,7 +2754,7 @@
 - [github-funding-yml-updater](https://github.com/azu/github-funding-yml-updater) - Update multiple repositories's `.github/FUNDING.yml` via GitHub API
 - [saturn-datepicker](https://github.com/SaturnTeam/saturn-datepicker) - Angular Material Datepicker with range selection
 - [tinacms](https://github.com/tinacms/tinacms) - Tina is a site editing toolkit for modern React-based sites (Gatsby and Next.js)
-- [takenote](https://github.com/taniarascia/takenote) - 📝 A free, open source notes app for the web.
+- [takenote](https://github.com/taniarascia/takenote) - 📝  A free, open source notes app for the web.
 - [tecalliance-onedb-application](https://github.com/vauman/tecalliance-onedb-application) - This is the OneDB application to manage vehicles, parts, etc. build with Angular
 - [dts-gen](https://github.com/microsoft/dts-gen) - dts-gen creates starter TypeScript definition files for any module or library.
 - [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0 (currently in beta)
@@ -2769,7 +2770,7 @@
 - [qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and completed solution for micro frontends.
 - [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [discord-vscode](https://github.com/iCrawl/discord-vscode) - 🖋️ Update your discord status with the newly added rich presence
-- [composition-api](https://github.com/vuejs/composition-api) - Vue2 plugin for the Composition API.
+- [composition-api](https://github.com/vuejs/composition-api) - Vue 2 plugin for the Composition API
 - [rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [ignite](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
@@ -2999,7 +3000,7 @@
 - [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
 - [ui](https://github.com/vuejs/ui) - 💻 UI components for official Vue organization apps
-- [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGiИX config generator on steroids 💉
+- [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [vue-cropper](https://github.com/xyxiao001/vue-cropper) - A simple  picture clipping plugin for vue
 - [vue-feather-icons](https://github.com/egoist/vue-feather-icons) - Simply beautiful open source icons as Vue functional components.
 - [ct-hodor](https://github.com/koakumaping/ct-hodor) - ct-hodor
