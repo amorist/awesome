@@ -255,6 +255,7 @@
 
 ## Dart 
 
+- [bangumi-client](https://github.com/limichange/bangumi-client) - 基于Flutter的二次元追番客户端
 - [getwidget](https://github.com/ionicfirebaseapp/getwidget) - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
 - [day.dart](https://github.com/dayjs/day.dart) - ⏰ Day.js in dart. Day.dart is inspired by Day.js. Write with nearly the same API. Build on the top of the powerful DateTime class.
 - [plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
@@ -287,6 +288,8 @@
 
 ## Go 
 
+- [sentinel-golang](https://github.com/alibaba/sentinel-golang) - Sentinel Go version (Reliability & Resilience)
+- [go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语法树入门》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)
 - [nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go) - Nacos client in Golang
 - [agollo](https://github.com/zouyx/agollo) - 🚀Go Client for Apollo
 - [ms-weather](https://github.com/xinjiayu/ms-weather) - 天气预报API数据代理服务
@@ -1775,7 +1778,7 @@
 - [nba-go](https://github.com/homerchen19/nba-go) - 🏀 💻 The finest NBA CLI.
 - [area-data](https://github.com/dwqs/area-data) - 中国省市区数据(含港澳台)
 - [js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
-- [react-tv](https://github.com/raphamorim/react-tv) - [Looking for maintainers] React development for TVs (Renderer for low memory applications and Packager for TVs)
+- [react-tv](https://github.com/raphamorim/react-tv) - [ Unmaintained due to raphamorim/react-ape ] React Renderer for low memory applications
 - [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [heml](https://github.com/SparkPost/heml) - HEML is an open source markup language for building responsive email.
 - [fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
@@ -2136,7 +2139,6 @@
 - [website-redesign](https://github.com/nodejs/website-redesign) - Facilitating the redesign of the nodejs.org website
 - [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes) - 应急响应实战笔记，一个安全工程师的自我修养。
 - [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
-- [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
 - [TSC](https://github.com/nodejs/TSC) - The Node.js Technical Steering Committee
 - [DDFE-blog](https://github.com/DDFE/DDFE-blog) - :clap: welcome to DDFE's blog
@@ -2144,7 +2146,7 @@
 - [golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) - 在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。
 - [ideas](https://github.com/egoist/ideas) - 💡ideas / thoughts / polls from egoist
 - [Jinyong-Corpus](https://github.com/KehaoWu/Jinyong-Corpus) - 金庸15部小说字典
-- [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2019
+- [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
 - [estree](https://github.com/estree/estree) - The ESTree Spec
 - [hast](https://github.com/syntax-tree/hast) - Hypertext Abstract Syntax Tree format
 - [algorithms](https://github.com/jeffgerickson/algorithms) - Bug-tracking for Jeff's algorithms book, notes, etc.
@@ -2580,6 +2582,7 @@
 - [vuepress-theme-bulma](https://github.com/nakorndev/vuepress-theme-bulma) - A pure Bulma.css theme for VuePress
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [chromium_os-raspberry_pi](https://github.com/FydeOS/chromium_os-raspberry_pi) - Build your Chromium OS for Raspberry Pi 3B/3B+/4B
+- [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [make-node-meeting](https://github.com/nodejs/make-node-meeting) - Generate a text for a GitHub issue announcing a Node.js working group meeting
 - [vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [chromedriver-centos6-installation](https://github.com/staier/chromedriver-centos6-installation) - easy install google chrome  and chromedriver  on  centos 6.X
@@ -2674,6 +2677,7 @@
 
 ## TypeScript 
 
+- [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.
 - [twilio-video-app-react](https://github.com/twilio/twilio-video-app-react) - A collaboration application built with the twilio-video.js SDK and React.js
 - [rough-notation](https://github.com/pshihn/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [tailwind-nextjs-saas-template](https://github.com/egoist-sponsors/tailwind-nextjs-saas-template) - A TailwindCSS + Next.js template for your next SaaS product.
@@ -2839,7 +2843,6 @@
 - [editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
 - [gcoord](https://github.com/hujiulong/gcoord) - 地理坐标系转换工具，支持WGS84/GCJ02/BD09等常用坐标系互转
 - [code-server](https://github.com/cdr/code-server) - VS Code in the browser
-- [reaviz](https://github.com/jask-oss/reaviz) - 📊  Data visualization library for React based on D3
 - [vue-dev-server](https://github.com/vuejs/vue-dev-server) - A POC dev server that allows you to import `*.vue` files via native ES modules imports.
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
@@ -2900,7 +2903,7 @@
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [botpress](https://github.com/botpress/botpress) - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
 - [cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
-- [vscode-go](https://github.com/microsoft/vscode-go) - An extension for VS Code which provides support for the Go language.
+- [vscode-go](https://github.com/microsoft/vscode-go) - An extension for VS Code which provides support for the Go language. We have moved to https://github.com/golang/vscode-go
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [incremental-dom](https://github.com/google/incremental-dom) - An in-place DOM diffing library
 - [Zoe](https://github.com/iawia002/Zoe) - 快捷上传文件到七牛云 for macOS
