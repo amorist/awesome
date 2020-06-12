@@ -178,7 +178,6 @@
 - [dragon](https://github.com/tomhodgins/dragon) - dragon.js is a bookmarklet that lets you drag any element on a website using a mouse or touchscreen. The goal is to speed up in-browser design critiques and brainstorming new layout ideas.
 - [layer.Cake](https://github.com/leram84/layer.Cake) - layer.Cake is working to combine several OSS projects in the personal media server space into a single continuous uniform app.
 - [InterImmBook](https://github.com/InterImm/InterImmBook) - :seedling: The Book of Interplanetary Civilization;星际移民之书.
-- [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
 - [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
@@ -200,7 +199,7 @@
 - [clock-shop](https://github.com/drawcall/clock-shop) - 🕙⏰🕰Clock Shop is a website that collects beautiful clock codes
 - [iview-weapp](https://github.com/TalkingData/iview-weapp) - 一套高质量的微信小程序 UI 组件库
 - [nodejs-zh-CN](https://github.com/nodejs/nodejs-zh-CN) - node.js 中文化 & 中文社区
-- [hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🌩 A simple, clean, flexible Hugo theme
+- [hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🥛 A simple, clean, flexible Hugo theme
 - [hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh) - :book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】
 - [mvvm](https://github.com/DMQ/mvvm) - 剖析vue实现原理，自己动手实现mvvm
 - [dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
@@ -1136,6 +1135,8 @@
 
 ## JavaScript 
 
+- [wxapp-market](https://github.com/o2team/wxapp-market) - 小程序营销组件，Marketing components for WeChatApp
+- [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API
 - [settings](https://github.com/probot/settings) - Pull Requests for GitHub repository settings
 - [slice-machine](https://github.com/prismicio/slice-machine) - Common utilities to build Slice Machine libraries
@@ -2467,7 +2468,7 @@
 - [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
 - [hosts](https://github.com/StevenBlack/hosts) - Consolidating and Extending hosts files from several well-curated sources. You can optionally pick extensions to block Porn, Social Media, and other categories..
 - [fooltrader](https://github.com/foolcage/fooltrader) - a modular quant framework
-- [python-spider](https://github.com/Jack-Cherish/python-spider) - :rainbow:Python3网络爬虫实战
+- [python-spider](https://github.com/Jack-Cherish/python-spider) - :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等
 - [akbl](https://github.com/rsm-gh/akbl) - Control the lights of Alienware computers under GNU-Linux systems.
 - [alienware15r3_ubuntu14](https://github.com/awesomebytes/alienware15r3_ubuntu14) - Instructions on how to install Ubuntu 14.04 on the Alienware 15 R3 (and installing cuda, tensorflow and disabling intel graphics card)
 - [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
@@ -2601,7 +2602,7 @@
 - [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 - [javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript
-- [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
+- [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [osx-iso](https://github.com/busterc/osx-iso) -  Create a bootable ISO of OS X / macOS, from the installation app file
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -2677,6 +2678,7 @@
 
 ## TypeScript 
 
+- [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build custom ML tools
 - [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.
 - [twilio-video-app-react](https://github.com/twilio/twilio-video-app-react) - A collaboration application built with the twilio-video.js SDK and React.js
 - [rough-notation](https://github.com/pshihn/rough-notation) - Create and animate hand-drawn annotations on a web page
@@ -2806,6 +2808,7 @@
 - [formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
 - [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) - Tasks for Azure Pipelines
 - [ide-props-editor](https://github.com/one-gourd/ide-props-editor) - 属性编辑器 ，demo https://one-gourd.github.io/ide-props-editor/
+- [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
 - [vue-async-manager](https://github.com/shuidi-fed/vue-async-manager) - 【deprecated】Manage asynchronous calls more easily in Vue apps.
 - [rollup-plugin-vue](https://github.com/vuejs/rollup-plugin-vue) - Roll .vue files
 - [koa-ts](https://github.com/unix/koa-ts) - The best practice of building Koa2 with TypeScript
