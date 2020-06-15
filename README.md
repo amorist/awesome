@@ -164,6 +164,7 @@
 
 ## CSS 
 
+- [pl-drag-template](https://github.com/livelyPeng/pl-drag-template) - 一个h5可视化编辑器项目
 - [json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 - [seeker](https://github.com/thewhiteh4t/seeker) - Accurately Locate Smartphones using Social Engineering
 - [lit](https://github.com/ajusa/lit) - World's smallest responsive 🔥 css framework (395 bytes)
@@ -286,6 +287,7 @@
 
 ## Go 
 
+- [mosn](https://github.com/mosn/mosn) - MOSN is a cloud native proxy for edge or service mesh. https://mosn.io
 - [sentinel-golang](https://github.com/alibaba/sentinel-golang) - Sentinel Go version (Reliability & Resilience)
 - [go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语法树入门》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)
 - [nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go) - Nacos client in Golang
@@ -327,7 +329,7 @@
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，更多功能正在开发中，欢迎issue和pr~
 - [go-interview](https://github.com/shomali11/go-interview) - Collection of Technical Interview Questions solved with Go
 - [sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
-- [go-admin](https://github.com/wenjianzhang/go-admin) - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RABC资源控制，表单构建等）文档：http://doc.zhangwj.com/go-admin-site/    Demo： http://www.zhangwj.com/#/login
+- [go-admin](https://github.com/wenjianzhang/go-admin) - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建等）文档：http://doc.zhangwj.com/go-admin-site/    Demo： http://www.zhangwj.com/#/login
 - [trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
 - [go-lottery](https://github.com/goodcan/go-lottery) - Golang 实现各式各样的抽奖逻辑后台
 - [codenames](https://github.com/jbowens/codenames) - Play codenames online
@@ -1009,6 +1011,7 @@
 
 ## HTML 
 
+- [wechat-layout](https://github.com/netpi/wechat-layout) - 月薪 3W 的 Apple 微信编辑是这么发文章的 |如何发类似 Apple 微信公众号的文章效果
 - [json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
 - [nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
 - [hiwifi.easucks](https://github.com/Paull/hiwifi.easucks) - 极路由器官方固件的插件，FIFA助手，SS，For 1.2.5-1.5.9
@@ -1134,6 +1137,7 @@
 
 ## JavaScript 
 
+- [twilio-video.js](https://github.com/twilio/twilio-video.js) - Twilio’s Programmable Video JavaScript SDK
 - [password-manager-resources](https://github.com/apple/password-manager-resources) - A place for creators and users of password managers to collaborate on resources to make password management better.
 - [wxapp-market](https://github.com/o2team/wxapp-market) - 小程序营销组件，Marketing components for WeChatApp
 - [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
@@ -2064,6 +2068,7 @@
 
 ## Others 
 
+- [handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
 - [.github](https://github.com/amorist/.github) - Default community health files for all my repos.
 - [docs](https://github.com/gowechat/docs) - 【文档】微信开发SDK(Wechat SDK for Golang)
 - [Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
