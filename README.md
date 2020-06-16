@@ -49,6 +49,7 @@
   - [Shell](#shell)
   - [Standard ML](#standard-ml)
   - [Swift](#swift)
+  - [TSQL](#tsql)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [VBA](#vba)
@@ -287,6 +288,9 @@
 
 ## Go 
 
+- [bimg](https://github.com/h2non/bimg) - Go package for fast high-level image processing powered by libvips C library
+- [spago](https://github.com/nlpodyssey/spago) - spaGO is a beautiful and maintainable machine learning library written in Go designed to support relevant neural network architectures in natural language processing tasks
+- [google-api-go-client](https://github.com/googleapis/google-api-go-client) - Auto-generated Google APIs for Go.
 - [mosn](https://github.com/mosn/mosn) - MOSN is a cloud native proxy for edge or service mesh. https://mosn.io
 - [sentinel-golang](https://github.com/alibaba/sentinel-golang) - Sentinel Go version (Reliability & Resilience)
 - [go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语法树入门》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)
@@ -823,7 +827,7 @@
 - [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [vertigo](https://github.com/toldjuuso/vertigo) - Blog engine in Go (golang)
 - [strict-request](https://github.com/kozmos/strict-request) - Send strict HTTP Requests with Go
-- [micro](https://github.com/micro/micro) - Micro is a distributed systems runtime for the Cloud
+- [micro](https://github.com/micro/micro) - Micro is a distributed systems runtime environment
 - [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
@@ -1527,7 +1531,6 @@
 - [Dusk](https://github.com/pacocoursey/Dusk) - simple, customizable macOS application icons
 - [Opus](https://github.com/pacocoursey/Opus) - minimal note-taking app
 - [platelet](https://github.com/amorist/platelet) - けっしょうばん
-- [symbol-server](https://github.com/electron/symbol-server) - Electron symbol server
 - [omi](https://github.com/Tencent/omi) - Front End Cross-Frameworks Framework - 前端跨框架跨平台框架
 - [hacknical](https://github.com/ecmadao/hacknical) - Hacknical, hacker & technical. A website for GitHub user to make a better resume.
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
@@ -1763,7 +1766,7 @@
 - [poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [unistore](https://github.com/developit/unistore) - 🌶 350b / 650b state container with component actions for Preact & React
-- [muuri](https://github.com/haltu/muuri) - Responsive, sortable, filterable and draggable layouts
+- [muuri](https://github.com/haltu/muuri) - Infinite responsive, sortable, filterable and draggable layouts
 - [wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架
 - [app-store-scraper](https://github.com/facundoolano/app-store-scraper) - scrape data from the itunes app store
 - [aso](https://github.com/facundoolano/aso) - Tools for app store optimization on iTunes and Google Play
@@ -1976,6 +1979,7 @@
 
 ## Jupyter Notebook 
 
+- [yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 in PyTorch &gt; ONNX &gt; CoreML &gt; iOS
 - [RL-Stock](https://github.com/wangshub/RL-Stock) - 📈 如何用深度强化学习自动炒股
 - [automl](https://github.com/google/automl) - Google Brain AutoML
 - [fastbook](https://github.com/fastai/fastbook) - Draft of the fastai book
@@ -2678,6 +2682,10 @@
 - [iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
 
+## TSQL 
+
+- [dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes
+
 ## TeX 
 
 - [fsfs-zh](https://github.com/beijinglug/fsfs-zh) - Chinese translation for "Free Software, Free Society"(3rd)
@@ -2726,7 +2734,7 @@
 - [react-native-netinfo](https://github.com/react-native-community/react-native-netinfo) - React Native Network Info API for Android & iOS
 - [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [WebWindow](https://github.com/SteveSandersonMS/WebWindow) - .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental.
-- [react-visual-editor](https://github.com/brick-design/react-visual-editor) - 基于 React 的组件可视化拖拽页面搭建代码生成工具,组件自由拖拽，dom实时追踪，组件无限制嵌套组合，不添加多余节点，所见即所得，可完美还原UI设计，多平台支持，代码生成，实时预览，项目于2020.2.22开源，喜欢的点颗星支持鼓励一下！
+- [react-visual-editor](https://github.com/brick-design/react-visual-editor) - 基于 React 的组件可视化拖拽页面搭建代码生成工具,组件自由拖拽，dom实时追踪，组件无限制嵌套组合，所见即所得，可完美还原UI设计，多平台展示支持，代码生成，实时预览，项目于2020.2.22开源，喜欢的点颗星支持鼓励一下！
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Rocket.Chat.GitHub.Action.Notification](https://github.com/RocketChat/Rocket.Chat.GitHub.Action.Notification) - Rocket.Chat Notification for GitHub Actions :bell: :rocket:
@@ -2880,7 +2888,7 @@
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - TypeScript Deep Dive 中文版
-- [devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop
+- [devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 95% code sharing between them
 - [react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit) - A lightweight magic-move library for configurable layout transitions
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
@@ -2891,6 +2899,7 @@
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [vuese](https://github.com/vuese/vuese) - 🤗 One-stop solution for vue component documentation. Original org: https://github.com/vuese
 - [metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
+- [symbol-server](https://github.com/electron/symbol-server) - Electron symbol server
 - [zan-proxy](https://github.com/youzan/zan-proxy) - An extensible proxy for PC/Mobile/APP developer
 - [markbox](https://github.com/djyde/markbox) - Parse your code in markdown into CodeSandbox.
 - [desktop](https://github.com/wexond/desktop) - A privacy-focused, extensible and beautiful web browser
@@ -2980,7 +2989,7 @@
 - [DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
 - [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue.js Admin Template
 - [Workflow](https://github.com/StavinLi/Workflow) - 仿钉钉审批流程设置
-- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) - vue-admin-beautiful是一款绝佳的前端开发框架（基于vue/cli 4 最新版，同时支持电脑，手机，平板）,长期更新维护,感谢您的star,我一直在努力 Vue admin beautiful is an excellent front-end development framework (supporting computers, mobile phones and tablets at the same time), long-term update and maintenance, thank you for your star, I have been working hard
+- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) - vue-admin-beautiful是一款基于element+vue的绝佳的前端开发框架（基于vue/cli 4 最新版，同时支持电脑，手机，平板）,长期更新维护,感谢您的star,我一直在努力 Vue admin beautiful is an excellent front-end development framework (supporting computers, mobile phones and tablets at the same time), long-term update and maintenance, thank you for your star, I have been working hard
 - [animal-crossing-trading-system](https://github.com/kastnerorz/animal-crossing-trading-system) - 🥬 《集合啦！动物森友会》的大头菜交易市场。
 - [ACNLPatternTool](https://github.com/Thulinma/ACNLPatternTool) - Animal Crossing: New Leaf Pattern Tool
 - [PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit) - 一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。
