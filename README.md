@@ -369,7 +369,7 @@
 - [gommon](https://github.com/labstack/gommon) - Common packages for Go
 - [cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [git-all-secrets](https://github.com/anshumanbh/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
-- [iis](https://github.com/coyove/iis) - Open source cloud powered microblog
+- [iis](https://github.com/coyove/iis) - 开源微博平台 Open source cloud powered microblog
 - [gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [go-under-the-hood](https://github.com/changkun/go-under-the-hood) - 📚 Go Under The Hood: A Source Code Study of Go (1.14, WIP)
@@ -1030,7 +1030,6 @@
 - [hiwifi-ss](https://github.com/qiwihui/hiwifi-ss) - 极路由+ss配置
 - [github-multilingual](https://github.com/zeke/github-multilingual) - A robot powered training repository :robot:
 - [iQuant](https://github.com/zhangchuheng123/iQuant) - 
-- [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout plugin
 - [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist
@@ -1162,7 +1161,7 @@
 - [acnl-editor](https://github.com/marcrobledo/acnl-editor) - An Animal Crossing: New Leaf savegame editor made in HTML5
 - [villagerdb](https://github.com/jefflomacy/villagerdb) - Animal Crossing Item and Villager Database
 - [services](https://github.com/micro/services) - Services that power the Micro platform
-- [egoist.sh](https://github.com/egoist/egoist.sh) - EGOIST's homepage.
+- [website](https://github.com/egoist/website) - EGOIST's homepage.
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Materials to help you rock your next coding interview
 - [wxParse](https://github.com/icindy/wxParse) - wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析
 - [kbone-ts-template](https://github.com/stephenml/kbone-ts-template) - 
@@ -1336,6 +1335,7 @@
 - [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 - [ihuyi106js](https://github.com/XadillaX/ihuyi106js) - iHuyi 106 SMS sender for node.js.
 - [consolidate.js](https://github.com/tj/consolidate.js) - Template engine consolidation library for node.js
+- [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [Darkmode.js](https://github.com/sandoche/Darkmode.js) - 🌓 Add a dark-mode / night-mode to your website in a few seconds
 - [cursor-dot](https://github.com/gaoryrt/cursor-dot) - 🖱️Fancy cursor dot
 - [bricks.js](https://github.com/callmecavs/bricks.js) - A blazing fast masonry layout generator for fixed width elements.
@@ -2734,7 +2734,7 @@
 - [react-native-netinfo](https://github.com/react-native-community/react-native-netinfo) - React Native Network Info API for Android & iOS
 - [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [WebWindow](https://github.com/SteveSandersonMS/WebWindow) - .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental.
-- [react-visual-editor](https://github.com/brick-design/react-visual-editor) - 基于 React 的组件可视化拖拽页面搭建代码生成工具,组件自由拖拽，dom实时追踪，组件无限制嵌套组合，所见即所得，可完美还原UI设计，多平台展示支持，代码生成，实时预览，项目于2020.2.22开源，喜欢的点颗星支持鼓励一下！
+- [react-visual-editor](https://github.com/brick-design/react-visual-editor) - Based on the original constraint design between React components, no extra DOM nodes will be added, visual drag and drop, free nesting, real-time preview of components, real-time tracking, WYSIWYG, perfect UI design restoration, multi-platform display support, source code Generated, the project is open source on 2020.2.22, and the favorite point star support is encouraged!
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Rocket.Chat.GitHub.Action.Notification](https://github.com/RocketChat/Rocket.Chat.GitHub.Action.Notification) - Rocket.Chat Notification for GitHub Actions :bell: :rocket:
@@ -3007,7 +3007,7 @@
 - [gods-pen](https://github.com/ymm-tech/gods-pen) - 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink.
 - [saber-theme-template](https://github.com/saberland/saber-theme-template) - A template for creating Saber theme.
 - [GitDataV](https://github.com/HongqingCao/GitDataV) - 基于Vue框架构建的github数据可视化平台
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder used by 60k+ developers (web alternative to Postman) https://postwoman.io
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 60k+ developers. https://postwoman.io
 - [OverVue](https://github.com/open-source-labs/OverVue) - Prototyping Tool For Vue Devs 适用于Vue的原型工具
 - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
 - [vuepress-plugin-code-switcher](https://github.com/padarom/vuepress-plugin-code-switcher) - :arrows_clockwise: Component that adds synchronized multi-language code blocks to your Vuepress sites
