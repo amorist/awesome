@@ -165,6 +165,7 @@
 
 ## CSS 
 
+- [gorm.io](https://github.com/go-gorm/gorm.io) - GORM official site
 - [pl-drag-template](https://github.com/livelyPeng/pl-drag-template) - 一个h5可视化编辑器项目
 - [json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 - [seeker](https://github.com/thewhiteh4t/seeker) - Accurately Locate Smartphones using Social Engineering
@@ -288,12 +289,13 @@
 
 ## Go 
 
+- [pkgsite](https://github.com/golang/pkgsite) - [mirror] Home of the pkg.go.dev website
 - [bimg](https://github.com/h2non/bimg) - Go package for fast high-level image processing powered by libvips C library
 - [spago](https://github.com/nlpodyssey/spago) - spaGO is a beautiful and maintainable machine learning library written in Go designed to support relevant neural network architectures in natural language processing tasks
 - [google-api-go-client](https://github.com/googleapis/google-api-go-client) - Auto-generated Google APIs for Go.
 - [mosn](https://github.com/mosn/mosn) - MOSN is a cloud native proxy for edge or service mesh. https://mosn.io
 - [sentinel-golang](https://github.com/alibaba/sentinel-golang) - Sentinel Go version (Reliability & Resilience)
-- [go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语法树入门》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)
+- [go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)
 - [nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go) - Nacos client in Golang
 - [agollo](https://github.com/zouyx/agollo) - 🚀Go Client for Apollo
 - [ms-weather](https://github.com/xinjiayu/ms-weather) - 天气预报API数据代理服务
@@ -1095,6 +1097,7 @@
 
 ## Java 
 
+- [cwa-server](https://github.com/corona-warn-app/cwa-server) - Backend implementation for the Apple/Google exposure notification API.
 - [nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 - [InternetArchitect](https://github.com/bjmashibing/InternetArchitect) - 年薪百万互联网架构师课程文档及源码(公开部分)
 - [mall-swarm](https://github.com/macrozheng/mall-swarm) - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Greenwich、Spring Boot 2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
@@ -2344,6 +2347,7 @@
 
 ## Python 
 
+- [pifuhd](https://github.com/facebookresearch/pifuhd) - High-Resolution 3D Human Digitization from A Single Image.
 - [genetic-drawing](https://github.com/anopara/genetic-drawing) - A genetic algorithm toy project for drawing
 - [jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation) - The Project is real time application in opencv using first order model
@@ -2527,6 +2531,7 @@
 
 ## Ruby 
 
+- [faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers.
 - [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software 🔥💬
 - [homebrew-gh](https://github.com/github/homebrew-gh) - Homebrew tap for the GitHub CLI
 - [dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖The core logic behind Dependabot's update PR creation
@@ -2697,7 +2702,7 @@
 - [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build custom ML tools
 - [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.
 - [twilio-video-app-react](https://github.com/twilio/twilio-video-app-react) - A collaboration application built with the twilio-video.js SDK and React.js
-- [rough-notation](https://github.com/pshihn/rough-notation) - Create and animate hand-drawn annotations on a web page
+- [rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [tailwind-nextjs-saas-template](https://github.com/egoist-sponsors/tailwind-nextjs-saas-template) - A TailwindCSS + Next.js template for your next SaaS product.
 - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
@@ -2734,7 +2739,7 @@
 - [react-native-netinfo](https://github.com/react-native-community/react-native-netinfo) - React Native Network Info API for Android & iOS
 - [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [WebWindow](https://github.com/SteveSandersonMS/WebWindow) - .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental.
-- [react-visual-editor](https://github.com/brick-design/react-visual-editor) - Based on the original constraint design between React components, no extra DOM nodes will be added, visual drag and drop, free nesting, real-time preview of components, real-time tracking, WYSIWYG, perfect UI design restoration, multi-platform display support, source code Generated, the project is open source on 2020.2.22, and the favorite point star support is encouraged!
+- [react-visual-editor](https://github.com/brick-design/react-visual-editor) - visual drag and drop, free nesting, real-time preview of components, real-time tracking, WYSIWYG, perfect UI design restoration,  source code Generated
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Rocket.Chat.GitHub.Action.Notification](https://github.com/RocketChat/Rocket.Chat.GitHub.Action.Notification) - Rocket.Chat Notification for GitHub Actions :bell: :rocket:
@@ -2776,7 +2781,7 @@
 - [github-funding-yml-updater](https://github.com/azu/github-funding-yml-updater) - Update multiple repositories's `.github/FUNDING.yml` via GitHub API
 - [saturn-datepicker](https://github.com/SaturnTeam/saturn-datepicker) - Angular Material Datepicker with range selection
 - [tinacms](https://github.com/tinacms/tinacms) - Tina is a site editing toolkit for modern React-based sites (Gatsby and Next.js)
-- [takenote](https://github.com/taniarascia/takenote) - 📝  A free, open source notes app for the web.
+- [takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A free, open source notes app for the web.
 - [tecalliance-onedb-application](https://github.com/vauman/tecalliance-onedb-application) - This is the OneDB application to manage vehicles, parts, etc. build with Angular
 - [dts-gen](https://github.com/microsoft/dts-gen) - dts-gen creates starter TypeScript definition files for any module or library.
 - [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0 (currently in beta)
@@ -2919,7 +2924,7 @@
 - [flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
-- [wired-elements](https://github.com/wiredjs/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
+- [wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [botpress](https://github.com/botpress/botpress) - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
 - [cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
@@ -2937,7 +2942,7 @@
 - [intelligo](https://github.com/intelligo-systems/intelligo) - 🤖 Chatbot Framework for Node.js.
 - [propel](https://github.com/propelml/propel) - Differential Programming in JavaScript.
 - [sentry-electron](https://github.com/getsentry/sentry-electron) - The official Sentry SDK for Electron
-- [rough](https://github.com/pshihn/rough) - Create graphics with a hand-drawn, sketchy, appearance
+- [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [pandora](https://github.com/midwayjs/pandora) - A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
 - [i18n](https://github.com/electron/i18n) - 🌍 The home of Electron's translated documentation
