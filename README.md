@@ -181,6 +181,7 @@
 - [dragon](https://github.com/tomhodgins/dragon) - dragon.js is a bookmarklet that lets you drag any element on a website using a mouse or touchscreen. The goal is to speed up in-browser design critiques and brainstorming new layout ideas.
 - [layer.Cake](https://github.com/leram84/layer.Cake) - layer.Cake is working to combine several OSS projects in the personal media server space into a single continuous uniform app.
 - [InterImmBook](https://github.com/InterImm/InterImmBook) - :seedling: The Book of Interplanetary Civilization;星际移民之书.
+- [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 - [devices.css](https://github.com/picturepan2/devices.css) - Devices.css - Modern devices in pure CSS
@@ -289,6 +290,8 @@
 
 ## Go 
 
+- [authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+- [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
 - [betterGo](https://github.com/PioneerIncubator/betterGo) - Implement golang generic by code generating like C++ template (monomorphization)
 - [pkgsite](https://github.com/golang/pkgsite) - [mirror] Home of the pkg.go.dev website
 - [bimg](https://github.com/h2non/bimg) - Go package for fast high-level image processing powered by libvips C library
@@ -1144,6 +1147,7 @@
 
 ## JavaScript 
 
+- [mind-elixir-core](https://github.com/ssshooter/mind-elixir-core) - Mind elixir is a free open source mind map core
 - [supabase](https://github.com/supabase/supabase) - Website, docs, and client libraries. Follow to stay updated about our public Beta.
 - [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) - React components for the Carbon Design System
 - [twilio-video.js](https://github.com/twilio/twilio-video.js) - Twilio’s Programmable Video JavaScript SDK
@@ -1224,7 +1228,7 @@
 - [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [sentineljs](https://github.com/muicss/sentineljs) - Detect new DOM nodes using CSS selectors (650 bytes)
 - [nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
-- [concent](https://github.com/concentjs/concent) - Build-in dependency collection, a predictable、zero-cost-use、progressive、high performance's react develop framework
+- [concent](https://github.com/concentjs/concent) - ❤️ Build-in dependency collection, a predictable、zero-cost-use、progressive、high performance's react develop framework
 - [ci-detect](https://github.com/npm/ci-detect) - Detect what kind of CI environment the program is in
 - [waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
 - [geoapi](https://github.com/Risk3sixty-Labs/geoapi) - Lightweight API service to get geolocation data from IP addresses.
@@ -1341,7 +1345,6 @@
 - [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 - [ihuyi106js](https://github.com/XadillaX/ihuyi106js) - iHuyi 106 SMS sender for node.js.
 - [consolidate.js](https://github.com/tj/consolidate.js) - Template engine consolidation library for node.js
-- [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [Darkmode.js](https://github.com/sandoche/Darkmode.js) - 🌓 Add a dark-mode / night-mode to your website in a few seconds
 - [cursor-dot](https://github.com/gaoryrt/cursor-dot) - 🖱️Fancy cursor dot
 - [bricks.js](https://github.com/callmecavs/bricks.js) - A blazing fast masonry layout generator for fixed width elements.
@@ -2965,7 +2968,7 @@
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [react-page](https://github.com/react-page/react-page) - Next-gen, highly customizable content editor for the browser - based on React and Redux and written in TypeScript. WYSIWYG on steroids.
 - [windows-installer](https://github.com/electron/windows-installer) - Build Windows Installers for Electron apps
-- [HAP-NodeJS](https://github.com/homebridge/HAP-NodeJS) - Node.js implementation of an HomeKit Accessory Server.
+- [HAP-NodeJS](https://github.com/homebridge/HAP-NodeJS) - Node.js implementation of the HomeKit Accessory Protocol (HAP)
 - [homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient
 - [ioredis](https://github.com/luin/ioredis) - 🚀 A robust, performance-focused and full-featured Redis client for Node.js.
 - [menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
