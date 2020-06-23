@@ -291,6 +291,8 @@
 
 ## Go 
 
+- [sponsors-api](https://github.com/tj/sponsors-api) - GitHub Sponsor avatar listings in your Readme.md
+- [vssh](https://github.com/yahoo/vssh) - Go Library to Execute Commands Over SSH at Scale
 - [sketch](https://github.com/euforic/sketch) - Golang Sketch 43+ file parser
 - [authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
@@ -2034,6 +2036,7 @@
 
 ## Kotlin 
 
+- [react-native-amap3d](https://github.com/qiuxiang/react-native-amap3d) - react-native 高德地图组件，使用最新 3D SDK，支持 Android + iOS
 - [AwesomeQRCode](https://github.com/SumiMakito/AwesomeQRCode) - An awesome QR code generator for Android.
 - [iosched](https://github.com/google/iosched) - The Google I/O 2019 Android App
 
@@ -2086,6 +2089,7 @@
 
 ## Others 
 
+- [awesome-editorjs](https://github.com/editor-js/awesome-editorjs) - 🤩 A curated list of awesome Editor.js tools, libraries and resources.
 - [LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback) - 
 - [handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
 - [.github](https://github.com/amorist/.github) - Default community health files for all my repos.
@@ -2714,6 +2718,7 @@
 
 ## TypeScript 
 
+- [bit](https://github.com/teambit/bit) - Build, distribute and collaborate on components.
 - [erxes](https://github.com/erxes/erxes) - Free and open fair-code licensed all-in-one growth marketing & management software
 - [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native) - ⚛️📺 Projects from the “Can it be done in React Native?” YouTube series
 - [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build custom ML tools
@@ -3005,6 +3010,7 @@
 
 ## Vue 
 
+- [form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
 - [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) - 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
 - [ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!
 - [mescroll](https://github.com/mescroll/mescroll) - 精致的下拉刷新和上拉加载 js框架.支持vue,完美运行于移动端和主流PC浏览器 (JS framework for pull-refresh and pull-up-loading)
