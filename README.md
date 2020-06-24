@@ -291,6 +291,7 @@
 
 ## Go 
 
+- [glog](https://github.com/golang/glog) - Leveled execution logs for Go
 - [sponsors-api](https://github.com/tj/sponsors-api) - GitHub Sponsor avatar listings in your Readme.md
 - [vssh](https://github.com/yahoo/vssh) - Go Library to Execute Commands Over SSH at Scale
 - [sketch](https://github.com/euforic/sketch) - Golang Sketch 43+ file parser
@@ -762,7 +763,7 @@
 - [participle](https://github.com/alecthomas/participle) - A parser library for Go
 - [cli](https://github.com/home-assistant/cli) - :white_square_button: Home Assistant command line interface
 - [gi](https://github.com/goki/gi) - Native Go (golang) Graphical Interface system (2D and 3D), built on GoKi tree framework
-- [writefreely](https://github.com/writeas/writefreely) - A platform for writing communities.
+- [writefreely](https://github.com/writeas/writefreely) - Build a digital writing community.
 - [chain33](https://github.com/33cn/chain33) - 高度模块化, 遵循 KISS原则的区块链开发框架
 - [vuego](https://github.com/chanwit/vuego) - 
 - [logger](https://github.com/google/logger) - Cross platform Go logging library.
@@ -1377,7 +1378,7 @@
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [vuegg](https://github.com/vuegg/vuegg) - :hatching_chick: vue GUI generator
 - [dev-null-cli](https://github.com/sindresorhus/dev-null-cli) - Cross-platform `/dev/null`
-- [buster](https://github.com/dessant/buster) - Captcha solver extension for humans 🐶
+- [buster](https://github.com/dessant/buster) - Captcha solver extension for humans
 - [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript
 - [tink](https://github.com/npm/tink) - a dependency unwinder for javascript
 - [VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
@@ -1420,7 +1421,7 @@
 - [hast-util-to-html](https://github.com/syntax-tree/hast-util-to-html) - utility to serialize hast to HTML
 - [html-parse-stringify](https://github.com/HenrikJoreteg/html-parse-stringify) - Parses well-formed HTML (meaning all tags closed) into an AST and back. quickly.
 - [squeezer](https://github.com/SqueezerIO/squeezer) - Squeezer Framework - Build serverless dApps
-- [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+- [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 - [yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 - [vuepress-plugin-yuque](https://github.com/ulivz/vuepress-plugin-yuque) - Input: Yuque Repo, Output: VuePress Site!
@@ -1814,7 +1815,6 @@
 - [spider-for-netease-music](https://github.com/qiangzi7723/spider-for-netease-music) - 抓取网易云音乐上所有歌曲的评论数量，并整理数据打造一个前端展示页面
 - [blog](https://github.com/jawil/blog) - Too young, too simple. Sometimes, naive & stupid 🐌
 - [elasticsearch-js](https://github.com/elastic/elasticsearch-js) - Official Elasticsearch client library for Node.js
-- [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [notifme-sdk](https://github.com/notifme/notifme-sdk) - A Node.js library to send all kinds of transactional notifications.
 - [makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) - Create Anime Characters with MakeGirlsMoe
 - [machine-learning-with-js](https://github.com/abhisheksoni27/machine-learning-with-js) - Machine Learning with JavaScript. Fast and Simple. :rocket:
@@ -2640,7 +2640,7 @@
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [osx-iso](https://github.com/busterc/osx-iso) -  Create a bootable ISO of OS X / macOS, from the installation app file
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [archey-osx](https://github.com/obihann/archey-osx) - An archey script clone for OS X
 - [setup-simple-pptp-vpn](https://github.com/viljoviitanen/setup-simple-pptp-vpn) - Setup Simple PPTP VPN Server for Ubuntu and Debian
 
@@ -2846,7 +2846,7 @@
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private npm proxy registry
 - [snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
-- [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
+- [formik](https://github.com/formik/formik) - Build forms in React, without the tears 😭
 - [instagram-private-api](https://github.com/dilame/instagram-private-api) - NodeJS Instagram private API client. Written in TypeScript.
 - [formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
 - [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) - Tasks for Azure Pipelines
@@ -2975,6 +2975,7 @@
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
 - [vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
+- [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [react-page](https://github.com/react-page/react-page) - Next-gen, highly customizable content editor for the browser - based on React and Redux and written in TypeScript. WYSIWYG on steroids.
@@ -2984,7 +2985,7 @@
 - [ioredis](https://github.com/luin/ioredis) - 🚀 A robust, performance-focused and full-featured Redis client for Node.js.
 - [menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
 - [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
-- [vscode-background](https://github.com/shalldie/vscode-background) - A vscode extension to make it lovely.
+- [vscode-background](https://github.com/shalldie/vscode-background) - A vscode extension to make it lovely. vscode background 背景扩展。
 - [caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
@@ -3047,7 +3048,7 @@
 - [ColorUI](https://github.com/weilanwl/ColorUI) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
 - [logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 - [vue-json-tree-view](https://github.com/michaelfitzhavey/vue-json-tree-view) - A JSON Tree View Component for Vue.js
-- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue. 🐜
+- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
 - [ui](https://github.com/vuejs/ui) - 💻 UI components for official Vue organization apps
