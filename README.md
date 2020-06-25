@@ -401,7 +401,7 @@
 - [crossplane](https://github.com/crossplane/crossplane) - Manage any infrastructure your applications need directly from Kubernetes
 - [go-wechat](https://github.com/nilorg/go-wechat) - 💥weixin、wechat、微信公众平台 golang/go sdk
 - [go-spring](https://github.com/go-spring/go-spring) - 基于 IoC 的 Go 后端一站式开发框架 🚀
-- [bfe](https://github.com/baidu/bfe) - A modern layer 7 load balancer from baidu
+- [bfe](https://github.com/bfenetworks/bfe) - A modern layer 7 load balancer from baidu
 - [faasd](https://github.com/openfaas/faasd) - faasd - lightweight OSS serverless  🐳
 - [mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [leetcode](https://github.com/pengliheng/leetcode) - ✍
@@ -473,7 +473,7 @@
 - [webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka 0.8, and up.
 - [opencensus-go](https://github.com/census-instrumentation/opencensus-go) - A stats collection and distributed tracing framework
-- [okteto](https://github.com/okteto/okteto) - Local development experience for Kubernetes apps
+- [okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
 - [jsonc](https://github.com/muhammadmuzzammil1998/jsonc) - JSON with comments for Go!
 - [godoctor](https://github.com/godoctor/godoctor) - Go Doctor - The Golang Refactoring Engine
 - [github-actions-golang](https://github.com/mvdan/github-actions-golang) - GitHub Actions as CI for Go
@@ -2107,7 +2107,7 @@
 - [CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [Rules](https://github.com/lhie1/Rules) - Rules / 规则：Surge / Shadowrocket / Surfboard / Clash
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
 - [backendlore](https://github.com/fpereiro/backendlore) - How I write backends
 - [eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
@@ -2384,7 +2384,7 @@
 - [word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch) - 搜索所有中文NLP数据集，附常用英文NLP数据集
 - [newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
-- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，60 秒学会一个 Python 小例子
+- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 富有体系且实用的小例子、小案例。
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [albert](https://github.com/google-research/albert) - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
@@ -2604,6 +2604,7 @@
 
 ## Shell 
 
+- [kugimiya-rainbow-fart](https://github.com/zthxxx/kugimiya-rainbow-fart) - 傲娇钉宫，鞭写鞭骂 - 钉宫理惠 vscode-rainbow-fart 扩展语音包
 - [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [rebase](https://github.com/cirrus-actions/rebase) - GitHub Action to automatically rebase PRs
@@ -2628,7 +2629,7 @@
 - [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [branch-cleanup-action](https://github.com/jessfraz/branch-cleanup-action) - A GitHub action to automatically delete the branch after a pull request has been merged.
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore Now! No free support is provided. Open PR(s) to fix problems.
+- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore Now! No free support is provided. Please open PR(s) to fix problems.
 - [kubernetes-tutorial](https://github.com/KeKe-Li/kubernetes-tutorial) - Running Kubernetes cluster Locally tutorial
 - [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [debian-sysroot-image-creator](https://github.com/electron/debian-sysroot-image-creator) - Scripts to create debian sysroot image for building electron
@@ -2718,6 +2719,7 @@
 
 ## TypeScript 
 
+- [hooks](https://github.com/alibaba/hooks) - React Hooks Library
 - [bit](https://github.com/teambit/bit) - Build, distribute and collaborate on components.
 - [erxes](https://github.com/erxes/erxes) - Free and open fair-code licensed all-in-one growth marketing & management software
 - [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native) - ⚛️📺 Projects from the “Can it be done in React Native?” YouTube series
@@ -2985,7 +2987,7 @@
 - [ioredis](https://github.com/luin/ioredis) - 🚀 A robust, performance-focused and full-featured Redis client for Node.js.
 - [menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
 - [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
-- [vscode-background](https://github.com/shalldie/vscode-background) - A vscode extension to make it lovely. vscode background 背景扩展。
+- [vscode-background](https://github.com/shalldie/vscode-background) - A vscode extension to make it lovely. vscode background 背景扩展插件。
 - [caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
