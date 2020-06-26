@@ -331,7 +331,7 @@
 - [actions](https://github.com/micro/actions) - GitHub actions for Micro services
 - [starter-kit](https://github.com/micro-in-cn/starter-kit) - Quick Go-Micro 快速开发包
 - [shgw-manage](https://github.com/kdcer/shgw-manage) - 上海购物APP管理端
-- [lute](https://github.com/88250/lute) - 🎼 A structured Markdown engine that supports Go and JavaScript. 一款对中文语境优化的 Markdown 引擎，支持 Go 和 JavaScript。
+- [lute](https://github.com/88250/lute) - 🎼 一款对中文语境优化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
 - [cilium](https://github.com/cilium/cilium) - API-aware Networking and Security using eBPF and XDP
 - [spin](https://github.com/egoist/spin) - A simple scaffolding tool.
 - [wechat](https://github.com/chanxuehong/wechat) - weixin/wechat/微信公众平台/微信企业号/微信商户平台/微信支付 go/golang sdk
@@ -2106,7 +2106,7 @@
 - [introRL](https://github.com/zhoubolei/introRL) - Intro to Reinforcement Learning (强化学习纲要）
 - [CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [Rules](https://github.com/lhie1/Rules) - Rules / 规则：Surge / Shadowrocket / Surfboard / Clash
+- [Rules](https://github.com/lhie1/Rules) - 
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
 - [backendlore](https://github.com/fpereiro/backendlore) - How I write backends
@@ -2629,7 +2629,7 @@
 - [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [branch-cleanup-action](https://github.com/jessfraz/branch-cleanup-action) - A GitHub action to automatically delete the branch after a pull request has been merged.
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore Now! No free support is provided. Please open PR(s) to fix problems.
+- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! No free support is provided. Please open PR(s) to fix problems.
 - [kubernetes-tutorial](https://github.com/KeKe-Li/kubernetes-tutorial) - Running Kubernetes cluster Locally tutorial
 - [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [debian-sysroot-image-creator](https://github.com/electron/debian-sysroot-image-creator) - Scripts to create debian sysroot image for building electron
