@@ -1439,7 +1439,7 @@
 - [koa-prerender](https://github.com/RisingStack/koa-prerender) - KOA middleware for prerendering javascript-rendered pages on the fly for SEO
 - [prerender](https://github.com/prerender/prerender) - Node server that uses Headless Chrome to render a javascript-rendered page as HTML. To be used in conjunction with prerender middleware.
 - [ghChat](https://github.com/aermin/ghChat) - :octocat: 📱A chat application for GitHub. React + PWA + Node(koa2) + Typescripts  + Mysql  + Socket.io
-- [snowpack](https://github.com/pikapkg/snowpack) - ☶ The Instant dev environment for modern JavaScript. A faster build system for the modern web.
+- [snowpack](https://github.com/pikapkg/snowpack) - The near-instant build tool for modern web apps.
 - [grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [formidable](https://github.com/node-formidable/formidable) - A node.js module for parsing form data, especially file uploads.
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
@@ -1586,7 +1586,7 @@
 - [gitignore-org](https://github.com/gitignore-org/gitignore-org) - A collection of useful .gitignore templates
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a  Puppeteer script.
 - [wx-promise-pro](https://github.com/youngjuning/wx-promise-pro) - ✨强大、优雅的微信小程序异步库🚀
-- [react-move](https://github.com/react-tools/react-move) - :black_medium_small_square:React Move | Beautiful, data-driven animations for React
+- [react-move](https://github.com/sghall/react-move) - :black_medium_small_square:React Move | Beautiful, data-driven animations for React
 - [dbkoda](https://github.com/SouthbankSoftware/dbkoda) - State of the art MongoDB IDE
 - [mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and express
 - [next.js](https://github.com/vercel/next.js) - The React Framework
@@ -1999,7 +1999,6 @@
 - [RL-Stock](https://github.com/wangshub/RL-Stock) - 📈 如何用深度强化学习自动炒股
 - [automl](https://github.com/google/automl) - Google Brain AutoML
 - [fastbook](https://github.com/fastai/fastbook) - Draft of the fastai book
-- [vectorbt](https://github.com/polakowo/vectorbt) - Python library for backtesting and analyzing trading strategies at scale
 - [FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection) - 开源人脸口罩检测模型和数据 Detect faces and determine whether people are wearing mask.
 - [mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
 - [Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0) - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为TensorFlow 2.0实现，项目已得到李沐老师的同意
@@ -2383,6 +2382,7 @@
 - [kindle](https://github.com/muzi502/kindle) - kindle 标注笔记
 - [word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch) - 搜索所有中文NLP数据集，附常用英文NLP数据集
+- [vectorbt](https://github.com/polakowo/vectorbt) - Python library for backtesting and analyzing trading strategies at scale
 - [newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
 - [python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 富有体系且实用的小例子、小案例。
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
