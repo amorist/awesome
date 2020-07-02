@@ -200,7 +200,7 @@
 - [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [isometric-contributions](https://github.com/jasonlong/isometric-contributions) - Browser extension for rendering an isometric pixel art version of your GitHub contribution graph.
 - [website](https://github.com/sharecuts/website) - A public repository of shortcuts for the Shortcuts app
-- [clock-shop](https://github.com/drawcall/clock-shop) - 🕙⏰🕰Clock Shop is a website that collects beautiful clock codes
+- [clock-shop](https://github.com/drawcall/clock-shop) - 🕙⏰🕰 Clock Shop is a website that collects beautiful clock codes
 - [iview-weapp](https://github.com/TalkingData/iview-weapp) - 一套高质量的微信小程序 UI 组件库
 - [nodejs-zh-CN](https://github.com/nodejs/nodejs-zh-CN) - node.js 中文化 & 中文社区
 - [hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🥛 A simple, clean, flexible Hugo theme
@@ -291,6 +291,7 @@
 
 ## Go 
 
+- [jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go) - Jaeger Bindings for Go OpenTracing API.
 - [seata-go-server](https://github.com/seata/seata-go-server) - Seata compatible high availability server
 - [go-imap](https://github.com/emersion/go-imap) - :inbox_tray: An IMAP library for clients and servers
 - [fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
@@ -929,7 +930,7 @@
 - [gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON
 - [annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
-- [chat](https://github.com/tinode/chat) - Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots
+- [chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go) - go port of shadowsocks (Deprecated)
 - [livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
@@ -1157,6 +1158,8 @@
 
 ## JavaScript 
 
+- [wechat-api](https://github.com/node-webot/wechat-api) - Wechat API / 主动调用 API
+- [youdidao-unmanned-shop](https://github.com/lay-zhou/youdidao-unmanned-shop) - youdidao-unmanned-shop
 - [Method-Draw](https://github.com/methodofaction/Method-Draw) - Method Draw, the SVG Editor for Method of Action
 - [shapez.io](https://github.com/tobspr/shapez.io) - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
 - [kugimiya-rainbow-fart](https://github.com/zthxxx/kugimiya-rainbow-fart) - 傲 娇 钉 宫，鞭 写 鞭 骂  -  钉宫理惠 vscode-rainbow-fart 扩展语音包
@@ -1220,7 +1223,6 @@
 - [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [wear-a-mask](https://github.com/zamhown/wear-a-mask) - 😷 An SPA that uses only the front-end to perform deep-learning-based facial landmark detection on images and automatically adds breathing mask stickers.
 - [report-toolkit](https://github.com/IBM/report-toolkit) - A toolkit for consumers of Node.js diagnostic Reports
-- [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
 - [city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [vue-cli-plugin-sd-luban](https://github.com/shuidi-fed/vue-cli-plugin-sd-luban) - 鲁班组件vue-cli插件
@@ -1354,7 +1356,7 @@
 - [babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [vConsole](https://github.com/Tencent/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
-- [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
+- [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 - [ihuyi106js](https://github.com/XadillaX/ihuyi106js) - iHuyi 106 SMS sender for node.js.
 - [consolidate.js](https://github.com/tj/consolidate.js) - Template engine consolidation library for node.js
 - [Darkmode.js](https://github.com/sandoche/Darkmode.js) - 🌓 Add a dark-mode / night-mode to your website in a few seconds
@@ -1645,7 +1647,7 @@
 - [babel-preset-minimal](https://github.com/egoist/babel-preset-minimal) - A babel preset that produces smallest possible code.
 - [open-pull-request](https://github.com/github-modules/open-pull-request) - All-in-one module for forking repos, changing their files, and opening pull requests on GitHub
 - [qrious](https://github.com/neocotic/qrious) - Pure JavaScript library for QR code generation using canvas
-- [taro](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/京东/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。  https://taro.jd.com/
+- [taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。  https://taro.jd.com/
 - [search-with-your-keyboard](https://github.com/electron/search-with-your-keyboard) - Add keyboard navigation to your existing client-side search interface.
 - [awesome-talks](https://github.com/SaraVieira/awesome-talks) - Awesome Talks Curated By the Community
 - [supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
@@ -2096,7 +2098,6 @@
 - [awesome-editorjs](https://github.com/editor-js/awesome-editorjs) - 🤩 A curated list of awesome Editor.js tools, libraries and resources.
 - [LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback) - 
 - [handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
-- [.github](https://github.com/amorist/.github) - Default community health files for all my repos.
 - [docs](https://github.com/gowechat/docs) - 【文档】微信开发SDK(Wechat SDK for Golang)
 - [Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
@@ -2634,7 +2635,7 @@
 - [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [branch-cleanup-action](https://github.com/jessfraz/branch-cleanup-action) - A GitHub action to automatically delete the branch after a pull request has been merged.
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. Commercial support is now available. With OpenCore + Big Sur support now!
+- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. Only commercial support is available. With OpenCore + Big Sur support now!
 - [kubernetes-tutorial](https://github.com/KeKe-Li/kubernetes-tutorial) - Running Kubernetes cluster Locally tutorial
 - [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [debian-sysroot-image-creator](https://github.com/electron/debian-sysroot-image-creator) - Scripts to create debian sysroot image for building electron
@@ -2724,6 +2725,8 @@
 
 ## TypeScript 
 
+- [react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
+- [pdf-lib](https://github.com/Hopding/pdf-lib) - Create and modify PDF documents in any JavaScript environment
 - [vditor](https://github.com/Vanessa219/vditor) - ♏ An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes. 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
@@ -2773,6 +2776,7 @@
 - [WebWindow](https://github.com/SteveSandersonMS/WebWindow) - .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental.
 - [react-visual-editor](https://github.com/brick-design/react-visual-editor) - 组件可视化拖拽，页面搭建，源码生成工具,自由拖拽嵌套，可实现任何真实开发中的复杂页面，所见即所得，可完美还原UI设计，多平台展示支持，项目于2020.2.22开源，喜欢的点颗星支持鼓励一下！visual drag and drop, free nesting, real-time preview of components, real-time tracking, WYSIWYG, perfect UI design restoration,  source code Generated
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
+- [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
 - [nodejs-recommender](https://github.com/googleapis/nodejs-recommender) - Recommender client for Node.js
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Rocket.Chat.GitHub.Action.Notification](https://github.com/RocketChat/Rocket.Chat.GitHub.Action.Notification) - Rocket.Chat Notification for GitHub Actions :bell: :rocket:
@@ -3021,6 +3025,8 @@
 
 ## Vue 
 
+- [vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - UI framework for vuestic-admin
+- [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
 - [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) - 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
 - [ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!
@@ -3028,7 +3034,7 @@
 - [DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
 - [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue.js Admin Template
 - [Workflow](https://github.com/StavinLi/Workflow) - 仿钉钉审批流程设置
-- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) - vue-admin-beautiful是一款基于element+vue的绝佳的前端开发框架（基于vue/cli 4 最新版，同时支持电脑，手机，平板）,长期更新维护,感谢您的star,我一直在努力 Vue admin beautiful is an excellent front-end development framework (supporting computers, mobile phones and tablets at the same time), long-term update and maintenance, thank you for your star, I have been working hard
+- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) - vue-admin-beautiful是一款基于element+vue的绝佳的中后台前端开发框架（基于vue/cli 4 最新版，同时支持电脑，手机，平板）,长期更新维护,感谢您的star,我一直在努力 Vue admin beautiful is an excellent front-end development framework (supporting computers, mobile phones and tablets at the same time), long-term update and maintenance, thank you for your star, I have been working hard
 - [animal-crossing-trading-system](https://github.com/kastnerorz/animal-crossing-trading-system) - 🥬 《集合啦！动物森友会》的大头菜交易市场。
 - [ACNLPatternTool](https://github.com/Thulinma/ACNLPatternTool) - Animal Crossing: New Leaf Pattern Tool
 - [PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit) - 一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。
