@@ -120,7 +120,7 @@
 - [mediapipe](https://github.com/google/mediapipe) - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
 - [react-native-macos](https://github.com/microsoft/react-native-macos) - A framework for building native macOS apps with React.
 - [cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src) - Leak of CS:GO Source code, provided by yours truly so go rep me
-- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
+- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , dbnet(1.7M) + crnn(6.3M) + anglenet(1.5M) 总模型仅10M
 - [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing
 - [yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 - [node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using N-API from C++
@@ -291,6 +291,10 @@
 
 ## Go 
 
+- [safehtml](https://github.com/google/safehtml) - Safe HTML for Go
+- [baseplate.go](https://github.com/reddit/baseplate.go) - Reddit's Service Framework in Go
+- [svg-embed-font](https://github.com/BTBurke/svg-embed-font) - A tool to embed font files in SVG so they will render properly across all devices
+- [perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go) - Jaeger Bindings for Go OpenTracing API.
 - [seata-go-server](https://github.com/seata/seata-go-server) - Seata compatible high availability server
 - [go-imap](https://github.com/emersion/go-imap) - :inbox_tray: An IMAP library for clients and servers
@@ -1030,6 +1034,9 @@
 
 ## HTML 
 
+- [svg-embed](https://github.com/antonmedv/svg-embed) - Embed SVG code into DOM. 600 Bytes (gzip)
+- [jquery-svg](https://github.com/mberneti/jquery-svg) - A jQuery plugin to apply css styles and js scripts to a SVG which is embedded (using the &lt;object&gt; tag).
+- [svg_rob_code](https://github.com/rbur004/svg_rob_code) - SVG embedded in an HTML page. Implementation of Rings of Bytes Code
 - [ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
 - [wechat-layout](https://github.com/netpi/wechat-layout) - 月薪 3W 的 Apple 微信编辑是这么发文章的 |如何发类似 Apple 微信公众号的文章效果
 - [json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
@@ -1158,6 +1165,16 @@
 
 ## JavaScript 
 
+- [lottie-api](https://github.com/bodymovin/lottie-api) - A library to edit lottie-web animations dynamically
+- [svg-parser](https://github.com/Rich-Harris/svg-parser) - 
+- [node-sketch](https://github.com/oscarotero/node-sketch) - 💎 Javascript library to manipulate sketch files
+- [vue-demi](https://github.com/antfu/vue-demi) - 🎩 Creates Universal Library for Vue 2 & 3
+- [changelog-reader-action](https://github.com/mindsers/changelog-reader-action) - A Github action to read and get data from the CHANGELOG.md file 🚀
+- [svgify](https://github.com/hughsk/svgify) - A browserify transform for requiring SVG files to embed directly in your code.
+- [animate_demo](https://github.com/Fzw-com/animate_demo) - 常用的动画效果。前端JS动画效果，包括封装js运动库，css3，html5，canvas，svg，移动端微信网页 主要的实例有通过原生js完成的各种运动效果，图片抖动，图片轮播，放大镜效果，图片拖拽，图片按需加载，手机滑屏效果，css3的3D效果，iPhone开机动画，苹果电脑鼠标移入放大效果， 画时钟，SVG3D模型等
+- [jeelizWeboji](https://github.com/jeeliz/jeelizWeboji) - JavaScript/WebGL real-time face tracking and expression detection library. Build your own emoticons animated in real time in the browser! SVG and THREE.js integration demos are provided.
+- [snapping-demo](https://github.com/shenhudong/snapping-demo) - a sketch-like snapping demo
+- [vue-svg-filler](https://github.com/biigpongsatorn/vue-svg-filler) - 🎨 Vue component for customize your svg file. (For Vue CLI 2)
 - [wechat-api](https://github.com/node-webot/wechat-api) - Wechat API / 主动调用 API
 - [youdidao-unmanned-shop](https://github.com/lay-zhou/youdidao-unmanned-shop) - youdidao-unmanned-shop
 - [Method-Draw](https://github.com/methodofaction/Method-Draw) - Method Draw, the SVG Editor for Method of Action
@@ -1457,6 +1474,7 @@
 - [koa-restql](https://github.com/Meituan-Dianping/koa-restql) - Build real RESTful APIs without writing one line of code.
 - [desktop-wallet](https://github.com/ArkEcosystem/desktop-wallet) - :computer: Multi Platform ARK Desktop Wallet
 - [instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
+- [react-insta-stories](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
 - [nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
 - [flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 - [import-http](https://github.com/egoist/import-http) - Import modules from URL instead of local node_modules
@@ -1535,7 +1553,7 @@
 - [openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps
 - [wxa-plugin-canvas](https://github.com/jasondu/wxa-plugin-canvas) - 小程序海报组件-生成朋友圈分享海报并生成图片
-- [enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts.
+- [enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
 - [now-builders](https://github.com/vercel/now-builders) - Official Now Builders created by the ZEIT team
 - [now-desktop](https://github.com/vercel/now-desktop) - An example of building a desktop application using the Now API
 - [stock-helper](https://github.com/Jackliu007888/stock-helper) - a chrome extension for Chinese stock
@@ -2657,6 +2675,7 @@
 
 ## Swift 
 
+- [messages-multiplatform-swiftui-sample](https://github.com/jordansinger/messages-multiplatform-swiftui-sample) - Multiplatform Messages app for macOS, iOS, iPadOS in SwiftUI
 - [swift-statsd-client](https://github.com/apple/swift-statsd-client) - metrics backend for swift-metrics that uses the statsd protocol
 - [Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [fluentui-apple](https://github.com/microsoft/fluentui-apple) - UIKit and AppKit controls for building native Microsoft experiences
@@ -2725,9 +2744,12 @@
 
 ## TypeScript 
 
+- [gatsby-theme-antv](https://github.com/antvis/gatsby-theme-antv) - ⚛️ Polished Gatsby theme for documentation site
+- [excalidraw-claymate](https://github.com/dai-shi/excalidraw-claymate) - A tool to create stop motion animations with Excalidraw
+- [gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [pdf-lib](https://github.com/Hopding/pdf-lib) - Create and modify PDF documents in any JavaScript environment
-- [vditor](https://github.com/Vanessa219/vditor) - ♏ An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes. 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。
+- [vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [hooks](https://github.com/alibaba/hooks) - React Hooks Library
@@ -2909,7 +2931,6 @@
 - [react-native-webview](https://github.com/react-native-community/react-native-webview) - React Native Cross-Platform WebView
 - [nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, Emotion, and Remark.
 - [vditor](https://github.com/b3log/vditor) - ♏ 一款浏览器端的 Markdown 编辑器。
-- [react-insta-stories](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
 - [typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [archaeologist](https://github.com/electron/archaeologist) - Digging up your artifacts since 2018
 - [typescript-definitions](https://github.com/electron/typescript-definitions) - Convert the Electron API JSON file to electron.d.ts
@@ -3025,6 +3046,7 @@
 
 ## Vue 
 
+- [uni-ui](https://github.com/dcloudio/uni-ui) - 基于uni-app的ui框架
 - [vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - UI framework for vuestic-admin
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
