@@ -290,6 +290,7 @@
 
 ## Go 
 
+- [go-interface-examples](https://github.com/Evertras/go-interface-examples) - 
 - [rod](https://github.com/go-rod/rod) - A Devtools driver to make web automation and scraping easy
 - [safehtml](https://github.com/google/safehtml) - Safe HTML for Go
 - [baseplate.go](https://github.com/reddit/baseplate.go) - Reddit's Service Framework in Go
@@ -384,7 +385,7 @@
 - [microservices](https://github.com/Allenxuxu/microservices) - micro 微服务实例教程，包含JWT鉴权、熔断、监控、链路追踪、健康检查、跨域等
 - [go-advice](https://github.com/cristaloleg/go-advice) - List of advice and tricks for Go  ʕ◔ϖ◔ʔ
 - [besticon](https://github.com/mat/besticon) - Favicon service written in Go
-- [asynq](https://github.com/hibiken/asynq) - Asynq: simple, reliable, and efficient distributed task queues for Go
+- [asynq](https://github.com/hibiken/asynq) - Asynq: simple, reliable, and efficient distributed task queue in Go
 - [gommon](https://github.com/labstack/gommon) - Common packages for Go
 - [cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [git-all-secrets](https://github.com/anshumanbh/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
@@ -430,7 +431,7 @@
 - [githubv4](https://github.com/shurcooL/githubv4) - Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://developer.github.com/v4/).
 - [triage](https://github.com/tj/triage) - Interactive command-line GitHub issue & notification triaging tool.
 - [building-web-applications-in-go](https://github.com/unknwon/building-web-applications-in-go) - Go 语言 Web 应用开发系列教程，从新手到双手残废
-- [weapp](https://github.com/medivhzhan/weapp) - Golang 微信小程序 SDK
+- [miniapp](https://github.com/medivhzhan/miniapp) - Golang 微信小程序 SDK
 - [firebolt](https://github.com/digitalocean/firebolt) - Golang framework for streaming ETL, observability data pipeline, and event processing apps
 - [transfer](https://github.com/rinetd/transfer) - Converts from one encoding to another. Supported formats HCL ⇄ JSON ⇄ YAML⇄TOML⇄XML⇄plist⇄pickle⇄properties ...
 - [goweight](https://github.com/jondot/goweight) - A tool to analyze and troubleshoot a Go binary size.
@@ -846,7 +847,7 @@
 - [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [vertigo](https://github.com/toldjuuso/vertigo) - Blog engine in Go (golang)
 - [strict-request](https://github.com/kozmos/strict-request) - Send strict HTTP Requests with Go
-- [micro](https://github.com/micro/micro) - Micro is a distributed systems runtime environment
+- [micro](https://github.com/micro/micro) - Micro is a distributed systems runtime for the Cloud
 - [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
@@ -1034,6 +1035,8 @@
 
 ## HTML 
 
+- [weChatSvg](https://github.com/shenailing/weChatSvg) - 微信文章推广使用的一些SVG动画
+- [svg-for-wechat-articles](https://github.com/shrekuu/svg-for-wechat-articles) - 微信图文 SVG 交互与动画
 - [svg-embed](https://github.com/antonmedv/svg-embed) - Embed SVG code into DOM. 600 Bytes (gzip)
 - [jquery-svg](https://github.com/mberneti/jquery-svg) - A jQuery plugin to apply css styles and js scripts to a SVG which is embedded (using the &lt;object&gt; tag).
 - [svg_rob_code](https://github.com/rbur004/svg_rob_code) - SVG embedded in an HTML page. Implementation of Rings of Bytes Code
@@ -1165,6 +1168,8 @@
 
 ## JavaScript 
 
+- [gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
+- [iscroll](https://github.com/cubiq/iscroll) - Smooth scrolling for the web
 - [elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
 - [lottie-api](https://github.com/bodymovin/lottie-api) - A library to edit lottie-web animations dynamically
 - [svg-parser](https://github.com/Rich-Harris/svg-parser) - 
@@ -1317,7 +1322,7 @@
 - [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [data-directory](https://github.com/docs/data-directory) - 🌳 A Node.js module to recursively load a directory of YAML, JSON, and Markdown files into a JavaScript object.
 - [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
-- [gridsome](https://github.com/gridsome/gridsome) - ⚡️ A Jamstack framework for Vue.js
+- [gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
 - [generative-artistry](https://github.com/tholman/generative-artistry) - A website for self coding generative art tutorials.
 - [sticker-surge](https://github.com/DarylPinto/sticker-surge) - Custom stickers and sticker packs for Discord servers!
 - [cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
@@ -2116,7 +2121,9 @@
 
 ## Others 
 
-- [how-to-get-rich-without-getting-lucky](https://github.com/taosue/how-to-get-rich-without-getting-lucky) - 
+- [package-maintenance](https://github.com/nodejs/package-maintenance) - Repository for work for discussion of helping with maintenance of key packages in the ecosystem.
+- [universal-adapter](https://github.com/node-casbin/universal-adapter) - A universal adapter supports pg, sqlite3, mysql, mysql2, oracledb and mssql
+- [how-to-get-rich-without-getting-lucky](https://github.com/fat-garage/how-to-get-rich-without-getting-lucky) - 
 - [awesome-editorjs](https://github.com/editor-js/awesome-editorjs) - 🤩 A curated list of awesome Editor.js tools, libraries and resources.
 - [LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback) - 
 - [handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
@@ -2749,6 +2756,7 @@
 
 ## TypeScript 
 
+- [rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire:
 - [taro-ui](https://github.com/NervJS/taro-ui) - 一款基于 Taro 框架开发的多端 UI 组件库
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for forms validation (Web + React Native)
 - [super-productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
@@ -3064,7 +3072,7 @@
 - [DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
 - [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue.js Admin Template
 - [Workflow](https://github.com/StavinLi/Workflow) - 仿钉钉审批流程设置
-- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) - vue-admin-beautiful是一款基于element+vue的绝佳的中后台前端开发框架（基于vue/cli 4 最新版，同时支持电脑，手机，平板）,长期更新维护,感谢您的star,我一直在努力 Vue admin beautiful is an excellent front-end development framework (supporting computers, mobile phones and tablets at the same time), long-term update and maintenance, thank you for your star, I have been working hard
+- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) - 🚀vue-admin-beautiful是一款基于element+vue的绝佳的中后台前端开发框架（基于vue/cli 4 最新版，同时支持电脑，手机，平板）,长期更新维护,感谢您的star,我一直在努力 Vue admin beautiful is an excellent front-end development framework (supporting computers, mobile phones and tablets at the same time), long-term update and maintenance, thank you for your star, I have been working hard http://beautiful.panm.cn/
 - [animal-crossing-trading-system](https://github.com/kastnerorz/animal-crossing-trading-system) - 🥬 《集合啦！动物森友会》的大头菜交易市场。
 - [ACNLPatternTool](https://github.com/Thulinma/ACNLPatternTool) - Animal Crossing: New Leaf Pattern Tool
 - [PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit) - 一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。
