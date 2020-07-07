@@ -116,6 +116,8 @@
 
 ## C++ 
 
+- [mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component  developed by WeChat.
+- [NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
 - [lac](https://github.com/baidu/lac) - 百度NLP：分词，词性标注，命名实体识别
 - [mediapipe](https://github.com/google/mediapipe) - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
 - [react-native-macos](https://github.com/microsoft/react-native-macos) - A framework for building native macOS apps with React.
@@ -267,6 +269,7 @@
 
 ## Dockerfile 
 
+- [kubernetes-learning](https://github.com/cnych/kubernetes-learning) - 《从Docker到Kubernetes进阶课程》在线文档
 - [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
 - [build-images](https://github.com/electron/build-images) - Base docker image used to build Electron on CI
 - [puppeteer](https://github.com/ianwalter/puppeteer) - A GitHub Action / Docker image for   Puppeteer, the Headless Chrome Node API
@@ -290,6 +293,10 @@
 
 ## Go 
 
+- [miniflux](https://github.com/miniflux/miniflux) - Minimalist and opinionated feed reader
+- [go-restful](https://github.com/emicklei/go-restful) - package for building REST-style Web Services using Go
+- [pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
+- [httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working HTTP and HTTPS servers
 - [go-interface-examples](https://github.com/Evertras/go-interface-examples) - 
 - [rod](https://github.com/go-rod/rod) - A Devtools driver to make web automation and scraping easy
 - [safehtml](https://github.com/google/safehtml) - Safe HTML for Go
@@ -1120,6 +1127,7 @@
 
 ## Java 
 
+- [gfw.press](https://github.com/chinashiyu/gfw.press) - GFW.Press新一代军用级高强度加密抗干扰网络数据高速传输软件
 - [seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 - [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
 - [cwa-server](https://github.com/corona-warn-app/cwa-server) - Backend implementation for the Apple/Google exposure notification API.
@@ -1168,6 +1176,10 @@
 
 ## JavaScript 
 
+- [react-popper](https://github.com/popperjs/react-popper) - 🍿⚛Official React library to use Popper, the positioning library
+- [jexcel](https://github.com/paulhodel/jexcel) - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
+- [json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
+- [electron-typescript-react](https://github.com/diego3g/electron-typescript-react) - :electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.
 - [react-device-detect](https://github.com/duskload/react-device-detect) - Detect device, and render view according to detected device type.
 - [gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [iscroll](https://github.com/cubiq/iscroll) - Smooth scrolling for the web
@@ -2122,6 +2134,8 @@
 
 ## Others 
 
+- [ShadowsocksBio](https://github.com/JadaGates/ShadowsocksBio) - 记录一下SS的前世今生，以及一个简单的教程总结
+- [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
 - [package-maintenance](https://github.com/nodejs/package-maintenance) - Repository for work for discussion of helping with maintenance of key packages in the ecosystem.
 - [how-to-get-rich-without-getting-lucky](https://github.com/fat-garage/how-to-get-rich-without-getting-lucky) - 
 - [awesome-editorjs](https://github.com/editor-js/awesome-editorjs) - 🤩 A curated list of awesome Editor.js tools, libraries and resources.
@@ -2246,7 +2260,7 @@
 - [language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [awesome-cto-resources](https://github.com/mateusz-brainhub/awesome-cto-resources) - :bulb: A community-curated list of awesome resources to help you grow as a CTO
 - [wuwen.org](https://github.com/unknwon/wuwen.org) - 我的中文博客。
-- [amorist](https://github.com/amorist/amorist) - amorist.io
+- [amorist-website](https://github.com/amorist/amorist-website) - amorist.io
 - [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [evangelism](https://github.com/nodejs/evangelism) - Letting the world know how awesome Node.js is and how to get involved!
@@ -2756,9 +2770,12 @@
 
 ## TypeScript 
 
+- [gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
+- [lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas
+- [tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Particles.js on steroids
 - [gatsby-starter-theme-antv](https://github.com/antvis/gatsby-starter-theme-antv) - ⚛️  Gatsby's starter of 👉
 - [universal-adapter](https://github.com/node-casbin/universal-adapter) - A universal adapter supports pg, sqlite3, mysql, mysql2, oracledb and mssql
-- [rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire:
+- [rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire: (under development)
 - [taro-ui](https://github.com/NervJS/taro-ui) - 一款基于 Taro 框架开发的多端 UI 组件库
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for forms validation (Web + React Native)
 - [super-productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
