@@ -76,7 +76,7 @@
 - [smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。
 - [bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [redis](https://github.com/redis-io/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+- [redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 - [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 - [shairplay](https://github.com/juhovh/shairplay) - Apple airplay and raop protocol server
 - [mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
@@ -293,6 +293,7 @@
 
 ## Go 
 
+- [gitqlite](https://github.com/augmentable-dev/gitqlite) - Query git repositories with SQL. Uses SQLite virtual tables and go-git
 - [miniflux](https://github.com/miniflux/miniflux) - Minimalist and opinionated feed reader
 - [go-restful](https://github.com/emicklei/go-restful) - package for building REST-style Web Services using Go
 - [pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
@@ -327,7 +328,7 @@
 - [appengine](https://github.com/golang/appengine) - Go App Engine packages
 - [dragon-iss-docking-autopilot](https://github.com/mbertschler/dragon-iss-docking-autopilot) - Autopilot in Go for docking the SpaceX Dragon capsule in the simulator
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
-- [goplus](https://github.com/qiniu/goplus) - GoPlus - The Go+ language for data science
+- [gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for data science
 - [jupiter](https://github.com/douyu/jupiter) - Jupiter是douyu开源的面向服务治理的Golang微服务框架
 - [alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
 - [opentracing-go](https://github.com/opentracing/opentracing-go) - OpenTracing API for Go
@@ -348,7 +349,7 @@
 - [starter-kit](https://github.com/micro-in-cn/starter-kit) - Quick Go-Micro 快速开发包
 - [shgw-manage](https://github.com/kdcer/shgw-manage) - 上海购物APP管理端
 - [lute](https://github.com/88250/lute) - 🎼 一款对中文语境优化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
-- [cilium](https://github.com/cilium/cilium) - API-aware Networking and Security using eBPF and XDP
+- [cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [spin](https://github.com/egoist/spin) - A simple scaffolding tool.
 - [wechat](https://github.com/chanxuehong/wechat) - weixin/wechat/微信公众平台/微信企业号/微信商户平台/微信支付 go/golang sdk
 - [gopay](https://github.com/guidao/gopay) - golang语言实现的支付模块，支持支付宝app，支付宝网页版，微信app,微信公众号支付
@@ -363,7 +364,6 @@
 - [go-admin](https://github.com/wenjianzhang/go-admin) - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建等）文档：http://doc.zhangwj.com/go-admin-site/    Demo： http://www.zhangwj.com/#/login
 - [trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
 - [go-lottery](https://github.com/goodcan/go-lottery) - Golang 实现各式各样的抽奖逻辑后台
-- [codenames](https://github.com/jbowens/codenames) - Play codenames online
 - [ion](https://github.com/pion/ion) - Distributed RTC System by pure Go and Flutter
 - [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System
 - [protoc-gen-micro](https://github.com/asim/protoc-gen-micro) - Protobuf code generation for Micro services
@@ -675,7 +675,7 @@
 - [go2-book](https://github.com/chai2010/go2-book) - :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
-- [cortex](https://github.com/cortexlabs/cortex) - API platform for machine learning engineers
+- [cortex](https://github.com/cortexlabs/cortex) - Build machine learning APIs
 - [tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
 - [gh-polls](https://github.com/apex/gh-polls) - Polls for user feedback in GitHub issues
@@ -1061,6 +1061,7 @@
 - [jia](https://github.com/jia-inc/jia) - 
 - [hiwifi-ss](https://github.com/qiwihui/hiwifi-ss) - 极路由+ss配置
 - [github-multilingual](https://github.com/zeke/github-multilingual) - A robot powered training repository :robot:
+- [ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
 - [iQuant](https://github.com/zhangchuheng123/iQuant) - 
 - [masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout plugin
 - [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
@@ -1077,7 +1078,7 @@
 - [Characters_of_the_Three_Kingdoms](https://github.com/myvin/Characters_of_the_Three_Kingdoms) - :three: 三国人物结构化数据 - Characters of the Three Kingdoms
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [hugo-coder-portfolio](https://github.com/naro143/hugo-coder-portfolio) - It is a theme to have you know yourself than developed based on "hugo-coder".
-- [awesome-list](https://github.com/apachecn/awesome-list) - awesome-list
+- [mit-18.06-linalg-notes](https://github.com/apachecn/mit-18.06-linalg-notes) - MIT 18.06 线性代数笔记
 - [MMDLoader-app](https://github.com/takahirox/MMDLoader-app) - sample applications for THREE.MMDLoader
 - [turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [blog](https://github.com/atian25/blog) - 天猪部落阁  http://atian25.github.io
@@ -1176,6 +1177,8 @@
 
 ## JavaScript 
 
+- [strapi-starter-nuxt-blog](https://github.com/strapi/strapi-starter-nuxt-blog) - Strapi Starter Nuxt Blog
+- [strapi-module](https://github.com/nuxt-community/strapi-module) - Strapi Module for NuxtJS
 - [react-popper](https://github.com/popperjs/react-popper) - 🍿⚛Official React library to use Popper, the positioning library
 - [jexcel](https://github.com/paulhodel/jexcel) - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
 - [json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
@@ -2059,7 +2062,6 @@
 - [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft
 - [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Notebooks, resources, and references accompanying the book Machine Learning for Algorithmic Trading
 - [regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box) - 定投改变命运 —— 让时间陪你慢慢变富 https://onregularinvesting.com
-- [ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)
 - [deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
@@ -2413,6 +2415,8 @@
 
 ## Python 
 
+- [MixPoet](https://github.com/THUNLP-AIPoet/MixPoet) - Source codes of MixPoet: Diverse Poetry Generation via Learning Controllable Mixed Latent Space (AAAI 2020)
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
 - [sound_separation](https://github.com/JustKowalski/sound_separation) - 
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [pifuhd](https://github.com/facebookresearch/pifuhd) - High-Resolution 3D Human Digitization from A Single Image.
@@ -2770,6 +2774,7 @@
 
 ## TypeScript 
 
+- [auth-module](https://github.com/nuxt-community/auth-module) - 🔑 Zero-boilerplate authentication support for Nuxt
 - [gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
 - [lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas
 - [tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Particles.js on steroids
@@ -2819,6 +2824,7 @@
 - [eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [kanban-musume-desktop](https://github.com/amorist/kanban-musume-desktop) - Kanban Musume Desktop
 - [setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
+- [codenames](https://github.com/jbowens/codenames) - Play codenames online
 - [frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [backstage](https://github.com/spotify/backstage) - Backstage is an open platform for building developer portals
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
