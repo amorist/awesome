@@ -293,6 +293,7 @@
 
 ## Go 
 
+- [odin](https://github.com/theycallmemac/odin) - A programmable, observable and distributed job orchestration system.
 - [gitqlite](https://github.com/augmentable-dev/gitqlite) - Query git repositories with SQL. Uses SQLite virtual tables and go-git
 - [miniflux](https://github.com/miniflux/miniflux) - Minimalist and opinionated feed reader
 - [go-restful](https://github.com/emicklei/go-restful) - package for building REST-style Web Services using Go
@@ -1177,6 +1178,7 @@
 
 ## JavaScript 
 
+- [tinymce-all-in-one](https://github.com/PanJiaChen/tinymce-all-in-one) - Build all tinymce plugins into one js
 - [strapi-starter-nuxt-blog](https://github.com/strapi/strapi-starter-nuxt-blog) - Strapi Starter Nuxt Blog
 - [strapi-module](https://github.com/nuxt-community/strapi-module) - Strapi Module for NuxtJS
 - [react-popper](https://github.com/popperjs/react-popper) - 🍿⚛Official React library to use Popper, the positioning library
@@ -2136,6 +2138,7 @@
 
 ## Others 
 
+- [digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [ShadowsocksBio](https://github.com/JadaGates/ShadowsocksBio) - 记录一下SS的前世今生，以及一个简单的教程总结
 - [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
 - [package-maintenance](https://github.com/nodejs/package-maintenance) - Repository for work for discussion of helping with maintenance of key packages in the ecosystem.
@@ -3087,6 +3090,8 @@
 
 ## Vue 
 
+- [mpvue-wxParse](https://github.com/F-loat/mpvue-wxParse) - 📰适用于 Mpvue 的微信小程序富文本解析自定义组件
+- [mina-wear-mask](https://github.com/infinityu/mina-wear-mask) - 头像加口罩小程序 - 基于uniapp使用vue快速实现
 - [uni-ui](https://github.com/dcloudio/uni-ui) - 基于uni-app的ui框架
 - [vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - UI framework for vuestic-admin
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
