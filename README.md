@@ -167,6 +167,8 @@
 
 ## CSS 
 
+- [typora-cobalt-theme](https://github.com/elitistsnob/typora-cobalt-theme) - A dark theme for Typora with enhanced UI
+- [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [gorm.io](https://github.com/go-gorm/gorm.io) - GORM official site
 - [pl-drag-template](https://github.com/livelyPeng/pl-drag-template) - 一个h5可视化编辑器项目
@@ -1178,6 +1180,7 @@
 
 ## JavaScript 
 
+- [k8s-in-action](https://github.com/wuYin/k8s-in-action) - 《Kubernetes in Action 中文版》
 - [tinymce-all-in-one](https://github.com/PanJiaChen/tinymce-all-in-one) - Build all tinymce plugins into one js
 - [strapi-starter-nuxt-blog](https://github.com/strapi/strapi-starter-nuxt-blog) - Strapi Starter Nuxt Blog
 - [strapi-module](https://github.com/nuxt-community/strapi-module) - Strapi Module for NuxtJS
@@ -1282,7 +1285,7 @@
 - [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [sentineljs](https://github.com/muicss/sentineljs) - Detect new DOM nodes using CSS selectors (650 bytes)
 - [nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
-- [concent](https://github.com/concentjs/concent) - ❤️  Build-in dependency collection, a predictable、zero-cost-use、progressive、high performance's react develop framework
+- [concent](https://github.com/concentjs/concent) - ❤️    Build-in dependency collection, a predictable、zero-cost-use、progressive、high performance's react develop framework
 - [ci-detect](https://github.com/npm/ci-detect) - Detect what kind of CI environment the program is in
 - [waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
 - [geoapi](https://github.com/Risk3sixty-Labs/geoapi) - Lightweight API service to get geolocation data from IP addresses.
@@ -1722,7 +1725,7 @@
 - [ink-text-animation](https://github.com/yardnsm/ink-text-animation) - A text animation component for Ink
 - [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development. Build your own design system, or start with Material Design.
 - [homebridge-mi-heatercooler](https://github.com/jayqizone/homebridge-mi-heatercooler) - Mi / Aqara AC partner plugin for Homebridge
-- [sindresorhus](https://github.com/sindresorhus/sindresorhus) - The Sindre Sorhus CLI
+- [sindresorhus-cli](https://github.com/sindresorhus/sindresorhus-cli) - The Sindre Sorhus CLI
 - [node-schedule](https://github.com/node-schedule/node-schedule) - A cron-like and not-cron-like job scheduler for Node.
 - [webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
@@ -1846,7 +1849,6 @@
 - [coinmon](https://github.com/bichenkk/coinmon) - 💰  The cryptocurrency price tool on CLI. 🖥
 - [microservice-app-example](https://github.com/elgris/microservice-app-example) - Example of polyglot microservice app
 - [luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
-- [electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [weweChat](https://github.com/trazyn/weweChat) - 💬 Unofficial WeChat client built with React, MobX and Electron.
 - [wade](https://github.com/kbrsh/wade) - :ocean: Blazing fast 1kb search library
 - [chimee](https://github.com/Chimeejs/chimee) - a video player framework aims to bring wonderful experience on browser
@@ -2068,7 +2070,6 @@
 - [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)
 - [deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
 - [tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese) - tensorflow2中文教程，持续更新(当前版本:tensorflow2.0)，tag: tensorflow 2.0 tutorials
-- [recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [pytorch-handbook](https://github.com/zergtant/pytorch-handbook) - pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
 - [mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
@@ -2335,7 +2336,7 @@
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [Raspberry-Pi](https://github.com/wtsxDev/Raspberry-Pi) - Raspberry Pi A to Z List
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide) - React Native指南汇集了各类react-native学习资源、开源App和组件
-- [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [bots](https://github.com/hackerkid/bots) - :zap: Tools for building bots
 - [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
@@ -2418,6 +2419,7 @@
 
 ## Python 
 
+- [hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [MixPoet](https://github.com/THUNLP-AIPoet/MixPoet) - Source codes of MixPoet: Diverse Poetry Generation via Learning Controllable Mixed Latent Space (AAAI 2020)
 - [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
 - [sound_separation](https://github.com/JustKowalski/sound_separation) - 
@@ -2477,7 +2479,7 @@
 - [octodns](https://github.com/github/octodns) - Tools for managing DNS across multiple providers
 - [calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [public-speaking-with-meaning](https://github.com/xiaolai/public-speaking-with-meaning) - 《我也有话要说》—— 普通人的当众讲话技能
-- [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multifunction Discord bot
+- [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [wheels](https://github.com/home-assistant/wheels) - Build wheels for Home Assistant
 - [hub](https://github.com/pytorch/hub) - Submission to https://pytorch.org/hub/
 - [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -2502,6 +2504,7 @@
 - [Lihang](https://github.com/SmirkCao/Lihang) - Statistical learning methods, 统计学习方法(第2版)[李航]  [笔记, 代码, notebook, 参考文献, Errata, lihang]
 - [mailin](https://github.com/Flolagale/mailin) - Artisanal inbound emails for every web app
 - [ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video. 自动同步字幕与视频。
+- [recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
 - [deep-learning-roadmap](https://github.com/machinelearningmindset/deep-learning-roadmap) - :satellite: All You Need to Know About Deep Learning - A kick-starter
@@ -2641,8 +2644,8 @@
 - [quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [nushell](https://github.com/nushell/nushell) - A new type of shell
 - [rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
-- [actix-web](https://github.com/actix/actix-web) - Actix web is a small, pragmatic, and extremely fast rust web framework.
-- [actix](https://github.com/actix/actix) - Actor framework for Rust
+- [actix-web](https://github.com/actix/actix-web) - Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.
+- [actix](https://github.com/actix/actix) - Actor framework for Rust.
 - [learning-rust](https://github.com/yangwenmai/learning-rust) - Rust 学习之路 &gt; Rust Programming Tutorial, include articles, interview, example, problems.
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
@@ -2777,6 +2780,7 @@
 
 ## TypeScript 
 
+- [tinymce-vue](https://github.com/tinymce/tinymce-vue) - Official TinyMCE Vue component
 - [auth-module](https://github.com/nuxt-community/auth-module) - 🔑 Zero-boilerplate authentication support for Nuxt
 - [gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
 - [lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas
@@ -2800,7 +2804,7 @@
 - [bit](https://github.com/teambit/bit) - Build, distribute and collaborate on components.
 - [erxes](https://github.com/erxes/erxes) - Free and open fair-code licensed all-in-one growth marketing & management software
 - [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native) - ⚛️📺 Projects from the “Can it be done in React Native?” YouTube series
-- [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build custom ML tools
+- [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.
 - [twilio-video-app-react](https://github.com/twilio/twilio-video-app-react) - A collaboration application built with the twilio-video.js SDK and React.js
 - [rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
@@ -3017,6 +3021,7 @@
 - [GoogleTranslate](https://github.com/MoeFE/GoogleTranslate) - 🌐 Google 翻译 Mac 客户端
 - [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [datav](https://github.com/apm-ai/datav) - Datav is a  data visualization platform focused on  data analytics and observation,providing metrics/logs/traces visualization.
 - [docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [kactus](https://github.com/kactus-io/kactus) - :cactus: A true version control tool for designers
@@ -3053,6 +3058,7 @@
 - [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+- [electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
@@ -3144,7 +3150,6 @@
 - [raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [topsi-project-manager](https://github.com/Physiix/topsi-project-manager) - A Desktop Kanban board app.
 - [music](https://github.com/sunzongzheng/music) - electron跨平台音乐播放器；可搜网易云、QQ音乐、虾米音乐；支持QQ、微博、Github登录，云歌单; 支持一键导入音乐平台歌单
-- [koala](https://github.com/apm-ai/koala) - :koala:   is a next-generation APM backend for @open-telemetry focused on Metrics & Traces & Logs, it can be seamlessly integrated with DataV
 - [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [VBlog](https://github.com/GitHub-Laziji/VBlog) - 使用GitHub API 搭建一个可动态发布文章的博客
 - [vue2-manage](https://github.com/bailicangdu/vue2-manage) - 基于 vue + element-ui 的后台管理系统
