@@ -294,6 +294,7 @@
 ## Go 
 
 - [tunnel](https://github.com/kataras/tunnel) - Public URLs for exposing your local web server
+- [semgrep-go](https://github.com/dgryski/semgrep-go) - Go rules for semgrep
 - [letterbox](https://github.com/tj/letterbox) - Go program to batch-process letter-boxing of photographs.
 - [odin](https://github.com/theycallmemac/odin) - A programmable, observable and distributed job orchestration system.
 - [gitqlite](https://github.com/augmentable-dev/gitqlite) - Query git repositories with SQL. Uses SQLite virtual tables and go-git
@@ -2141,7 +2142,6 @@
 ## Others 
 
 - [OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
-- [semgrep-go](https://github.com/dgryski/semgrep-go) - Go rules for semgrep
 - [digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [ShadowsocksBio](https://github.com/JadaGates/ShadowsocksBio) - 记录一下SS的前世今生，以及一个简单的教程总结
 - [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
@@ -2671,6 +2671,7 @@
 
 ## Shell 
 
+- [link-snitch](https://github.com/victoriadrake/link-snitch) - :octocat: GitHub Action to scan your site for broken links so you can fix them 🔗
 - [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [rebase](https://github.com/cirrus-actions/rebase) - GitHub Action to automatically rebase PRs
