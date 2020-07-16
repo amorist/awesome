@@ -260,6 +260,7 @@
 
 ## Dart 
 
+- [awesomefluttertips](https://github.com/erluxman/awesomefluttertips) - ❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️
 - [bangumi-client](https://github.com/limichange/bangumi-client) - 基于Flutter的二次元追番客户端
 - [getwidget](https://github.com/ionicfirebaseapp/getwidget) - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
 - [day.dart](https://github.com/dayjs/day.dart) - ⏰ Day.js in dart. Day.dart is inspired by Day.js. Write with nearly the same API. Build on the top of the powerful DateTime class.
@@ -294,6 +295,7 @@
 
 ## Go 
 
+- [fate](https://github.com/godcong/fate) - fate 命运 起名 算命 宝宝起名 起名助手 宝宝取名
 - [jaeger-operator](https://github.com/jaegertracing/jaeger-operator) - Jaeger Operator for Kubernetes
 - [automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
 - [tunnel](https://github.com/kataras/tunnel) - Public URLs for exposing your local web server
@@ -1185,6 +1187,10 @@
 
 ## JavaScript 
 
+- [DPlayer](https://github.com/MoePlayer/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
+- [jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your github readmes
 - [juice](https://github.com/Automattic/juice) - Juice inlines CSS stylesheets into your HTML source.
 - [markdown-resume](https://github.com/mdnice/markdown-resume) - :necktie:支持 Markdown 和富文本的在线简历排版工具
 - [github-annual-report](https://github.com/guanpengchn/github-annual-report) - :gift:快！你的 2019 年 GitHub 报告还未领取！（推荐移动端观看）
@@ -2097,6 +2103,7 @@
 
 ## Kotlin 
 
+- [adb-event-mirror](https://github.com/JakeWharton/adb-event-mirror) - Mirror the touch/key/button events of one device onto one or more other devices in real-time
 - [react-native-amap3d](https://github.com/qiuxiang/react-native-amap3d) - react-native 高德地图组件，使用最新 3D SDK，支持 Android + iOS
 - [AwesomeQRCode](https://github.com/SumiMakito/AwesomeQRCode) - An awesome QR code generator for Android.
 - [iosched](https://github.com/google/iosched) - The Google I/O 2019 Android App
@@ -2292,6 +2299,7 @@
 - [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [resources](https://github.com/BestDingSheng/resources) - 知名互联网企业内推资料整理 持续更新ing 。 目前已经维护五个微信群接近3000人，欢迎你的加入！
 - [open-source-ideas](https://github.com/open-source-ideas/open-source-ideas) - 💡Ever had a cool idea for an Open Source project but didn't have the time to implement it yourself? Let someone else give it a try!
+- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [vue-patterns](https://github.com/learn-vuejs/vue-patterns) - Useful Vue patterns, techniques, tips and tricks and helpful curated links.
 - [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi Mobile Phone Kernel OpenSource
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
@@ -2542,7 +2550,6 @@
 - [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
 - [QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS) - QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币  数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案
 - [termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
-- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [hub](https://github.com/tensorflow/hub) - A library for transfer learning by reusing parts of TensorFlow models.
 - [coinai](https://github.com/techbanca/coinai) - Seed applications based on AI for digital currency quantitative analysis, medium-term forecast and asset allocation for the secondary market of the BANCA community
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -2637,7 +2644,7 @@
 - [gemoji](https://github.com/github/gemoji) - Emoji images and names.
 - [explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub
 - [plugin-directory](https://github.com/sketchplugins/plugin-directory) - Official Sketch Plugin directory
-- [forem](https://github.com/forem/forem) - “For empowering community”
+- [forem](https://github.com/forem/forem) - For empowering community
 - [remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料
 - [ghi](https://github.com/stephencelis/ghi) - GitHub Issues on the command line. Use your $EDITOR, not your browser.
 - [markup](https://github.com/github/markup) - Determines which markup library to use to render a content file (e.g. README) on GitHub
@@ -3059,7 +3066,7 @@
 - [Zoe](https://github.com/iawia002/Zoe) - 快捷上传文件到七牛云 for macOS
 - [vuepack](https://github.com/znck/vuepack) - Publish .vue files in NPM packages
 - [proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
-- [wechaty](https://github.com/wechaty/wechaty) - Conversational AI RPA SDK for Chatbot1
+- [wechaty](https://github.com/wechaty/wechaty) - Conversational AI RPA SDK for Chatbot Hackers
 - [tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
@@ -3076,7 +3083,7 @@
 - [caprover](https://github.com/caprover/caprover) - [previously CaptainDuckDuck] Automated Scalable PaaS Package (automated Docker+nginx) - Heroku on Steroids
 - [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
-- [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
 - [electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
@@ -3115,6 +3122,7 @@
 
 ## Vue 
 
+- [HYMall](https://github.com/coderwhy/HYMall) - A vue.js mall application.
 - [node-vue-moba](https://github.com/topfullstack/node-vue-moba) - Node.js (Express.js) + Vue.js (Element UI) 全栈开发王者荣耀手机端官网和管理后台
 - [mpvue-wxParse](https://github.com/F-loat/mpvue-wxParse) - 📰适用于 Mpvue 的微信小程序富文本解析自定义组件
 - [mina-wear-mask](https://github.com/infinityu/mina-wear-mask) - 头像加口罩小程序 - 基于uniapp使用vue快速实现
@@ -3145,7 +3153,7 @@
 - [gods-pen](https://github.com/ymm-tech/gods-pen) - 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink.
 - [saber-theme-template](https://github.com/saberland/saber-theme-template) - A template for creating Saber theme.
 - [GitDataV](https://github.com/HongqingCao/GitDataV) - 基于Vue框架构建的github数据可视化平台
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 62k+ developers. https://postwoman.io
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 65k+ developers. https://postwoman.io
 - [OverVue](https://github.com/open-source-labs/OverVue) - Prototyping Tool For Vue Devs 适用于Vue的原型工具
 - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
 - [vuepress-plugin-code-switcher](https://github.com/padarom/vuepress-plugin-code-switcher) - :arrows_clockwise: Component that adds synchronized multi-language code blocks to your Vuepress sites
