@@ -1187,6 +1187,8 @@
 
 ## JavaScript 
 
+- [butterfly](https://github.com/alibaba/butterfly) - 🦋Butterfly，A JavaScript Diagramming library which concentrate on flow layout field
+- [vue3-figma-plugin-starter](https://github.com/HcySunYang/vue3-figma-plugin-starter) - 
 - [node-react-ecommerce](https://github.com/basir/node-react-ecommerce) - Build ECommerce Website Like Amazon By React & Node & MongoDB
 - [DPlayer](https://github.com/MoePlayer/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
@@ -1391,7 +1393,6 @@
 - [vapper](https://github.com/shuidi-fed/vapper) - 🔥 A Vue-based server-side rendering framework
 - [leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 - [yup](https://github.com/jquense/yup) - Dead simple Object schema validation
-- [bank](https://github.com/pietrzakadrian/bank) - Full Stack Web Application using ReactJS (with Hooks) + Redux + Redux-Saga with NodeJS (Express+TypeORM), RESTful API, MySQL and Swagger Documentation
 - [virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
 - [leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
@@ -2066,7 +2067,6 @@
 ## Jupyter Notebook 
 
 - [python-training](https://github.com/jpmorganchase/python-training) - Python training for business analysts and traders
-- [yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 in PyTorch &gt; ONNX &gt; CoreML &gt; iOS
 - [RL-Stock](https://github.com/wangshub/RL-Stock) - 📈 如何用深度强化学习自动炒股
 - [automl](https://github.com/google/automl) - Google Brain AutoML
 - [fastbook](https://github.com/fastai/fastbook) - Draft of the fastai book
@@ -2158,6 +2158,8 @@
 
 ## Others 
 
+- [archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
+- [Machine-Learning-Notes](https://github.com/Sophia-11/Machine-Learning-Notes) - 周志华《机器学习》手推笔记
 - [OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [ShadowsocksBio](https://github.com/JadaGates/ShadowsocksBio) - 记录一下SS的前世今生，以及一个简单的教程总结
@@ -2215,6 +2217,7 @@
 - [ama](https://github.com/sindresorhus/ama) - Ask me anything!
 - [code-and-learn](https://github.com/openjs-foundation/code-and-learn) - Organizing the Code&Learn session for Node+JS Interactive
 - [chinese_docker](https://github.com/widuu/chinese_docker) - docker中文文档，docker Chinese Documation
+- [bank](https://github.com/pietrzakadrian/bank) - Full Stack Web Application similar to financial software that is used in professional banking institutions.
 - [free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
 - [Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes) - 周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
@@ -2425,6 +2428,7 @@
 
 ## Perl 
 
+- [sherloq](https://github.com/GuidoBartoli/sherloq) - An open-source digital image forensic toolset
 - [git-it-electron](https://github.com/LizzHale/git-it-electron) - :computer: :mortar_board: A Git-it Desktop App
 
 ## PowerShell 
@@ -2446,10 +2450,11 @@
 - [WMSeg](https://github.com/SVAIGBA/WMSeg) - 
 - [hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [MixPoet](https://github.com/THUNLP-AIPoet/MixPoet) - Source codes of MixPoet: Diverse Poetry Generation via Learning Controllable Mixed Latent Space (AAAI 2020)
-- [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR) - OCR in 3 lines with 40+ languages supported including Chinese, Japanese, Korean and Thai
 - [sound_separation](https://github.com/JustKowalski/sound_separation) - 
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [pifuhd](https://github.com/facebookresearch/pifuhd) - High-Resolution 3D Human Digitization from A Single Image.
+- [yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 in PyTorch &gt; ONNX &gt; CoreML &gt; iOS
 - [genetic-drawing](https://github.com/anopara/genetic-drawing) - A genetic algorithm toy project for drawing
 - [jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation) - The Project is real time application in opencv using first order model
@@ -2646,7 +2651,7 @@
 - [gemoji](https://github.com/github/gemoji) - Emoji images and names.
 - [explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub
 - [plugin-directory](https://github.com/sketchplugins/plugin-directory) - Official Sketch Plugin directory
-- [forem](https://github.com/forem/forem) - For empowering community
+- [forem](https://github.com/forem/forem) - For empowering community 🌱
 - [remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料
 - [ghi](https://github.com/stephencelis/ghi) - GitHub Issues on the command line. Use your $EDITOR, not your browser.
 - [markup](https://github.com/github/markup) - Determines which markup library to use to render a content file (e.g. README) on GitHub
@@ -2806,6 +2811,8 @@
 
 ## TypeScript 
 
+- [vue-composition-toolkit](https://github.com/HcySunYang/vue-composition-toolkit) - 🔫 Vue3 Composition-API toolkit
+- [maho](https://github.com/egoist/maho) - Experimental framework for building server-rendered or static websites, powered by React and esbuild, hella fast.
 - [webiny-js](https://github.com/webiny/webiny-js) - Platform for building serverless applications and APIs (Node.js, React, GraphQL)
 - [react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [financial](https://github.com/lmammino/financial) - A Zero-dependency TypeScript/JavaScript financial library (based on numpy-financial) for Node.js, Deno and the browser
@@ -2815,7 +2822,7 @@
 - [lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas
 - [tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Particles.js on steroids
 - [gatsby-starter-theme-antv](https://github.com/antvis/gatsby-starter-theme-antv) - ⚛️  Gatsby's starter of 👉
-- [basic-adapter](https://github.com/node-casbin/basic-adapter) - A universal adapter supports pg, sqlite3, mysql, mysql2, oracledb and mssql
+- [basic-adapter](https://github.com/node-casbin/basic-adapter) - A basic adapter supports pg, sqlite3, mysql, mysql2, oracledb and mssql.
 - [rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire: (under development)
 - [taro-ui](https://github.com/NervJS/taro-ui) - 一款基于 Taro 框架开发的多端 UI 组件库
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for forms validation (Web + React Native)
@@ -3139,7 +3146,7 @@
 - [DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
 - [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue.js Admin Template
 - [Workflow](https://github.com/StavinLi/Workflow) - 仿钉钉审批流程设置
-- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) - 🚀vue-admin-beautiful是一款基于vue+element-ui的绝佳的中后台前端开发管理框架（基于vue/cli 4 最新版，同时支持电脑，手机，平板）,长期更新维护,感谢您的star,我一直在努力 Vue admin beautiful is an excellent front-end development framework (supporting computers, mobile phones and tablets at the same time), long-term update and maintenance, thank you for your star, I have been working hard http://beautiful.panm.cn/
+- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) - 🚀vue-admin-beautiful是一款基于vue+element-ui的绝佳的中后台前端开发管理框架（基于vue/cli 4 最新版，同时支持电脑，手机，平板）,他同时是拥有100+页面的大型vue前端单页应用,长期更新维护,感谢您的star,我一直在努力 Vue admin beautiful is an excellent front-end development framework (supporting computers, mobile phones and tablets at the same time), long-term update and maintenance, thank you for your star, I have been working hard http://beautiful.panm.cn/
 - [animal-crossing-trading-system](https://github.com/kastnerorz/animal-crossing-trading-system) - 🥬 《集合啦！动物森友会》的大头菜交易市场。
 - [ACNLPatternTool](https://github.com/Thulinma/ACNLPatternTool) - Animal Crossing: New Leaf Pattern Tool
 - [PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit) - 一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。
