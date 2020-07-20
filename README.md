@@ -2444,6 +2444,7 @@
 
 ## Python 
 
+- [capa](https://github.com/fireeye/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
 - [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [frontend-regression-validator](https://github.com/adobe/frontend-regression-validator) - Visual regression tool used to compare baseline and updated instances of a website in a deployment pipeline.
 - [WMSeg](https://github.com/SVAIGBA/WMSeg) - 
@@ -2810,6 +2811,7 @@
 
 ## TypeScript 
 
+- [react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [vue-composition-toolkit](https://github.com/HcySunYang/vue-composition-toolkit) - 🔫 Vue3 Composition-API toolkit
 - [maho](https://github.com/egoist/maho) - Experimental framework for building server-rendered or static websites, powered by React and esbuild, hella fast.
 - [webiny-js](https://github.com/webiny/webiny-js) - Platform for building serverless applications and APIs (Node.js, React, GraphQL)
