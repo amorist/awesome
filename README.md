@@ -295,6 +295,7 @@
 
 ## Go 
 
+- [esbuild-service](https://github.com/egoist/esbuild-service) - esbuild as a service. bundle any npm package on the fly as you request.
 - [fate](https://github.com/godcong/fate) - fate 命运 起名 算命 宝宝起名 起名助手 宝宝取名
 - [jaeger-operator](https://github.com/jaegertracing/jaeger-operator) - Jaeger Operator for Kubernetes
 - [automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
@@ -891,7 +892,7 @@
 - [pigo](https://github.com/esimov/pigo) - Pure Go face detection, pupil/eyes localization and facial landmark points detection library
 - [sessions](https://github.com/gin-contrib/sessions) - Gin middleware for session management
 - [mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-- [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
+- [wtf](https://github.com/wtfutil/wtf) - 💪 The personal information dashboard for your terminal.
 - [discovery](https://github.com/bilibili/discovery) - A registry for resilient mid-tier load balancing and failover.
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [v8worker2](https://github.com/ry/v8worker2) - Minimal golang binding to V8
@@ -1187,6 +1188,8 @@
 
 ## JavaScript 
 
+- [build-tools](https://github.com/electron/build-tools) - The GN scripts to use for Electron dev-flows
+- [render-content](https://github.com/docs/render-content) - ✏️ Markdown and Liquid rendering pipeline for Node.js
 - [butterfly](https://github.com/alibaba/butterfly) - 🦋Butterfly，A JavaScript Diagramming library which concentrate on flow layout field
 - [vue3-figma-plugin-starter](https://github.com/HcySunYang/vue3-figma-plugin-starter) - 
 - [node-react-ecommerce](https://github.com/basir/node-react-ecommerce) - Build ECommerce Website Like Amazon By React & Node & MongoDB
@@ -2444,6 +2447,7 @@
 
 ## Python 
 
+- [ml-mac-classify](https://github.com/imgcook/ml-mac-classify) - 体验机器学习：在Mac电脑上训练和部署一个图片分类模型
 - [capa](https://github.com/fireeye/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
 - [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [frontend-regression-validator](https://github.com/adobe/frontend-regression-validator) - Visual regression tool used to compare baseline and updated instances of a website in a deployment pipeline.
@@ -2811,6 +2815,7 @@
 
 ## TypeScript 
 
+- [liandi](https://github.com/88250/liandi) - 📕 一款桌面端的 Markdown 笔记应用，支持 Windows、Mac 和 Linux。A desktop Markdown note-taking application, supports Windows, Mac and Linux.
 - [react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [vue-composition-toolkit](https://github.com/HcySunYang/vue-composition-toolkit) - 🔫 Vue3 Composition-API toolkit
 - [maho](https://github.com/egoist/maho) - Experimental framework for building server-rendered or static websites, powered by React and esbuild, hella fast.
