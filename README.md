@@ -218,6 +218,7 @@
 - [instagram.css](https://github.com/picturepan2/instagram.css) - Instagram.css - Complete set of Instagram filters in pure CSS
 - [for-the-badge](https://github.com/BraveUX/for-the-badge) - Badges for badges' sake.
 - [phugo](https://github.com/aerohub/phugo) - Phugo [ˈfjuːgəʊ] is a gallery/photoblog theme for Hugo.
+- [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) - The next generation Javascript WYSIWYG HTML Editor.
 - [ghost-material](https://github.com/nauzethc/ghost-material) - Material Design theme for Ghost blogging platform
 - [hexo-theme-indigo](https://github.com/yscoder/hexo-theme-indigo) - 一个Material Design风格的Hexo主题。 https://imys.net/ 　　 备用:
 - [jstutorial](https://github.com/ruanyf/jstutorial) - Javascript tutorial book
@@ -295,6 +296,8 @@
 
 ## Go 
 
+- [edas](https://github.com/custer-go/edas) - 期望做一个基于go-micro + casbin + jwt 的用户认证和权限的微服务
+- [goddd](https://github.com/marcusolsson/goddd) - Exploring DDD in Go
 - [esbuild-service](https://github.com/egoist/esbuild-service) - esbuild as a service. bundle any npm package on the fly as you request.
 - [fate](https://github.com/godcong/fate) - fate 命运 起名 算命 宝宝起名 起名助手 宝宝取名
 - [jaeger-operator](https://github.com/jaegertracing/jaeger-operator) - Jaeger Operator for Kubernetes
@@ -1051,6 +1054,7 @@
 
 ## HTML 
 
+- [typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
 - [weChatSvg](https://github.com/shenailing/weChatSvg) - 微信文章推广使用的一些SVG动画
 - [svg-for-wechat-articles](https://github.com/shrekuu/svg-for-wechat-articles) - 微信图文 SVG 交互与动画
 - [svg-embed](https://github.com/antonmedv/svg-embed) - Embed SVG code into DOM. 600 Bytes (gzip)
@@ -1119,7 +1123,6 @@
 - [verbatimAnim](https://github.com/kelthuzadx/verbatimAnim) - 黑客帝国字符效果
 - [DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.
 - [cheatsheets](https://github.com/azat-co/cheatsheets) - JavaScript and Node.js cheatsheets
-- [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) - The next generation Javascript WYSIWYG HTML Editor.
 - [hugo-material-docs](https://github.com/digitalcraftsman/hugo-material-docs) - Port of Martin Donath's mkdocs-material theme to Hugo
 - [go-for-javascript-developers](https://github.com/pazams/go-for-javascript-developers) - A comparison between Go and Javascript
 - [swift-internals](https://github.com/apple/swift-internals) - 
@@ -1190,6 +1193,7 @@
 
 - [build-tools](https://github.com/electron/build-tools) - The GN scripts to use for Electron dev-flows
 - [render-content](https://github.com/docs/render-content) - ✏️ Markdown and Liquid rendering pipeline for Node.js
+- [react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [butterfly](https://github.com/alibaba/butterfly) - 🦋Butterfly，A JavaScript Diagramming library which concentrate on flow layout field
 - [vue3-figma-plugin-starter](https://github.com/HcySunYang/vue3-figma-plugin-starter) - 
 - [node-react-ecommerce](https://github.com/basir/node-react-ecommerce) - Build ECommerce Website Like Amazon By React & Node & MongoDB
@@ -2160,6 +2164,7 @@
 
 ## Others 
 
+- [blog](https://github.com/brickspert/blog) - 个人技术博客，博文写在 Issues 里。
 - [archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
 - [Machine-Learning-Notes](https://github.com/Sophia-11/Machine-Learning-Notes) - 周志华《机器学习》手推笔记
 - [OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
@@ -2593,7 +2598,7 @@
 - [algorithms](https://github.com/marcosfede/algorithms) - Solved algorithms and data structures problems in many languages
 - [huepy](https://github.com/s0md3v/huepy) - Print awesomely in terminals.
 - [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
-- [hosts](https://github.com/StevenBlack/hosts) - Consolidating and Extending hosts files from several well-curated sources. You can optionally pick extensions to block Porn, Social Media, and other categories..
+- [hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
 - [fooltrader](https://github.com/foolcage/fooltrader) - a modular quant framework
 - [python-spider](https://github.com/Jack-Cherish/python-spider) - :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等
 - [akbl](https://github.com/rsm-gh/akbl) - Control the lights of Alienware computers under GNU-Linux systems.
@@ -2815,8 +2820,8 @@
 
 ## TypeScript 
 
+- [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev environment for building scalable, high-quality user interfaces
 - [liandi](https://github.com/88250/liandi) - 📕 一款桌面端的 Markdown 笔记应用，支持 Windows、Mac 和 Linux。A desktop Markdown note-taking application, supports Windows, Mac and Linux.
-- [react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [vue-composition-toolkit](https://github.com/HcySunYang/vue-composition-toolkit) - 🔫 Vue3 Composition-API toolkit
 - [maho](https://github.com/egoist/maho) - Experimental framework for building server-rendered or static websites, powered by React and esbuild, hella fast.
 - [webiny-js](https://github.com/webiny/webiny-js) - Platform for building serverless applications and APIs (Node.js, React, GraphQL)
@@ -3063,7 +3068,7 @@
 - [GoogleTranslate](https://github.com/MoeFE/GoogleTranslate) - 🌐 Google 翻译 Mac 客户端
 - [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [datav](https://github.com/apm-ai/datav) - Datav is a data visualization platform, providing observation for metrics/logs/traces and big screen visualization for big data.
+- [datav](https://github.com/apm-ai/datav) - Datav is a data visualization platform, providing observation for metrics/logs/traces and big screen visualization
 - [docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [kactus](https://github.com/kactus-io/kactus) - :cactus: A true version control tool for designers
