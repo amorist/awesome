@@ -296,6 +296,10 @@
 
 ## Go 
 
+- [redux](https://github.com/dannypsnl/redux) - redux implementation in Go/Rust
+- [godux](https://github.com/luisvinicius167/godux) - State Management for Go Backend application inspired in Redux.
+- [number-verifier](https://github.com/upmasked/number-verifier) - Number Verifier is a SMS verification tool that makes it easy to get a disposable SMS number and bypass SMS number verifications on any site.
+- [cue](https://github.com/cuelang/cue) - Validate and define text-based and dynamic configuration
 - [edas](https://github.com/custer-go/edas) - 期望做一个基于go-micro + casbin + jwt 的用户认证和权限的微服务
 - [goddd](https://github.com/marcusolsson/goddd) - Exploring DDD in Go
 - [esbuild-service](https://github.com/egoist/esbuild-service) - esbuild as a service. bundle any npm package on the fly as you request.
@@ -306,7 +310,7 @@
 - [semgrep-go](https://github.com/dgryski/semgrep-go) - Go rules for semgrep
 - [letterbox](https://github.com/tj/letterbox) - Go program to batch-process letter-boxing of photographs.
 - [odin](https://github.com/theycallmemac/odin) - A programmable, observable and distributed job orchestration system.
-- [gitqlite](https://github.com/augmentable-dev/gitqlite) - Query git repositories with SQL. Uses SQLite virtual tables and go-git
+- [gitqlite](https://github.com/augmentable-dev/gitqlite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [miniflux](https://github.com/miniflux/miniflux) - Minimalist and opinionated feed reader
 - [go-restful](https://github.com/emicklei/go-restful) - package for building REST-style Web Services using Go
 - [pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
@@ -436,7 +440,6 @@
 - [leetcode](https://github.com/pengliheng/leetcode) - ✍
 - [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [staticgen](https://github.com/tj/staticgen) - Static website generator that lets you use HTTP servers and frameworks you already know
-- [XConf](https://github.com/micro-in-cn/XConf) - 分布式配置中心
 - [tour](https://github.com/golang/tour) - [mirror] A Tour of Go
 - [tour](https://github.com/Go-zh/tour) - Go 语言官方教程中文版
 - [drone-plugin-lib](https://github.com/drone-plugins/drone-plugin-lib) - Helpers for creating plugins for Drone in Go
@@ -1191,9 +1194,10 @@
 
 ## JavaScript 
 
+- [react-spring](https://github.com/react-spring/react-spring) - ✌️ A spring physics based React animation library
+- [hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🇨🇳🇨🇳🇨🇳  本项目包括：1、我写的三十万字图解算法题典  2、100 张编程类超清晰思维导图  3、100 篇大厂面经汇总  4、各语言编程电子书 100 本  5、小浩算法网站源代码 （  🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀）
 - [build-tools](https://github.com/electron/build-tools) - The GN scripts to use for Electron dev-flows
 - [render-content](https://github.com/docs/render-content) - ✏️ Markdown and Liquid rendering pipeline for Node.js
-- [react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [butterfly](https://github.com/alibaba/butterfly) - 🦋Butterfly，A JavaScript Diagramming library which concentrate on flow layout field
 - [vue3-figma-plugin-starter](https://github.com/HcySunYang/vue3-figma-plugin-starter) - 
 - [node-react-ecommerce](https://github.com/basir/node-react-ecommerce) - Build ECommerce Website Like Amazon By React & Node & MongoDB
@@ -1726,6 +1730,7 @@
 - [maid](https://github.com/egoist/maid) - Markdown driven task runner.
 - [router](https://github.com/reach/router) - 
 - [learntocrypto](https://github.com/sodium-friends/learntocrypto) - Learn to crypto workshop
+- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [vue-qrcode](https://github.com/fengyuanchen/vue-qrcode) - QR code component for Vue.js
 - [v-charts](https://github.com/ElemeFE/v-charts) - 基于 Vue2.0 和 ECharts 封装的图表组件📈📊
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -2164,6 +2169,7 @@
 
 ## Others 
 
+- [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
 - [blog](https://github.com/brickspert/blog) - 个人技术博客，博文写在 Issues 里。
 - [archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
 - [Machine-Learning-Notes](https://github.com/Sophia-11/Machine-Learning-Notes) - 周志华《机器学习》手推笔记
@@ -2704,6 +2710,7 @@
 
 ## Shell 
 
+- [github-action](https://github.com/crowdin/github-action) - A GitHub action to manage and synchronize localization resources with your Crowdin project
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [link-snitch](https://github.com/victoriadrake/link-snitch) - :octocat: GitHub Action to scan your site for broken links so you can fix them 🔗
 - [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
@@ -2820,8 +2827,10 @@
 
 ## TypeScript 
 
+- [now-builder](https://github.com/nuxt/now-builder) - Now Builder for Nuxt.js
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev environment for building scalable, high-quality user interfaces
 - [liandi](https://github.com/88250/liandi) - 📕 一款桌面端的 Markdown 笔记应用，支持 Windows、Mac 和 Linux。A desktop Markdown note-taking application, supports Windows, Mac and Linux.
+- [react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [vue-composition-toolkit](https://github.com/HcySunYang/vue-composition-toolkit) - 🔫 Vue3 Composition-API toolkit
 - [maho](https://github.com/egoist/maho) - Experimental framework for building server-rendered or static websites, powered by React and esbuild, hella fast.
 - [webiny-js](https://github.com/webiny/webiny-js) - Platform for building serverless applications and APIs (Node.js, React, GraphQL)
@@ -2844,7 +2853,6 @@
 - [gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [pdf-lib](https://github.com/Hopding/pdf-lib) - Create and modify PDF documents in any JavaScript environment
-- [vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [hooks](https://github.com/alibaba/hooks) - React Hooks Library
@@ -2909,6 +2917,7 @@
 - [wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
 - [deno_storage](https://github.com/axetroy/deno_storage) - implementation of localStorage and sessionStorage for Deno
+- [XConf](https://github.com/micro-in-cn/XConf) - 分布式配置中心
 - [electron-react-typescript](https://github.com/Robinfr/electron-react-typescript) - Electron boilerplate with React, Redux, and TypeScript
 - [checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [BoostNote.next](https://github.com/BoostIO/BoostNote.next) - An intuitive and stylish markdown note app for the developers.
@@ -3076,7 +3085,6 @@
 - [fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
-- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [botpress](https://github.com/botpress/botpress) - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
@@ -3144,6 +3152,7 @@
 
 ## Vue 
 
+- [docs-next](https://github.com/vuejs/docs-next) - Vue 3 core documentation
 - [TinyShop-UniApp](https://github.com/stavyan/TinyShop-UniApp) - 基于 RageFrame2 的一款免费开源的基础商城销售功能的开源微商城。
 - [HYMall](https://github.com/coderwhy/HYMall) - A vue.js mall application.
 - [node-vue-moba](https://github.com/topfullstack/node-vue-moba) - Node.js (Express.js) + Vue.js (Element UI) 全栈开发王者荣耀手机端官网和管理后台
@@ -3176,7 +3185,7 @@
 - [gods-pen](https://github.com/ymm-tech/gods-pen) - 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink.
 - [saber-theme-template](https://github.com/saberland/saber-theme-template) - A template for creating Saber theme.
 - [GitDataV](https://github.com/HongqingCao/GitDataV) - 基于Vue框架构建的github数据可视化平台
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 65k+ developers. https://postwoman.io
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 67k+ developers. https://postwoman.io
 - [OverVue](https://github.com/open-source-labs/OverVue) - Prototyping Tool For Vue Devs 适用于Vue的原型工具
 - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
 - [vuepress-plugin-code-switcher](https://github.com/padarom/vuepress-plugin-code-switcher) - :arrows_clockwise: Component that adds synchronized multi-language code blocks to your Vuepress sites
