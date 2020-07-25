@@ -363,8 +363,7 @@
 - [arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line interface
 - [certstore](https://github.com/github/certstore) - Go library for using system certificate stores on macOS/Windows
 - [barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
-- [actions](https://github.com/micro/actions) - GitHub actions for Micro services
-- [services](https://github.com/micro/services) - Services that power the Micro Platform
+- [services](https://github.com/m3o/services) - Services that power the Micro Platform
 - [starter-kit](https://github.com/micro-in-cn/starter-kit) - Quick Go-Micro 快速开发包
 - [lute](https://github.com/88250/lute) - 🎼 一款对中文语境优化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
 - [cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
@@ -1732,7 +1731,6 @@
 - [maid](https://github.com/egoist/maid) - Markdown driven task runner.
 - [router](https://github.com/reach/router) - 
 - [learntocrypto](https://github.com/sodium-friends/learntocrypto) - Learn to crypto workshop
-- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [vue-qrcode](https://github.com/fengyuanchen/vue-qrcode) - QR code component for Vue.js
 - [v-charts](https://github.com/ElemeFE/v-charts) - 基于 Vue2.0 和 ECharts 封装的图表组件📈📊
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -2255,7 +2253,6 @@
 - [gsy_flutter_book](https://github.com/CarGuo/gsy_flutter_book) - Flutter 完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
 - [swiftui](https://github.com/ygit/swiftui) - A collaborative list of awesome SwiftUI resources. Feel free to contribute!
 - [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
-- [development](https://github.com/micro/development) - Micro development guide, design docs and roadmap
 - [ui-libraries](https://github.com/jefflombard/ui-libraries) - A collection of UI Frameworks and their platform implementations.
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
@@ -2704,7 +2701,7 @@
 - [cargo_gn](https://github.com/denoland/cargo_gn) - Cargo GN integration
 - [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [swc](https://github.com/swc-project/swc) - Super-fast typescript / javascript compiler written in rust
+- [swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
@@ -3095,6 +3092,7 @@
 - [fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
+- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [botpress](https://github.com/botpress/botpress) - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
@@ -3111,7 +3109,7 @@
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
-- [intelligo](https://github.com/intelligo-systems/intelligo) - 🤖 Chatbot Framework for Node.js.
+- [intelligo](https://github.com/intelligo-io/intelligo) - 🤖 Chatbot Framework for Node.js.
 - [propel](https://github.com/propelml/propel) - Differential Programming in JavaScript.
 - [sentry-electron](https://github.com/getsentry/sentry-electron) - The official Sentry SDK for Electron
 - [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
