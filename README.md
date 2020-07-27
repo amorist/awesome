@@ -297,6 +297,8 @@
 
 ## Go 
 
+- [gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
+- [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [bee](https://github.com/beego/bee) - Bee is a tool for helping develop with beego app framework.
 - [redux](https://github.com/dannypsnl/redux) - redux implementation in Go/Rust
 - [godux](https://github.com/luisvinicius167/godux) - State Management for Go Backend application inspired in Redux.
@@ -2179,6 +2181,7 @@
 
 ## Others 
 
+- [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [awesome-ml-courses](https://github.com/luspr/awesome-ml-courses) - Awesome free machine learning and AI courses with video lectures.
 - [awesome-wechat](https://github.com/fritx/awesome-wechat) - 微信个人号/公众号相关项目整理 (wechat/weixin/wx)
 - [MasterWechatApp](https://github.com/MasterStudio/MasterWechatApp) - 『微信小程序』优秀教程、轮子、开源项目 资源汇总
@@ -2471,6 +2474,7 @@
 
 ## Python 
 
+- [GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart:让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。
 - [WechatSogou](https://github.com/chyroc/WechatSogou) - 基于搜狗微信搜索的微信公众号爬虫接口
 - [wxpy](https://github.com/youfou/wxpy) - 微信机器人 / 可能是最优雅的微信个人号 API ✨✨
 - [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
@@ -2845,6 +2849,8 @@
 
 ## TypeScript 
 
+- [model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR!
+- [perfect-arrows](https://github.com/steveruizok/perfect-arrows) - A minimal tool for drawing perfect arrows between points and shapes.
 - [vue-next-jsx](https://github.com/HcySunYang/vue-next-jsx) - A babel plugin that provides jsx syntax for vue3
 - [alloy-worker](https://github.com/AlloyTeam/alloy-worker) - 面向事务的高可用 Web Worker 通信框架
 - [graphql-api-starter](https://github.com/egoist/graphql-api-starter) - GraphQL API starter.
