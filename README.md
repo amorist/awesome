@@ -297,6 +297,7 @@
 
 ## Go 
 
+- [twtxt](https://github.com/prologic/twtxt) - 📕 twtxt is a Self-Hosted, Twitter™-like Decentralised microBlogging platform. No ads, no tracking, your content, your data!
 - [gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
 - [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [bee](https://github.com/beego/bee) - Bee is a tool for helping develop with beego app framework.
@@ -907,7 +908,7 @@
 - [go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.
 - [fastjson](https://github.com/valyala/fastjson) - Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection
 - [resize](https://github.com/nfnt/resize) - Pure golang image resizing
-- [jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Prow, Skaffold and Helm
+- [jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Lighthouse, Skaffold and Helm
 - [opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
 - [tania-core](https://github.com/Tanibox/tania-core) - Tania is a farm management software to help farmers manage their farm operations.
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
@@ -2570,7 +2571,7 @@
 - [docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
 - [Lihang](https://github.com/SmirkCao/Lihang) - Statistical learning methods, 统计学习方法(第2版)[李航]  [笔记, 代码, notebook, 参考文献, Errata, lihang]
 - [mailin](https://github.com/Flolagale/mailin) - Artisanal inbound emails for every web app
-- [ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video. 自动同步字幕与视频。
+- [ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
@@ -2930,7 +2931,7 @@
 - [WebWindow](https://github.com/SteveSandersonMS/WebWindow) - .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental.
 - [react-visual-editor](https://github.com/brick-design/react-visual-editor) - 组件可视化拖拽，页面搭建，源码生成工具,自由拖拽嵌套，可实现任何真实开发中的复杂页面，所见即所得，可完美还原UI设计，多平台展示支持，项目于2020.2.22开源，喜欢的点颗星支持鼓励一下！visual drag and drop, free nesting, real-time preview of components, real-time tracking, WYSIWYG, perfect UI design restoration,  source code Generated
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures
-- [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
+- [playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [nodejs-recommender](https://github.com/googleapis/nodejs-recommender) - Recommender client for Node.js
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Rocket.Chat.GitHub.Action.Notification](https://github.com/RocketChat/Rocket.Chat.GitHub.Action.Notification) - Rocket.Chat Notification for GitHub Actions :bell: :rocket:
