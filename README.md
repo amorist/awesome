@@ -46,6 +46,7 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SRecode Template](#srecode-template)
+  - [Scala](#scala)
   - [Shell](#shell)
   - [Standard ML](#standard-ml)
   - [Swift](#swift)
@@ -297,6 +298,8 @@
 
 ## Go 
 
+- [otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
+- [linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
 - [twtxt](https://github.com/prologic/twtxt) - 📕 twtxt is a Self-Hosted, Twitter™-like Decentralised microBlogging platform. No ads, no tracking, your content, your data!
 - [gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
 - [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
@@ -1324,7 +1327,7 @@
 - [git-topics-cli](https://github.com/bukinoshita/git-topics-cli) - Auto create Github topics for repositories
 - [express-jwt](https://github.com/auth0/express-jwt) - connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes
 - [resumd](https://github.com/timqian/resumd) - Write resume with markdown
-- [ajax-interceptor](https://github.com/YGYOOO/ajax-interceptor) - A chrome extension to modify response text of ajax requests | 修改ajax请求返回结果的chrome插件
+- [ajax-interceptor](https://github.com/YGYOOO/ajax-interceptor) - A chrome extension to modify the response of ajax requests. 修改ajax请求返回结果的chrome插件
 - [flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [sentineljs](https://github.com/muicss/sentineljs) - Detect new DOM nodes using CSS selectors (650 bytes)
@@ -2182,6 +2185,7 @@
 
 ## Others 
 
+- [dev](https://github.com/m3o/dev) - Micro development guide, design docs and roadmap
 - [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [awesome-ml-courses](https://github.com/luspr/awesome-ml-courses) - Awesome free machine learning and AI courses with video lectures.
 - [awesome-wechat](https://github.com/fritx/awesome-wechat) - 微信个人号/公众号相关项目整理 (wechat/weixin/wx)
@@ -2475,6 +2479,7 @@
 
 ## Python 
 
+- [movement-tracking](https://github.com/surya-veer/movement-tracking) - UP - DOWN - LEFT  - RIGHT movement tracking.
 - [GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart:让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。
 - [WechatSogou](https://github.com/chyroc/WechatSogou) - 基于搜狗微信搜索的微信公众号爬虫接口
 - [wxpy](https://github.com/youfou/wxpy) - 微信机器人 / 可能是最优雅的微信个人号 API ✨✨
@@ -2731,8 +2736,13 @@
 
 - [dgk_lost_conv](https://github.com/skdjfla/dgk_lost_conv) - dgk_lost_conv 中文对白语料 chinese conversation corpus
 
+## Scala 
+
+- [snowflake](https://github.com/twitter-archive/snowflake) - Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
+
 ## Shell 
 
+- [pull-request](https://github.com/repo-sync/pull-request) - ⤵️ A GitHub Action for creating pull requests
 - [github-action](https://github.com/crowdin/github-action) - A GitHub action to manage and synchronize localization resources with your Crowdin project
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [link-snitch](https://github.com/victoriadrake/link-snitch) - :octocat: GitHub Action to scan your site for broken links so you can fix them 🔗
@@ -2850,6 +2860,9 @@
 
 ## TypeScript 
 
+- [fullstack-graphql-airbnb-clone](https://github.com/benawad/fullstack-graphql-airbnb-clone) - A Fullstack GraphQL Airbnb Clone with React and React Native
+- [fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit) - GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
+- [react-native-instagram-clone](https://github.com/iamvucms/react-native-instagram-clone) - A React Native app - Clone Instagram mobile app (In progress)
 - [model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR!
 - [perfect-arrows](https://github.com/steveruizok/perfect-arrows) - A minimal tool for drawing perfect arrows between points and shapes.
 - [vue-next-jsx](https://github.com/HcySunYang/vue-next-jsx) - A babel plugin that provides jsx syntax for vue3
@@ -2887,7 +2900,7 @@
 - [hooks](https://github.com/alibaba/hooks) - React Hooks Library
 - [bit](https://github.com/teambit/bit) - Build, distribute and collaborate on components.
 - [erxes](https://github.com/erxes/erxes) - Free and open fair-code licensed all-in-one growth marketing & management software
-- [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native) - ⚛️📺 Projects from the “Can it be done in React Native?” YouTube series
+- [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native) - ⚛️ 📺 Projects from the “Can it be done in React Native?” YouTube series
 - [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.
 - [twilio-video-app-react](https://github.com/twilio/twilio-video-app-react) - A collaboration application built with the twilio-video.js SDK and React.js
@@ -3182,6 +3195,7 @@
 
 ## Vue 
 
+- [vue-dropzone](https://github.com/rowanwins/vue-dropzone) - A Vue.js component for Dropzone.js - a drag’n’drop file uploads utility with image previews
 - [docs-next](https://github.com/vuejs/docs-next) - Vue 3 core documentation
 - [TinyShop-UniApp](https://github.com/stavyan/TinyShop-UniApp) - 基于 RageFrame2 的一款免费开源的基础商城销售功能的开源微商城。
 - [HYMall](https://github.com/coderwhy/HYMall) - A vue.js mall application.
