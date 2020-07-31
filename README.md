@@ -125,7 +125,6 @@
 - [mediapipe](https://github.com/google/mediapipe) - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
 - [react-native-macos](https://github.com/microsoft/react-native-macos) - A framework for building native macOS apps with React.
 - [cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src) - Leak of CS:GO Source code, provided by yours truly so go rep me
-- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , dbnet(1.7M) + crnn(6.3M) + anglenet(1.5M) 总模型仅10M
 - [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing
 - [yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 - [node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using N-API from C++
@@ -299,6 +298,10 @@
 
 ## Go 
 
+- [douyin](https://github.com/amorist/douyin) - 抖音开放平台API
+- [wechat_spider](https://github.com/15921483570/wechat_spider) - 微信公众号爬虫  (只需设置代理, 一键可以爬取所有历史文章)
+- [ferry](https://github.com/lanyulei/ferry) - 
+- [groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [goflow](https://github.com/faasflow/goflow) - A Golang based high performance, scalable and distributed workflow framework
 - [micro-starter-kit](https://github.com/xmlking/micro-starter-kit) - Cloud Native GoLang Microservices - gRPC, GraphQL
 - [otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
@@ -367,7 +370,7 @@
 - [go-fault](https://github.com/github/go-fault) - Fault injection library in Go using standard http middleware
 - [go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
 - [ntp](https://github.com/facebookincubator/ntp) - Facebook's NTP libraries
-- [jsonparser](https://github.com/buger/jsonparser) - Alternative JSON parser for Go that does not require schema (so far fastest)
+- [jsonparser](https://github.com/buger/jsonparser) - One of the fastest alternative JSON parser for Go that does not require schema
 - [learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
 - [ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line interface
@@ -1020,7 +1023,7 @@
 - [nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [commento](https://github.com/adtac/commento) - A fast, bloat-free comments platform (Github mirror)
 - [tui-go](https://github.com/marcusolsson/tui-go) - A UI library for terminal applications.
-- [iris](https://github.com/kataras/iris) - 感谢中国开发者 - https://bit.ly/謝謝 | The fastest community-driven web framework for Go. Socket-Sharding, gRPC, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. | https://bit.ly/iriscandothat1 | https://bit.ly/iriscandothat3 |
+- [iris](https://github.com/kataras/iris) - The Go Web Framework
 - [matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go.
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [go-realtime-collaborative-drawing-app](https://github.com/tinrab/go-realtime-collaborative-drawing-app) - A simple real-time collaborative drawing app built with Go
@@ -1205,6 +1208,9 @@
 
 ## JavaScript 
 
+- [CRMEB](https://github.com/crmeb/CRMEB) - 开源微信公众号商城 小程序商城系统，带分销、拼团、秒杀、砍价、优惠券、积分等功能，前后端全部开源，更是一套方便二次开发的框架
+- [editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop) - Drag and Drop feature for Editor.js
+- [editorjs-html](https://github.com/pavittarx/editorjs-html) - A library to parse editorjs clean data to html.
 - [parser](https://github.com/csstools/parser) - CSS Parser
 - [node-core-utils](https://github.com/nodejs/node-core-utils) - CLI tools for Node.js Core collaborators
 - [md](https://github.com/doocs/md) - ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
@@ -1216,7 +1222,6 @@
 - [wx-charts](https://github.com/xiaolin3303/wx-charts) - 微信小程序图表charts组件，Charts for WeChat small app
 - [easy-monitor](https://github.com/hyj1991/easy-monitor) - 企业级 Node.js 应用性能监控与线上故障定位解决方案
 - [react-spring](https://github.com/react-spring/react-spring) - ✌️ A spring physics based React animation library
-- [hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🙈🙉🙊 本项目包括：1、我写的三十万字图解算法题典  2、100 张 IT 相关超清思维导图  3、100 篇大厂面经汇总  4、各语言编程电子书 100 本  5、English version supported !!!  🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀
 - [build-tools](https://github.com/electron/build-tools) - The GN scripts to use for Electron dev-flows
 - [render-content](https://github.com/docs/render-content) - ✏️ Markdown and Liquid rendering pipeline for Node.js
 - [butterfly](https://github.com/alibaba/butterfly) - 🦋Butterfly，A JavaScript Diagramming library which concentrate on flow layout field
@@ -1649,6 +1654,7 @@
 - [vuepress-blog-example-egoist](https://github.com/ulivz/vuepress-blog-example-egoist) - 
 - [Dusk](https://github.com/pacocoursey/Dusk) - simple, customizable macOS application icons
 - [Opus](https://github.com/pacocoursey/Opus) - minimal note-taking app
+- [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
 - [platelet](https://github.com/amorist/platelet) - けっしょうばん
 - [omi](https://github.com/Tencent/omi) - Front End Cross-Frameworks Framework - 前端跨框架跨平台框架
 - [hacknical](https://github.com/ecmadao/hacknical) - Hacknical, hacker & technical. A website for GitHub user to make a better resume.
@@ -2193,6 +2199,7 @@
 
 ## Others 
 
+- [rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
 - [web-server-frameworks](https://github.com/nodejs/web-server-frameworks) - A place for Node.js Web-Server Framework authors and users to collaborate
 - [roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [dev](https://github.com/m3o/dev) - Micro development guide, design docs and roadmap
@@ -2334,7 +2341,6 @@
 - [awesome-cto-resources](https://github.com/mateusz-brainhub/awesome-cto-resources) - :bulb: A community-curated list of awesome resources to help you grow as a CTO
 - [wuwen.org](https://github.com/unknwon/wuwen.org) - 我的中文博客。
 - [amorist-website](https://github.com/amorist/amorist-website) - amorist.io
-- [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [evangelism](https://github.com/nodejs/evangelism) - Letting the world know how awesome Node.js is and how to get involved!
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
@@ -2521,6 +2527,7 @@
 - [bird-bot](https://github.com/natewong1313/bird-bot) - A Nintendo Switch checkout bot. Currently supports Walmart and Best buy
 - [examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
 - [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom, Skype and other video-conferencing apps.
+- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , dbnet(1.7M) + crnn(6.3M) + anglenet(1.5M) 总模型仅10M
 - [kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [akshare](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 - [kindle](https://github.com/muzi502/kindle) - kindle 标注笔记
@@ -3036,7 +3043,7 @@
 - [playground](https://github.com/tensorflow/playground) - Play with neural networks!
 - [prisma](https://github.com/prisma/prisma) - Modern DB toolkit to query, migrate and model your database
 - [vue-class-component](https://github.com/vuejs/vue-class-component) - ES / TypeScript decorator for class-style Vue components.
-- [voice-web](https://github.com/mozilla/voice-web) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
+- [common-voice](https://github.com/mozilla/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private npm proxy registry
 - [snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
@@ -3207,8 +3214,10 @@
 
 ## Vue 
 
+- [wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
 - [vue-dropzone](https://github.com/rowanwins/vue-dropzone) - A Vue.js component for Dropzone.js - a drag’n’drop file uploads utility with image previews
 - [docs-next](https://github.com/vuejs/docs-next) - Vue 3 core documentation
+- [hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🙈🙉🙊 本项目包括：1、我写的三十万字图解算法题典  2、100 张 IT 相关超清思维导图  3、100 篇大厂面经汇总  4、各语言编程电子书 100 本  5、English version supported !!!  🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀
 - [TinyShop-UniApp](https://github.com/stavyan/TinyShop-UniApp) - 基于 RageFrame2 的一款免费开源的基础商城销售功能的开源微商城。
 - [HYMall](https://github.com/coderwhy/HYMall) - A vue.js mall application.
 - [node-vue-moba](https://github.com/topfullstack/node-vue-moba) - Node.js (Express.js) + Vue.js (Element UI) 全栈开发王者荣耀手机端官网和管理后台
@@ -3241,7 +3250,7 @@
 - [gods-pen](https://github.com/ymm-tech/gods-pen) - 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink.
 - [saber-theme-template](https://github.com/saberland/saber-theme-template) - A template for creating Saber theme.
 - [GitDataV](https://github.com/HongqingCao/GitDataV) - 基于Vue框架构建的github数据可视化平台
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 67k+ developers. https://postwoman.io
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 70k+ developers. https://postwoman.io
 - [OverVue](https://github.com/open-source-labs/OverVue) - Prototyping Tool For Vue Devs 适用于Vue的原型工具
 - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
 - [vuepress-plugin-code-switcher](https://github.com/padarom/vuepress-plugin-code-switcher) - :arrows_clockwise: Component that adds synchronized multi-language code blocks to your Vuepress sites
