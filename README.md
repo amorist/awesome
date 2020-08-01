@@ -298,6 +298,7 @@
 
 ## Go 
 
+- [crocodile](https://github.com/labulaka521/crocodile) - Distributed Task Scheduling System|分布式定时任务调度平台
 - [douyin](https://github.com/amorist/douyin) - 抖音开放平台API
 - [wechat_spider](https://github.com/15921483570/wechat_spider) - 微信公众号爬虫  (只需设置代理, 一键可以爬取所有历史文章)
 - [ferry](https://github.com/lanyulei/ferry) - 
@@ -1208,6 +1209,8 @@
 
 ## JavaScript 
 
+- [Otto](https://github.com/KartikChugh/Otto) - Otto makes machine learning an intuitive, natural language experience.🏆  Facebook AI Challenge winner ⭐️   #4 Trending JS Project ⭐️ #15 Trending Project (All Languages)
+- [macintosh.js](https://github.com/felixrieseberg/macintosh.js) - A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [CRMEB](https://github.com/crmeb/CRMEB) - 开源微信公众号商城 小程序商城系统，带分销、拼团、秒杀、砍价、优惠券、积分等功能，前后端全部开源，更是一套方便二次开发的框架
 - [editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop) - Drag and Drop feature for Editor.js
 - [editorjs-html](https://github.com/pavittarx/editorjs-html) - A library to parse editorjs clean data to html.
@@ -1224,6 +1227,7 @@
 - [react-spring](https://github.com/react-spring/react-spring) - ✌️ A spring physics based React animation library
 - [build-tools](https://github.com/electron/build-tools) - The GN scripts to use for Electron dev-flows
 - [render-content](https://github.com/docs/render-content) - ✏️ Markdown and Liquid rendering pipeline for Node.js
+- [react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [butterfly](https://github.com/alibaba/butterfly) - 🦋Butterfly，A JavaScript Diagramming library which concentrate on flow layout field
 - [vue3-figma-plugin-starter](https://github.com/HcySunYang/vue3-figma-plugin-starter) - 
 - [node-react-ecommerce](https://github.com/basir/node-react-ecommerce) - Build ECommerce Website Like Amazon By React & Node & MongoDB
@@ -2199,6 +2203,7 @@
 
 ## Others 
 
+- [awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
 - [web-server-frameworks](https://github.com/nodejs/web-server-frameworks) - A place for Node.js Web-Server Framework authors and users to collaborate
 - [roadmap](https://github.com/github/roadmap) - GitHub public roadmap
@@ -2650,7 +2655,7 @@
 - [huepy](https://github.com/s0md3v/huepy) - Print awesomely in terminals.
 - [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
 - [hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
-- [fooltrader](https://github.com/foolcage/fooltrader) - a modular quant framework
+- [fooltrader](https://github.com/foolcage/fooltrader) - quant framework for stock
 - [python-spider](https://github.com/Jack-Cherish/python-spider) - :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等
 - [akbl](https://github.com/rsm-gh/akbl) - Control the lights of Alienware computers under GNU-Linux systems.
 - [alienware15r3_ubuntu14](https://github.com/awesomebytes/alienware15r3_ubuntu14) - Instructions on how to install Ubuntu 14.04 on the Alienware 15 R3 (and installing cuda, tensorflow and disabling intel graphics card)
@@ -2877,6 +2882,7 @@
 
 ## TypeScript 
 
+- [3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
 - [nx](https://github.com/nrwl/nx) - Extensible Dev Tools for Monorepos
 - [fullstack-graphql-airbnb-clone](https://github.com/benawad/fullstack-graphql-airbnb-clone) - A Fullstack GraphQL Airbnb Clone with React and React Native
 - [fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit) - GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
@@ -2890,7 +2896,6 @@
 - [now-builder](https://github.com/nuxt/now-builder) - Now Builder for Nuxt.js
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev environment for building scalable, high-quality user interfaces
 - [liandi](https://github.com/88250/liandi) - 📕 一款桌面端的 Markdown 笔记应用，支持 Windows、Mac 和 Linux。A desktop Markdown note-taking application, supports Windows, Mac and Linux.
-- [react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [vue-composition-toolkit](https://github.com/HcySunYang/vue-composition-toolkit) - 🔫 Vue3 Composition-API toolkit
 - [maho](https://github.com/egoist/maho) - Experimental framework for building server-rendered or static websites, powered by React and esbuild, hella fast.
 - [webiny-js](https://github.com/webiny/webiny-js) - Platform for building serverless applications and APIs (Node.js, React, GraphQL)
@@ -3214,6 +3219,7 @@
 
 ## Vue 
 
+- [mavonEditor](https://github.com/hinesboy/mavonEditor) - mavonEditor - A markdown editor based on Vue that supports a variety of personalized features
 - [wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
 - [vue-dropzone](https://github.com/rowanwins/vue-dropzone) - A Vue.js component for Dropzone.js - a drag’n’drop file uploads utility with image previews
 - [docs-next](https://github.com/vuejs/docs-next) - Vue 3 core documentation
