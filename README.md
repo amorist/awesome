@@ -1024,7 +1024,7 @@
 - [nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [commento](https://github.com/adtac/commento) - A fast, bloat-free comments platform (Github mirror)
 - [tui-go](https://github.com/marcusolsson/tui-go) - A UI library for terminal applications.
-- [iris](https://github.com/kataras/iris) - The Go Web Framework
+- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework
 - [matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go.
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [go-realtime-collaborative-drawing-app](https://github.com/tinrab/go-realtime-collaborative-drawing-app) - A simple real-time collaborative drawing app built with Go
@@ -1213,7 +1213,7 @@
 - [macintosh.js](https://github.com/felixrieseberg/macintosh.js) - A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [CRMEB](https://github.com/crmeb/CRMEB) - 开源微信公众号商城 小程序商城系统，带分销、拼团、秒杀、砍价、优惠券、积分等功能，前后端全部开源，更是一套方便二次开发的框架
 - [editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop) - Drag and Drop feature for Editor.js
-- [editorjs-html](https://github.com/pavittarx/editorjs-html) - A library to parse editorjs clean data to html.
+- [editorjs-html](https://github.com/pavittarx/editorjs-html) - A javascript library to parse editorjs clean data to html. It is adaptable and usable in all kind of projects.
 - [parser](https://github.com/csstools/parser) - CSS Parser
 - [node-core-utils](https://github.com/nodejs/node-core-utils) - CLI tools for Node.js Core collaborators
 - [md](https://github.com/doocs/md) - ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
@@ -3256,7 +3256,7 @@
 - [gods-pen](https://github.com/ymm-tech/gods-pen) - 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink.
 - [saber-theme-template](https://github.com/saberland/saber-theme-template) - A template for creating Saber theme.
 - [GitDataV](https://github.com/HongqingCao/GitDataV) - 基于Vue框架构建的github数据可视化平台
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 70k+ developers. https://postwoman.io
+- [postwoman](https://github.com/postwoman-io/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 70k+ developers. https://postwoman.io
 - [OverVue](https://github.com/open-source-labs/OverVue) - Prototyping Tool For Vue Devs 适用于Vue的原型工具
 - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
 - [vuepress-plugin-code-switcher](https://github.com/padarom/vuepress-plugin-code-switcher) - :arrows_clockwise: Component that adds synchronized multi-language code blocks to your Vuepress sites
