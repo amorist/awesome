@@ -475,7 +475,7 @@
 - [validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [go-terminput](https://github.com/tj/go-terminput) - Package terminput provides terminal keyboard input for interactive command-line tools.
-- [vearch](https://github.com/vearch/vearch) - A distributed system for efficient similarity search of embedding vectors
+- [vearch](https://github.com/vearch/vearch) - A distributed system for embedding-based retrieval
 - [go-gin-example](https://github.com/eddycjy/go-gin-example) - An example of gin
 - [gon](https://github.com/mitchellh/gon) - Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.
 - [strsim](https://github.com/hbakhtiyor/strsim) - string similarity based on Dice's coefficient in go
@@ -1209,8 +1209,9 @@
 
 ## JavaScript 
 
+- [ntfstool](https://github.com/ntfstool/ntfstool) - A ntfs tool for mac
 - [Otto](https://github.com/KartikChugh/Otto) - Otto makes machine learning an intuitive, natural language experience.🏆  Facebook AI Challenge winner ⭐️   #4 Trending JS Project ⭐️ #15 Trending Project (All Languages)
-- [macintosh.js](https://github.com/felixrieseberg/macintosh.js) - A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
+- [macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [CRMEB](https://github.com/crmeb/CRMEB) - 开源微信公众号商城 小程序商城系统，带分销、拼团、秒杀、砍价、优惠券、积分等功能，前后端全部开源，更是一套方便二次开发的框架
 - [editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop) - Drag and Drop feature for Editor.js
 - [editorjs-html](https://github.com/pavittarx/editorjs-html) - A javascript library to parse editorjs clean data to html. It is adaptable and usable in all kind of projects.
@@ -1238,7 +1239,7 @@
 - [juice](https://github.com/Automattic/juice) - Juice inlines CSS stylesheets into your HTML source.
 - [markdown-resume](https://github.com/mdnice/markdown-resume) - :necktie:支持 Markdown 和富文本的在线简历排版工具
 - [github-annual-report](https://github.com/guanpengchn/github-annual-report) - :gift:快！你的 2019 年 GitHub 报告还未领取！（推荐移动端观看）
-- [BlogHelper](https://github.com/ystcode/BlogHelper) - 帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）
+- [BlogHelper](https://github.com/onblog/BlogHelper) - 帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）
 - [markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 Markdown 编辑器，让排版变 Nice
 - [rick-and-morty-react](https://github.com/LeonidasEsteban/rick-and-morty-react) - 
 - [k8s-in-action](https://github.com/wuYin/k8s-in-action) - 《Kubernetes in Action 中文版》
@@ -1280,7 +1281,7 @@
 - [settings](https://github.com/probot/settings) - Pull Requests for GitHub repository settings
 - [slice-machine](https://github.com/prismicio/slice-machine) - Common utilities to build Slice Machine libraries
 - [wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi
-- [content](https://github.com/nuxt/content) - Write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
+- [content](https://github.com/nuxt/content) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
 - [qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。
 - [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
 - [Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
@@ -2242,6 +2243,7 @@
 - [Rules](https://github.com/lhie1/Rules) - 
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
+- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 富有体系且实用的小例子、小案例。
 - [backendlore](https://github.com/fpereiro/backendlore) - How I write backends
 - [eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [toolbox](https://github.com/amitness/toolbox) - Curated list of libraries for a faster machine learning workflow
@@ -2540,7 +2542,6 @@
 - [CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch) - 搜索所有中文NLP数据集，附常用英文NLP数据集
 - [vectorbt](https://github.com/polakowo/vectorbt) - Python library for backtesting and analyzing trading strategies at scale
 - [newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
-- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 富有体系且实用的小例子、小案例。
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [albert](https://github.com/google-research/albert) - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
@@ -2813,6 +2814,7 @@
 
 ## Swift 
 
+- [JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit) - Swift framework to interact with JavaScript through WebAssembly.
 - [messages-multiplatform-swiftui-sample](https://github.com/jordansinger/messages-multiplatform-swiftui-sample) - Multiplatform Messages app for macOS, iOS, iPadOS in SwiftUI
 - [swift-statsd-client](https://github.com/apple/swift-statsd-client) - metrics backend for swift-metrics that uses the statsd protocol
 - [Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
