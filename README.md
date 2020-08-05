@@ -299,6 +299,11 @@
 
 ## Go 
 
+- [fastrand](https://github.com/awnumar/fastrand) - 10x faster than crypto/rand. Uses securely allocated memory. Forked from https://gitlab.com/NebulousLabs/fastrand
+- [mist](https://github.com/asyncins/mist) - 超高性能且不受时间回拨影响的全局唯一 ID 生成算法，薄雾算法
+- [matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud and more with REST API (mattermost not required!)
+- [discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
+- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
 - [Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
 - [assetfinder](https://github.com/tomnomnom/assetfinder) - Find domains and subdomains related to a given domain
 - [prysm](https://github.com/prysmaticlabs/prysm) - Go implementation of the Ethereum 2.0 blockchain
@@ -504,7 +509,6 @@
 - [watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [go-rpio](https://github.com/stianeikeland/go-rpio) - :electric_plug: Raspberry Pi GPIO library for go-lang
 - [tools](https://github.com/golang/tools) - [mirror] Go Tools
-- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find GitHub secrets in real time
 - [go-twitter](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
 - [zenpress](https://github.com/insionng/zenpress) - Zenpress is a cms system of written in golang
 - [golang-set](https://github.com/deckarep/golang-set) - A simple set type for the Go language. Also used by Docker, 1Password, Ethereum.
@@ -598,7 +602,7 @@
 - [sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language.
 - [wechat](https://github.com/silenceper/wechat) - WeChat SDK for Go （微信SDK：简单、易用）
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage. / LeetCode 题解
+- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [golang_step_by_step](https://github.com/Shitaibin/golang_step_by_step) - Golang入门教程的文章、示例代码，喜欢就star，订阅就watch
 - [subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 - [mongo-go-examples](https://github.com/simagix/mongo-go-examples) - mongo-go-driver examples
@@ -1159,6 +1163,7 @@
 
 ## Haskell 
 
+- [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 
 ## Java 
@@ -1218,7 +1223,7 @@
 - [three-ui](https://github.com/poki/three-ui) - UI solution for Three.js
 - [depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies
 - [ntfstool](https://github.com/ntfstool/ntfstool) - A ntfs tool for mac
-- [Otto](https://github.com/KartikChugh/Otto) - Otto makes machine learning an intuitive, natural language experience.🏆  Facebook AI Challenge winner ⭐️   #4 Trending JS Project ⭐️ #15 Trending Project (All Languages)
+- [Otto](https://github.com/KartikChugh/Otto) - Otto makes machine learning an intuitive, natural language experience.🏆  Facebook AI Challenge winner ⭐️   #4 Trending JS Project ⭐️ #15 Trending (All Languages)
 - [macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [CRMEB](https://github.com/crmeb/CRMEB) - 开源微信公众号商城 小程序商城系统，带分销、拼团、秒杀、砍价、优惠券、积分等功能，前后端全部开源，更是一套方便二次开发的框架
 - [editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop) - Drag and Drop feature for Editor.js
@@ -1414,6 +1419,7 @@
 - [data-directory](https://github.com/docs/data-directory) - 🌳 A Node.js module to recursively load a directory of YAML, JSON, and Markdown files into a JavaScript object.
 - [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
+- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find GitHub secrets in real time
 - [generative-artistry](https://github.com/tholman/generative-artistry) - A website for self coding generative art tutorials.
 - [sticker-surge](https://github.com/DarylPinto/sticker-surge) - Custom stickers and sticker packs for Discord servers!
 - [cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
@@ -2216,7 +2222,7 @@
 - [rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
 - [web-server-frameworks](https://github.com/nodejs/web-server-frameworks) - A place for Node.js Web-Server Framework authors and users to collaborate
 - [roadmap](https://github.com/github/roadmap) - GitHub public roadmap
-- [dev](https://github.com/m3o/dev) - Micro development guide, design docs and roadmap
+- [dev](https://github.com/m3o/dev) - Micro company dev guide, design docs and roadmap
 - [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [awesome-ml-courses](https://github.com/luspr/awesome-ml-courses) - Awesome free machine learning and AI courses with video lectures.
 - [awesome-wechat](https://github.com/fritx/awesome-wechat) - 微信个人号/公众号相关项目整理 (wechat/weixin/wx)
@@ -2284,7 +2290,7 @@
 - [ama](https://github.com/sindresorhus/ama) - Ask me anything!
 - [code-and-learn](https://github.com/openjs-foundation/code-and-learn) - Organizing the Code&Learn session for Node+JS Interactive
 - [chinese_docker](https://github.com/widuu/chinese_docker) - docker中文文档，docker Chinese Documation
-- [bank](https://github.com/pietrzakadrian/bank) - Full Stack Web Application similar to financial software that is used in professional banking institutions
+- [bank](https://github.com/pietrzakadrian/bank) - Full Stack Web Application similar to financial software that is used in banking institutions. Built 100% in TypeScript
 - [free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
 - [Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes) - 周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
@@ -2515,7 +2521,7 @@
 - [GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart:让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。
 - [WechatSogou](https://github.com/chyroc/WechatSogou) - 基于搜狗微信搜索的微信公众号爬虫接口
 - [wxpy](https://github.com/youfou/wxpy) - 微信机器人 / 可能是最优雅的微信个人号 API ✨✨
-- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
+- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
 - [stock](https://github.com/pythonstock/stock) - stock，股票系统。使用python进行开发。
 - [ml-mac-classify](https://github.com/imgcook/ml-mac-classify) - 体验机器学习：在Mac电脑上训练和部署一个图片分类模型
@@ -2897,6 +2903,8 @@
 
 ## TypeScript 
 
+- [class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
+- [tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 - [appsmith](https://github.com/appsmithorg/appsmith) - Appsmith is a frontend-as-a-service framework that lets you build custom internal tools without HTML / CSS
 - [PT-Plugin-Plus](https://github.com/ronggang/PT-Plugin-Plus) - PT 助手 Plus，为 Google Chrome 和 Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
 - [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
@@ -2912,7 +2920,7 @@
 - [alloy-worker](https://github.com/AlloyTeam/alloy-worker) - 面向事务的高可用 Web Worker 通信框架
 - [graphql-api-starter](https://github.com/egoist/graphql-api-starter) - GraphQL API starter.
 - [vueuse](https://github.com/antfu/vueuse) - 🧰 Collection of Composition API utils for Vue 2 and 3
-- [vercel-builder](https://github.com/nuxt/vercel-builder) - Now Builder for Nuxt.js
+- [vercel-builder](https://github.com/nuxt/vercel-builder) - Vercel Builder for Nuxt.js
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev environment for building scalable, high-quality user interfaces
 - [vue-composition-toolkit](https://github.com/HcySunYang/vue-composition-toolkit) - 🔫 Vue3 Composition-API toolkit
 - [maho](https://github.com/egoist/maho) - Experimental framework for building server-rendered or static websites, powered by React and esbuild, hella fast.
@@ -2954,7 +2962,7 @@
 - [graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [bloomrpc](https://github.com/uw-labs/bloomrpc) - GUI Client for GRPC Services
-- [oak](https://github.com/oakserver/oak) - A middleware framework for Deno's net server 🦕
+- [oak](https://github.com/oakserver/oak) - A middleware framework for Deno's net server 🐿️ 🦕
 - [library](https://github.com/zxing-js/library) - Multi-format 1D/2D barcode image processing library, usable in JavaScript ecosystem.
 - [vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io into VS Code.
 - [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
