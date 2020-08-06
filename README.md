@@ -44,7 +44,6 @@
   - [Rascal](#rascal)
   - [Reason](#reason)
   - [Rich Text Format](#rich-text-format)
-  - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SRecode Template](#srecode-template)
@@ -299,11 +298,14 @@
 
 ## Go 
 
+- [dbresolver](https://github.com/go-gorm/dbresolver) - Database Resolver FOR GORM
+- [spg](https://github.com/1Password/spg) - 1Password's Strong Password Generator - Go package
 - [fastrand](https://github.com/awnumar/fastrand) - 10x faster than crypto/rand. Uses securely allocated memory. Forked from https://gitlab.com/NebulousLabs/fastrand
 - [mist](https://github.com/asyncins/mist) - 超高性能且不受时间回拨影响的全局唯一 ID 生成算法，薄雾算法
 - [matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud and more with REST API (mattermost not required!)
 - [discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
+- [licensecheck](https://github.com/google/licensecheck) - The licensecheck package classifies license files and heuristically determines how well they correspond to known open source licenses.
 - [Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
 - [assetfinder](https://github.com/tomnomnom/assetfinder) - Find domains and subdomains related to a given domain
 - [prysm](https://github.com/prysmaticlabs/prysm) - Go implementation of the Ethereum 2.0 blockchain
@@ -1168,6 +1170,7 @@
 
 ## Java 
 
+- [PowerJob](https://github.com/KFCFans/PowerJob) - 新一代分布式任务调度与计算框架，支持CRON、API、固定频率、固定延迟等调度策略，提供工作流来编排任务解决依赖关系，使用简单，功能强大，文档齐全，欢迎各位接入使用！
 - [WePush](https://github.com/rememberber/WePush) - 专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
 - [litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
 - [gfw.press](https://github.com/chinashiyu/gfw.press) - GFW.Press新一代军用级高强度加密抗干扰网络数据高速传输软件
@@ -1219,6 +1222,11 @@
 
 ## JavaScript 
 
+- [douyin](https://github.com/afeifeifei/douyin) - 抖音上面的源码全在这里了！
+- [douyin_signature](https://github.com/skygongque/douyin_signature) - douyin web  signature
+- [lin-cms-koa](https://github.com/TaleLin/lin-cms-koa) - 🌀使用Node.JS KOA构建的CMS开发框架
+- [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
+- [gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
 - [next-prismic-starter](https://github.com/cassidoo/next-prismic-starter) - 
 - [three-ui](https://github.com/poki/three-ui) - UI solution for Three.js
 - [depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies
@@ -1945,7 +1953,7 @@
 - [makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) - Create Anime Characters with MakeGirlsMoe
 - [machine-learning-with-js](https://github.com/abhisheksoni27/machine-learning-with-js) - Machine Learning with JavaScript. Fast and Simple. :rocket:
 - [nanoid](https://github.com/ai/nanoid) - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-- [wtfjs](https://github.com/denysdovhan/wtfjs) - A list of funny and tricky JavaScript examples
+- [wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 - [Hilo](https://github.com/hiloteam/Hilo) - A Cross-end HTML5 Game development solution developed by Alibaba Group
 - [botui-examples](https://github.com/botui/botui-examples) - Some examples on how to use BotUI
 - [ovilia.github.io](https://github.com/Ovilia/ovilia.github.io) - Ovilia's personal site
@@ -2218,6 +2226,8 @@
 
 ## Others 
 
+- [tooling](https://github.com/nodejs/tooling) - Advancing Node.js as a framework for writing great tools
+- [1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
 - [awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
 - [web-server-frameworks](https://github.com/nodejs/web-server-frameworks) - A place for Node.js Web-Server Framework authors and users to collaborate
@@ -2487,6 +2497,7 @@
 
 ## PHP 
 
+- [ByteDance](https://github.com/OtkurBiz/ByteDance) - 字节跳动PHP SDK 抖音小程序、头条小程序开发组件。PHP SDK for bytedance (douyin, tiktok, toutiao)
 - [live2d_api](https://github.com/fghrsh/live2d_api) - Live2D 看板娘插件 (https://www.fghrsh.net/post/123.html) 上使用的后端 API
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 - [monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
@@ -2719,10 +2730,6 @@
 
 - [clover](https://github.com/sqlsec/clover) - Share some hackintosh Clover files 分享一些黑苹果clover配置文件
 
-## Roff 
-
-- [licensecheck](https://github.com/google/licensecheck) - The licensecheck package classifies license files and heuristically determines how well they correspond to known open source licenses.
-
 ## Ruby 
 
 - [faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers.
@@ -2746,6 +2753,7 @@
 
 ## Rust 
 
+- [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. (Rust)
 - [actix-extras](https://github.com/actix/actix-extras) - A collection of additional crates supporting the actix and actix-web frameworks.
 - [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [ws-rs](https://github.com/housleyjk/ws-rs) - Lightweight, event-driven WebSockets for Rust.
@@ -3072,7 +3080,7 @@
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [playground](https://github.com/tensorflow/playground) - Play with neural networks!
-- [prisma](https://github.com/prisma/prisma) - Modern DB toolkit to query, migrate and model your database
+- [prisma](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
 - [vue-class-component](https://github.com/vuejs/vue-class-component) - ES / TypeScript decorator for class-style Vue components.
 - [common-voice](https://github.com/mozilla/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private npm proxy registry
@@ -3189,7 +3197,7 @@
 - [Zoe](https://github.com/iawia002/Zoe) - 快捷上传文件到七牛云 for macOS
 - [vuepack](https://github.com/znck/vuepack) - Publish .vue files in NPM packages
 - [proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
-- [wechaty](https://github.com/wechaty/wechaty) - Conversational AI RPA SDK for Chatbot Hackers
+- [wechaty](https://github.com/wechaty/wechaty) - Conversational SDK for Chatbot Makers
 - [tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
@@ -3245,6 +3253,8 @@
 
 ## Vue 
 
+- [vue3-News](https://github.com/vue3/vue3-News) - 🎯Find the latest breaking √vue3 & vue-cli 3+  News.
+- [lin-cms-vue](https://github.com/TaleLin/lin-cms-vue) - 🔆 Vue+ElementUI构建的CMS开发框架
 - [hioshop-admin](https://github.com/iamdarcy/hioshop-admin) - 海风小店,开源商城,微信小程序商城管理后台,后台管理,VUE
 - [mavonEditor](https://github.com/hinesboy/mavonEditor) - mavonEditor - A markdown editor based on Vue that supports a variety of personalized features
 - [wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
