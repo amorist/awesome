@@ -298,6 +298,8 @@
 
 ## Go 
 
+- [grule-rule-engine](https://github.com/hyperjumptech/grule-rule-engine) - Rule engine implementation in Golang
+- [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector
 - [dbresolver](https://github.com/go-gorm/dbresolver) - Database Resolver FOR GORM
 - [spg](https://github.com/1Password/spg) - 1Password's Strong Password Generator - Go package
 - [fastrand](https://github.com/awnumar/fastrand) - 10x faster than crypto/rand. Uses securely allocated memory. Forked from https://gitlab.com/NebulousLabs/fastrand
@@ -337,7 +339,7 @@
 - [semgrep-go](https://github.com/dgryski/semgrep-go) - Go rules for semgrep
 - [letterbox](https://github.com/tj/letterbox) - Go program to batch-process letter-boxing of photographs.
 - [odin](https://github.com/theycallmemac/odin) - A programmable, observable and distributed job orchestration system.
-- [gitqlite](https://github.com/augmentable-dev/gitqlite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
+- [askgit](https://github.com/augmentable-dev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [miniflux](https://github.com/miniflux/miniflux) - Minimalist and opinionated feed reader
 - [go-restful](https://github.com/emicklei/go-restful) - package for building REST-style Web Services using Go
 - [pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
@@ -373,7 +375,7 @@
 - [dragon-iss-docking-autopilot](https://github.com/mbertschler/dragon-iss-docking-autopilot) - Autopilot in Go for docking the SpaceX Dragon capsule in the simulator
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for data science
-- [jupiter](https://github.com/douyu/jupiter) - Jupiter是douyu开源的面向服务治理的Golang微服务框架
+- [jupiter](https://github.com/douyu/jupiter) - Jupiter是斗鱼开源的面向服务治理的Golang微服务框架
 - [alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
 - [opentracing-go](https://github.com/opentracing/opentracing-go) - OpenTracing API for Go
 - [kratos](https://github.com/ory/kratos) - Never build user login, user registration, 2fa, profile management ever again! Works on any operating system, cloud, with any programming language, user interface, and user experience! Written in Go.
@@ -532,7 +534,7 @@
 - [jsonc](https://github.com/muhammadmuzzammil1998/jsonc) - JSON with comments for Go!
 - [godoctor](https://github.com/godoctor/godoctor) - Go Doctor - The Golang Refactoring Engine
 - [github-actions-golang](https://github.com/mvdan/github-actions-golang) - GitHub Actions as CI for Go
-- [go-plugins](https://github.com/micro/go-plugins) - Community maintained plugins for Go Micro
+- [go-plugins](https://github.com/micro/go-plugins) - Community maintained plugins for go-micro
 - [falcon-plus](https://github.com/open-falcon/falcon-plus) - An open-source and enterprise-level monitoring system.
 - [go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
 - [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
@@ -1007,7 +1009,7 @@
 - [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [schematyper](https://github.com/idubinskiy/schematyper) - Generates Go types based on JSON Schemas
 - [chanx](https://github.com/tidwall/chanx) - A simple interface wrapper around a Go channel.
-- [go-micro](https://github.com/micro/go-micro) - A Go library for distributed systems development
+- [go-micro](https://github.com/micro/go-micro) - A Go distributed systems standard library
 - [gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [go-apla](https://github.com/AplaProject/go-apla) - A blockchain platform with a simplified programming language
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
@@ -2300,7 +2302,7 @@
 - [ama](https://github.com/sindresorhus/ama) - Ask me anything!
 - [code-and-learn](https://github.com/openjs-foundation/code-and-learn) - Organizing the Code&Learn session for Node+JS Interactive
 - [chinese_docker](https://github.com/widuu/chinese_docker) - docker中文文档，docker Chinese Documation
-- [bank](https://github.com/pietrzakadrian/bank) - Full Stack Web Application similar to financial software that is used in banking institutions. Built 100% in TypeScript
+- [bank](https://github.com/pietrzakadrian/bank) - Full Stack Web Application similar to financial software that is used in banking institutions | React.js and Node.js
 - [free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
 - [Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes) - 周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
@@ -3177,7 +3179,7 @@
 - [GoogleTranslate](https://github.com/MoeFE/GoogleTranslate) - 🌐 Google 翻译 Mac 客户端
 - [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [datav](https://github.com/apm-ai/datav) - Datav is a data visualization platform, providing observation for metrics/logs/traces and big screen visualization
+- [datav](https://github.com/datavi/datav) - Datav is a data visualization platform, providing observability for metrics/logs/traces and big screen visualization
 - [docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [kactus](https://github.com/kactus-io/kactus) - :cactus: A true version control tool for designers
@@ -3293,7 +3295,7 @@
 - [gods-pen](https://github.com/ymm-tech/gods-pen) - 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink.
 - [saber-theme-template](https://github.com/saberland/saber-theme-template) - A template for creating Saber theme.
 - [GitDataV](https://github.com/HongqingCao/GitDataV) - 基于Vue框架构建的github数据可视化平台
-- [postwoman](https://github.com/postwoman-io/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 70k+ developers. https://postwoman.io
+- [postwoman](https://github.com/postwoman-io/postwoman) - 👽 A free, fast and beautiful API request builder used by 70k+ developers. https://postwoman.io
 - [OverVue](https://github.com/open-source-labs/OverVue) - Prototyping Tool For Vue Devs 适用于Vue的原型工具
 - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
 - [vuepress-plugin-code-switcher](https://github.com/padarom/vuepress-plugin-code-switcher) - :arrows_clockwise: Component that adds synchronized multi-language code blocks to your Vuepress sites
