@@ -454,7 +454,7 @@
 - [ok-zoomer](https://github.com/jbirms/ok-zoomer) - A Go program that takes an image, uses pigo to detect a face, and creates a gif that zooms in on the face
 - [errwrap](https://github.com/fatih/errwrap) - Go tool to wrap and fix errors with the new %w verb directive
 - [docker-compose-files](https://github.com/yeasy/docker-compose-files) - Some typical docker compose templates.
-- [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.
+- [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS, the cloud native messaging system.
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database
@@ -1009,7 +1009,7 @@
 - [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [schematyper](https://github.com/idubinskiy/schematyper) - Generates Go types based on JSON Schemas
 - [chanx](https://github.com/tidwall/chanx) - A simple interface wrapper around a Go channel.
-- [go-micro](https://github.com/micro/go-micro) - A Go distributed systems standard library
+- [go-micro](https://github.com/micro/go-micro) - A Go standard library for cloud services development
 - [gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [go-apla](https://github.com/AplaProject/go-apla) - A blockchain platform with a simplified programming language
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
@@ -1576,7 +1576,7 @@
 - [koa-prerender](https://github.com/RisingStack/koa-prerender) - KOA middleware for prerendering javascript-rendered pages on the fly for SEO
 - [prerender](https://github.com/prerender/prerender) - Node server that uses Headless Chrome to render a javascript-rendered page as HTML. To be used in conjunction with prerender middleware.
 - [ghChat](https://github.com/aermin/ghChat) - :octocat: 📱A chat application for GitHub. React + PWA + Node(koa2) + Typescripts  + Mysql  + Socket.io
-- [snowpack](https://github.com/pikapkg/snowpack) - The near-instant build tool for modern web apps.
+- [snowpack](https://github.com/pikapkg/snowpack) - The faster frontend build tool. No bundler needed ✌️
 - [grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [formidable](https://github.com/node-formidable/formidable) - A node.js module for parsing form data, especially file uploads.
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
