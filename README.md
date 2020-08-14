@@ -298,7 +298,7 @@
 ## Go 
 
 - [go-zero](https://github.com/tal-tech/go-zero) - go-zero是一个集成了各种工程实践的web和rpc框架。通过弹性设计保障了大并发服务端的稳定性，经受了充分的实战检验。包含极简的API定义和生成工具，可以一键生成Go, iOS, Android, Dart, TypeScript, JavaScript代码，并可直接运行。
-- [qmgo](https://github.com/qiniu/qmgo) - Qmgo - The MongoDB dirver for Go . It‘s based on official MongoDB driver but easier to use like Mgo
+- [qmgo](https://github.com/qiniu/qmgo) - Qmgo - The MongoDB driver for Go . It‘s based on official MongoDB driver but easier to use like Mgo
 - [go-limiter](https://github.com/sethvargo/go-limiter) - A supersonic rate limiting package for Go with HTTP middleware.
 - [grule-rule-engine](https://github.com/hyperjumptech/grule-rule-engine) - Rule engine implementation in Golang
 - [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector
@@ -944,7 +944,7 @@
 - [go-sitemap-generator](https://github.com/ikeikeikeike/go-sitemap-generator) - go-sitemap-generator is the easiest way to generate Sitemaps in Go
 - [radix](https://github.com/yourbasic/radix) - A fast string sorting algorithm (MSD radix sort)
 - [scheduler](https://github.com/carlescere/scheduler) - Job scheduling made easy.
-- [manba](https://github.com/fagongzi/manba) - An HTTP API Gateway
+- [manba](https://github.com/fagongzi/manba) - HTTP API Gateway
 - [terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [alipay](https://github.com/smartwalle/alipay) - 支付宝 AliPay SDK for Go, 集成简单，功能完善，持续更新，支持公钥证书和普通公钥进行签名和验签。
 - [gopub](https://github.com/linclin/gopub) - vue.js(element框架)+golang(beego框架)开发的运维发布系统,支持git,jenkins版本发布,go ssh,BT两种文件传输方式选择,支持部署前准备任务和部署后任务钩子函数
@@ -2238,7 +2238,7 @@
 - [rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
 - [web-server-frameworks](https://github.com/nodejs/web-server-frameworks) - A place for Node.js Web-Server Framework authors and users to collaborate
 - [roadmap](https://github.com/github/roadmap) - GitHub public roadmap
-- [dev](https://github.com/m3o/dev) - Micro company dev guide, design docs and roadmap
+- [dev](https://github.com/m3o/dev) - Micro services dev guide, design docs and roadmap
 - [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [awesome-ml-courses](https://github.com/luspr/awesome-ml-courses) - Awesome free machine learning and AI courses with video lectures.
 - [awesome-wechat](https://github.com/fritx/awesome-wechat) - 微信个人号/公众号相关项目整理 (wechat/weixin/wx)
