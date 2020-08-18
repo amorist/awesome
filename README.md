@@ -169,6 +169,7 @@
 
 ## CSS 
 
+- [halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode, designed for rapidly building beautiful dashboards and product pages.
 - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [typora-cobalt-theme](https://github.com/elitistsnob/typora-cobalt-theme) - A dark theme for Typora with enhanced UI
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
@@ -298,6 +299,10 @@
 
 ## Go 
 
+- [RedisShake](https://github.com/alibaba/RedisShake) - Redis-shake is a tool for synchronizing data between two redis databases. Redis-shake是一个用于在两个redis之间同步数据的工具，满足用户非常灵活的同步、迁移需求。
+- [go-mail](https://github.com/mrz1836/go-mail) - :incoming_envelope: Simple email interface across multiple service providers (ses, postmark, mandrill, smtp)
+- [go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
+- [differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy library.
 - [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [govalidator](https://github.com/asaskevich/govalidator) - [Go] Package of validators and sanitizers for strings, numerics, slices and structs
 - [go-zero](https://github.com/tal-tech/go-zero) - go-zero是一个集成了各种工程实践的web和rpc框架。通过弹性设计保障了大并发服务端的稳定性，经受了充分的实战检验。包含极简的API定义和生成工具，可以一键生成Go, iOS, Android, Dart, TypeScript, JavaScript代码，并可直接运行。
@@ -839,7 +844,7 @@
 - [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [gofeed](https://github.com/mmcdole/gofeed) - Parse RSS and Atom feeds in Go
 - [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint.
-- [mole](https://github.com/davrodpin/mole) - cli app to create ssh tunnels
+- [mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [govaluate](https://github.com/Knetic/govaluate) - Arbitrary expression evaluation for golang
 - [photoprism](https://github.com/photoprism/photoprism) - Personal Photo Management powered by Go and Google TensorFlow
 - [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
@@ -1179,6 +1184,7 @@
 - [PowerJob](https://github.com/KFCFans/PowerJob) - Powerful distributed job scheduling middleware that supports CRON, API, fixed frequency, fixed delay and other scheduling strategies, provides workflow to choreograph jobs to resolve dependencies, supports distributed computing of tasks, simple to use, powerful, well-documented, welcome you to use!
 - [WePush](https://github.com/rememberber/WePush) - 专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
 - [litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
+- [hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🙈🙉🙊 东半球最酷的编程学习项目| 包括：1、我写的30w字图解算法题典 2、100 张 IT 超清思维导图  3、100 篇各语言大厂面经 4、高清版编程电子书 1000 本  5、剑指Offer代码解析 !!! English version supported !!!  国人项目上榜不易，右上角助力一波！干就对了，奥利给 ！🚀🚀
 - [gfw.press](https://github.com/chinashiyu/gfw.press) - GFW.Press新一代军用级高强度加密抗干扰网络数据高速传输软件
 - [seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 - [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
@@ -1228,6 +1234,7 @@
 
 ## JavaScript 
 
+- [api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
 - [preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [sponsor-verifier](https://github.com/matchai/sponsor-verifier) - Sponsor verification for stickers being sent 💌
 - [douyin](https://github.com/afeifeifei/douyin) - 抖音上面的源码全在这里了！
@@ -1920,7 +1927,6 @@
 - [parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
 - [hyperapp](https://github.com/jorgebucaran/hyperapp) - The tiny framework for building hypertext applications.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
-- [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [node-elm](https://github.com/bailicangdu/node-elm) - 基于 node.js + Mongodb 构建的后台系统
 - [schnack](https://github.com/schn4ck/schnack) - 🗣️ Simple self-hosted node app for Disqus-like drop-in commenting on static websites
 - [poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
@@ -2924,11 +2930,14 @@
 
 ## TypeScript 
 
+- [feedbackok-react](https://github.com/egoist/feedbackok-react) - React component for Feedback OK.
+- [feedbackok-js](https://github.com/egoist/feedbackok-js) - Collecting feedback with ease.
+- [wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most advanced NodeJS whatsapp library for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [rome](https://github.com/romefrontend/rome) - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [zebra-editor-core](https://github.com/acccco/zebra-editor-core) - 一款强大、现代的可视化编辑器。
 - [class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
 - [tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
-- [appsmith](https://github.com/appsmithorg/appsmith) - Appsmith is a web framework to build dashboards, workflows, forms, and any internal tool. The framework comes with access control, customizable UI components, multiple database, and REST api integrations. Write all logic in JS.
+- [appsmith](https://github.com/appsmithorg/appsmith) - Appsmith is a web framework to build dashboards, workflows, forms, and any internal tool. The framework comes with access control, customizable UI widgets, multiple database connectors, and REST API integrations.
 - [PT-Plugin-Plus](https://github.com/ronggang/PT-Plugin-Plus) - PT 助手 Plus，为 Google Chrome 和 Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
 - [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
 - [covid-alert-app](https://github.com/cds-snc/covid-alert-app) - Exposure notification client application / Application client de notification d'exposition
@@ -3227,7 +3236,8 @@
 - [i18n](https://github.com/electron/i18n) - 🌍 The home of Electron's translated documentation
 - [vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [ice](https://github.com/alibaba/ice) - 🚀  Simple and friendly front-end development system（飞冰，简单而友好的前端研发体系 ）https://ice.work/
-- [caprover](https://github.com/caprover/caprover) - [previously CaptainDuckDuck] Automated Scalable PaaS Package (automated Docker+nginx) - Heroku on Steroids
+- [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
@@ -3269,6 +3279,7 @@
 
 ## Vue 
 
+- [wx-client](https://github.com/niefy/wx-client) - 微信公众号接口wx-api前端示例项目，包含微信登录、微信分享、CMS文章示例功能
 - [vue3-News](https://github.com/vue3/vue3-News) - 🎯Find the latest breaking √vue3 & vue-cli 3+  News.
 - [lin-cms-vue](https://github.com/TaleLin/lin-cms-vue) - 🔆 Vue+ElementUI构建的CMS开发框架
 - [hioshop-admin](https://github.com/iamdarcy/hioshop-admin) - 海风小店,开源商城,微信小程序商城管理后台,后台管理,VUE
@@ -3276,7 +3287,6 @@
 - [wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
 - [vue-dropzone](https://github.com/rowanwins/vue-dropzone) - A Vue.js component for Dropzone.js - a drag’n’drop file uploads utility with image previews
 - [docs-next](https://github.com/vuejs/docs-next) - Vue 3 core documentation
-- [hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🙈🙉🙊 本项目包括：1、我写的三十万字图解算法题典  2、100 张 IT 相关超清思维导图  3、100 篇大厂面经汇总  4、各语言编程电子书 100 本  5、English version supported !!!  🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀
 - [TinyShop-UniApp](https://github.com/stavyan/TinyShop-UniApp) - 基于 RageFrame2 的一款免费开源的基础商城销售功能的开源微商城。
 - [HYMall](https://github.com/coderwhy/HYMall) - A vue.js mall application.
 - [node-vue-moba](https://github.com/topfullstack/node-vue-moba) - Node.js (Express.js) + Vue.js (Element UI) 全栈开发王者荣耀手机端官网和管理后台
