@@ -125,6 +125,7 @@
 - [mediapipe](https://github.com/google/mediapipe) - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
 - [react-native-macos](https://github.com/microsoft/react-native-macos) - A framework for building native macOS apps with React.
 - [cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src) - Leak of CS:GO Source code, provided by yours truly so go rep me
+- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , dbnet(1.7M) + crnn(6.3M) + anglenet(1.5M) 总模型仅10M
 - [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing
 - [yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 - [node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using N-API from C++
@@ -300,6 +301,9 @@
 
 ## Go 
 
+- [go-gpt3](https://github.com/sashabaranov/go-gpt3) - 
+- [go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
+- [ent](https://github.com/facebook/ent) - An entity framework for Go
 - [RedisShake](https://github.com/alibaba/RedisShake) - Redis-shake is a tool for synchronizing data between two redis databases. Redis-shake是一个用于在两个redis之间同步数据的工具，满足用户非常灵活的同步、迁移需求。
 - [go-mail](https://github.com/mrz1836/go-mail) - :incoming_envelope: Simple email interface across multiple service providers (ses, postmark, mandrill, smtp)
 - [go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
@@ -1310,7 +1314,7 @@
 - [shapez.io](https://github.com/tobspr/shapez.io) - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
 - [kugimiya-rainbow-fart](https://github.com/zthxxx/kugimiya-rainbow-fart) - 傲 娇 钉 宫，鞭 写 鞭 骂  -  钉宫理惠 vscode-rainbow-fart 扩展语音包
 - [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) - 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
-- [mind-elixir-core](https://github.com/ssshooter/mind-elixir-core) - Mind elixir is a free open source mind map core
+- [mind-elixir-core](https://github.com/ssshooter/mind-elixir-core) - Mind-elixir is a framework agnostic mind map core
 - [supabase](https://github.com/supabase/supabase) - Website, docs, and client libraries. Follow to stay updated about our public Beta.
 - [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) - React components for the Carbon Design System
 - [twilio-video.js](https://github.com/twilio/twilio-video.js) - Twilio’s Programmable Video JavaScript SDK
@@ -1401,7 +1405,7 @@
 - [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js - Open Source Analytics Framework
 - [Dream](https://github.com/KieSun/Dream) - 我是 yck，✍️ 这里是写博客以及记录学习的地方
 - [react-frame-component](https://github.com/ryanseddon/react-frame-component) - Render your React app to an iFrame
-- [pull](https://github.com/wei/pull) - ⬇️ Keep your forks up-to-date via automated PRs
+- [pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [node-ip](https://github.com/indutny/node-ip) - IP address tools for node.js
 - [butterchurn](https://github.com/jberg/butterchurn) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
 - [guess-the-breed](https://github.com/jnsmtnr/guess-the-breed) - A cat breed guesser game
@@ -1885,7 +1889,7 @@
 - [electron-single](https://github.com/egoist/electron-single) - Making your application a Single Instance Application
 - [flock](https://github.com/egoist/flock) - Minimalistic Twitter desktop client for managing multiple accounts.
 - [gka](https://github.com/gkajs/gka) - 一款高效、高性能的帧动画生成工具
-- [scheduler](https://github.com/probot/scheduler) - A Probot extension to trigger events on an hourly schedule
+- [scheduler](https://github.com/probot/scheduler) - ⚠️ Archived
 - [hypernova](https://github.com/airbnb/hypernova) - A service for server-side rendering your JavaScript views
 - [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
@@ -2581,7 +2585,6 @@
 - [bird-bot](https://github.com/natewong1313/bird-bot) - A Nintendo Switch checkout bot. Currently supports Walmart and Best buy
 - [examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
 - [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom, Skype and other video-conferencing apps.
-- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , dbnet(1.7M) + crnn(6.3M) + anglenet(1.5M) 总模型仅10M
 - [kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [akshare](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 - [kindle](https://github.com/muzi502/kindle) - kindle 标注笔记
@@ -2934,6 +2937,9 @@
 
 ## TypeScript 
 
+- [element-plus](https://github.com/element-plus/element-plus) - A Vue.js 3.0 UI Toolkit for Web
+- [logbox](https://github.com/egoist/logbox) - View console logs and errors on any website without opening the devtools
+- [fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
 - [kittenTricks](https://github.com/akveo/kittenTricks) - React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
 - [feedbackok-react](https://github.com/egoist/feedbackok-react) - React component for Feedback OK.
 - [feedbackok-js](https://github.com/egoist/feedbackok-js) - Collecting feedback with ease.
