@@ -350,7 +350,7 @@
 - [jaeger-operator](https://github.com/jaegertracing/jaeger-operator) - Jaeger Operator for Kubernetes simplifies deploying and running Jaeger on Kubernetes.
 - [automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
 - [tunnel](https://github.com/kataras/tunnel) - Public URLs for exposing your local web server
-- [semgrep-go](https://github.com/dgryski/semgrep-go) - Go rules for semgrep
+- [semgrep-go](https://github.com/dgryski/semgrep-go) - Go rules for semgrep and go-ruleguard
 - [letterbox](https://github.com/tj/letterbox) - Go program to batch-process letter-boxing of photographs.
 - [odin](https://github.com/theycallmemac/odin) - A programmable, observable and distributed job orchestration system.
 - [askgit](https://github.com/augmentable-dev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
@@ -474,7 +474,6 @@
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database
 - [crossplane](https://github.com/crossplane/crossplane) - Manage any infrastructure your applications need directly from Kubernetes
 - [go-wechat](https://github.com/nilorg/go-wechat) - 💥weixin、wechat、微信公众平台 golang/go sdk
-- [go-spring](https://github.com/go-spring/go-spring) - 基于 IoC 的 Go 后端一站式开发框架 🚀
 - [bfe](https://github.com/bfenetworks/bfe) - A modern layer 7 load balancer from baidu
 - [faasd](https://github.com/openfaas/faasd) - faasd - Serverless for everyone else
 - [mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
@@ -2290,7 +2289,6 @@
 - [Rules](https://github.com/lhie1/Rules) - 
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
-- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 富有体系且实用的小例子、小案例。
 - [backendlore](https://github.com/fpereiro/backendlore) - How I write backends
 - [eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [toolbox](https://github.com/amitness/toolbox) - Curated list of libraries for a faster machine learning workflow
@@ -2299,6 +2297,7 @@
 - [geektime-nginx](https://github.com/geektime-geekbang/geektime-nginx) - 极客时间：nginx核心知识100讲配置文件与代码分享
 - [awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn) - 一个很棒的Go框架、库和软件的中文收录大全。:alarm_clock:脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~
 - [computer-science-cn](https://github.com/ossu/computer-science-cn) - 🎓计算机技术与科学自学之旅
+- [go-spring](https://github.com/go-spring/go-spring) - 基于 IoC 的 Go 后端一站式开发框架 🚀
 - [coco-framework](https://github.com/Azure/coco-framework) - The Confidential Consortium Blockchain Framework is an open-source system that enables high-scale, confidential blockchain networks that meet all key enterprise requirements—providing a means to accelerate production enterprise adoption of blockchain technology.
 - [typescript-definition-style-guide](https://github.com/sindresorhus/typescript-definition-style-guide) - Style guide for adding type definitions to my npm packages
 - [iCloudBypassCA](https://github.com/crazymind90/iCloudBypassCA) - 
@@ -2591,6 +2590,7 @@
 - [CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch) - 搜索所有中文NLP数据集，附常用英文NLP数据集
 - [vectorbt](https://github.com/polakowo/vectorbt) - Python library for backtesting and analyzing trading strategies at scale
 - [newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
+- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 富有体系且实用的小例子、小案例。
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [albert](https://github.com/google-research/albert) - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
@@ -2955,7 +2955,7 @@
 - [nx](https://github.com/nrwl/nx) - Extensible Dev Tools for Monorepos
 - [fullstack-graphql-airbnb-clone](https://github.com/benawad/fullstack-graphql-airbnb-clone) - A Fullstack GraphQL Airbnb Clone with React and React Native
 - [fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit) - GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
-- [react-native-instagram-clone](https://github.com/iamvucms/react-native-instagram-clone) - A React Native app - Clone Instagram mobile app (In progress)
+- [react-native-instagram-clone](https://github.com/iamvucms/react-native-instagram-clone) - A React Native app - Clone Instagram mobile app
 - [model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR!
 - [perfect-arrows](https://github.com/steveruizok/perfect-arrows) - A minimal tool for drawing perfect arrows between points and shapes.
 - [vue-next-jsx](https://github.com/HcySunYang/vue-next-jsx) - A babel plugin that provides jsx syntax for vue3
@@ -3213,7 +3213,7 @@
 - [GoogleTranslate](https://github.com/MoeFE/GoogleTranslate) - 🌐 Google 翻译 Mac 客户端
 - [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [datav](https://github.com/datavi/datav) - Datav is a data visualization platform, providing observability for metrics/logs/traces and big screen visualization
+- [datav](https://github.com/datadefeat/datav) - Datav is a data visualization platform, providing observability for metrics/logs/traces and big screen visualization
 - [docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [kactus](https://github.com/kactus-io/kactus) - :cactus: A true version control tool for designers
