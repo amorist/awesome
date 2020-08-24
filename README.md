@@ -1050,7 +1050,7 @@
 - [nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [commento](https://github.com/adtac/commento) - A fast, bloat-free comments platform (Github mirror)
 - [tui-go](https://github.com/marcusolsson/tui-go) - A UI library for terminal applications.
-- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. MVC, gRPC gateway, unique router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
+- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Serverless, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
 - [matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go.
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [go-realtime-collaborative-drawing-app](https://github.com/tinrab/go-realtime-collaborative-drawing-app) - A simple real-time collaborative drawing app built with Go
