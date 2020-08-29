@@ -320,7 +320,7 @@
 - [go-limiter](https://github.com/sethvargo/go-limiter) - A supersonic rate limiting package for Go with HTTP middleware.
 - [grule-rule-engine](https://github.com/hyperjumptech/grule-rule-engine) - Rule engine implementation in Golang
 - [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector
-- [dbresolver](https://github.com/go-gorm/dbresolver) - Database Resolver FOR GORM
+- [dbresolver](https://github.com/go-gorm/dbresolver) - Multiple databases, read-write splitting FOR GORM
 - [spg](https://github.com/1Password/spg) - 1Password's Strong Password Generator - Go package
 - [fastrand](https://github.com/awnumar/fastrand) - 10x faster than crypto/rand. Uses securely allocated memory. Forked from https://gitlab.com/NebulousLabs/fastrand
 - [mist](https://github.com/asyncins/mist) - 超高性能且不受时间回拨影响的全局唯一 ID 生成算法，薄雾算法
@@ -763,7 +763,7 @@
 - [gophers](https://github.com/egonelbre/gophers) - Free gophers
 - [life](https://github.com/perlin-network/life) - A secure WebAssembly VM catered for decentralized applications.
 - [automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
-- [go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - Next-generation Shadowsocks in Go
+- [go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - Modern Shadowsocks in Go
 - [go-shadowsocks-magic](https://github.com/ihciah/go-shadowsocks-magic) - A shadowsocks implementation in golang with Multi-connection Acceleration
 - [avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go
 - [errors](https://github.com/pkg/errors) - Simple error handling primitives
@@ -1940,7 +1940,6 @@
 - [parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
 - [hyperapp](https://github.com/jorgebucaran/hyperapp) - The tiny framework for building hypertext applications.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
-- [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [node-elm](https://github.com/bailicangdu/node-elm) - 基于 node.js + Mongodb 构建的后台系统
 - [schnack](https://github.com/schn4ck/schnack) - 🗣️ Simple self-hosted node app for Disqus-like drop-in commenting on static websites
 - [poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
@@ -2308,6 +2307,7 @@
 - [coco-framework](https://github.com/Azure/coco-framework) - The Confidential Consortium Blockchain Framework is an open-source system that enables high-scale, confidential blockchain networks that meet all key enterprise requirements—providing a means to accelerate production enterprise adoption of blockchain technology.
 - [typescript-definition-style-guide](https://github.com/sindresorhus/typescript-definition-style-guide) - Style guide for adding type definitions to my npm packages
 - [iCloudBypassCA](https://github.com/crazymind90/iCloudBypassCA) - 
+- [homebrew-gh](https://github.com/github/homebrew-gh) - Homebrew tap for the GitHub CLI
 - [github-issue-templates](https://github.com/stevemao/github-issue-templates) - :symbols: A collection of GitHub issue and pull request templates
 - [GNNPapers](https://github.com/thunlp/GNNPapers) - Must-read papers on graph neural networks (GNN)
 - [web-frontend-magic](https://github.com/EtherDream/web-frontend-magic) - #前端黑魔法# 整理
@@ -2765,7 +2765,6 @@
 
 - [faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers.
 - [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
-- [homebrew-gh](https://github.com/github/homebrew-gh) - Homebrew tap for the GitHub CLI
 - [dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
 - [t](https://github.com/sferik/t) - A command-line power tool for Twitter.
 - [fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -2946,7 +2945,6 @@
 
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
-- [element-plus](https://github.com/element-plus/element-plus) - 🌈 A Vue.js 3.0 UI Library
 - [logbox](https://github.com/egoist/logbox) - View console logs and errors on any website without opening the devtools
 - [fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
 - [kittenTricks](https://github.com/akveo/kittenTricks) - React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
@@ -3258,6 +3256,7 @@
 - [i18n](https://github.com/electron/i18n) - 🌍 The home of Electron's translated documentation
 - [vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [ice](https://github.com/alibaba/ice) - 🚀  Simple and friendly front-end development system（飞冰，简单而友好的前端研发体系 ）https://ice.work/
+- [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
@@ -3300,6 +3299,7 @@
 
 ## Vue 
 
+- [element-plus](https://github.com/element-plus/element-plus) - 🌈 A Vue.js 3.0 UI Library
 - [vue-nodejs-youtube-clone](https://github.com/techreagan/vue-nodejs-youtube-clone) - This is the frontend (VueJS) of the Youtube clone called VueTube.
 - [wx-client](https://github.com/niefy/wx-client) - 微信公众号接口wx-api前端示例项目，包含微信登录、微信分享、CMS文章示例功能
 - [vue3-News](https://github.com/vue3/vue3-News) - 🎯Find the latest breaking √vue3 & vue-cli 3+  News.
