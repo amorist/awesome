@@ -3304,7 +3304,7 @@
 
 ## Vue 
 
-- [element-plus](https://github.com/element-plus/element-plus) - 🌈 A Vue.js 3.0 UI Library
+- [element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3.0 UI Library
 - [vue-nodejs-youtube-clone](https://github.com/techreagan/vue-nodejs-youtube-clone) - This is the frontend (VueJS) of the Youtube clone called VueTube.
 - [wx-client](https://github.com/niefy/wx-client) - 微信公众号接口wx-api前端示例项目，包含微信登录、微信分享、CMS文章示例功能
 - [vue3-News](https://github.com/vue3/vue3-News) - 🎯Find the latest breaking √vue3 & vue-cli 3+  News.
