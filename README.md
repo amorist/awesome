@@ -337,7 +337,7 @@
 - [crocodile](https://github.com/labulaka521/crocodile) - Distributed Task Scheduling System|分布式定时任务调度平台
 - [douyin](https://github.com/amorist/douyin) - 抖音开放平台API
 - [wechat_spider](https://github.com/15921483570/wechat_spider) - 微信公众号爬虫  (只需设置代理, 一键可以爬取所有历史文章)
-- [ferry](https://github.com/lanyulei/ferry) - 
+- [ferry](https://github.com/lanyulei/ferry) - 本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。 致力于减少跨部门之间的沟通，自动任务的执行，提升工作效率与工作质量，减少不必要的工作量与人为出错率。
 - [groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework
 - [micro-starter-kit](https://github.com/xmlking/micro-starter-kit) - Cloud Native GoLang Microservices - gRPC, GraphQL
@@ -438,7 +438,7 @@
 - [netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting
 - [distribution](https://github.com/docker/distribution) - The Docker toolset to pack, ship, store, and deliver content
 - [netgraph](https://github.com/ga0/netgraph) - A cross platform http sniffer with a web UI
-- [apiproject](https://github.com/wangshibiaoFlytiger/apiproject) - golang项目开发脚手架,集成最佳实践(gin+gorm+go-redis+mongo+cors+jwt+json日志库zap(支持日志收集到kafka或mongo)+消息队列kafka+微信支付宝支付gopay+api加密+api反向代理+go modules依赖管理+headless爬虫chromedp+makefile+二进制压缩+livereload热加载)
+- [apiproject](https://github.com/wangshibiaoFlytiger/apiproject) - [https://www.sofineday.com], golang项目开发脚手架,集成最佳实践(gin+gorm+go-redis+mongo+cors+jwt+json日志库zap(支持日志收集到kafka或mongo)+消息队列kafka+微信支付宝支付gopay+api加密+api反向代理+go modules依赖管理+headless爬虫chromedp+makefile+二进制压缩+livereload热加载)
 - [dex](https://github.com/dexidp/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
 - [fynedesk](https://github.com/fyne-io/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 - [go](https://github.com/stellar/go) - Stellar's public monorepo of go code
@@ -1249,6 +1249,7 @@
 
 ## JavaScript 
 
+- [portainer](https://github.com/portainer/portainer) - Making Docker management easy.
 - [lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 - [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - (H5编辑器)H5-Dooring是一款功能强大，开源免费的H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react为主， 后台采用nodejs开发.
 - [container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using https://github.com/actions/toolkit/
@@ -1266,7 +1267,7 @@
 - [three-ui](https://github.com/poki/three-ui) - UI solution for Three.js
 - [depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies
 - [ntfstool](https://github.com/ntfstool/ntfstool) - A ntfs tool for mac
-- [Otto](https://github.com/KartikChugh/Otto) - Otto makes machine learning an intuitive, natural language experience.🏆  Facebook AI Challenge winner ⭐️   #4 Trending JS Project on GitHub ⭐️ #15 Trending (All Languages)
+- [Otto](https://github.com/KartikChugh/Otto) - Otto makes machine learning an intuitive, natural language experience.🏆  Facebook AI Challenge winner ⭐️#1 Trending on MadeWithML.com⭐️   #4 Trending JS Project on GitHub ⭐️ #15 Trending (All Languages)
 - [macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [CRMEB](https://github.com/crmeb/CRMEB) - 开源微信公众号商城 小程序商城系统，带分销、拼团、秒杀、砍价、优惠券、积分等功能，前后端全部开源，更是一套方便二次开发的框架
 - [editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop) - Drag and Drop feature for Editor.js
@@ -1753,7 +1754,7 @@
 - [quill-image-drop-module](https://github.com/kensnyder/quill-image-drop-module) - A module for Quill rich text editor to allow images to be pasted and drag/dropped into the editor.
 - [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [gitignore-org](https://github.com/gitignore-org/gitignore-org) - A collection of useful .gitignore templates
-- [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a  Puppeteer script.
+- [headless-recorder](https://github.com/checkly/headless-recorder) - Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
 - [wx-promise-pro](https://github.com/youngjuning/wx-promise-pro) - ✨强大、优雅的微信小程序异步库🚀
 - [react-move](https://github.com/sghall/react-move) - :black_medium_small_square:React Move | Beautiful, data-driven animations for React
 - [dbkoda](https://github.com/SouthbankSoftware/dbkoda) - State of the art MongoDB IDE
@@ -2702,7 +2703,7 @@
 - [easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow) - Simple and comprehensive tutorials in TensorFlow
 - [Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors) - 100+ Chinese Word Vectors 上百种预训练中文词向量
 - [futuquant](https://github.com/FutunnOpen/futuquant) - 富途开放API Python SDK（因更名废弃， 转到 py-futu-api ）
-- [Synonyms](https://github.com/chatopera/Synonyms) - :herb: 中文近义词：聊天机器人，智能问答系统工具包
+- [Synonyms](https://github.com/chatopera/Synonyms) - :herb: 中文近义词：聊天机器人，智能问答工具包
 - [shadowbroker](https://github.com/misterch0c/shadowbroker) - The Shadow Brokers "Lost In Translation" leak
 - [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers
 - [pytube](https://github.com/nficano/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
@@ -3030,7 +3031,7 @@
 - [Thief-Book-VSCode](https://github.com/cteamx/Thief-Book-VSCode) - VScode 上一款真正的摸鱼插件
 - [html-dom](https://github.com/phuoc-ng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 - [ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 Higher Type Safety for TypeScript
-- [mordred](https://github.com/egoist/mordred) - Source data from anywhere, for Next.js, Nuxt.js, Eleventy and many more.
+- [mordred](https://github.com/egoist/mordred) - [Experimental] Source data from anywhere, for Next.js, Nuxt.js, Eleventy and many more.
 - [eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [kanban-musume-desktop](https://github.com/amorist/kanban-musume-desktop) - Kanban Musume Desktop
 - [setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
@@ -3093,7 +3094,6 @@
 - [saturn-datepicker](https://github.com/SaturnTeam/saturn-datepicker) - Angular Material Datepicker with range selection
 - [tinacms](https://github.com/tinacms/tinacms) - Tina is a toolkit for building content management systems directly into websites made with React (Gatsby and Next.js)
 - [takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A free, open source notes app for the web.
-- [tecalliance-onedb-application](https://github.com/vauman/tecalliance-onedb-application) - This is the OneDB application to manage vehicles, parts, etc. build with Angular
 - [dts-gen](https://github.com/microsoft/dts-gen) - dts-gen creates starter TypeScript definition files for any module or library.
 - [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0 (currently in RC)
 - [switch-desktop](https://github.com/ahkohd/switch-desktop) - Switch between your favourite apps lightning fast.
