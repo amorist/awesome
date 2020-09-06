@@ -318,7 +318,7 @@
 - [differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy library.
 - [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [govalidator](https://github.com/asaskevich/govalidator) - [Go] Package of validators and sanitizers for strings, numerics, slices and structs
-- [go-zero](https://github.com/tal-tech/go-zero) - go-zero是一个集成了各种工程实践的web和rpc框架。通过弹性设计保障了大并发服务端的稳定性，经受了充分的实战检验。包含极简的API定义和生成工具，可以一键生成Go, iOS, Android, Dart, TypeScript, JavaScript代码，并可直接运行。
+- [go-zero](https://github.com/tal-tech/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 - [qmgo](https://github.com/qiniu/qmgo) - Qmgo - The MongoDB driver for Go . It‘s based on official mongo-go-driver but easier to use like Mgo.
 - [go-limiter](https://github.com/sethvargo/go-limiter) - A supersonic rate limiting package for Go with HTTP middleware.
 - [grule-rule-engine](https://github.com/hyperjumptech/grule-rule-engine) - Rule engine implementation in Golang
@@ -650,7 +650,7 @@
 - [sentences](https://github.com/neurosnap/sentences) - A multilingual command line sentence tokenizer in Golang
 - [go-chat](https://github.com/ItsWewin/go-chat) - Golang 高并发聊天程序/go chat room
 - [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
-- [dep](https://github.com/golang/dep) - Go dependency management tool
+- [dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
 - [olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [zek](https://github.com/miku/zek) - Generate a Go struct from XML.
 - [homo](https://github.com/countstarlight/homo) - An open source natural interaction system based on offline wake-up, natural language understanding and sentiment analysis
@@ -2565,6 +2565,7 @@
 
 ## Python 
 
+- [autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
 - [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) - [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
 - [photo2cartoon](https://github.com/minivision-ai/photo2cartoon) - 人像卡通化探索项目 (photo-to-cartoon translation project)
@@ -2669,7 +2670,7 @@
 - [recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
-- [deep-learning-roadmap](https://github.com/machinelearningmindset/deep-learning-roadmap) - :satellite: All You Need to Know About Deep Learning - A kick-starter
+- [deep-learning-roadmap](https://github.com/instillai/deep-learning-roadmap) - :satellite: All You Need to Know About Deep Learning - A kick-starter
 - [redis-in-action](https://github.com/josiahcarlson/redis-in-action) - Example code from the book
 - [lianjia-scrawler](https://github.com/XuefengHuang/lianjia-scrawler) - 链家二手房租房在线数据，存量房交易服务平台数据，详细数据分析教程
 - [python-shortcuts](https://github.com/alexander-akhmetov/python-shortcuts) - Create Siri Shortcuts with Python
@@ -2792,6 +2793,7 @@
 
 ## Rust 
 
+- [display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
 - [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. (Rust)
 - [actix-extras](https://github.com/actix/actix-extras) - A collection of additional crates supporting the actix and actix-web frameworks.
 - [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
