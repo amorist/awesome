@@ -21,7 +21,6 @@
   - [Gnuplot](#gnuplot)
   - [Go](#go)
   - [Groovy](#groovy)
-  - [HCL](#hcl)
   - [HTML](#html)
   - [Haskell](#haskell)
   - [Java](#java)
@@ -87,7 +86,7 @@
 - [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering) - Reversing Google's 3D satellite mode
 - [webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
-- [nnn](https://github.com/jarun/nnn) - n³ The missing terminal file manager for X.
+- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, MQTT, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
@@ -184,7 +183,7 @@
 - [papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
-- [hugo-hero-theme](https://github.com/JugglerX/hugo-hero-theme) - A modern business theme for Hugo.
+- [hugo-hero-theme](https://github.com/zerostaticthemes/hugo-hero-theme) - A modern business theme for Hugo.
 - [hugo-lime](https://github.com/uicardiodev/hugo-lime) - Hugo Lime is a business theme for GoHugo by https://uicard.io
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [dragon](https://github.com/tomhodgins/dragon) - dragon.js is a bookmarklet that lets you drag any element on a website using a mouse or touchscreen. The goal is to speed up in-browser design critiques and brainstorming new layout ideas.
@@ -1099,10 +1098,6 @@
 ## Groovy 
 
 - [gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
-
-## HCL 
-
-- [k3s-cluster-ansible](https://github.com/k8s-at-home/k3s-cluster-ansible) - Bootstrap a k3s cluster running Ubuntu 18.04 to be managed by Flux
 
 ## HTML 
 
@@ -2300,6 +2295,7 @@
 - [live2d_models_collection](https://github.com/xiaoski/live2d_models_collection) - Collections of live2d models
 - [introRL](https://github.com/zhoubolei/introRL) - Intro to Reinforcement Learning (强化学习纲要）
 - [CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
+- [k3s-cluster-ansible](https://github.com/k8s-at-home/k3s-cluster-ansible) - Bootstrap a k3s cluster running Ubuntu 18.04 to be managed by Flux
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [Rules](https://github.com/lhie1/Rules) - 
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
