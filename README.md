@@ -1555,7 +1555,6 @@
 - [webpack-asset-relocator-loader](https://github.com/vercel/webpack-asset-relocator-loader) - Used in ncc while emitting and relocating any asset references
 - [create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [canvas-nest.js](https://github.com/hustcc/canvas-nest.js) - :cancer: Interactive Particle / Nest System With JavaScript and Canvas, no jQuery.
-- [vue-svgicon](https://github.com/MMF-FE/vue-svgicon) - A tool to create svg icon components. (vue 2.x). Using inline svg.
 - [color-thief](https://github.com/lokesh/color-thief) - Grab the color palette from an image using just Javascript.  Works in the browser and in Node.
 - [planck.js](https://github.com/shakiba/planck.js) - 2D JavaScript Physics Engine
 - [simple-virtual-dom](https://github.com/livoras/simple-virtual-dom) - Basic virtual-dom algorithm
@@ -1876,7 +1875,7 @@
 - [vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [tfjs-examples](https://github.com/tensorflow/tfjs-examples) - Examples built with TensorFlow.js
 - [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) - Magically convert a simple text input into a cool tag list with this jQuery plugin.
-- [security-wg](https://github.com/nodejs/security-wg) - Node.js Security Working Group
+- [security-wg](https://github.com/nodejs/security-wg) - Node.js Ecosystem Security Working Group
 - [popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
 - [is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [html-sketchapp](https://github.com/html-sketchapp/html-sketchapp) - HTML to Sketch export solution
@@ -2964,7 +2963,7 @@
 - [zebra-editor-core](https://github.com/acccco/zebra-editor-core) - 一款强大、现代的可视化编辑器。
 - [class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
 - [tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
-- [appsmith](https://github.com/appsmithorg/appsmith) - Appsmith is a web framework to build dashboards, workflows, forms, and any internal tool. The framework comes with UI widgets like tables, charts, forms, map viewer, and more. Easily connect to REST APIs, Postgres, Mongo, and MySQL. Invite users and allow login with Google accounts.
+- [appsmith](https://github.com/appsmithorg/appsmith) - A low code way to build dashboards, workflows, forms, and any internal tool.
 - [PT-Plugin-Plus](https://github.com/ronggang/PT-Plugin-Plus) - PT 助手 Plus，为 Google Chrome 和 Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
 - [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
 - [covid-alert-app](https://github.com/cds-snc/covid-alert-app) - Exposure notification client application / Application client de notification d'exposition
@@ -3164,6 +3163,7 @@
 - [vscode-gitlens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 - [vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [proxx](https://github.com/GoogleChromeLabs/proxx) - A game of proximity
+- [svgicon](https://github.com/MMF-FE/svgicon) - SVG icon components and tool set
 - [reakit](https://github.com/reakit/reakit) - Toolkit for building accessible rich web apps with React
 - [react-virtuoso](https://github.com/petyosi/react-virtuoso) - An elegant virtual list component for React
 - [bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
