@@ -45,6 +45,7 @@
   - [Rich Text Format](#rich-text-format)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [SRecode Template](#srecode-template)
   - [Scala](#scala)
   - [Shell](#shell)
@@ -220,7 +221,6 @@
 - [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
 - [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no JS)
 - [instagram.css](https://github.com/picturepan2/instagram.css) - Instagram.css - Complete set of Instagram filters in pure CSS
-- [for-the-badge](https://github.com/BraveUX/for-the-badge) - Badges for badges' sake.
 - [phugo](https://github.com/aerohub/phugo) - Phugo [ˈfjuːgəʊ] is a gallery/photoblog theme for Hugo.
 - [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) - The next generation Javascript WYSIWYG HTML Editor.
 - [ghost-material](https://github.com/nauzethc/ghost-material) - Material Design theme for Ghost blogging platform
@@ -229,7 +229,6 @@
 - [stack](https://github.com/nodeonly/stack) - Node.js年度技术栈推荐
 - [hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
 - [animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-- [bleak](https://github.com/zutrinken/bleak) - Ghost Theme
 - [icheck](https://github.com/fronteed/icheck) - Highly customizable checkboxes and radio buttons (jQuery & Zepto)
 
 ## CodeQL 
@@ -855,7 +854,7 @@
 - [Golang-Learn](https://github.com/kylesliu/Golang-Learn) - 💪本长仓库记录了我学习golang的过程包括算法，数据结构，基本操作等
 - [resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
 - [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
-- [gofeed](https://github.com/mmcdole/gofeed) - Parse RSS and Atom feeds in Go
+- [gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint.
 - [mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [govaluate](https://github.com/Knetic/govaluate) - Arbitrary expression evaluation for golang
@@ -1364,7 +1363,7 @@
 - [SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for rocket, core, capsule, pad, and launch data
 - [grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 - [Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js) - 这是一个数据可视化项目，能够将历史数据排名转化为动态柱状图图表
-- [keystone](https://github.com/keystonejs/keystone) - A scalable platform and CMS to build Node.js applications
+- [keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
 - [electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Context menu for your Electron app
 - [micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [ui](https://github.com/rancher/ui) - Rancher UI
@@ -2294,7 +2293,7 @@
 - [live2d_models_collection](https://github.com/xiaoski/live2d_models_collection) - Collections of live2d models
 - [introRL](https://github.com/zhoubolei/introRL) - Intro to Reinforcement Learning (强化学习纲要）
 - [CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
-- [k3s-cluster-ansible](https://github.com/k8s-at-home/k3s-cluster-ansible) - Bootstrap a k3s cluster running Ubuntu 18.04 to be managed by Flux
+- [k3s-cluster-ansible](https://github.com/k8s-at-home/k3s-cluster-ansible) - Bootstrap a k3s cluster to Debian or Ubuntu 20.04
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [Rules](https://github.com/lhie1/Rules) - 
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
@@ -2530,6 +2529,7 @@
 
 ## PHP 
 
+- [koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [ByteDance](https://github.com/OtkurBiz/ByteDance) - 字节跳动PHP SDK 抖音小程序、头条小程序开发组件。PHP SDK for bytedance (douyin, tiktok, toutiao)
 - [live2d_api](https://github.com/fghrsh/live2d_api) - Live2D 看板娘插件 (https://www.fghrsh.net/post/123.html) 上使用的后端 API
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
@@ -2817,6 +2817,11 @@
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+
+## SCSS 
+
+- [for-the-badge](https://github.com/BraveUX/for-the-badge) - Badges for badges' sake.
+- [bleak](https://github.com/zutrinken/bleak) - Ghost Theme 🚧 Unmaintained
 
 ## SRecode Template 
 
@@ -3230,7 +3235,7 @@
 - [GoogleTranslate](https://github.com/MoeFE/GoogleTranslate) - 🌐 Google 翻译 Mac 客户端
 - [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [datav](https://github.com/datadefeat/datav) - Datav is a data visualization platform, providing observability for metrics/logs/traces and big screen visualization
+- [datav](https://github.com/codecc-com/datav) - Datav is a data visualization platform, providing observability for metrics/logs/traces and big screen visualization
 - [docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [kactus](https://github.com/kactus-io/kactus) - :cactus: A true version control tool for designers
