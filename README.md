@@ -51,7 +51,6 @@
   - [Shell](#shell)
   - [Standard ML](#standard-ml)
   - [Swift](#swift)
-  - [TSQL](#tsql)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [VBA](#vba)
@@ -174,7 +173,6 @@
 - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [typora-cobalt-theme](https://github.com/elitistsnob/typora-cobalt-theme) - A dark theme for Typora with enhanced UI
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
-- [hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [pl-drag-template](https://github.com/livelyPeng/pl-drag-template) - 一个h5可视化编辑器项目
 - [json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 - [seeker](https://github.com/thewhiteh4t/seeker) - Accurately Locate Smartphones using Social Engineering
@@ -277,6 +275,7 @@
 
 - [container-action](https://github.com/actions/container-action) - 
 - [kubernetes-learning](https://github.com/cnych/kubernetes-learning) - 《从Docker到Kubernetes进阶课程》在线文档
+- [dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes
 - [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
 - [build-images](https://github.com/electron/build-images) - Base docker image used to build Electron on CI
 - [puppeteer-container](https://github.com/ianwalter/puppeteer-container) - A GitHub Action / Docker image for   Puppeteer, the Headless Chrome Node API
@@ -1108,6 +1107,7 @@
 - [jquery-svg](https://github.com/mberneti/jquery-svg) - A jQuery plugin to apply css styles and js scripts to a SVG which is embedded (using the &lt;object&gt; tag).
 - [svg_rob_code](https://github.com/rbur004/svg_rob_code) - SVG embedded in an HTML page. Implementation of Rings of Bytes Code
 - [ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
+- [hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [gorm.io](https://github.com/go-gorm/gorm.io) - GORM official site
 - [wechat-layout](https://github.com/netpi/wechat-layout) - 月薪 3W 的 Apple 微信编辑是这么发文章的 |如何发类似 Apple 微信公众号的文章效果
 - [json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
@@ -1263,7 +1263,7 @@
 - [three-ui](https://github.com/poki/three-ui) - UI solution for Three.js
 - [depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies
 - [ntfstool](https://github.com/ntfstool/ntfstool) - A ntfs tool for mac
-- [Otto](https://github.com/KartikChugh/Otto) - Otto makes machine learning an intuitive, natural language experience.🏆  Facebook AI Challenge winner ⭐️#1 Trending on MadeWithML.com⭐️   #4 Trending JS Project on GitHub ⭐️ #15 Trending (All Languages)
+- [Otto](https://github.com/KartikChugh/Otto) - Otto makes machine learning an intuitive, natural language experience. 🏆  Facebook AI Challenge winner ⭐️ #1 Trending on MadeWithML.com ⭐️ #4 Trending JavaScript Project on GitHub ⭐️ #15 Trending (All Languages) on GitHub
 - [macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [CRMEB](https://github.com/crmeb/CRMEB) - 开源微信公众号商城 小程序商城系统，带分销、拼团、秒杀、砍价、优惠券、积分等功能，前后端全部开源，更是一套方便二次开发的框架
 - [editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop) - Drag and Drop feature for Editor.js
@@ -2253,6 +2253,7 @@
 
 ## Others 
 
+- [awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [feedbackok-roadmap](https://github.com/egoist/feedbackok-roadmap) - Roadmap for FeedbackOK.com
 - [e-invoicing](https://github.com/alcoholwang/e-invoicing) - 上海地区中小企业电子发票申请及解决方案
@@ -2683,6 +2684,7 @@
 - [pywonderland](https://github.com/neozhaoliang/pywonderland) - A tour in the wonderland of math with python.
 - [chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 🎮 Chinese DOS games in browser.
 - [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
+- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. Only commercial support is available. With OpenCore + Big Sur support now!
 - [QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS) - QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币  数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案
 - [termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
 - [hub](https://github.com/tensorflow/hub) - A library for transfer learning by reusing parts of TensorFlow models.
@@ -2861,7 +2863,6 @@
 - [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [branch-cleanup-action](https://github.com/jessfraz/branch-cleanup-action) - A GitHub action to automatically delete the branch after a pull request has been merged.
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-- [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. Only commercial support is available. With OpenCore + Big Sur support now!
 - [kubernetes-tutorial](https://github.com/KeKe-Li/kubernetes-tutorial) - Running Kubernetes cluster Locally tutorial
 - [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [debian-sysroot-image-creator](https://github.com/electron/debian-sysroot-image-creator) - Scripts to create debian sysroot image for building electron
@@ -2941,10 +2942,6 @@
 - [touchbar_nyancat](https://github.com/avatsaev/touchbar_nyancat) - Stupid nyancat animation on your +$2k MacBook Pro's Touchbar
 - [iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
-
-## TSQL 
-
-- [dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes
 
 ## TeX 
 
@@ -3235,7 +3232,7 @@
 - [GoogleTranslate](https://github.com/MoeFE/GoogleTranslate) - 🌐 Google 翻译 Mac 客户端
 - [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [datav](https://github.com/codecc-com/datav) - Datav is a data visualization platform, providing observability for metrics/logs/traces and big screen visualization
+- [datav](https://github.com/CodeCreatively/datav) - Datav is a data visualization platform, providing observability for metrics/logs/traces and big screen visualization
 - [docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [kactus](https://github.com/kactus-io/kactus) - :cactus: A true version control tool for designers
