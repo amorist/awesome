@@ -132,7 +132,7 @@
 - [AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
 - [plato](https://github.com/Tencent/plato) - 腾讯高性能分布式图计算框架Plato
 - [node-report](https://github.com/nodejs/node-report) - Delivers a human-readable diagnostic summary, written to file.
-- [nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  For React NodeGui, visit: https://github.com/nodegui/react-nodegui ⚛️
+- [nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
 - [devilution-nx](https://github.com/lantus/devilution-nx) - Diablo for the Nintendo Switch
@@ -2271,6 +2271,7 @@
 - [renaming](https://github.com/github/renaming) - Guidance for changing the default branch name for GitHub repositories
 - [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
 - [blog](https://github.com/brickspert/blog) - 个人技术博客，博文写在 Issues 里。
+- [liandi](https://github.com/88250/liandi) - 📕 一款桌面端的 Markdown 块级引用和双向链接笔记应用，支持 Windows、Mac 和 Linux。A desktop Markdown Block-Reference and Bidirectional-Link note-taking application, supports Windows, Mac and Linux.
 - [archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
 - [Machine-Learning-Notes](https://github.com/Sophia-11/Machine-Learning-Notes) - 周志华《机器学习》手推笔记
 - [OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
@@ -2982,7 +2983,6 @@
 - [vueuse](https://github.com/antfu/vueuse) - 🧰 Collection of Composition API utils for Vue 2 and 3
 - [vercel-builder](https://github.com/nuxt/vercel-builder) - Vercel Builder for Nuxt.js
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev environment for building scalable, high-quality user interfaces
-- [liandi](https://github.com/88250/liandi) - 📕 一款桌面端的 Markdown 块级引用和双向链接笔记应用，支持 Windows、Mac 和 Linux。A desktop Markdown Block-Reference and Bidirectional-Link note-taking application, supports Windows, Mac and Linux.
 - [react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [vue-composition-toolkit](https://github.com/HcySunYang/vue-composition-toolkit) - 🔫 Vue3 Composition-API toolkit
 - [maho](https://github.com/egoist/maho) - Experimental framework for building server-rendered or static websites, powered by React and esbuild, hella fast.
@@ -3337,7 +3337,7 @@
 - [animal-crossing-trading-system](https://github.com/kastnerorz/animal-crossing-trading-system) - 🥬 《集合啦！动物森友会》的大头菜交易市场。
 - [ACNLPatternTool](https://github.com/Thulinma/ACNLPatternTool) - Animal Crossing: New Leaf Pattern Tool
 - [PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit) - 一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。
-- [eros](https://github.com/bmfe/eros) - 📱一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。
+- [eros](https://github.com/bmfe/eros) - 📱一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。【已停止维护】
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [kbone-ui](https://github.com/wechat-miniprogram/kbone-ui) - kbone-ui 是一套能同时支持 小程序(kbone) 和 vue 框架开发的多端 UI 库
 - [vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 💥 A simple and beautiful vuepress Blog & Doc theme.
