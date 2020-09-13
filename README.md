@@ -2824,7 +2824,7 @@
 ## SCSS 
 
 - [for-the-badge](https://github.com/BraveUX/for-the-badge) - Badges for badges' sake.
-- [bleak](https://github.com/zutrinken/bleak) - Ghost Theme 🚧 Unmaintained
+- [bleak](https://github.com/zutrinken/bleak) - Ghost Theme
 
 ## SRecode Template 
 
