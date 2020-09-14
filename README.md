@@ -179,7 +179,6 @@
 - [lit](https://github.com/ajusa/lit) - World's smallest responsive 🔥 css framework (395 bytes)
 - [magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
 - [98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
-- [papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [hugo-hero-theme](https://github.com/zerostaticthemes/hugo-hero-theme) - A modern business theme for Hugo.
@@ -1262,6 +1261,7 @@
 - [next-prismic-starter](https://github.com/cassidoo/next-prismic-starter) - 
 - [three-ui](https://github.com/poki/three-ui) - UI solution for Three.js
 - [depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies
+- [PT-Plugin-Plus](https://github.com/ronggang/PT-Plugin-Plus) - PT 助手 Plus，为 Google Chrome 和 Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
 - [ntfstool](https://github.com/ntfstool/ntfstool) - A ntfs tool for mac
 - [Otto](https://github.com/KartikChugh/Otto) - Otto makes machine learning an intuitive, natural language experience. 🏆  Facebook AI Challenge winner ⭐️ #1 Trending on MadeWithML.com ⭐️ #4 Trending JavaScript Project on GitHub ⭐️ #15 Trending (All Languages) on GitHub
 - [macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
@@ -1865,7 +1865,7 @@
 - [dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
 - [flamebearer](https://github.com/mapbox/flamebearer) - Blazing fast flame graph tool for V8 and Node 🔥
 - [electron-workers](https://github.com/bjrmatos/electron-workers) - Run electron scripts in managed workers :rocket:
-- [picojs](https://github.com/tehnokv/picojs) - A face detection library in 200 lines of JavaScript
+- [picojs](https://github.com/nenadmarkus/picojs) - A face detection library in 200 lines of JavaScript
 - [get-crowdin-file-ids](https://github.com/crowdin-node/get-crowdin-file-ids) - Generate deep links to your content on Crowdin
 - [notie](https://github.com/jaredreich/notie) - 🔔 a clean and simple notification, input, and selection suite for javascript, with no dependencies
 - [vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
@@ -2823,6 +2823,7 @@
 
 ## SCSS 
 
+- [papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [for-the-badge](https://github.com/BraveUX/for-the-badge) - Badges for badges' sake.
 - [bleak](https://github.com/zutrinken/bleak) - Ghost Theme
 
@@ -2967,7 +2968,6 @@
 - [class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
 - [tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 - [appsmith](https://github.com/appsmithorg/appsmith) - A low code way to build dashboards, workflows, forms, and any internal tool.
-- [PT-Plugin-Plus](https://github.com/ronggang/PT-Plugin-Plus) - PT 助手 Plus，为 Google Chrome 和 Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
 - [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
 - [covid-alert-app](https://github.com/cds-snc/covid-alert-app) - Exposure notification client application / Application client de notification d'exposition
 - [3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
