@@ -186,7 +186,6 @@
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [dragon](https://github.com/tomhodgins/dragon) - dragon.js is a bookmarklet that lets you drag any element on a website using a mouse or touchscreen. The goal is to speed up in-browser design critiques and brainstorming new layout ideas.
 - [layer.Cake](https://github.com/leram84/layer.Cake) - layer.Cake is working to combine several OSS projects in the personal media server space into a single continuous uniform app.
-- [InterImmBook](https://github.com/InterImm/InterImmBook) - :seedling: The Book of Interplanetary Civilization;星际移民之书.
 - [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
@@ -195,7 +194,6 @@
 - [weui-wxss](https://github.com/Tencent/weui-wxss) - A UI library by WeChat official design team, includes the most useful widgets/modules.
 - [css-animation-101](https://github.com/cssanimation/css-animation-101) - Learn how to bring animation to your web projects
 - [mononoki](https://github.com/madmalik/mononoki) - a programming typeface
-- [css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [ds-ipynb-zh](https://github.com/apachecn/ds-ipynb-zh) - :book:  [译] 数据科学 IPython 笔记本
 - [logo-maker](https://github.com/egoist/logo-maker) - create a simple logo..
 - [koy](https://github.com/djyde/koy) - Markdown previewer
@@ -461,7 +459,7 @@
 - [iis](https://github.com/coyove/iis) - 开源微博平台 Open source cloud powered microblog
 - [gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
-- [under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | golang.design/under-the-hood
+- [under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | https://golang.design/under-the-hood
 - [apm-agent-go](https://github.com/elastic/apm-agent-go) - Official Go agent for Elastic APM
 - [nats-http](https://github.com/derekcollison/nats-http) - Using HTTP Request and Response with NATS
 - [sqlvet](https://github.com/houqp/sqlvet) - Go fearless SQL. Sqlvet performs static analysis on raw SQL queries in your Go code base.
@@ -552,7 +550,7 @@
 - [jsonc](https://github.com/muhammadmuzzammil1998/jsonc) - JSON with comments for Go!
 - [godoctor](https://github.com/godoctor/godoctor) - Go Doctor - The Golang Refactoring Engine
 - [github-actions-golang](https://github.com/mvdan/github-actions-golang) - GitHub Actions as CI for Go
-- [go-plugins](https://github.com/micro/go-plugins) - Community maintained plugins for go-micro
+- [go-plugins](https://github.com/micro/go-plugins) - Plugins for external infrastructure dependencies
 - [falcon-plus](https://github.com/open-falcon/falcon-plus) - An open-source and enterprise-level monitoring system.
 - [go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
 - [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
@@ -1504,6 +1502,7 @@
 - [mongoose-sequence](https://github.com/ramiel/mongoose-sequence) - Sequence and autoincrement handling for mongoose
 - [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [portal-vue](https://github.com/LinusBorg/portal-vue) - A feature-rich Portal Plugin for Vuejs, for rendering DOM outside of a component, anywhere our app or the entire document.
+- [InterImmBook](https://github.com/InterImm/InterImmBook) - :seedling: The Book of Interplanetary Civilization;星际移民之书.
 - [github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) - GitHub do not ban us from open source world :iran:
 - [imouto](https://github.com/itorr/imouto) - 快速、明确、极简
 - [NodeJSWithTypescript](https://github.com/ErickWendel/NodeJSWithTypescript) - Generic Repository Pattern, Singleton, Multi-layer Architecture Pattern - Examples
@@ -1638,7 +1637,7 @@
 - [apollo](https://github.com/apollographql/apollo) - :rocket: Open source tools for GraphQL. Central repo for discussion.
 - [learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) - :closed_lock_with_key: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
 - [react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
-- [brain.js](https://github.com/BrainJS/brain.js) - 🤖 Neural networks in JavaScript
+- [brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [electron-store](https://github.com/sindresorhus/electron-store) - Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc
 - [wait-on](https://github.com/jeffbski/wait-on) - wait-on is a cross-platform command line utility and Node.js API which will wait for files, ports, sockets, and http(s) resources to become available
@@ -2432,7 +2431,7 @@
 - [LineStickersEditor](https://github.com/line-stickers/LineStickersEditor) - 
 - [Release](https://github.com/nodejs/Release) - Node.js Release Working Group
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
-- [Tvlist-awesome-m3u-m3u8](https://github.com/billy21/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
+- [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
 - [7-secret-patterns](https://github.com/chrisvfritz/7-secret-patterns) - 
 - [architecture.wechat-tencent](https://github.com/davideuler/architecture.wechat-tencent) - 互联网公司架构: 微信技术架构， 腾讯技术架构
 - [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
@@ -2824,6 +2823,7 @@
 ## SCSS 
 
 - [papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
+- [css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [for-the-badge](https://github.com/BraveUX/for-the-badge) - Badges for badges' sake.
 - [bleak](https://github.com/zutrinken/bleak) - Ghost Theme
 
@@ -3140,7 +3140,7 @@
 - [snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
-- [instagram-private-api](https://github.com/dilame/instagram-private-api) - NodeJS Instagram private API client. Written in TypeScript.
+- [instagram-private-api](https://github.com/dilame/instagram-private-api) - NodeJS Instagram private API SDK. Written in TypeScript.
 - [formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
 - [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) - Tasks for Azure Pipelines
 - [ide-props-editor](https://github.com/one-gourd/ide-props-editor) - 属性编辑器 ，demo https://one-gourd.github.io/ide-props-editor/
@@ -3181,7 +3181,7 @@
 - [editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
 - [gcoord](https://github.com/hujiulong/gcoord) - 地理坐标系转换工具，支持WGS84/GCJ02/BD09等常用坐标系互转
 - [code-server](https://github.com/cdr/code-server) - VS Code in the browser
-- [snowpack](https://github.com/pikapkg/snowpack) - The faster frontend build tool. Unbundled web development ✌️
+- [snowpack](https://github.com/pikapkg/snowpack) - A new kind of frontend build tool. Fast, lightweight, unbundled. ✌️
 - [vue-dev-server](https://github.com/vuejs/vue-dev-server) - A POC dev server that allows you to import `*.vue` files via native ES modules imports.
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
@@ -3232,7 +3232,7 @@
 - [GoogleTranslate](https://github.com/MoeFE/GoogleTranslate) - 🌐 Google 翻译 Mac 客户端
 - [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [datav](https://github.com/code-creatively/datav) - Datav is a data visualization platform, providing observability for metrics/logs/traces and big screen visualization
+- [datav](https://github.com/code-creatively/datav) - Datav is a data visualization platform, providing observability for metrics/logs/traces/big-screens, written in pure react and go.
 - [docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [kactus](https://github.com/kactus-io/kactus) - :cactus: A true version control tool for designers
