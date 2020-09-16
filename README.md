@@ -295,6 +295,7 @@
 
 ## Go 
 
+- [quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 - [webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
@@ -1308,7 +1309,7 @@
 - [svg-parser](https://github.com/Rich-Harris/svg-parser) - 
 - [node-sketch](https://github.com/oscarotero/node-sketch) - 💎 Javascript library to manipulate sketch files
 - [vue-demi](https://github.com/antfu/vue-demi) - 🎩 Creates Universal Library for Vue 2 & 3
-- [changelog-reader-action](https://github.com/mindsers/changelog-reader-action) - A Github action to read and get data from the CHANGELOG.md file 🚀
+- [changelog-reader-action](https://github.com/mindsers/changelog-reader-action) - A GitHub action to read and get data from the CHANGELOG.md file 🚀
 - [svgify](https://github.com/hughsk/svgify) - A browserify transform for requiring SVG files to embed directly in your code.
 - [animate_demo](https://github.com/Fzw-com/animate_demo) - 常用的动画效果。前端JS动画效果，包括封装js运动库，css3，html5，canvas，svg，移动端微信网页 主要的实例有通过原生js完成的各种运动效果，图片抖动，图片轮播，放大镜效果，图片拖拽，图片按需加载，手机滑屏效果，css3的3D效果，iPhone开机动画，苹果电脑鼠标移入放大效果， 画时钟，SVG3D模型等
 - [jeelizWeboji](https://github.com/jeeliz/jeelizWeboji) - JavaScript/WebGL real-time face tracking and expression detection library. Build your own emoticons animated in real time in the browser! SVG and THREE.js integration demos are provided.
@@ -1401,7 +1402,7 @@
 - [ci-detect](https://github.com/npm/ci-detect) - Detect what kind of CI environment the program is in
 - [waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
 - [geoapi](https://github.com/Risk3sixty-Labs/geoapi) - Lightweight API service to get geolocation data from IP addresses.
-- [iptv](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world
+- [iptv](https://github.com/iptv-org/iptv) - Collection of 4000+ publicly available IPTV channels from all over the world
 - [lambda-lite-js](https://github.com/moevis/lambda-lite-js) - a tiny FUNCITONAL LANGUAGE implemented by javascript. 一个函数式语言，使用 js 实现。
 - [bustag](https://github.com/gxtrobot/bustag) - a tag and recommend system for old bus driver 给老司机用的一个番号推荐系统
 - [blocks](https://github.com/blocks/blocks) - A JSX-based page builder for creating beautiful websites without writing code
@@ -1451,7 +1452,6 @@
 - [appmetrics](https://github.com/RuntimeTools/appmetrics) - Node Application Metrics provides a foundational infrastructure for collecting resource and performance monitoring data for Node.js-based applications.
 - [iconv-lite](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings in pure javascript.
 - [expressjs-k8s](https://github.com/alexellis/expressjs-k8s) - Express.js microservice with a Dockerfile, Kubernetes YAMLs and a non-root user
-- [image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
 - [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [data-directory](https://github.com/docs/data-directory) - 🌳 A Node.js module to recursively load a directory of YAML, JSON, and Markdown files into a JavaScript object.
 - [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
@@ -1523,7 +1523,7 @@
 - [TypeScript-React-Conversion-Guide](https://github.com/microsoft/TypeScript-React-Conversion-Guide) - A guide for converting a simple JavaScript/React project to TypeScript. Contains both before an after code with the step-by-step process in the README below.
 - [zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
 - [color](https://github.com/Qix-/color) - :rainbow: Javascript color conversion and manipulation library
-- [get-port](https://github.com/sindresorhus/get-port) - Get an available port
+- [get-port](https://github.com/sindresorhus/get-port) - Get an available TCP port
 - [broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.
 - [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app with Electron
@@ -3102,6 +3102,7 @@
 - [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0 (currently in RC)
 - [switch-desktop](https://github.com/ahkohd/switch-desktop) - Switch between your favourite apps lightning fast.
 - [got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
+- [image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [clerk](https://github.com/electron/clerk) - Verify PRs have release notes
 - [comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
