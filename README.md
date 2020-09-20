@@ -1111,7 +1111,7 @@
 - [wechat-layout](https://github.com/netpi/wechat-layout) - 月薪 3W 的 Apple 微信编辑是这么发文章的 |如何发类似 Apple 微信公众号的文章效果
 - [json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
 - [nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
-- [k3s-cluster-ansible](https://github.com/k8s-at-home/k3s-cluster-ansible) - Bootstrap a k3s cluster to Debian or Ubuntu 20.04
+- [k8s-cluster-k3s-ubuntu-ansible](https://github.com/onedr0p/k8s-cluster-k3s-ubuntu-ansible) - Bootstrap a k3s cluster to Debian or Ubuntu 20.04
 - [hiwifi.easucks](https://github.com/Paull/hiwifi.easucks) - 极路由器官方固件的插件，FIFA助手，SS，For 1.2.5-1.5.9
 - [nndl.github.io](https://github.com/nndl/nndl.github.io) - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
 - [catch-the-cat](https://github.com/xf11075/catch-the-cat) - 圈小猫canvas游戏
@@ -1278,7 +1278,6 @@
 - [lin-ui](https://github.com/TaleLin/lin-ui) - 🌈 简洁、易用、灵活的微信小程序组件库
 - [wx-charts](https://github.com/xiaolin3303/wx-charts) - 微信小程序图表charts组件，Charts for WeChat small app
 - [easy-monitor](https://github.com/hyj1991/easy-monitor) - 企业级 Node.js 应用性能监控与线上故障定位解决方案
-- [react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [build-tools](https://github.com/electron/build-tools) - The GN scripts to use for Electron dev-flows
 - [render-content](https://github.com/docs/render-content) - ✏️ Markdown and Liquid rendering pipeline for Node.js
 - [butterfly](https://github.com/alibaba/butterfly) - 🦋Butterfly，A JavaScript Diagramming library which concentrate on flow layout field
@@ -2982,6 +2981,7 @@
 - [alloy-worker](https://github.com/AlloyTeam/alloy-worker) - 面向事务的高可用 Web Worker 通信框架
 - [graphql-api-starter](https://github.com/egoist/graphql-api-starter) - GraphQL API starter.
 - [vueuse](https://github.com/antfu/vueuse) - 🧰 Collection of Composition API utils for Vue 2 and 3
+- [react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [vercel-builder](https://github.com/nuxt/vercel-builder) - Vercel Builder for Nuxt.js
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev environment for building scalable, high-quality user interfaces
 - [react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
@@ -3352,7 +3352,7 @@
 - [gods-pen](https://github.com/ymm-tech/gods-pen) - 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink.
 - [saber-theme-template](https://github.com/saberland/saber-theme-template) - A template for creating Saber theme.
 - [GitDataV](https://github.com/HongqingCao/GitDataV) - 基于Vue框架构建的github数据可视化平台
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 80k+ developers. https://hoppscotch.io
 - [OverVue](https://github.com/open-source-labs/OverVue) - Prototyping Tool For Vue Devs 适用于Vue的原型工具
 - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
 - [vuepress-plugin-code-switcher](https://github.com/padarom/vuepress-plugin-code-switcher) - :arrows_clockwise: Component that adds synchronized multi-language code blocks to your Vuepress sites
