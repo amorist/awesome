@@ -200,7 +200,6 @@
 - [unknwon.io](https://github.com/unknwon/unknwon.io) - 
 - [mit-18.06-linalg-notes](https://github.com/apachecn/mit-18.06-linalg-notes) - MIT 18.06 线性代数笔记
 - [machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) - Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
-- [conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [website](https://github.com/sharecuts/website) - A public repository of shortcuts for the Shortcuts app
 - [clock-shop](https://github.com/drawcall/clock-shop) - 🕙⏰🕰 Clock Shop is a website that collects beautiful clock codes
@@ -2824,6 +2823,7 @@
 
 - [papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [css](https://github.com/primer/css) - The CSS design system that powers GitHub
+- [conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [for-the-badge](https://github.com/BraveUX/for-the-badge) - Badges for badges' sake.
 - [bleak](https://github.com/zutrinken/bleak) - Ghost Theme
 
@@ -3099,7 +3099,7 @@
 - [tinacms](https://github.com/tinacms/tinacms) - Tina is a toolkit for building content management systems directly into websites made with React (Gatsby and Next.js)
 - [takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A free, open source notes app for the web.
 - [dts-gen](https://github.com/microsoft/dts-gen) - dts-gen creates starter TypeScript definition files for any module or library.
-- [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0 (currently in RC)
+- [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0
 - [switch-desktop](https://github.com/ahkohd/switch-desktop) - Switch between your favourite apps lightning fast.
 - [got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
