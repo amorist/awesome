@@ -735,7 +735,7 @@
 - [go2-book](https://github.com/chai2010/go2-book) - :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
-- [cortex](https://github.com/cortexlabs/cortex) - Model serving infrastructure for developers
+- [cortex](https://github.com/cortexlabs/cortex) - Model serving for developers
 - [tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
 - [gh-polls](https://github.com/apex/gh-polls) - Polls for user feedback in GitHub issues
@@ -1012,7 +1012,7 @@
 - [go-colorful](https://github.com/lucasb-eyer/go-colorful) - A library for playing with colors in go (golang).
 - [go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
 - [btree](https://github.com/google/btree) - 
-- [traefik](https://github.com/traefik/traefik) - The Cloud Native Edge Router
+- [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
 - [now](https://github.com/jinzhu/now) - Now is a time toolkit for golang
 - [envconfig](https://github.com/kelseyhightower/envconfig) - Golang library for managing configuration data from environment variables
@@ -1120,6 +1120,7 @@
 - [animated-deno-logo](https://github.com/denolib/animated-deno-logo) - Animated Deno Logo
 - [goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [jia](https://github.com/jia-inc/jia) - 
+- [kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
 - [hiwifi-ss](https://github.com/qiwihui/hiwifi-ss) - 极路由+ss配置
 - [github-multilingual](https://github.com/zeke/github-multilingual) - A robot powered training repository :robot:
 - [ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
@@ -1242,6 +1243,7 @@
 
 ## JavaScript 
 
+- [material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 - [OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook) - 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
 - [hackernews-daily](https://github.com/headllines/hackernews-daily) - Hacker News daily top 10 posts
 - [geojson-3d](https://github.com/maptime-ams/geojson-3d) - GeoJSON & TopoJSON in 3D, with Three.js
@@ -1860,7 +1862,7 @@
 - [gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 - [SorryPress](https://github.com/fritx/SorryPress) - Sorry动图 VuePress版
 - [update-electron-app](https://github.com/electron/update-electron-app) - 🌲 A drop-in module that adds autoUpdating capabilities to Electron apps
-- [dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
+- [dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API
 - [flamebearer](https://github.com/mapbox/flamebearer) - Blazing fast flame graph tool for V8 and Node 🔥
 - [electron-workers](https://github.com/bjrmatos/electron-workers) - Run electron scripts in managed workers :rocket:
 - [picojs](https://github.com/nenadmarkus/picojs) - A face detection library in 200 lines of JavaScript
@@ -2850,7 +2852,6 @@
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [github-sync](https://github.com/repo-sync/github-sync) - ⤵️ A GitHub Action for syncing current repository with remote
 - [one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
-- [kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
 - [vuepress-theme-bulma](https://github.com/nakorndev/vuepress-theme-bulma) - A pure Bulma.css theme for VuePress
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [chromium_os-raspberry_pi](https://github.com/FydeOS/chromium_os-raspberry_pi) - Build your Chromium OS for Raspberry Pi 3B/3B+/4B
