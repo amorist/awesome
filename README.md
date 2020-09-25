@@ -295,6 +295,9 @@
 
 ## Go 
 
+- [free5gc](https://github.com/free5gc/free5gc) - Open source 5G core network base on 3GPP R15
+- [golang-web-dev](https://github.com/GoesToEleven/golang-web-dev) - 
+- [determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and production-ready application development framework of golang.
 - [quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 - [webify](https://github.com/beefsack/webify) - Turn shell commands into web services
@@ -914,7 +917,7 @@
 - [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [vertigo](https://github.com/jhvst/vertigo) - Blog engine in Go (golang)
 - [strict-request](https://github.com/kozmos/strict-request) - Send strict HTTP Requests with Go
-- [micro](https://github.com/micro/micro) - Micro is a framework for cloud services development
+- [micro](https://github.com/micro/micro) - Micro is a platform for cloud services development
 - [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
@@ -956,7 +959,7 @@
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
 - [helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [DocHub](https://github.com/TruthHun/DocHub) - 参考百度文库，使用Beego（Golang）开发的开源文库系统
-- [night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Zoom and Bilibili｜Go 夜读｜由 SIG 成员维护｜通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
+- [night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜由 SIG 成员维护｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
 - [redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go
 - [dateparse](https://github.com/araddon/dateparse) - GoLang Parse many date strings without knowing format in advance.
 - [go-sitemap-generator](https://github.com/ikeikeikeike/go-sitemap-generator) - go-sitemap-generator is the easiest way to generate Sitemaps in Go
@@ -968,7 +971,7 @@
 - [gopub](https://github.com/linclin/gopub) - vue.js(element框架)+golang(beego框架)开发的运维发布系统,支持git,jenkins版本发布,go ssh,BT两种文件传输方式选择,支持部署前准备任务和部署后任务钩子函数
 - [gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL
 - [gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
-- [gse](https://github.com/go-ego/gse) - Go efficient text segmentation and NLP  @vcaesar; support english, chinese, japanese and other. Go 语言高性能分词
+- [gse](https://github.com/go-ego/gse) - Go efficient text segmentation and NLP; support english, chinese, japanese and other. Go 语言高性能分词
 - [gojay](https://github.com/francoispqt/gojay) - fastest JSON encoder/decoder with powerful stream API for Golang
 - [coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [go-nsq](https://github.com/nsqio/go-nsq) - The official Go package for NSQ
@@ -2018,7 +2021,7 @@
 - [prepack](https://github.com/facebook/prepack) - A JavaScript bundle optimizer.
 - [tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [incubator-echarts](https://github.com/apache/incubator-echarts) - A powerful, interactive charting and visualization library for browser
+- [incubator-echarts](https://github.com/apache/incubator-echarts) - A powerful, interactive charting and data visualization library for browser
 - [alfred-workflow-nodejs](https://github.com/giangvo/alfred-workflow-nodejs) - A small library providing helpers to create Alfred Workflow
 - [homebridge-homeassistant](https://github.com/home-assistant/homebridge-homeassistant) - DEPRECATED in favor of native HomeKit support. -  Homebridge plugin for Home Assistant
 - [Ghost-0.4.1-qiniu](https://github.com/ghostchina/Ghost-0.4.1-qiniu) - Ghost 0.4.1 版，支持七牛云存储。
