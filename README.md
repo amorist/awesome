@@ -296,6 +296,8 @@
 
 ## Go 
 
+- [dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
+- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
 - [arch](https://github.com/qiniu/arch) - 极客时间专栏《许式伟的架构课》相关的源代码：冯诺伊曼结构
 - [go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [free5gc](https://github.com/free5gc/free5gc) - Open source 5G core network base on 3GPP R15
@@ -1249,6 +1251,7 @@
 
 ## JavaScript 
 
+- [node-delegates](https://github.com/tj/node-delegates) - Nodejs method and accessor delegation utility
 - [jjb](https://github.com/sunoj/jjb) - 京价保（京价宝）—— 一个帮助你自动申请京东价格保护的chrome拓展
 - [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
@@ -1306,7 +1309,6 @@
 - [rick-and-morty-react](https://github.com/LeonidasEsteban/rick-and-morty-react) - 
 - [k8s-in-action](https://github.com/wuYin/k8s-in-action) - 《Kubernetes in Action 中文版》
 - [tinymce-all-in-one](https://github.com/PanJiaChen/tinymce-all-in-one) - Build all tinymce plugins into one js
-- [strapi-starter-nuxt-blog](https://github.com/strapi/strapi-starter-nuxt-blog) - Strapi Starter Nuxt Blog
 - [strapi-module](https://github.com/nuxt-community/strapi-module) - Strapi Module for NuxtJS
 - [react-popper](https://github.com/popperjs/react-popper) - 🍿⚛Official React library to use Popper, the positioning library
 - [jexcel](https://github.com/paulhodel/jexcel) - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
@@ -2713,7 +2715,6 @@
 - [Douyin-Bot](https://github.com/wangshub/Douyin-Bot) - 😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？
 - [easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow) - Simple and comprehensive tutorials in TensorFlow
 - [Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors) - 100+ Chinese Word Vectors 上百种预训练中文词向量
-- [futuquant](https://github.com/FutunnOpen/futuquant) - 富途开放API Python SDK（因更名废弃， 转到 py-futu-api ）
 - [Synonyms](https://github.com/chatopera/Synonyms) - :herb: 中文近义词：聊天机器人，智能问答工具包
 - [shadowbroker](https://github.com/misterch0c/shadowbroker) - The Shadow Brokers "Lost In Translation" leak
 - [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers
@@ -2897,6 +2898,8 @@
 
 ## Swift 
 
+- [TermiWatch](https://github.com/kuglee/TermiWatch) - Terminal Watch Face for Apple Watch
+- [swift-system](https://github.com/apple/swift-system) - 
 - [lottie-ios](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations
 - [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 - [Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
@@ -3343,6 +3346,7 @@
 - [node-vue-moba](https://github.com/topfullstack/node-vue-moba) - Node.js (Express.js) + Vue.js (Element UI) 全栈开发王者荣耀手机端官网和管理后台
 - [mpvue-wxParse](https://github.com/F-loat/mpvue-wxParse) - 📰适用于 Mpvue 的微信小程序富文本解析自定义组件
 - [mina-wear-mask](https://github.com/infinityu/mina-wear-mask) - 头像加口罩小程序 - 基于uniapp使用vue快速实现
+- [strapi-starter-nuxt-blog](https://github.com/strapi/strapi-starter-nuxt-blog) - Strapi Starter Nuxt Blog
 - [uni-ui](https://github.com/dcloudio/uni-ui) - 基于uni-app的ui框架
 - [vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - UI framework for vuestic-admin
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
