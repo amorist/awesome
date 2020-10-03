@@ -180,7 +180,6 @@
 - [lit](https://github.com/ajusa/lit) - World's smallest responsive 🔥 css framework (395 bytes)
 - [magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
 - [98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
-- [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [hugo-hero-theme](https://github.com/zerostaticthemes/hugo-hero-theme) - A modern business theme for Hugo.
 - [hugo-lime](https://github.com/uicardiodev/hugo-lime) - Hugo Lime is a business theme for GoHugo by https://uicard.io
@@ -2835,6 +2834,7 @@
 ## SCSS 
 
 - [papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
+- [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [for-the-badge](https://github.com/BraveUX/for-the-badge) - Badges for badges' sake.
@@ -2898,6 +2898,7 @@
 
 ## Swift 
 
+- [SlideController](https://github.com/touchlane/SlideController) - Swipe between pages with an interactive title navigation control. Configure horizontal or vertical chains for unlimited pages amount.
 - [TermiWatch](https://github.com/kuglee/TermiWatch) - Terminal Watch Face for Apple Watch
 - [swift-system](https://github.com/apple/swift-system) - 
 - [lottie-ios](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations
@@ -2969,6 +2970,7 @@
 
 ## TypeScript 
 
+- [remote](https://github.com/electron/remote) - Bridge JavaScript objects from the main process to the renderer process in Electron.
 - [vue-storefront](https://github.com/DivanteLtd/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Newest updates: https://blog.vuestorefront.io. Always Open Source, MIT license.
 - [grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
@@ -3330,6 +3332,7 @@
 
 ## Vue 
 
+- [vue-essential-slices](https://github.com/prismicio/vue-essential-slices) - A set of professionally made, accessible Vue components, linked to a (Prismic) backend
 - [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) - Replacement icons for popular apps in the style of macOS Big Sur
 - [vue-form-making](https://github.com/GavinZhuLei/vue-form-making) - A visual form designer/generator base on Vue.js, make form development simple and efficient.（基于Vue的可视化表单设计器，让表单开发简单而高效。）
 - [element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3.0 UI Library
