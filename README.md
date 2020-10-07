@@ -1899,7 +1899,7 @@
 - [tower_game](https://github.com/iamkun/tower_game) - 💒盖楼游戏 html5 canvas tower building game 🏢🏬🏦🏯🏰
 - [repos-using-electron](https://github.com/electron/repos-using-electron) - REPLACED BY https://github.com/electron/dependent-repos
 - [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome
-- [sketch-to-html](https://github.com/xinyu198736/sketch-to-html) - 从 sketch 转换成 html，已无更新。。
+- [sketch-to-html](https://github.com/yu-tou/sketch-to-html) - 从 sketch 转换成 html，已无更新。。
 - [vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 - [electron-single](https://github.com/egoist/electron-single) - Making your application a Single Instance Application
 - [flock](https://github.com/egoist/flock) - Minimalistic Twitter desktop client for managing multiple accounts.
@@ -2987,7 +2987,7 @@
 - [zebra-editor-core](https://github.com/acccco/zebra-editor-core) - 一款强大、现代的可视化编辑器。
 - [class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
 - [tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
-- [appsmith](https://github.com/appsmithorg/appsmith) - A low code way to build dashboards, workflows, forms, and any internal tool.
+- [appsmith](https://github.com/appsmithorg/appsmith) - Web framework to build dashboards, workflows, forms, and any internal tool. Connect UI to DB queries or APIs to build admin panels.
 - [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
 - [covid-alert-app](https://github.com/cds-snc/covid-alert-app) - Exposure notification client application / Application client de notification d'exposition
 - [3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
