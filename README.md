@@ -1343,7 +1343,7 @@
 - [settings](https://github.com/probot/settings) - Pull Requests for GitHub repository settings
 - [slice-machine](https://github.com/prismicio/slice-machine) - Common utilities to build Slice Machine libraries
 - [wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi
-- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) - 🚀vue-admin-beautiful是github开源admin中最优秀的集成框架之一，它是国内首个基于vue + antdv的开源admin项目，同时支持电脑，手机，平板
+- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) - 🚀🚀🚀vue-admin-beautiful是github开源admin中最优秀的集成框架之一，它是国内首个基于vue3.0 + antdv的开源admin项目，同时支持电脑，手机，平板，🔥🔥🔥默认分支使用vue3.x开发，master分支使用的是vue2.x开发
 - [content](https://github.com/nuxt/content) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
 - [qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
 - [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
