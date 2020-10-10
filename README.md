@@ -295,6 +295,9 @@
 
 ## Go 
 
+- [argo-events](https://github.com/argoproj/argo-events) - Event-driven workflow automation framework
+- [promscale](https://github.com/timescale/promscale) - An open-source analytical platform for Prometheus metrics 🚀
+- [server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
 - [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
 - [arch](https://github.com/qiniu/arch) - 极客时间专栏《许式伟的架构课》相关的源代码：冯诺伊曼结构
@@ -742,7 +745,7 @@
 - [go2-book](https://github.com/chai2010/go2-book) - :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
-- [cortex](https://github.com/cortexlabs/cortex) - Model serving for developers
+- [cortex](https://github.com/cortexlabs/cortex) - Model serving at scale
 - [tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
 - [gh-polls](https://github.com/apex/gh-polls) - Polls for user feedback in GitHub issues
@@ -921,7 +924,6 @@
 - [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [vertigo](https://github.com/jhvst/vertigo) - Blog engine in Go (golang)
 - [strict-request](https://github.com/kozmos/strict-request) - Send strict HTTP Requests with Go
-- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
 - [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
@@ -1275,7 +1277,7 @@
 - [depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies
 - [PT-Plugin-Plus](https://github.com/ronggang/PT-Plugin-Plus) - PT 助手 Plus，为 Google Chrome 和 Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
 - [ntfstool](https://github.com/ntfstool/ntfstool) - A ntfs tool for mac
-- [Otto](https://github.com/KartikChugh/Otto) - Otto makes machine learning an intuitive, natural language experience. 🏆  Facebook AI Challenge winner ⭐️ #1 Trending on MadeWithML.com ⭐️ #4 Trending JavaScript Project on GitHub ⭐️ #15 Trending (All Languages) on GitHub
+- [Otto](https://github.com/KartikChugh/Otto) - Otto makes machine learning an intuitive, natural language experience. 🏆  Facebook AI Hackathon winner ⭐️ #1 Trending on MadeWithML.com ⭐️ #4 Trending JavaScript Project on GitHub ⭐️ #15 Trending (All Languages) on GitHub
 - [macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [CRMEB](https://github.com/crmeb/CRMEB) - 开源微信公众号商城 小程序商城系统，带分销、拼团、秒杀、砍价、优惠券、积分等功能，前后端全部开源，更是一套方便二次开发的框架
 - [editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop) - Drag and Drop feature for Editor.js
@@ -1524,6 +1526,7 @@
 - [babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [vConsole](https://github.com/Tencent/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
+- [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
 - [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 - [ihuyi106js](https://github.com/XadillaX/ihuyi106js) - iHuyi 106 SMS sender for node.js.
 - [consolidate.js](https://github.com/tj/consolidate.js) - Template engine consolidation library for node.js
@@ -2265,6 +2268,7 @@
 
 ## Others 
 
+- [awful-ai](https://github.com/daviddao/awful-ai) - 😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness
 - [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2020
 - [siyuan](https://github.com/siyuan-note/siyuan) - 📕 思源笔记是一款 Markdown 块级引用和双向链接的网状笔记应用，支持 Windows、Mac 和 Linux，可在浏览器上直接使用，支持移动端适配。SiYuan is a desktop Markdown Block-Reference and Bidirectional-Link note-taking application, supports Windows, Mac and Linux, can be used directly on the browser, and supports mobile-end adaptation.
 - [awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
@@ -2830,6 +2834,7 @@
 - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
+- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 
 ## SCSS 
@@ -2971,6 +2976,7 @@
 
 ## TypeScript 
 
+- [headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [remote](https://github.com/electron/remote) - Bridge JavaScript objects from the main process to the renderer process in Electron.
 - [vue-storefront](https://github.com/DivanteLtd/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Newest updates: https://blog.vuestorefront.io. Always Open Source, MIT license.
 - [grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
@@ -3203,7 +3209,7 @@
 - [editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
 - [gcoord](https://github.com/hujiulong/gcoord) - 地理坐标系转换工具，支持WGS84/GCJ02/BD09等常用坐标系互转
 - [code-server](https://github.com/cdr/code-server) - VS Code in the browser
-- [snowpack](https://github.com/pikapkg/snowpack) - A new kind of frontend build tool. Fast, lightweight, unbundled. ✌️
+- [snowpack](https://github.com/pikapkg/snowpack) - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
 - [vue-dev-server](https://github.com/vuejs/vue-dev-server) - A POC dev server that allows you to import `*.vue` files via native ES modules imports.
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
@@ -3255,7 +3261,7 @@
 - [GoogleTranslate](https://github.com/MoeFE/GoogleTranslate) - 🌐 Google 翻译 Mac 客户端
 - [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [datav](https://github.com/code-creatively/datav) - Datav is a data visualization platform, providing observability for metrics/logs/traces/big-screens, written in pure react and go.
+- [datav](https://github.com/apm-ai/datav) - Datav is a data visualization platform, providing observability for metrics/logs/traces/big-screens, written in react and go.
 - [docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [kactus](https://github.com/kactus-io/kactus) - :cactus: A true version control tool for designers
@@ -3380,7 +3386,6 @@
 - [GitDataV](https://github.com/HongqingCao/GitDataV) - 基于Vue框架构建的github数据可视化平台
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 80k+ developers. https://hoppscotch.io
 - [OverVue](https://github.com/open-source-labs/OverVue) - Prototyping Tool For Vue Devs 适用于Vue的原型工具
-- [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
 - [vuepress-plugin-code-switcher](https://github.com/padarom/vuepress-plugin-code-switcher) - :arrows_clockwise: Component that adds synchronized multi-language code blocks to your Vuepress sites
 - [el-data-table](https://github.com/FEMessage/el-data-table) - 🥘Base on element-ui, makes crud easily
 - [vue-upload-component](https://github.com/lian-yue/vue-upload-component) - Vue.js file upload component, Multi-file upload, Upload directory, Drag upload, Drag the directory, Upload multiple files at the same time, html4 (IE 9), `PUT` method, Customize the filter
