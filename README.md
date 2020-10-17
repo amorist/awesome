@@ -296,6 +296,8 @@
 
 ## Go 
 
+- [compose-cli](https://github.com/docker/compose-cli) - Easily run your Compose application to the cloud with compose-cli
+- [cli](https://github.com/docker/cli) - The Docker CLI
 - [dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
 - [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
@@ -1043,7 +1045,7 @@
 - [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [schematyper](https://github.com/idubinskiy/schematyper) - Generates Go types based on JSON Schemas
 - [chanx](https://github.com/tidwall/chanx) - A simple interface wrapper around a Go channel.
-- [go-micro](https://github.com/asim/go-micro) - A Go standard library for microservices
+- [go-micro](https://github.com/asim/go-micro) - A Go microservices development framework
 - [gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [go-apla](https://github.com/AplaProject/go-apla) - A blockchain platform with a simplified programming language
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
@@ -2205,7 +2207,7 @@
 - [swift](https://github.com/tensorflow/swift) - Swift for TensorFlow
 - [tensorflow-docs](https://github.com/xitu/tensorflow-docs) - TensorFlow 最新官方文档中文版
 - [pydata-notebook](https://github.com/BrambleXu/pydata-notebook) - 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
-- [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - NLP and Text Generation in TensorFlow 2.x / 1.x
+- [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - NLP and Text Generation Experiments in TensorFlow 2.x / 1.x
 
 ## Kotlin 
 
@@ -2980,7 +2982,9 @@
 
 ## TypeScript 
 
-- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - A vue3.0,vue3, vite, antv2.x, typescript management system，Efforts to update in progress...
+- [cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
+- [FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
+- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨  vue-vben-admin2.0, A vue3.0,vue3, vite, antv2.x, typescript management system，Efforts to update in progress...
 - [headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [remote](https://github.com/electron/remote) - Bridge JavaScript objects from the main process to the renderer process in Electron.
 - [vue-storefront](https://github.com/DivanteLtd/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Newest updates: https://blog.vuestorefront.io. Always Open Source, MIT license.
@@ -3214,7 +3218,7 @@
 - [editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
 - [gcoord](https://github.com/hujiulong/gcoord) - 地理坐标系转换工具，支持WGS84/GCJ02/BD09等常用坐标系互转
 - [code-server](https://github.com/cdr/code-server) - VS Code in the browser
-- [snowpack](https://github.com/pikapkg/snowpack) - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
+- [snowpack](https://github.com/snowpackjs/snowpack) - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
 - [vue-dev-server](https://github.com/vuejs/vue-dev-server) - A POC dev server that allows you to import `*.vue` files via native ES modules imports.
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
