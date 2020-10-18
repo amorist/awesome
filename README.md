@@ -379,7 +379,7 @@
 - [pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
 - [httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working HTTP and HTTPS servers
 - [go-interface-examples](https://github.com/Evertras/go-interface-examples) - 
-- [rod](https://github.com/go-rod/rod) - A Devtools driver to make web automation and scraping easy
+- [rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
 - [safehtml](https://github.com/google/safehtml) - Safe HTML for Go
 - [baseplate.go](https://github.com/reddit/baseplate.go) - Reddit's Service Framework in Go
 - [svg-embed-font](https://github.com/BTBurke/svg-embed-font) - A tool to embed font files in SVG so they will render properly across all devices
@@ -1896,6 +1896,7 @@
 - [popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
 - [is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [html-sketchapp](https://github.com/html-sketchapp/html-sketchapp) - HTML to Sketch export solution
+- [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [issue-db](https://github.com/issue-db/issue-db) - ☁️ Use GitHub Issues as a JSON datastore
 - [adminMongo](https://github.com/mrvautin/adminMongo) - adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.
 - [ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App.
@@ -3296,7 +3297,6 @@
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [intelligo](https://github.com/intelligo-io/intelligo) - 🤖 Chatbot Framework for Node.js.
-- [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [propel](https://github.com/propelml/propel) - Differential Programming in JavaScript.
 - [sentry-electron](https://github.com/getsentry/sentry-electron) - The official Sentry SDK for Electron
 - [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
