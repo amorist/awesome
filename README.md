@@ -171,6 +171,7 @@
 
 ## CSS 
 
+- [heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
 - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [typora-cobalt-theme](https://github.com/elitistsnob/typora-cobalt-theme) - A dark theme for Typora with enhanced UI
@@ -281,6 +282,7 @@
 - [code-and-learn](https://github.com/nodejs/code-and-learn) - A series of workshop sprints for Node.js.
 - [docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 
 ## Eagle 
 
@@ -340,7 +342,7 @@
 - [spg](https://github.com/1Password/spg) - 1Password's Strong Password Generator - Go package
 - [fastrand](https://github.com/awnumar/fastrand) - 10x faster than crypto/rand. Uses securely allocated memory. Forked from https://gitlab.com/NebulousLabs/fastrand
 - [mist](https://github.com/asyncins/mist) - 超高性能且不受时间回拨影响的全局唯一 ID 生成算法，薄雾算法
-- [matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud and more with REST API (mattermost not required!)
+- [matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble and more with REST API (mattermost not required!)
 - [discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
 - [licensecheck](https://github.com/google/licensecheck) - The licensecheck package classifies license files and heuristically determines how well they correspond to known open source licenses.
@@ -2756,7 +2758,6 @@
 - [models](https://github.com/Sarasra/models) - Models and examples built with TensorFlow
 - [TopSup](https://github.com/Skyexu/TopSup) - 答题辅助决策：头号英雄等答题类游戏
 - [wechat_jump_game](https://github.com/wangshub/wechat_jump_game) - 微信《跳一跳》Python 辅助
-- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
@@ -2984,7 +2985,7 @@
 
 - [cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
 - [FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
-- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨  vue-vben-admin2.0, A vue3.0,vue3, vite, antv2.x, typescript management system，Efforts to update in progress...
+- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨ A vue3 style Admin based on Vite  vue3.0, vite, ant design vue 2.x, typescript，Efforts to update in progress...
 - [headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [remote](https://github.com/electron/remote) - Bridge JavaScript objects from the main process to the renderer process in Electron.
 - [vue-storefront](https://github.com/DivanteLtd/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Newest updates: https://blog.vuestorefront.io. Always Open Source, MIT license.
@@ -3376,7 +3377,7 @@
 - [DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
 - [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue.js Admin Template
 - [Workflow](https://github.com/StavinLi/Workflow) - 仿钉钉审批流程设置
-- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) - 🚀🚀🚀vue3.0,vue3,vue3.x,vue.js，github开源admin中最优秀的vue3.0集成框架之一，它是国内首个基于vue3.0 + antdv的开源admin项目，同时支持电脑，手机，平板，🔥🔥🔥默认分支使用vue3.x开发，master分支使用的是vue2.x开发
+- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) - 🚀🚀🚀vue3.0,vue3,vue3.x,vue.js,后台管理，github开源admin中最优秀的vue3.0集成框架之一，它是国内首个基于vue3.0 + antdv的开源admin项目，同时支持电脑，手机，平板，🔥🔥🔥vue3.0-antdv分支使用vue3.x开发，master分支使用的是vue2.x开发
 - [animal-crossing-trading-system](https://github.com/kastnerorz/animal-crossing-trading-system) - 🥬 《集合啦！动物森友会》的大头菜交易市场。
 - [ACNLPatternTool](https://github.com/Thulinma/ACNLPatternTool) - Animal Crossing: New Leaf Pattern Tool
 - [PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit) - 一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。
