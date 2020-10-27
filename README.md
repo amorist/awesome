@@ -119,6 +119,7 @@
 
 ## C++ 
 
+- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
 - [opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component  developed by WeChat.
 - [NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
@@ -297,6 +298,7 @@
 
 ## Go 
 
+- [b0pass](https://github.com/bitepeng/b0pass) - 百灵快传：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
 - [Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
 - [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [compose-cli](https://github.com/docker/compose-cli) - Easily run your Compose application to the cloud with compose-cli
@@ -470,7 +472,7 @@
 - [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 - [esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
 - [telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
-- [fiber](https://github.com/gofiber/fiber) - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
+- [fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [microservices](https://github.com/Allenxuxu/microservices) - micro 微服务实例教程，包含JWT鉴权、熔断、监控、链路追踪、健康检查、跨域等
 - [go-advice](https://github.com/cristaloleg/go-advice) - List of advice and tricks for Go  ʕ◔ϖ◔ʔ
 - [besticon](https://github.com/mat/besticon) - Favicon service written in Go
@@ -2437,7 +2439,6 @@
 - [handbook](https://github.com/basecamp/handbook) - Basecamp Employee Handbook
 - [book](https://github.com/KeKe-Li/book) - :books: All programming languages books
 - [ideas](https://github.com/probot/ideas) - Share ideas for new GitHub Apps built with Probot
-- [gonote](https://github.com/xmge/gonote) - 欢迎各位gopher一起来完善这份笔记，让更多的人能够了解go，学习go，使用go，热爱go.   :thumbsup:
 - [awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
 - [balanced-employee-ip-agreement](https://github.com/github/balanced-employee-ip-agreement) - GitHub's employee IP agreement, open sourced and reusable
 - [git-commit-emoji-cn](https://github.com/liuchengxu/git-commit-emoji-cn) - 😁 git commit message emoji 使用指南
@@ -2577,6 +2578,7 @@
 
 ## PowerShell 
 
+- [virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [PSBits](https://github.com/gtworek/PSBits) - Simple (relatively) things allowing you to dig a bit deeper than usual.
 - [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
 - [k8s-for-docker-desktop](https://github.com/AliyunContainerService/k8s-for-docker-desktop) - 为Docker Desktop for Mac/Windows开启Kubernetes和Istio - Enable Kubernetes/Istio on Docker Desktop in China
@@ -2589,6 +2591,7 @@
 
 ## Python 
 
+- [twitter-winner](https://github.com/lucasrangit/twitter-winner) - Twitter Winner
 - [big_screen](https://github.com/TurboWay/big_screen) - 数据大屏可视化
 - [autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
