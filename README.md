@@ -3237,7 +3237,8 @@
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
 - [react-native-webview](https://github.com/react-native-webview/react-native-webview) - React Native Cross-Platform WebView
-- [nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, Emotion, and Remark.
+- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
+- [nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.
 - [desktop-wallet](https://github.com/ArkEcosystem/desktop-wallet) - :computer: Multi Platform ARK Desktop Wallet
 - [vditor](https://github.com/b3log/vditor) - ♏ 一款浏览器端的 Markdown 编辑器。
 - [react-insta-stories](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
@@ -3408,7 +3409,7 @@
 - [gods-pen](https://github.com/ymm-tech/gods-pen) - 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink.
 - [saber-theme-template](https://github.com/saberland/saber-theme-template) - A template for creating Saber theme.
 - [GitDataV](https://github.com/HongqingCao/GitDataV) - 基于Vue框架构建的github数据可视化平台
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 80k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io
 - [OverVue](https://github.com/open-source-labs/OverVue) - Prototyping Tool For Vue Devs 适用于Vue的原型工具
 - [vuepress-plugin-code-switcher](https://github.com/padarom/vuepress-plugin-code-switcher) - :arrows_clockwise: Component that adds synchronized multi-language code blocks to your Vuepress sites
 - [el-data-table](https://github.com/FEMessage/el-data-table) - 🥘Base on element-ui, makes crud easily
@@ -3419,7 +3420,6 @@
 - [ColorUI](https://github.com/weilanwl/ColorUI) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
 - [logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 - [vue-json-tree-view](https://github.com/michaelfitzhavey/vue-json-tree-view) - A JSON Tree View Component for Vue.js
-- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
 - [ui](https://github.com/vuejs/ui) - 💻 UI components for official Vue organization apps
