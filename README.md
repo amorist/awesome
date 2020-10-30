@@ -298,6 +298,7 @@
 
 ## Go 
 
+- [systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
 - [b0pass](https://github.com/bitepeng/b0pass) - 百灵快传：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
 - [Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
 - [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
@@ -757,7 +758,7 @@
 - [go2-book](https://github.com/chai2010/go2-book) - :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
-- [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning in production
+- [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning models to production
 - [tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
 - [gh-polls](https://github.com/apex/gh-polls) - Polls for user feedback in GitHub issues
@@ -844,7 +845,7 @@
 - [aminal](https://github.com/liamg/aminal) - A modern cross-platform terminal emulator in Go
 - [autopprof](https://github.com/rakyll/autopprof) - Pprof made easy at development time for Go
 - [makisu](https://github.com/uber/makisu) - Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
-- [hydra](https://github.com/ory/hydra) - OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language.
+- [hydra](https://github.com/ory/hydra) - OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [go-nsq](https://github.com/youzan/go-nsq) - 
 - [qor](https://github.com/qor/qor) - QOR is a set of libraries written in Go that abstracts common features needed for business applications, CMSs, and E-commerce systems.
@@ -1198,7 +1199,7 @@
 - [mailgen](https://github.com/eladnava/mailgen) - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.
 - [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
-- [twitter-text](https://github.com/twitter/twitter-text) - Twitter Text Libraries
+- [twitter-text](https://github.com/twitter/twitter-text) - Twitter Text Libraries. These libraries are used internally at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 - [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [designiot](https://github.com/phodal/designiot) - 教你设计物联网系统。构建自己的Internet of Things 。
 - [repractise](https://github.com/phodal/repractise) - RePractise
@@ -1266,6 +1267,8 @@
 
 ## JavaScript 
 
+- [RiggingJs](https://github.com/haruiz/RiggingJs) - Tensorflow.js and Three.js skeletal animation tool
+- [vrs](https://github.com/vercel/vrs) - A serverless virtual reality e-commerce experience powered by Vercel
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [node-delegates](https://github.com/tj/node-delegates) - Nodejs method and accessor delegation utility
 - [jjb](https://github.com/sunoj/jjb) - 京价保（京价宝）—— 一个帮助你自动申请京东价格保护的chrome拓展
@@ -2992,6 +2995,8 @@
 
 ## TypeScript 
 
+- [static-fun](https://github.com/vercel/static-fun) - A fun demo for wildcard domains
+- [commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x) - The Homebridge UI. Monitor, configure and backup Homebridge from a browser.
 - [react-chrono](https://github.com/prabhuignoto/react-chrono) - Modern Timeline component for React
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
@@ -3225,7 +3230,7 @@
 - [faast.js](https://github.com/faastjs/faast.js) - Serverless batch computing made simple.
 - [actions-toolkit](https://github.com/JasonEtco/actions-toolkit) - 🛠 A toolkit for building GitHub Actions in Node.js
 - [ast-types](https://github.com/benjamn/ast-types) - Esprima-compatible implementation of the Mozilla JS Parser API
-- [htmlparser2](https://github.com/fb55/htmlparser2) - Forgiving html and xml parser
+- [htmlparser2](https://github.com/fb55/htmlparser2) - Forgiving HTML and XML parser
 - [vscode-ycy](https://github.com/formulahendry/vscode-ycy) - 超越鼓励师 for VS Code
 - [playroom](https://github.com/seek-oss/playroom) - Design with JSX, powered by your own component library.
 - [frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
