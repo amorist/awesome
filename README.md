@@ -311,7 +311,7 @@
 - [promscale](https://github.com/timescale/promscale) - An open-source analytical platform for Prometheus metrics 🚀
 - [server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
-- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
+- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [arch](https://github.com/qiniu/arch) - 极客时间专栏《许式伟的架构课》相关的源代码：冯诺伊曼结构
 - [go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [free5gc](https://github.com/free5gc/free5gc) - Open source 5G core network base on 3GPP R15
@@ -1050,7 +1050,7 @@
 - [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [schematyper](https://github.com/idubinskiy/schematyper) - Generates Go types based on JSON Schemas
 - [chanx](https://github.com/tidwall/chanx) - A simple interface wrapper around a Go channel.
-- [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed systems development.
+- [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed app development.
 - [gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [go-apla](https://github.com/AplaProject/go-apla) - A blockchain platform with a simplified programming language
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
