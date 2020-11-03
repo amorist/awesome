@@ -431,7 +431,7 @@
 - [arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line interface
 - [certstore](https://github.com/github/certstore) - Go library for using system certificate stores on macOS/Windows
 - [barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
-- [starter-kit](https://github.com/micro-in-cn/starter-kit) - Quick Go-Micro 快速开发包
+- [starter-kit](https://github.com/stack-labs/starter-kit) - Quick Go-Micro 快速开发包
 - [lute](https://github.com/88250/lute) - 🎼 一款对中文语境优化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
 - [cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [spin](https://github.com/egoist/spin) - A simple scaffolding tool.
@@ -724,7 +724,7 @@
 - [faygo](https://github.com/henrylee2cn/faygo) - Faygo is a fast and concise Go Web framework that can be used to develop high-performance web app(especially API) with fewer codes. Just define a struct handler, faygo will automatically bind/verify the request parameters and generate the online API doc.
 - [macaron](https://github.com/go-macaron/macaron) - Package macaron is a high productive and modular web framework in Go.
 - [dig](https://github.com/uber-go/dig) - A reflection based dependency injection toolkit for Go.
-- [tutorials](https://github.com/micro-in-cn/tutorials) - Micro/Go-Micro 中文示例、教程、资料，源码解读
+- [stack-rpc-tutorials](https://github.com/stack-labs/stack-rpc-tutorials) - Micro/Go-Micro 中文示例、教程、资料，源码解读
 - [space-cloud](https://github.com/spaceuptech/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
 - [go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [go-logging](https://github.com/op/go-logging) - Golang logging library
@@ -936,7 +936,7 @@
 - [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [vertigo](https://github.com/jhvst/vertigo) - Blog engine in Go (golang)
 - [strict-request](https://github.com/kozmos/strict-request) - Send strict HTTP Requests with Go
-- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native development
+- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native app development
 - [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
@@ -1199,7 +1199,7 @@
 - [mailgen](https://github.com/eladnava/mailgen) - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.
 - [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
-- [twitter-text](https://github.com/twitter/twitter-text) - Twitter Text Libraries. These libraries are used internally at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
+- [twitter-text](https://github.com/twitter/twitter-text) - Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 - [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [designiot](https://github.com/phodal/designiot) - 教你设计物联网系统。构建自己的Internet of Things 。
 - [repractise](https://github.com/phodal/repractise) - RePractise
@@ -1367,7 +1367,7 @@
 - [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
 - [Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
 - [hubs](https://github.com/mozilla/hubs) - Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.
-- [microcn-site](https://github.com/micro-in-cn/microcn-site) - Micro 中文站点
+- [microcn-site](https://github.com/stack-labs/microcn-site) - Micro 中文站点
 - [vue-h5-template](https://github.com/sunniejs/vue-h5-template) - :tada:vue搭建移动端开发,基于vue-cli4.0+webpack 4+vant ui + sass+ rem适配方案+axios封装，构建手机端模板脚手架
 - [draw](https://github.com/thesephist/draw) - Real-time collaborative whiteboard on the web
 - [pose-animator](https://github.com/yemount/pose-animator) - 
@@ -1913,7 +1913,7 @@
 - [quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [releases](https://github.com/electron/releases) - 📦 Complete and up-to-date info about every release of Electron
 - [gekko](https://github.com/askmike/gekko) - A bitcoin trading bot written in node - https://gekko.wizb.it/
-- [tower_game](https://github.com/iamkun/tower_game) - 💒盖楼游戏 html5 canvas tower building game 🏢🏬🏦🏯🏰
+- [tower_game](https://github.com/iamkun/tower_game) - 💒 盖楼游戏 html5 canvas tower building game 🏢🏬🏦🏯🏰
 - [repos-using-electron](https://github.com/electron/repos-using-electron) - REPLACED BY https://github.com/electron/dependent-repos
 - [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome
 - [sketch-to-html](https://github.com/yu-tou/sketch-to-html) - 从 sketch 转换成 html，已无更新。。
@@ -2284,7 +2284,7 @@
 
 - [awful-ai](https://github.com/daviddao/awful-ai) - 😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness
 - [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2020
-- [siyuan](https://github.com/siyuan-note/siyuan) - 📕 思源笔记是一款 Markdown 块级引用和双向链接的网状笔记应用，支持 Windows、Mac 和 Linux，可在浏览器上直接使用，支持移动端适配。SiYuan is a desktop Markdown Block-Reference and Bidirectional-Link note-taking application, supports Windows, Mac and Linux, can be used directly on the browser, and supports mobile-end adaptation.
+- [siyuan](https://github.com/siyuan-note/siyuan) - 📕 思源笔记是一款 Markdown 块级引用和双向链接的网状笔记应用，支持 Windows、Mac 和 Linux，可在浏览器上直接使用，支持移动端适配。SiYuan is a Markdown Block-Reference and Bidirectional-Link note-taking application, supports Windows, Mac and Linux, can be used directly on the browser, and supports mobile-end adaptation.
 - [awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [feedbackok-roadmap](https://github.com/egoist/feedbackok-roadmap) - Roadmap for FeedbackOK.com
@@ -2922,6 +2922,7 @@
 
 ## Swift 
 
+- [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [SlideController](https://github.com/touchlane/SlideController) - Swipe between pages with an interactive title navigation control. Configure horizontal or vertical chains for unlimited pages amount.
 - [TermiWatch](https://github.com/kuglee/TermiWatch) - Terminal Watch Face for Apple Watch
@@ -3021,7 +3022,7 @@
 - [zebra-editor-core](https://github.com/acccco/zebra-editor-core) - 一款强大、现代的可视化编辑器。
 - [class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
 - [tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
-- [appsmith](https://github.com/appsmithorg/appsmith) - Web framework to build dashboards, workflows, forms, and any internal tool. Connect UI to DB queries or APIs to build admin panels.
+- [appsmith](https://github.com/appsmithorg/appsmith) - A visual framework to build custom workflows, dashboards, and any internal tool. Integrate UI to your APIs, databases, and SAAS products in minutes!
 - [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
 - [covid-alert-app](https://github.com/cds-snc/covid-alert-app) - Exposure notification client application / Application client de notification d'exposition
 - [3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
@@ -3124,7 +3125,7 @@
 - [wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
 - [deno_storage](https://github.com/axetroy/deno_storage) - implementation of localStorage and sessionStorage for Deno
-- [XConf](https://github.com/micro-in-cn/XConf) - 分布式配置中心
+- [XConf](https://github.com/stack-labs/XConf) - 分布式配置中心
 - [electron-react-typescript](https://github.com/Robinfr/electron-react-typescript) - Electron boilerplate with React, Redux, and TypeScript
 - [checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [BoostNote.next](https://github.com/BoostIO/BoostNote.next) - An intuitive and stylish markdown note app for the developers.
@@ -3263,7 +3264,7 @@
 - [brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
-- [fluentui](https://github.com/microsoft/fluentui) - We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.
+- [fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [denopkg.com](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
