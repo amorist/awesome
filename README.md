@@ -298,6 +298,7 @@
 
 ## Go 
 
+- [stack-rpc](https://github.com/stack-labs/stack-rpc) - Golang RPC 开发框架
 - [systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
 - [b0pass](https://github.com/bitepeng/b0pass) - 百灵快传：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
 - [Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
@@ -451,7 +452,7 @@
 - [codenames](https://github.com/jbowens/codenames) - Play codenames online
 - [ion](https://github.com/pion/ion) - Distributed RTC System by pure Go and Flutter
 - [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System
-- [protoc-gen-go-micro](https://github.com/asim/protoc-gen-go-micro) - Protobuf code generation for Go Micro
+- [protoc-gen-go-micro](https://github.com/microhq/protoc-gen-go-micro) - Protobuf code generation for Go Micro
 - [cli](https://github.com/rancher/cli) - Rancher CLI
 - [kubeless](https://github.com/kubeless/kubeless) - Kubernetes Native Serverless Framework
 - [netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting
@@ -1529,7 +1530,7 @@
 - [docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [mongoose-sequence](https://github.com/ramiel/mongoose-sequence) - Sequence and autoincrement handling for mongoose
 - [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
-- [portal-vue](https://github.com/LinusBorg/portal-vue) - A feature-rich Portal Plugin for Vuejs, for rendering DOM outside of a component, anywhere our app or the entire document.
+- [portal-vue](https://github.com/LinusBorg/portal-vue) - A feature-rich Portal Plugin for Vue 2, for rendering DOM outside of a component, anywhere our app or the entire document.
 - [InterImmBook](https://github.com/InterImm/InterImmBook) - :seedling: The Book of Interplanetary Civilization;星际移民之书.
 - [github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) - GitHub do not ban us from open source world :iran:
 - [imouto](https://github.com/itorr/imouto) - 快速、明确、极简
@@ -1715,7 +1716,7 @@
 - [tray-example](https://github.com/kevinsawicki/tray-example) - Electron Tray Mac OS X Example App
 - [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug
 - [openmct](https://github.com/nasa/openmct) - A web based mission control framework.
-- [arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps
+- [arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
 - [wxa-plugin-canvas](https://github.com/jasondu/wxa-plugin-canvas) - 小程序海报组件-生成朋友圈分享海报并生成图片
 - [enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
 - [now-builders](https://github.com/vercel/now-builders) - Official Now Builders created by the ZEIT team
@@ -3022,7 +3023,7 @@
 - [zebra-editor-core](https://github.com/acccco/zebra-editor-core) - 一款强大、现代的可视化编辑器。
 - [class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
 - [tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
-- [appsmith](https://github.com/appsmithorg/appsmith) - A visual framework to build custom workflows, dashboards, and any internal tool. Integrate UI to your APIs, databases, and SAAS products in minutes!
+- [appsmith](https://github.com/appsmithorg/appsmith) - A web framework to build admin panels and internal tools.
 - [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
 - [covid-alert-app](https://github.com/cds-snc/covid-alert-app) - Exposure notification client application / Application client de notification d'exposition
 - [3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
@@ -3096,7 +3097,7 @@
 - [kanban-musume-desktop](https://github.com/amorist/kanban-musume-desktop) - Kanban Musume Desktop
 - [setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
 - [frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
-- [backstage](https://github.com/spotify/backstage) - Backstage is an open platform for building developer portals
+- [backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [required-labels-action](https://github.com/sugarshin/required-labels-action) - A GitHub Actions that automated label checking for pull requests
 - [craft.js](https://github.com/prevwong/craft.js) - 🚀 A React Framework for building extensible drag and drop page editors
@@ -3104,7 +3105,7 @@
 - [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - The source for REST API specifications for Microsoft Azure.
 - [shadowsocks-global](https://github.com/igoogolx/shadowsocks-global) - A VPN or proxy client for Windows
 - [ever](https://github.com/ever-co/ever) - Ever® - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
-- [gauzy](https://github.com/ever-co/gauzy) - Gauzy™ - Open-Source Business Management Platform (ERP/CRM) focused on Fairness and Transparency
+- [gauzy](https://github.com/ever-co/gauzy) - Gauzy™ - Open-Source Business Management Platform (ERP/CRM/HRM) focused on Fairness and Transparency
 - [react-native-netinfo](https://github.com/react-native-netinfo/react-native-netinfo) - React Native Network Info API for Android & iOS
 - [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [WebWindow](https://github.com/SteveSandersonMS/WebWindow) - .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental.
@@ -3397,7 +3398,7 @@
 - [DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
 - [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue.js Admin Template
 - [Workflow](https://github.com/StavinLi/Workflow) - 仿钉钉审批流程设置
-- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) - 🚀🚀🚀vue3.0,vue3,vue3.x,vue.js,后台管理，github开源admin中最优秀的vue3.0集成框架之一，它是国内首个基于vue3.0 + antdv的开源admin项目，同时支持电脑，手机，平板，🔥🔥🔥vue3.0-antdv分支使用vue3.x开发，master分支使用的是vue2.x开发
+- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) - 🚀🚀🚀vue3.0,vue3,vue3.x,vue.js,后台管理，github开源admin中最优秀的vue3.0集成框架之一，它是国内首个基于vue3.0 的开源admin项目，同时支持电脑，手机，平板，🔥🔥🔥vue3.0+antdv分支使用vue3.x开发，master分支使用的是vue2.x+element-ui开发
 - [animal-crossing-trading-system](https://github.com/kastnerorz/animal-crossing-trading-system) - 🥬 《集合啦！动物森友会》的大头菜交易市场。
 - [ACNLPatternTool](https://github.com/Thulinma/ACNLPatternTool) - Animal Crossing: New Leaf Pattern Tool
 - [PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit) - 一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。
