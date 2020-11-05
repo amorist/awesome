@@ -298,6 +298,7 @@
 
 ## Go 
 
+- [douyin](https://github.com/cnbattle/douyin) - 抖音推荐列表视频爬虫方案,基于app(虚拟机或真机) 相关技术 golang adb
 - [stack-rpc](https://github.com/stack-labs/stack-rpc) - Golang RPC 开发框架
 - [systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
 - [b0pass](https://github.com/bitepeng/b0pass) - 百灵快传：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
@@ -1268,6 +1269,7 @@
 
 ## JavaScript 
 
+- [notus-nextjs](https://github.com/creativetimofficial/notus-nextjs) - Notus NextJS: Free Tailwind CSS UI Kit and Admin
 - [RiggingJs](https://github.com/haruiz/RiggingJs) - Tensorflow.js and Three.js skeletal animation tool
 - [vrs](https://github.com/vercel/vrs) - A serverless virtual reality e-commerce experience powered by Vercel
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
@@ -1466,7 +1468,6 @@
 - [F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
 - [create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [electron-osx-sign](https://github.com/electron/electron-osx-sign) - Codesign Electron macOS apps
-- [remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建跨平台小程序
 - [i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
 - [comments-api](https://github.com/dev-mastery/comments-api) - 
 - [vue-interactive-paycard](https://github.com/muhammederdem/vue-interactive-paycard) - Credit card form with smooth and sweet micro-interactions
@@ -2594,6 +2595,7 @@
 
 ## Python 
 
+- [www.vnil.cn](https://github.com/videoparse-api/www.vnil.cn) - Vnil去水印服务(https://www.vnil.cn) 支持：抖音、快手、小红书、微博、剪映、西瓜视频、火山小视频、今日头条、微视、美拍、皮皮虾、Tiktok、火锅视频、快影、趣头条、QQ看点、好看视频、阳光宽频网、绿洲、美图秀秀、皮皮搞笑、instagram、刷宝、全民小视频、最右、Youtube、Bilibili、轻视频、陌陌视频、开眼、UC浏览器、茄子短视频、淘宝、小咖秀、京东、天猫、VUE、一淘、新片场、场库、秒拍、巴塞电影、WIDE、拼多多、逗拍、Keep、比心、灵感、1688、唯品会等超过50个平台的去水印解析服务。
 - [twitter-winner](https://github.com/lucasrangit/twitter-winner) - Twitter Winner
 - [big_screen](https://github.com/TurboWay/big_screen) - 数据大屏可视化
 - [autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
@@ -2923,6 +2925,7 @@
 
 ## Swift 
 
+- [SSCustomTabbar](https://github.com/SimformSolutionsPvtLtd/SSCustomTabbar) - Simple Animated tabbar with native control
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [SlideController](https://github.com/touchlane/SlideController) - Swipe between pages with an interactive title navigation control. Configure horizontal or vertical chains for unlimited pages amount.
@@ -2997,6 +3000,8 @@
 
 ## TypeScript 
 
+- [react-codemirror2](https://github.com/scniro/react-codemirror2) - Codemirror integrated components for React
+- [admin-bro](https://github.com/SoftwareBrothers/admin-bro) - AdminBro is an admin panel for apps written in node.js
 - [static-fun](https://github.com/vercel/static-fun) - A fun demo for wildcard domains
 - [commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x) - The Homebridge UI. Monitor, configure and backup Homebridge from a browser.
@@ -3149,6 +3154,7 @@
 - [BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React.
 - [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [swr](https://github.com/vercel/swr) - React Hooks library for remote data fetching
+- [remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建跨平台小程序
 - [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [github-funding-yml-updater](https://github.com/azu/github-funding-yml-updater) - Update multiple repositories's `.github/FUNDING.yml` via GitHub API
 - [saturn-datepicker](https://github.com/SaturnTeam/saturn-datepicker) - Angular Material Datepicker with range selection
