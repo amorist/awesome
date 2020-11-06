@@ -298,6 +298,8 @@
 
 ## Go 
 
+- [cors](https://github.com/rs/cors) - Go net/http configurable handler to handle CORS requests
+- [pterm](https://github.com/pterm/pterm) - ✨ A modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and many more 🚀 It's completely configurable and 100% cross-platform compatible.
 - [douyin](https://github.com/cnbattle/douyin) - 抖音推荐列表视频爬虫方案,基于app(虚拟机或真机) 相关技术 golang adb
 - [stack-rpc](https://github.com/stack-labs/stack-rpc) - Golang RPC 开发框架
 - [systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
@@ -505,7 +507,7 @@
 - [go-wechat](https://github.com/nilorg/go-wechat) - 💥weixin、wechat、微信公众平台 golang/go sdk
 - [go-spring](https://github.com/go-spring/go-spring) - 基于 IoC 的 Go 后端一站式开发框架 🚀
 - [bfe](https://github.com/bfenetworks/bfe) - A modern layer 7 load balancer from baidu
-- [faasd](https://github.com/openfaas/faasd) - faasd - Serverless for everyone else
+- [faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [leetcode](https://github.com/pengliheng/leetcode) - ✍
 - [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
@@ -1215,6 +1217,7 @@
 
 ## Java 
 
+- [react-native-otg-storage](https://github.com/scizers/react-native-otg-storage) - 
 - [BILIBILI-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER) - 利用GitHub Action定时任务实现B站，哔哩哔哩（Bilibili）每日自动投币，签到，银瓜子兑换硬币，领取大会员福利，大会员月底给自己充电等。每天轻松获取65经验值。赶快和我一起成为Lv6吧！
 - [PowerJob](https://github.com/KFCFans/PowerJob) - Powerful distributed job scheduling middleware that supports CRON, API, fixed frequency, fixed delay and other scheduling strategies, provides workflow to choreograph jobs to resolve dependencies, supports distributed computing of tasks, simple to use, powerful, well-documented, welcome you to use!
 - [WePush](https://github.com/rememberber/WePush) - 专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
@@ -1282,6 +1285,7 @@
 - [geojson-3d](https://github.com/maptime-ams/geojson-3d) - GeoJSON & TopoJSON in 3D, with Three.js
 - [portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
+- [fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
 - [container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using https://github.com/actions/toolkit/
 - [react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
 - [youtube-clone-nodejs-api](https://github.com/techreagan/youtube-clone-nodejs-api) - VueTube is a YouTube clone built with nodejs, expressjs & mongodb. This is the RESTful API repository.
@@ -2925,6 +2929,8 @@
 
 ## Swift 
 
+- [iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) - 🇨🇳 老司机 iOS 周报
+- [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X
 - [SSCustomTabbar](https://github.com/SimformSolutionsPvtLtd/SSCustomTabbar) - Simple Animated tabbar with native control
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
@@ -3019,7 +3025,6 @@
 - [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - (H5编辑器)H5-Dooring是一款功能强大，开源免费的H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react为主， 后台采用nodejs开发.
 - [taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
 - [logbox](https://github.com/egoist/logbox) - View console logs and errors on any website without opening the devtools
-- [fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
 - [kittenTricks](https://github.com/akveo/kittenTricks) - React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
 - [feedbackok-react](https://github.com/egoist/feedbackok-react) - React component for Feedback OK.
 - [feedbackok-js](https://github.com/egoist/feedbackok-js) - Collecting feedback with ease.
@@ -3396,7 +3401,7 @@
 - [mina-wear-mask](https://github.com/infinityu/mina-wear-mask) - 头像加口罩小程序 - 基于uniapp使用vue快速实现
 - [strapi-starter-nuxt-blog](https://github.com/strapi/strapi-starter-nuxt-blog) - Strapi Starter Nuxt Blog
 - [uni-ui](https://github.com/dcloudio/uni-ui) - 基于uni-app的ui框架
-- [vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - UI framework for vuestic-admin
+- [vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Vuestic UI Framework
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
 - [ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!
