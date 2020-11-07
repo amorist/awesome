@@ -193,7 +193,6 @@
 - [water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 - [devices.css](https://github.com/picturepan2/devices.css) - Devices.css - Modern devices in pure CSS
 - [argon-design-system](https://github.com/creativetimofficial/argon-design-system) - Argon - Design System for Bootstrap 4 by Creative Tim
-- [weui-wxss](https://github.com/Tencent/weui-wxss) - A UI library by WeChat official design team, includes the most useful widgets/modules.
 - [css-animation-101](https://github.com/cssanimation/css-animation-101) - Learn how to bring animation to your web projects
 - [mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 - [ds-ipynb-zh](https://github.com/apachecn/ds-ipynb-zh) - :book:  [译] 数据科学 IPython 笔记本
@@ -562,7 +561,7 @@
 - [zenpress](https://github.com/insionng/zenpress) - Zenpress is a cms system of written in golang
 - [golang-set](https://github.com/deckarep/golang-set) - A simple set type for the Go language. Also used by Docker, 1Password, Ethereum.
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [goja](https://github.com/dop251/goja) - ECMAScript 5.1(+) implementation written in Go
+- [goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
 - [go-starter-kit](https://github.com/olebedev/go-starter-kit) - Golang isomorphic react/hot reloadable/redux/css-modules/SSR  starter kit
 - [xlsx](https://github.com/tealeg/xlsx) - Go (golang) library for reading and writing XLSX files.
 - [docker-volume-sshfs](https://github.com/vieux/docker-volume-sshfs) - sshfs docker volume plugin
@@ -1339,7 +1338,6 @@
 - [json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
 - [electron-typescript-react](https://github.com/diego3g/electron-typescript-react) - :electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.
 - [react-device-detect](https://github.com/duskload/react-device-detect) - Detect device, and render view according to detected device type.
-- [gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [iscroll](https://github.com/cubiq/iscroll) - Smooth scrolling for the web
 - [elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
 - [lottie-api](https://github.com/bodymovin/lottie-api) - A library to edit lottie-web animations dynamically
@@ -1435,7 +1433,7 @@
 - [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [sentineljs](https://github.com/muicss/sentineljs) - Detect new DOM nodes using CSS selectors (650 bytes)
 - [nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
-- [concent](https://github.com/concentjs/concent) - Definitely the ❤️ simplest but ⚡️ strongest state management for react, it is predictable、progressive and efficient.
+- [concent](https://github.com/concentjs/concent) - State management tailored for react, it is simple、predictable、progressive and efficient.
 - [ci-detect](https://github.com/npm/ci-detect) - Detect what kind of CI environment the program is in
 - [waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
 - [geoapi](https://github.com/Risk3sixty-Labs/geoapi) - Lightweight API service to get geolocation data from IP addresses.
@@ -1532,6 +1530,7 @@
 - [mc.js](https://github.com/ian13456/mc.js) - Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS.
 - [gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
 - [piano](https://github.com/Wscats/piano) - 🎹用键盘8个键演奏一首蒲公英的约定送给自己或月亮代表我的心送给她
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [mongoose-sequence](https://github.com/ramiel/mongoose-sequence) - Sequence and autoincrement handling for mongoose
 - [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
@@ -2233,6 +2232,7 @@
 
 ## Less 
 
+- [weui-wxss](https://github.com/Tencent/weui-wxss) - A UI library by WeChat official design team, includes the most useful widgets/modules.
 - [iview-weapp](https://github.com/TalkingData/iview-weapp) - 一套高质量的微信小程序 UI 组件库
 
 ## Lua 
@@ -2621,6 +2621,7 @@
 - [hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [MixPoet](https://github.com/THUNLP-AIPoet/MixPoet) - Source codes of MixPoet: Diverse Poetry Generation via Learning Controllable Mixed Latent Space (AAAI 2020)
 - [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
+- [gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [sound_separation](https://github.com/JustKowalski/sound_separation) - 
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [pifuhd](https://github.com/facebookresearch/pifuhd) - High-Resolution 3D Human Digitization from A Single Image.
@@ -3199,7 +3200,6 @@
 - [starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [graphql-cli](https://github.com/Urigo/graphql-cli) - 📟  Command line tool for common GraphQL development workflows
 - [fullstack-tutorial](https://github.com/apollographql/fullstack-tutorial) - 🚀 The Apollo platform tutorial app
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [playground](https://github.com/tensorflow/playground) - Play with neural networks!
 - [prisma](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
