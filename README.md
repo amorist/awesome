@@ -1216,6 +1216,7 @@
 
 ## Java 
 
+- [wx-api](https://github.com/niefy/wx-api) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
 - [react-native-otg-storage](https://github.com/scizers/react-native-otg-storage) - 
 - [BILIBILI-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER) - 利用GitHub Action定时任务实现B站，哔哩哔哩（Bilibili）自动签到每日自动投币，银瓜子兑换硬币，领取大会员福利，大会员月底给自己充电等。每天轻松获取65经验值。赶快和我一起成为Lv6吧！
 - [PowerJob](https://github.com/KFCFans/PowerJob) - Powerful distributed job scheduling middleware that supports CRON, API, fixed frequency, fixed delay and other scheduling strategies, provides workflow to choreograph jobs to resolve dependencies, supports distributed computing of tasks, simple to use, powerful, well-documented, welcome you to use!
@@ -1271,6 +1272,7 @@
 
 ## JavaScript 
 
+- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [notus-nextjs](https://github.com/creativetimofficial/notus-nextjs) - Notus NextJS: Free Tailwind CSS UI Kit and Admin
 - [RiggingJs](https://github.com/haruiz/RiggingJs) - Tensorflow.js and Three.js skeletal animation tool
 - [vrs](https://github.com/vercel/vrs) - A serverless virtual reality e-commerce experience powered by Vercel
@@ -1326,7 +1328,6 @@
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [juice](https://github.com/Automattic/juice) - Juice inlines CSS stylesheets into your HTML source.
 - [markdown-resume](https://github.com/mdnice/markdown-resume) - :necktie:支持 Markdown 和富文本的在线简历排版工具
-- [github-annual-report](https://github.com/guanpengchn/github-annual-report) - :gift:快！你的 2019 年 GitHub 报告还未领取！（推荐移动端观看）
 - [BlogHelper](https://github.com/onblog/BlogHelper) - 帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）
 - [markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 Markdown 编辑器，让排版变 Nice
 - [rick-and-morty-react](https://github.com/LeonidasEsteban/rick-and-morty-react) - 
@@ -3166,7 +3167,7 @@
 - [saturn-datepicker](https://github.com/SaturnTeam/saturn-datepicker) - Angular Material Datepicker with range selection
 - [time-elements](https://github.com/github/time-elements) - Web component extensions to the standard &lt;time&gt; element.
 - [tinacms](https://github.com/tinacms/tinacms) - Tina is a toolkit for building content management systems directly into websites made with React (Gatsby and Next.js)
-- [takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A free, open-source notes app for the web. (Demo only)
+- [takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers. (Demo only)
 - [dts-gen](https://github.com/microsoft/dts-gen) - dts-gen creates starter TypeScript definition files for any module or library.
 - [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3
 - [switch-desktop](https://github.com/ahkohd/switch-desktop) - Switch between your favourite apps lightning fast.
@@ -3281,7 +3282,7 @@
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - TypeScript Deep Dive 中文版
-- [devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 95% code sharing between them
+- [devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit) - A lightweight magic-move library for configurable layout transitions
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
