@@ -260,6 +260,7 @@
 
 ## Dart 
 
+- [RealRichText](https://github.com/bytedance/RealRichText) - A Tricky Solution for Implementing Inline-Image-In-Text Feature in Flutter.
 - [awesomefluttertips](https://github.com/erluxman/awesomefluttertips) - ❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️
 - [bangumi-client](https://github.com/limichange/bangumi-client) - 基于Flutter的二次元追番客户端
 - [getwidget](https://github.com/ionicfirebaseapp/getwidget) - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
@@ -297,6 +298,7 @@
 
 ## Go 
 
+- [simple-sso](https://github.com/samitpal/simple-sso) - Single sign on service with authorization capabilities written in Go (aka golang).
 - [cors](https://github.com/rs/cors) - Go net/http configurable handler to handle CORS requests
 - [pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and many more 🚀 It's completely configurable and 100% cross-platform compatible.
 - [douyin](https://github.com/cnbattle/douyin) - 抖音推荐列表视频爬虫方案,基于app(虚拟机或真机) 相关技术 golang adb
@@ -454,7 +456,7 @@
 - [codenames](https://github.com/jbowens/codenames) - Play codenames online
 - [ion](https://github.com/pion/ion) - Distributed RTC System by pure Go and Flutter
 - [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System
-- [protoc-gen-nitro](https://github.com/asim/protoc-gen-nitro) - Protobuf code generation for Go Micro
+- [protoc-gen-nitro](https://github.com/asim/protoc-gen-nitro) - Protobuf code generation for Nitro
 - [cli](https://github.com/rancher/cli) - Rancher CLI
 - [kubeless](https://github.com/kubeless/kubeless) - Kubernetes Native Serverless Framework
 - [netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting
@@ -1272,6 +1274,9 @@
 
 ## JavaScript 
 
+- [xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
+- [danmu.js](https://github.com/bytedance/danmu.js) - HTML5 danmu (danmaku) plugin for any DOM element
+- [faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [notus-nextjs](https://github.com/creativetimofficial/notus-nextjs) - Notus NextJS: Free Tailwind CSS UI Kit and Admin
 - [RiggingJs](https://github.com/haruiz/RiggingJs) - Tensorflow.js and Three.js skeletal animation tool
@@ -1321,7 +1326,7 @@
 - [butterfly](https://github.com/alibaba/butterfly) - 🦋Butterfly，A JavaScript Diagramming library which concentrate on flow layout field
 - [vue3-figma-plugin-starter](https://github.com/HcySunYang/vue3-figma-plugin-starter) - 
 - [node-react-ecommerce](https://github.com/basir/node-react-ecommerce) - Build ECommerce Website Like Amazon By React & Node & MongoDB
-- [DPlayer](https://github.com/MoePlayer/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
+- [DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -1962,7 +1967,6 @@
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。    阿里招 Python P6/P7 上海张江, gaojunqi@outlook.com
 - [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [viron](https://github.com/cam-inc/viron) - ☕️ Automated Design-based Management Console.
-- [ice](https://github.com/alibaba/ice) - 🚀  Simple and friendly front-end development system（飞冰，简单而友好的前端研发体系 ）https://ice.work/
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [pdf-viewer](https://github.com/electron/pdf-viewer) - Fork of Chrome pdf extension to work as webui page in Electron
 - [FlyingChat](https://github.com/hstarorg/FlyingChat) - 即时聊天系统
@@ -2050,7 +2054,6 @@
 - [prepack](https://github.com/facebook/prepack) - A JavaScript bundle optimizer.
 - [tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [incubator-echarts](https://github.com/apache/incubator-echarts) - A powerful, interactive charting and data visualization library for browser
 - [alfred-workflow-nodejs](https://github.com/giangvo/alfred-workflow-nodejs) - A small library providing helpers to create Alfred Workflow
 - [homebridge-homeassistant](https://github.com/home-assistant/homebridge-homeassistant) - DEPRECATED in favor of native HomeKit support. -  Homebridge plugin for Home Assistant
 - [Ghost-0.4.1-qiniu](https://github.com/ghostchina/Ghost-0.4.1-qiniu) - Ghost 0.4.1 版，支持七牛云存储。
@@ -3063,7 +3066,7 @@
 - [auth-module](https://github.com/nuxt-community/auth-module) - 🔑 Zero-boilerplate authentication support for Nuxt
 - [gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
 - [lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas
-- [tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily add particles animations to your website. Compatible also with React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno
+- [tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable particle animations and use them as animated backgrounds for your website. Ready to use components available for React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno.
 - [gatsby-starter-theme-antv](https://github.com/antvis/gatsby-starter-theme-antv) - ⚛️  Gatsby's starter of 👉
 - [basic-adapter](https://github.com/node-casbin/basic-adapter) - A basic adapter supports pg, sqlite3, mysql, mysql2, oracledb and mssql.
 - [rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire: (under development)
@@ -3338,6 +3341,7 @@
 - [pandora](https://github.com/midwayjs/pandora) - A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
 - [i18n](https://github.com/electron/i18n) - 🌍 The home of Electron's translated documentation
 - [vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
+- [ice](https://github.com/alibaba/ice) - 🚀  Simple and friendly front-end development system（飞冰，简单而友好的前端研发体系 ）https://ice.work/
 - [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
@@ -3351,6 +3355,7 @@
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [react-page](https://github.com/react-page/react-page) - Next-gen, highly customizable content editor for the browser - based on React and Redux and written in TypeScript. WYSIWYG on steroids.
 - [windows-installer](https://github.com/electron/windows-installer) - Build Windows Installers for Electron apps
+- [incubator-echarts](https://github.com/apache/incubator-echarts) - A powerful, interactive charting and data visualization library for browser
 - [HAP-NodeJS](https://github.com/homebridge/HAP-NodeJS) - Node.js implementation of the HomeKit Accessory Protocol (HAP)
 - [homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient
 - [ioredis](https://github.com/luin/ioredis) - 🚀 A robust, performance-focused and full-featured Redis client for Node.js.
