@@ -201,7 +201,7 @@
 - [unknwon.io](https://github.com/unknwon/unknwon.io) - 
 - [mit-18.06-linalg-notes](https://github.com/apachecn/mit-18.06-linalg-notes) - MIT 18.06 线性代数笔记
 - [machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) - Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
-- [algo-zh](https://github.com/apachecn/algo-zh) - 结构化算法刷题训练指南
+- [apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集
 - [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [website](https://github.com/sharecuts/website) - A public repository of shortcuts for the Shortcuts app
 - [clock-shop](https://github.com/drawcall/clock-shop) - 🕙⏰🕰 Clock Shop is a website that collects beautiful clock codes
@@ -1055,7 +1055,7 @@
 - [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [schematyper](https://github.com/idubinskiy/schematyper) - Generates Go types based on JSON Schemas
 - [chanx](https://github.com/tidwall/chanx) - A simple interface wrapper around a Go channel.
-- [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed app development.
+- [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed app development, IoT, edge and p2p.
 - [gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [go-apla](https://github.com/AplaProject/go-apla) - A blockchain platform with a simplified programming language
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
@@ -2602,6 +2602,7 @@
 
 ## Python 
 
+- [macadmin-scripts](https://github.com/munki/macadmin-scripts) - Scripts of possible interest to macOS admins
 - [www.vnil.cn](https://github.com/videoparse-api/www.vnil.cn) - Vnil去水印服务(https://www.vnil.cn) 支持：抖音、快手、小红书、微博、剪映、西瓜视频、火山小视频、今日头条、微视、美拍、皮皮虾、Tiktok、火锅视频、快影、趣头条、QQ看点、好看视频、阳光宽频网、绿洲、美图秀秀、皮皮搞笑、instagram、刷宝、全民小视频、最右、Youtube、Bilibili、轻视频、陌陌视频、开眼、UC浏览器、茄子短视频、淘宝、小咖秀、京东、天猫、VUE、一淘、新片场、场库、秒拍、巴塞电影、WIDE、拼多多、逗拍、Keep、比心、灵感、1688、唯品会等超过50个平台的去水印解析服务。
 - [twitter-winner](https://github.com/lucasrangit/twitter-winner) - Twitter Winner
 - [big_screen](https://github.com/TurboWay/big_screen) - 数据大屏可视化
@@ -3259,7 +3260,6 @@
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
 - [react-native-webview](https://github.com/react-native-webview/react-native-webview) - React Native Cross-Platform WebView
-- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.
 - [desktop-wallet](https://github.com/ArkEcosystem/desktop-wallet) - :computer: Multi Platform ARK Desktop Wallet
 - [vditor](https://github.com/b3log/vditor) - ♏ 一款浏览器端的 Markdown 编辑器。
@@ -3444,6 +3444,7 @@
 - [ColorUI](https://github.com/weilanwl/ColorUI) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
 - [logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 - [vue-json-tree-view](https://github.com/michaelfitzhavey/vue-json-tree-view) - A JSON Tree View Component for Vue.js
+- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
 - [ui](https://github.com/vuejs/ui) - 💻 UI components for official Vue organization apps
