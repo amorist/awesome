@@ -2244,7 +2244,7 @@
 - [neural-style](https://github.com/jcjohnson/neural-style) - Torch implementation of neural style algorithm
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [VeryNginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
-- [chatbot-zh-torch7](https://github.com/skdjfla/chatbot-zh-torch7) - 中文Neural conversational model in Torch
+- [chatbot-zh-torch7](https://github.com/aceimnorstuvwxz/chatbot-zh-torch7) - 中文Neural conversational model in Torch
 
 ## Makefile 
 
@@ -2877,7 +2877,7 @@
 
 ## SRecode Template 
 
-- [dgk_lost_conv](https://github.com/skdjfla/dgk_lost_conv) - dgk_lost_conv 中文对白语料 chinese conversation corpus
+- [dgk_lost_conv](https://github.com/aceimnorstuvwxz/dgk_lost_conv) - dgk_lost_conv 中文对白语料 chinese conversation corpus
 
 ## Scala 
 
@@ -3067,7 +3067,7 @@
 - [auth-module](https://github.com/nuxt-community/auth-module) - 🔑 Zero-boilerplate authentication support for Nuxt
 - [gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
 - [lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas
-- [tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable particle animations and use them as animated backgrounds for your website. Ready to use components available for React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno.
+- [tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable particles animations and use them as animated backgrounds for your website. Ready to use components available for React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno.
 - [gatsby-starter-theme-antv](https://github.com/antvis/gatsby-starter-theme-antv) - ⚛️  Gatsby's starter of 👉
 - [basic-adapter](https://github.com/node-casbin/basic-adapter) - A basic adapter supports pg, sqlite3, mysql, mysql2, oracledb and mssql.
 - [rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire: (under development)
