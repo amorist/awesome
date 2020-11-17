@@ -520,7 +520,7 @@
 - [jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
 - [mongo-tools](https://github.com/mongodb/mongo-tools) - 
 - [seesaw](https://github.com/google/seesaw) - Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.
-- [s4](https://github.com/axetroy/s4) - :rocket: 集成本地/远程的工作流 Integrate local and remote workflow
+- [s4](https://github.com/axetroy/s4) - 集成本地/远程的工作流 Integrate local and remote workflow
 - [sudolikeaboss](https://github.com/ravenac95/sudolikeaboss) - Get 1password access from iterm2
 - [expr](https://github.com/antonmedv/expr) - Expression evaluation engine for Go: fast, non-Turing complete, dynamic typing, static typing
 - [gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language"
@@ -773,7 +773,7 @@
 - [zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [faker](https://github.com/bxcodec/faker) - Go (Golang)  Fake Data  Generator for Struct
 - [blog](https://github.com/wuYin/blog) - 个人博客
-- [chisel](https://github.com/jpillora/chisel) - A fast TCP tunnel over HTTP
+- [chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [learning_golang](https://github.com/xpzouying/learning_golang) - learning golang
 - [packr](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
@@ -1224,7 +1224,7 @@
 - [PowerJob](https://github.com/KFCFans/PowerJob) - Powerful distributed job scheduling middleware that supports CRON, API, fixed frequency, fixed delay and other scheduling strategies, provides workflow to choreograph jobs to resolve dependencies, supports distributed computing of tasks, simple to use, powerful, well-documented, welcome you to use!
 - [WePush](https://github.com/rememberber/WePush) - 专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
 - [litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
-- [hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 东半球最酷的学习项目 | 1、我写的三十万字算法图解 2、千本开源电子书 3、100 张思维导图 4、100 篇大厂面经 5、30 个学习专题  🚀 🚀 🚀 右上角点个 star，加入我们万人学习群！English Supported！
+- [hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍「算法面试+算法知识」这是一套针对小白的完整算法训练 | 还包括：1、千本开源电子书 2、阿里、字节、滴滴 等面经汇总 3、百张思维导图 （来个Star吧~）
 - [gfw.press](https://github.com/chinashiyu/gfw.press) - GFW.Press新一代军用级高强度加密抗干扰网络数据高速传输软件
 - [seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 - [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
@@ -1438,7 +1438,7 @@
 - [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [sentineljs](https://github.com/muicss/sentineljs) - Detect new DOM nodes using CSS selectors (650 bytes)
 - [nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
-- [concent](https://github.com/concentjs/concent) - State management tailored for react, it is simple、predictable、progressive and efficient.
+- [concent](https://github.com/concentjs/concent) - State management that tailored for react, it is simple、predictable、progressive and efficient.
 - [ci-detect](https://github.com/npm/ci-detect) - Detect what kind of CI environment the program is in
 - [waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
 - [geoapi](https://github.com/Risk3sixty-Labs/geoapi) - Lightweight API service to get geolocation data from IP addresses.
@@ -2384,7 +2384,6 @@
 - [learning-english](https://github.com/yangwenmai/learning-english) - 英语学习，资料来源英语流利说，英语平台：medium、kubernetes 等各种技术网站、博客等。该项目即将 Archive，请移步 https://github.com/yangwenmai/learning-growth
 - [docs-api](https://github.com/gogs/docs-api) - A repository for Gogs API v1 documentation.
 - [hire](https://github.com/ElemeFE/hire) - 寻找热爱生活，把世界变的更好的人
-- [debian-media-box](https://github.com/moesoha/debian-media-box) - “Debian 小药盒”，一个用来包装 Debian 安装介质的盒子的平面设计。
 - [SJTU-Courses](https://github.com/c-hj/SJTU-Courses) - 上海交通大学课程资料分享
 - [awesome-swiftui](https://github.com/vlondon/awesome-swiftui) - A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.
 - [sms-boom](https://github.com/axetroy/sms-boom) - 利用chrome的headless模式，模拟用户注册进行短信轰炸机
@@ -3006,11 +3005,13 @@
 ## TeX 
 
 - [fsfs-zh](https://github.com/beijinglug/fsfs-zh) - Chinese translation for "Free Software, Free Society"(3rd)
+- [debian-media-box](https://github.com/moesoha/debian-media-box) - “Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。
 - [libpku](https://github.com/lib-pku/libpku) - 贵校课程资料民间整理
 - [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) - Deep Learning Book Chinese Translation
 
 ## TypeScript 
 
+- [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [react-codemirror2](https://github.com/scniro/react-codemirror2) - Codemirror integrated components for React
 - [admin-bro](https://github.com/SoftwareBrothers/admin-bro) - AdminBro is an admin panel for apps written in node.js
 - [static-fun](https://github.com/vercel/static-fun) - A fun demo for wildcard domains
@@ -3053,7 +3054,7 @@
 - [vue-next-jsx](https://github.com/HcySunYang/vue-next-jsx) - A babel plugin that provides jsx syntax for vue3
 - [alloy-worker](https://github.com/AlloyTeam/alloy-worker) - 面向事务的高可用 Web Worker 通信框架
 - [graphql-api-starter](https://github.com/egoist/graphql-api-starter) - GraphQL API starter.
-- [vueuse](https://github.com/antfu/vueuse) - 🧰 Collection of Composition API utils for Vue 2 and 3
+- [vueuse](https://github.com/antfu/vueuse) - 🧰 Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [vercel-builder](https://github.com/nuxt/vercel-builder) - Vercel Builder for Nuxt.js
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev environment for building scalable, high-quality user interfaces
@@ -3293,7 +3294,6 @@
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
-- [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [vuese](https://github.com/vuese/vuese) - 🤗 One-stop solution for vue component documentation. Original org: https://github.com/vuese
 - [metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
 - [symbol-server](https://github.com/electron/symbol-server) - Electron symbol server
