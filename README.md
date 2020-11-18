@@ -7,6 +7,7 @@
 
   - [AppleScript](#applescript)
   - [Assembly](#assembly)
+  - [Blade](#blade)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -67,6 +68,10 @@
 
 - [CatBreeds](https://github.com/cwgavin/CatBreeds) - A Xamarin app that recognizes the breeds of cats in the photos.
 - [unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
+
+## Blade 
+
+- [grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 
 ## C 
 
@@ -342,7 +347,7 @@
 - [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [govalidator](https://github.com/asaskevich/govalidator) - [Go] Package of validators and sanitizers for strings, numerics, slices and structs
 - [go-zero](https://github.com/tal-tech/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
-- [qmgo](https://github.com/qiniu/qmgo) - Qmgo - The MongoDB driver for Go . It‘s based on official mongo-go-driver but easier to use like Mgo.
+- [qmgo](https://github.com/qiniu/qmgo) - Qmgo - The Go driver for MongoDB. It‘s based on official mongo-go-driver but easier to use like Mgo.
 - [go-limiter](https://github.com/sethvargo/go-limiter) - A supersonic rate limiting package for Go with HTTP middleware.
 - [grule-rule-engine](https://github.com/hyperjumptech/grule-rule-engine) - Rule engine implementation in Golang
 - [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector
@@ -1400,7 +1405,6 @@
 - [electron-web-bluetooth](https://github.com/aalhaimi/electron-web-bluetooth) - 
 - [twitter-together](https://github.com/gr2m/twitter-together) - :bird: A GitHub action to tweet from a repository
 - [SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for rocket, core, capsule, pad, and launch data
-- [grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 - [Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js) - 这是一个数据可视化项目，能够将历史数据排名转化为动态柱状图图表
 - [keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
 - [electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Context menu for your Electron app
