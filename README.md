@@ -3419,7 +3419,7 @@
 - [DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
 - [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue.js Admin Template
 - [Workflow](https://github.com/StavinLi/Workflow) - 仿钉钉审批流程设置
-- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) - 🚀🚀🚀vue3.0,vue3,vue3.x,vue.js,后台管理，github开源admin中最优秀的vue3.0集成框架之一，它是国内首个基于vue3.0 的开源admin项目，同时支持电脑，手机，平板，切换分支查看不同的vue版本
+- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) - 🚀🚀🚀vue3.0,vue3,vue3.x,vue.js,后台管理，她是国内首个基于vue3.0 的开源vue-admin项目（后期主线版本将基于element-ui、ant-design-vue、element-plus三者并行开发维护），同时支持电脑，手机，平板，切换分支查看不同的vue版本
 - [animal-crossing-trading-system](https://github.com/kastnerorz/animal-crossing-trading-system) - 🥬 《集合啦！动物森友会》的大头菜交易市场。
 - [ACNLPatternTool](https://github.com/Thulinma/ACNLPatternTool) - Animal Crossing: New Leaf Pattern Tool
 - [PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit) - 一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。
