@@ -461,7 +461,7 @@
 - [codenames](https://github.com/jbowens/codenames) - Play codenames online
 - [ion](https://github.com/pion/ion) - Distributed RTC System by pure Go and Flutter
 - [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System
-- [protoc-gen-nitro](https://github.com/asim/protoc-gen-nitro) - Protobuf code generation for Nitro
+- [protoc-gen-micro](https://github.com/microhq/protoc-gen-micro) - Protobuf code generation for Micro
 - [cli](https://github.com/rancher/cli) - Rancher CLI
 - [kubeless](https://github.com/kubeless/kubeless) - Kubernetes Native Serverless Framework
 - [netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting
@@ -585,7 +585,7 @@
 - [jsonc](https://github.com/muhammadmuzzammil1998/jsonc) - JSON with comments for Go!
 - [godoctor](https://github.com/godoctor/godoctor) - Go Doctor - The Golang Refactoring Engine
 - [github-actions-golang](https://github.com/mvdan/github-actions-golang) - GitHub Actions as CI for Go
-- [nitro-plugins](https://github.com/asim/nitro-plugins) - Plugins for Nitro (formerly Go Micro)
+- [go-plugins](https://github.com/microhq/go-plugins) - Plugins
 - [falcon-plus](https://github.com/open-falcon/falcon-plus) - An open-source and enterprise-level monitoring system.
 - [go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
 - [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
@@ -946,7 +946,7 @@
 - [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [vertigo](https://github.com/jhvst/vertigo) - Blog engine in Go (golang)
 - [strict-request](https://github.com/kozmos/strict-request) - Send strict HTTP Requests with Go
-- [micro](https://github.com/micro/micro) - Micro is a platform for API driven backend development, cloud native applications and microservices
+- [micro](https://github.com/micro/micro) - Micro is a platform for API driven backend development, cloud native applications and Go microservices
 - [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
