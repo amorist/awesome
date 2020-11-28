@@ -113,7 +113,7 @@
 
 ## C# # 
 
-- [renode](https://github.com/renode/renode) - Renode - virtual development framework for complex embedded systems
+- [renode](https://github.com/renode/renode) - Renode - Antmicro's virtual development framework for complex embedded systems
 - [ACNHDesignPatternEditor](https://github.com/FluffyFishGames/ACNHDesignPatternEditor) - An editor for Animal Crossing: New Horizons design patterns.
 - [ACPatternMaker](https://github.com/sambeckingham/ACPatternMaker) - 
 - [runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
@@ -301,6 +301,7 @@
 
 ## Go 
 
+- [cas](https://github.com/go-cas/cas) - Golang CAS Client package
 - [single-sign-on](https://github.com/KenmyZhang/single-sign-on) - 基于Go语言实现的单点登录系统（sso） 支持手机号码+验证码、邮箱+验证码、微信第三方授权三种方式注册 支持手机号码、用户名、邮箱号码、微信登录 支持手机和邮箱找回密码 支持阿里云通信和互亿无线的短信验证码服务
 - [go-spew](https://github.com/davecgh/go-spew) - Implements a deep pretty printer for Go data structures to aid in debugging
 - [simple-sso](https://github.com/samitpal/simple-sso) - Single sign on service with authorization capabilities written in Go (aka golang).
@@ -946,7 +947,7 @@
 - [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [vertigo](https://github.com/jhvst/vertigo) - Blog engine in Go (golang)
 - [strict-request](https://github.com/kozmos/strict-request) - Send strict HTTP Requests with Go
-- [micro](https://github.com/micro/micro) - Micro is a platform for API driven Go services development
+- [micro](https://github.com/micro/micro) - Micro is a cloud native development platform
 - [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
@@ -1279,6 +1280,7 @@
 
 ## JavaScript 
 
+- [react-designer](https://github.com/react-designer/react-designer) - Editable vector graphics in your react apps
 - [presenta-lib](https://github.com/presenta-software/presenta-lib) - A javascript library to build expressive web presentations in seconds.
 - [xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
 - [danmu.js](https://github.com/bytedance/danmu.js) - HTML5 danmu (danmaku) plugin for any DOM element
@@ -3365,7 +3367,7 @@
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [react-page](https://github.com/react-page/react-page) - Next-gen, highly customizable content editor for the browser - based on React and Redux and written in TypeScript. WYSIWYG on steroids.
 - [windows-installer](https://github.com/electron/windows-installer) - Build Windows Installers for Electron apps
-- [incubator-echarts](https://github.com/apache/incubator-echarts) - A powerful, interactive charting and data visualization library for browser
+- [incubator-echarts](https://github.com/apache/incubator-echarts) - Apache ECharts (incubating) is a powerful, interactive charting and data visualization library for browser
 - [HAP-NodeJS](https://github.com/homebridge/HAP-NodeJS) - Node.js implementation of the HomeKit Accessory Protocol (HAP)
 - [homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient
 - [ioredis](https://github.com/luin/ioredis) - 🚀 A robust, performance-focused and full-featured Redis client for Node.js.
