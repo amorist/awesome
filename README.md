@@ -453,7 +453,7 @@
 - [jwalterweatherman](https://github.com/spf13/jwalterweatherman) - So you always leave a note
 - [lint](https://github.com/golang/lint) - [mirror] This is a linter for Go source code.
 - [cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
-- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，五分钟一套CURD前后端代码包含数据库的快感你不要体验一下吗~,更多功能正在开发中，欢迎issue和pr~
+- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器，通用工作流等基础功能，五分钟一套CURD前后端代码包含数据库的快感你不要体验一下吗~,更多功能正在开发中，欢迎issue和pr~
 - [go-interview](https://github.com/shomali11/go-interview) - Collection of Technical Interview Questions solved with Go
 - [sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建等）分分钟构建自己的中后台项目；文档：http://doc.zhangwj.com/go-admin-site/    Demo： http://www.zhangwj.com/#/login
@@ -1347,7 +1347,7 @@
 - [tinymce-all-in-one](https://github.com/PanJiaChen/tinymce-all-in-one) - Build all tinymce plugins into one js
 - [strapi-module](https://github.com/nuxt-community/strapi-module) - Strapi Module for NuxtJS
 - [react-popper](https://github.com/popperjs/react-popper) - 🍿⚛Official React library to use Popper, the positioning library
-- [jexcel](https://github.com/paulhodel/jexcel) - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
+- [jexcel](https://github.com/jspreadsheet/jexcel) - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
 - [json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
 - [electron-typescript-react](https://github.com/diego3g/electron-typescript-react) - :electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.
 - [react-device-detect](https://github.com/duskload/react-device-detect) - Detect device, and render view according to detected device type.
@@ -3429,7 +3429,7 @@
 - [DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
 - [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue.js Admin Template
 - [Workflow](https://github.com/StavinLi/Workflow) - 仿钉钉审批流程设置
-- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) - 🚀🚀🚀vue3.0,vue3,vue3.x,vue.js,后台管理,admin,vue-admin,vue-element-admin，它是国内首个基于vue3.0 的开源vue-admin项目（后期主线版本将基于element-ui、ant-design-vue、element-plus三者并行开发维护），同时支持电脑，手机，平板，切换分支查看不同的vue版本
+- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) - 🚀🚀🚀vue3.0,vue3,vue3.x,vue.js,后台管理,admin,vue-admin,vue-element-admin，它是国内首个基于vue3.0 的开源vue-admin项目（后期主线版本将基于element-plus、element-ui、ant-design-vue三者并行开发维护），同时支持电脑，手机，平板，切换分支查看不同的vue版本
 - [animal-crossing-trading-system](https://github.com/kastnerorz/animal-crossing-trading-system) - 🥬 《集合啦！动物森友会》的大头菜交易市场。
 - [ACNLPatternTool](https://github.com/Thulinma/ACNLPatternTool) - Animal Crossing: New Leaf Pattern Tool
 - [PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit) - 一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。
