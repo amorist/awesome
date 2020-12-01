@@ -443,7 +443,6 @@
 - [certstore](https://github.com/github/certstore) - Go library for using system certificate stores on macOS/Windows
 - [barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
 - [starter-kit](https://github.com/stack-labs/starter-kit) - stack-rpc 快速开发包
-- [lute](https://github.com/88250/lute) - 🎼 一款对中文语境优化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
 - [cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [spin](https://github.com/egoist/spin) - A simple scaffolding tool.
 - [wechat](https://github.com/chanxuehong/wechat) - weixin/wechat/微信公众平台/微信企业号/微信商户平台/微信支付 go/golang sdk
@@ -735,7 +734,7 @@
 - [faygo](https://github.com/henrylee2cn/faygo) - Faygo is a fast and concise Go Web framework that can be used to develop high-performance web app(especially API) with fewer codes. Just define a struct handler, faygo will automatically bind/verify the request parameters and generate the online API doc.
 - [macaron](https://github.com/go-macaron/macaron) - Package macaron is a high productive and modular web framework in Go.
 - [dig](https://github.com/uber-go/dig) - A reflection based dependency injection toolkit for Go.
-- [stack-rpc-tutorials](https://github.com/stack-labs/stack-rpc-tutorials) - Micro/Go-Micro 中文示例、教程、资料，源码解读
+- [stack-rpc-tutorials](https://github.com/stack-labs/stack-rpc-tutorials) - Stack-RPC 中文示例、教程、资料，源码解读
 - [space-cloud](https://github.com/spaceuptech/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
 - [go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [go-logging](https://github.com/op/go-logging) - Golang logging library
@@ -1280,6 +1279,7 @@
 
 ## JavaScript 
 
+- [twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components and goober) at build time.
 - [react-designer](https://github.com/react-designer/react-designer) - Editable vector graphics in your react apps
 - [presenta-lib](https://github.com/presenta-software/presenta-lib) - A javascript library to build expressive web presentations in seconds.
 - [xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
@@ -2274,6 +2274,7 @@
 
 ## Objective-C 
 
+- [WeChatSeptet-ForMac](https://github.com/MustangYM/WeChatSeptet-ForMac) - 简版Mac微信小助手
 - [hera](https://github.com/weidian-inc/hera) - A framework for running WeChat applet. （小程序 SDK，小程序转 H5，小程序转安卓、iOS 原生应用、小程序渲染引擎）
 - [tip](https://github.com/tanin47/tip) - Programmable tooltip that can be used with any Mac OS app
 - [V2RayX](https://github.com/Cenmrev/V2RayX) - GUI for v2ray-core on macOS
@@ -2302,6 +2303,7 @@
 
 ## Others 
 
+- [majsoul-x](https://github.com/moxcomic/majsoul-x) - iOS首款支持扩展的第三方雀魂客户端, 支持雀魂Plus 2.x插件、mod，安卓版本开发中...
 - [pi-webcam](https://github.com/geerlingguy/pi-webcam) - Automation to configure a Raspberry Pi as a USB OTG webcam
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub
 - [awful-ai](https://github.com/daviddao/awful-ai) - 😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness
@@ -2324,7 +2326,6 @@
 - [renaming](https://github.com/github/renaming) - Guidance for changing the default branch name for GitHub repositories
 - [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
 - [blog](https://github.com/brickspert/blog) - 个人技术博客，博文写在 Issues 里。
-- [liandi](https://github.com/88250/liandi) - 📕 一款桌面端的 Markdown 块级引用和双向链接笔记应用，支持 Windows、Mac 和 Linux。A desktop Markdown Block-Reference and Bidirectional-Link note-taking application, supports Windows, Mac and Linux.
 - [archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
 - [Machine-Learning-Notes](https://github.com/Sophia-11/Machine-Learning-Notes) - 周志华《机器学习》手推笔记
 - [OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
@@ -2945,6 +2946,7 @@
 
 ## Swift 
 
+- [SwiftUI](https://github.com/Jinxiansen/SwiftUI) - `SwiftUI` Framework  Learning and Usage Guide. 🚀
 - [iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) - 🇨🇳 老司机 iOS 周报
 - [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X
 - [SSCustomTabbar](https://github.com/SimformSolutionsPvtLtd/SSCustomTabbar) - Simple Animated tabbar with native control
@@ -3023,6 +3025,7 @@
 
 ## TypeScript 
 
+- [hetu](https://github.com/LianjiaTech/hetu) - 低代码平台, 可视化编辑器，单手打代码，解放你的双手
 - [renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [CTFNote](https://github.com/TFNS/CTFNote) - CTFNote is a collaborative tool aiming to help CTF teams to organise their work.
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
