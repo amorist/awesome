@@ -133,7 +133,7 @@
 - [react-native-macos](https://github.com/microsoft/react-native-macos) - A framework for building native macOS apps with React.
 - [cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src) - Leak of CS:GO Source code, provided by yours truly so go rep me
 - [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
-- [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing on GPUs
+- [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing on CPUs & GPUs
 - [yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 - [node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using N-API from C++
 - [Cheating-Plugin-Program](https://github.com/luguanxing/Cheating-Plugin-Program) - 从零开始研究外挂设计原理
@@ -302,6 +302,7 @@
 
 ## Go 
 
+- [go-notify](https://github.com/Harry-027/go-notify) - An email automation solution, written in Golang.
 - [pbgopy](https://github.com/nakabonne/pbgopy) - Copy and paste between devices
 - [cas](https://github.com/go-cas/cas) - Golang CAS Client package
 - [single-sign-on](https://github.com/KenmyZhang/single-sign-on) - 基于Go语言实现的单点登录系统（sso） 支持手机号码+验证码、邮箱+验证码、微信第三方授权三种方式注册 支持手机号码、用户名、邮箱号码、微信登录 支持手机和邮箱找回密码 支持阿里云通信和互亿无线的短信验证码服务
@@ -1310,7 +1311,7 @@
 - [preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [sponsor-verifier](https://github.com/matchai/sponsor-verifier) - Sponsor verification for stickers being sent 💌
 - [douyin](https://github.com/afeifeifei/douyin) - 抖音上面的源码全在这里了！
-- [douyin_signature](https://github.com/skygongque/douyin_signature) - douyin web  signature
+- [douyin_signature](https://github.com/skygongque/douyin_signature) - douyin web  signature（已失效，官方web端也没有tac无法获取用户主页信息）
 - [lin-cms-koa](https://github.com/TaleLin/lin-cms-koa) - 🌀使用Node.JS KOA构建的CMS开发框架
 - [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
@@ -1373,7 +1374,6 @@
 - [kugimiya-rainbow-fart](https://github.com/zthxxx/kugimiya-rainbow-fart) - 傲 娇 钉 宫，鞭 写 鞭 骂  -  钉宫理惠 vscode-rainbow-fart 扩展语音包
 - [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) - 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
 - [mind-elixir-core](https://github.com/ssshooter/mind-elixir-core) - Mind-elixir is a framework agnostic mind map core
-- [supabase](https://github.com/supabase/supabase) - Website, docs, and examples. Follow to stay updated about our public Beta.
 - [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) - React components for the Carbon Design System
 - [twilio-video.js](https://github.com/twilio/twilio-video.js) - Twilio’s Programmable Video JavaScript SDK
 - [password-manager-resources](https://github.com/apple/password-manager-resources) - A place for creators and users of password managers to collaborate on resources to make password management better.
@@ -1502,7 +1502,6 @@
 - [expressjs-k8s](https://github.com/alexellis/expressjs-k8s) - Express.js microservice with a Dockerfile, Kubernetes YAMLs and a non-root user
 - [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [data-directory](https://github.com/docs/data-directory) - 🌳 A Node.js module to recursively load a directory of YAML, JSON, and Markdown files into a JavaScript object.
-- [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
 - [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find GitHub secrets in real time
 - [generative-artistry](https://github.com/tholman/generative-artistry) - A website for self coding generative art tutorials.
@@ -1533,7 +1532,6 @@
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [vapper](https://github.com/shuidi-fed/vapper) - 🔥 A Vue-based server-side rendering framework
 - [leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
-- [yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
 - [leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
@@ -1884,7 +1882,7 @@
 - [monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [vue-timeago](https://github.com/egoist/vue-timeago) - A timeago component for Vue.
 - [ink-text-animation](https://github.com/yardnsm/ink-text-animation) - A text animation component for Ink
-- [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [material-ui](https://github.com/mui-org/material-ui) - React components for faster and simpler web development. Build your own design system, or start with Material Design.
 - [homebridge-mi-heatercooler](https://github.com/jayqizone/homebridge-mi-heatercooler) - Mi / Aqara AC partner plugin for Homebridge
 - [sindresorhus-cli](https://github.com/sindresorhus/sindresorhus-cli) - The Sindre Sorhus CLI
 - [node-schedule](https://github.com/node-schedule/node-schedule) - A cron-like and not-cron-like job scheduler for Node.
@@ -2468,7 +2466,7 @@
 - [book](https://github.com/KeKe-Li/book) - :books: All programming languages books
 - [ideas](https://github.com/probot/ideas) - Share ideas for new GitHub Apps built with Probot
 - [awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
-- [balanced-employee-ip-agreement](https://github.com/github/balanced-employee-ip-agreement) - GitHub's employee IP agreement, open sourced and reusable
+- [balanced-employee-ip-agreement](https://github.com/github/balanced-employee-ip-agreement) - GitHub's employee intellectual property agreement, open sourced and reusable
 - [git-commit-emoji-cn](https://github.com/liuchengxu/git-commit-emoji-cn) - 😁 git commit message emoji 使用指南
 - [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [resources](https://github.com/BestDingSheng/resources) - 知名互联网企业内推资料整理 持续更新ing 。 目前已经维护五个微信群接近3000人，欢迎你的加入！
@@ -3031,6 +3029,7 @@
 
 ## TypeScript 
 
+- [porn-vault](https://github.com/porn-vault/porn-vault) - 💋 Manage your ever-growing porn collection. Using Vue & GraphQL
 - [ramiko](https://github.com/fantasticit/ramiko) - nextjs + nest.js 构建页面可视化编辑器 -- Ramiko
 - [hetu](https://github.com/LianjiaTech/hetu) - 低代码平台, 可视化编辑器，单手打代码，解放你的双手
 - [renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
@@ -3041,7 +3040,7 @@
 - [static-fun](https://github.com/vercel/static-fun) - A fun demo for wildcard domains
 - [commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x) - The Homebridge UI. Monitor, configure and backup Homebridge from a browser.
-- [react-chrono](https://github.com/prabhuignoto/react-chrono) - Modern Timeline component for React
+- [react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕜 Modern Timeline component for React
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
@@ -3089,7 +3088,7 @@
 - [react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [financial](https://github.com/lmammino/financial) - A Zero-dependency TypeScript/JavaScript financial library (based on numpy-financial) for Node.js, Deno and the browser
 - [tinymce-vue](https://github.com/tinymce/tinymce-vue) - Official TinyMCE Vue component
-- [auth-module](https://github.com/nuxt-community/auth-module) - 🔑 Zero-boilerplate authentication support for Nuxt
+- [auth-module](https://github.com/nuxt-community/auth-module) - 
 - [gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
 - [lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas
 - [tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable particles animations and use them as animated backgrounds for your website. Ready to use components available for React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno.
@@ -3109,6 +3108,7 @@
 - [clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [hooks](https://github.com/alibaba/hooks) - React Hooks Library
 - [bit](https://github.com/teambit/bit) - Build, distribute, and collaborate on components.
+- [supabase](https://github.com/supabase/supabase) - Website, docs, and examples. Follow to stay updated about our public Beta.
 - [erxes](https://github.com/erxes/erxes) - Free and open fair-code licensed all-in-one growth marketing & management software
 - [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native) - ⚛️ 📺 Projects from the “Can it be done in React Native?” YouTube series
 - [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.
@@ -3203,6 +3203,7 @@
 - [got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
+- [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [clerk](https://github.com/electron/clerk) - Verify PRs have release notes
 - [comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go
@@ -3218,6 +3219,7 @@
 - [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
 - [messaging-apis](https://github.com/Yoctol/messaging-apis) - Messaging APIs for multi-platform
+- [yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [GGEditor](https://github.com/alibaba/GGEditor) - A visual graph editor based on G6 and React
 - [crud](https://github.com/nestjsx/crud) - NestJs CRUD for RESTful APIs
 - [webauthn-json](https://github.com/github/webauthn-json) - 🔏 A small WebAuthn API wrapper that translates to/from pure JSON using base64url.
@@ -3330,7 +3332,7 @@
 - [GoogleTranslate](https://github.com/MoeFE/GoogleTranslate) - 🌐 Google 翻译 Mac 客户端
 - [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-- [datav](https://github.com/apm-ai/datav) - Datav is a data visualization platform, providing observability for metrics/logs/traces/big-screens, written in react and go.
+- [datav](https://github.com/opendatav/datav) - Datav is a data visualization platform, providing observability for metrics/logs/traces/big-screens, written in react and go.
 - [docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [kactus](https://github.com/kactus-io/kactus) - :cactus: A true version control tool for designers
