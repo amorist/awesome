@@ -7,7 +7,6 @@
 
   - [AppleScript](#applescript)
   - [Assembly](#assembly)
-  - [Blade](#blade)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -68,10 +67,6 @@
 
 - [CatBreeds](https://github.com/cwgavin/CatBreeds) - A Xamarin app that recognizes the breeds of cats in the photos.
 - [unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
-
-## Blade 
-
-- [grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 
 ## C 
 
@@ -286,7 +281,6 @@
 - [code-and-learn](https://github.com/nodejs/code-and-learn) - A series of workshop sprints for Node.js.
 - [docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 
 ## Eagle 
 
@@ -1066,7 +1060,7 @@
 - [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [schematyper](https://github.com/idubinskiy/schematyper) - Generates Go types based on JSON Schemas
 - [chanx](https://github.com/tidwall/chanx) - A simple interface wrapper around a Go channel.
-- [nitro](https://github.com/gonitro/nitro) - Nitro is a futuristic blazingly fast embeddable framework for distributed app development, IoT, edge and p2p.
+- [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for microservices development
 - [gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [go-apla](https://github.com/AplaProject/go-apla) - A blockchain platform with a simplified programming language
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
@@ -1414,6 +1408,7 @@
 - [electron-web-bluetooth](https://github.com/aalhaimi/electron-web-bluetooth) - 
 - [twitter-together](https://github.com/gr2m/twitter-together) - :bird: A GitHub action to tweet from a repository
 - [SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for rocket, core, capsule, pad, and launch data
+- [grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 - [Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js) - 这是一个数据可视化项目，能够将历史数据排名转化为动态柱状图图表
 - [keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
 - [electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Context menu for your Electron app
@@ -1480,7 +1475,7 @@
 - [gatsby-source-strapi](https://github.com/strapi/gatsby-source-strapi) - Gatsby source plugin for building websites using Strapi as a data source
 - [strapi-provider-upload-oss](https://github.com/hezzze/strapi-provider-upload-oss) - A provider for strapi server to upload file to Aliyun OSS
 - [share.js](https://github.com/overtrue/share.js) - 一键分享到微博、QQ空间、QQ好友、微信、腾讯微博、豆瓣、Facebook、Twitter、Linkedin、Google+、点点等
-- [ms](https://github.com/vercel/ms) - Tiny milisecond conversion utility
+- [ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 - [cat-facts](https://github.com/vadimdemedes/cat-facts) - Interesting cat facts
 - [electron-timber](https://github.com/sindresorhus/electron-timber) - Pretty logger for Electron apps
 - [d3-require](https://github.com/d3/d3-require) - A minimal, promise-based implementation to require asynchronous module definitions.
@@ -2390,7 +2385,7 @@
 - [ama](https://github.com/sindresorhus/ama) - [[I'm slow at replying these days, but I hope to get back to answering questions eventually]] Ask me anything!
 - [code-and-learn](https://github.com/openjs-foundation/code-and-learn) - Organizing the Code&Learn session for Node+JS Interactive
 - [chinese_docker](https://github.com/widuu/chinese_docker) - docker中文文档，docker Chinese Documation
-- [bank](https://github.com/pietrzakadrian/bank) - Full Stack Web Application similar to financial software that is used in banking institutions | React.js and Node.js
+- [bank](https://github.com/pietrzakadrian/bank) - 🏦 Full Stack Web Application similar to financial software that is used in banking institutions | React.js and Node.js
 - [free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
 - [Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes) - 周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
@@ -2619,6 +2614,7 @@
 
 ## Python 
 
+- [fedlearner](https://github.com/bytedance/fedlearner) - A multi-party collaborative machine learning framework
 - [datasets](https://github.com/huggingface/datasets) - 🤗 Fast, efficient, open-access datasets and evaluation metrics in PyTorch, TensorFlow, NumPy and Pandas
 - [macadmin-scripts](https://github.com/munki/macadmin-scripts) - Scripts of possible interest to macOS admins
 - [twitter-winner](https://github.com/lucasrangit/twitter-winner) - Twitter Winner
@@ -2641,7 +2637,7 @@
 - [WMSeg](https://github.com/SVAIGBA/WMSeg) - 
 - [hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [MixPoet](https://github.com/THUNLP-AIPoet/MixPoet) - Source codes of MixPoet: Diverse Poetry Generation via Learning Controllable Mixed Latent Space (AAAI 2020)
-- [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [sound_separation](https://github.com/JustKowalski/sound_separation) - 
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -2797,6 +2793,7 @@
 - [models](https://github.com/Sarasra/models) - Models and examples built with TensorFlow
 - [TopSup](https://github.com/Skyexu/TopSup) - 答题辅助决策：头号英雄等答题类游戏
 - [wechat_jump_game](https://github.com/wangshub/wechat_jump_game) - 微信《跳一跳》Python 辅助
+- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
@@ -2870,7 +2867,7 @@
 - [actix](https://github.com/actix/actix) - Actor framework for Rust.
 - [learning-rust](https://github.com/yangwenmai/learning-rust) - Rust 学习之路 &gt; Rust Programming Tutorial, include articles, interview, example, problems.
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
-- [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [diem](https://github.com/libra/diem) - Diem’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 - [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [stdweb](https://github.com/koute/stdweb) - A standard library for the client-side Web
 - [cargo_gn](https://github.com/denoland/cargo_gn) - Cargo GN integration
@@ -3445,7 +3442,7 @@
 - [DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
 - [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue.js Admin Template
 - [Workflow](https://github.com/StavinLi/Workflow) - 仿钉钉审批流程设置
-- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) - 🚀🚀🚀vue3.0,vue3,vue3.x,vue.js,后台管理,admin,vue-admin,vue-element-admin，它是国内首个基于vue3.0 的开源vue-admin项目（主线版本基于element-plus、element-ui、ant-design-vue三者并行开发维护），同时支持电脑，手机，平板，切换分支查看不同的vue版本，element-plus版本已发布
+- [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) - 🚀🚀🚀vue,vue3.0,vue3,vue3.x,vue.js,后台管理,admin,vue-admin,vue-element-admin，主线版本基于element-plus、element-ui、ant-design-vue三者并行开发维护，同时支持电脑，手机，平板，切换分支查看不同的vue版本，element-plus版本已发布
 - [animal-crossing-trading-system](https://github.com/kastnerorz/animal-crossing-trading-system) - 🥬 《集合啦！动物森友会》的大头菜交易市场。
 - [ACNLPatternTool](https://github.com/Thulinma/ACNLPatternTool) - Animal Crossing: New Leaf Pattern Tool
 - [PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit) - 一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。
