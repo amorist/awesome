@@ -946,7 +946,7 @@
 - [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [vertigo](https://github.com/jhvst/vertigo) - Blog engine in Go (golang)
 - [strict-request](https://github.com/kozmos/strict-request) - Send strict HTTP Requests with Go
-- [micro](https://github.com/micro/micro) - Micro is a platform for API driven development
+- [micro](https://github.com/micro/micro) - Micro is a platform for API driven services development
 - [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
@@ -2695,7 +2695,7 @@
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets
 - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
-- [octodns](https://github.com/github/octodns) - Tools for managing DNS across multiple providers
+- [octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。
 - [calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [public-speaking-with-meaning](https://github.com/xiaolai/public-speaking-with-meaning) - 《我也有话要说》—— 普通人的当众讲话技能
@@ -2867,7 +2867,7 @@
 - [actix](https://github.com/actix/actix) - Actor framework for Rust.
 - [learning-rust](https://github.com/yangwenmai/learning-rust) - Rust 学习之路 &gt; Rust Programming Tutorial, include articles, interview, example, problems.
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
-- [diem](https://github.com/libra/diem) - Diem’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [diem](https://github.com/diem/diem) - Diem’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 - [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [stdweb](https://github.com/koute/stdweb) - A standard library for the client-side Web
 - [cargo_gn](https://github.com/denoland/cargo_gn) - Cargo GN integration
