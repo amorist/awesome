@@ -420,7 +420,7 @@
 - [sentinel-golang](https://github.com/alibaba/sentinel-golang) - Sentinel Go version (Reliability & Resilience)
 - [go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/凹语言)
 - [nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go) - Nacos client in Golang
-- [agollo](https://github.com/zouyx/agollo) - 🚀Go Client for Apollo
+- [agollo](https://github.com/zouyx/agollo) - 🚀Go client for ctrip/apollo (https://github.com/ctripcorp/apollo)
 - [ms-weather](https://github.com/xinjiayu/ms-weather) - 天气预报API数据代理服务
 - [appengine](https://github.com/golang/appengine) - Go App Engine packages
 - [dragon-iss-docking-autopilot](https://github.com/mbertschler/dragon-iss-docking-autopilot) - Autopilot in Go for docking the SpaceX Dragon capsule in the simulator
@@ -461,11 +461,11 @@
 - [codenames](https://github.com/jbowens/codenames) - Play codenames online
 - [ion](https://github.com/pion/ion) - Distributed RTC System by pure Go and Flutter
 - [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System
-- [protoc-gen-micro](https://github.com/microhq/protoc-gen-micro) - Protobuf code generation for Micro
+- [protoc-gen-micro](https://github.com/asim/protoc-gen-micro) - Protobuf code generation for Micro
 - [cli](https://github.com/rancher/cli) - Rancher CLI
 - [kubeless](https://github.com/kubeless/kubeless) - Kubernetes Native Serverless Framework
 - [netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting
-- [distribution](https://github.com/docker/distribution) - The Docker toolset to pack, ship, store, and deliver content
+- [distribution](https://github.com/docker/distribution) - The toolkit to pack, ship, store, and deliver container content
 - [netgraph](https://github.com/ga0/netgraph) - A cross platform http sniffer with a web UI
 - [apiproject](https://github.com/wangshibiaoFlytiger/apiproject) - [https://www.sofineday.com], golang项目开发脚手架,集成最佳实践(gin+gorm+go-redis+mongo+cors+jwt+json日志库zap(支持日志收集到kafka或mongo)+消息队列kafka+微信支付宝支付gopay+api加密+api反向代理+go modules依赖管理+headless爬虫chromedp+makefile+二进制压缩+livereload热加载)
 - [dex](https://github.com/dexidp/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
@@ -585,7 +585,7 @@
 - [jsonc](https://github.com/muhammadmuzzammil1998/jsonc) - JSON with comments for Go!
 - [godoctor](https://github.com/godoctor/godoctor) - Go Doctor - The Golang Refactoring Engine
 - [github-actions-golang](https://github.com/mvdan/github-actions-golang) - GitHub Actions as CI for Go
-- [go-plugins](https://github.com/microhq/go-plugins) - Plugins
+- [go-plugins](https://github.com/asim/go-plugins) - Plugins
 - [falcon-plus](https://github.com/open-falcon/falcon-plus) - An open-source and enterprise-level monitoring system.
 - [go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
 - [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
@@ -1485,7 +1485,7 @@
 - [electron-osx-sign](https://github.com/electron/electron-osx-sign) - Codesign Electron macOS apps
 - [i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
 - [comments-api](https://github.com/dev-mastery/comments-api) - 
-- [vue-interactive-paycard](https://github.com/muhammederdem/vue-interactive-paycard) - Credit card form with smooth and sweet micro-interactions
+- [vue-interactive-paycard](https://github.com/muhammed/vue-interactive-paycard) - Credit card form with smooth and sweet micro-interactions
 - [grapesjs-typed](https://github.com/artf/grapesjs-typed) - GrapesJS Typed component made by wrapping Typed.js library
 - [wick-editor](https://github.com/Wicklets/wick-editor) - A free and open-source tool for creating games, animations and everything in-between!
 - [shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -2664,7 +2664,7 @@
 - [CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch) - 搜索所有中文NLP数据集，附常用英文NLP数据集
 - [vectorbt](https://github.com/polakowo/vectorbt) - Python library for backtesting and analyzing trading strategies at scale
 - [newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
-- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 富有体系且实用的小例子、小案例。
+- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [albert](https://github.com/google-research/albert) - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
@@ -2948,6 +2948,9 @@
 
 ## Swift 
 
+- [HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
+- [swift-log](https://github.com/apple/swift-log) - A Logging API for Swift
+- [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.
 - [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases Swift framework for iOS 8.0+, tvOS 9.0+ and macOS 10.10+ ⛺
 - [SwiftUI](https://github.com/Jinxiansen/SwiftUI) - `SwiftUI` Framework  Learning and Usage Guide. 🚀
 - [iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) - 🇨🇳 老司机 iOS 周报
