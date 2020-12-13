@@ -951,7 +951,7 @@
 - [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [vertigo](https://github.com/jhvst/vertigo) - Blog engine in Go (golang)
 - [strict-request](https://github.com/kozmos/strict-request) - Send strict HTTP Requests with Go
-- [micro](https://github.com/micro/micro) - Micro is a platform for API driven services development
+- [micro](https://github.com/micro/micro) - Micro is a platform to build, run and manage microservices
 - [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
@@ -3277,7 +3277,7 @@
 - [proxx](https://github.com/GoogleChromeLabs/proxx) - A game of proximity
 - [svgicon](https://github.com/MMF-FE/svgicon) - SVG icon components and tool set
 - [reakit](https://github.com/reakit/reakit) - Toolkit for building accessible rich web apps with React
-- [react-virtuoso](https://github.com/petyosi/react-virtuoso) - An elegant virtual list component for React
+- [react-virtuoso](https://github.com/petyosi/react-virtuoso) - The most powerful virtual list component for React
 - [bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
 - [snackbar](https://github.com/egoist/snackbar) - A tiny browser library for showing a brief message at the bottom of the screen (1kB gzipped).
 - [amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
@@ -3342,7 +3342,7 @@
 - [GoogleTranslate](https://github.com/MoeFE/GoogleTranslate) - 🌐 Google 翻译 Mac 客户端
 - [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [datav](https://github.com/opendatav/datav) - Datav is a data visualization platform, providing observability for metrics/logs/traces/big-screens, written in react and go.
+- [datav](https://github.com/opendatav/datav) - 📊 Beautiful and interactive data visualization platform, visualize metrics,logs,traces and big-screens
 - [docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [kactus](https://github.com/kactus-io/kactus) - :cactus: A true version control tool for designers
