@@ -2618,7 +2618,7 @@
 ## Python 
 
 - [fedlearner](https://github.com/bytedance/fedlearner) - A multi-party collaborative machine learning framework
-- [datasets](https://github.com/huggingface/datasets) - 🤗 Fast, efficient, open-access datasets and evaluation metrics in PyTorch, TensorFlow, NumPy and Pandas
+- [datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use open-access datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [macadmin-scripts](https://github.com/munki/macadmin-scripts) - Scripts of possible interest to macOS admins
 - [twitter-winner](https://github.com/lucasrangit/twitter-winner) - Twitter Winner
 - [big_screen](https://github.com/TurboWay/big_screen) - 数据大屏可视化
@@ -3055,7 +3055,7 @@
 - [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨ A vue3 style Admin based on Vite  vue3.0, vite, ant-design-vue 2.x, typescript，Efforts to update in progress...
 - [headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [remote](https://github.com/electron/remote) - Bridge JavaScript objects from the main process to the renderer process in Electron.
-- [vue-storefront](https://github.com/DivanteLtd/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Newest updates: https://blog.vuestorefront.io. Always Open Source, MIT license.
+- [vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Newest updates: https://blog.vuestorefront.io. Always Open Source, MIT license.
 - [grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - (H5编辑器)H5-Dooring是一款功能强大，开源免费的H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react为主， 后台采用nodejs开发.
