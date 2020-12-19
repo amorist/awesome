@@ -429,7 +429,7 @@
 - [jupiter](https://github.com/douyu/jupiter) - Jupiter是斗鱼开源的面向服务治理的Golang微服务框架
 - [alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
 - [opentracing-go](https://github.com/opentracing/opentracing-go) - OpenTracing API for Go
-- [kratos](https://github.com/ory/kratos) - Never build user login, user registration, 2fa, profile management ever again! Works on any operating system, cloud, with any programming language, user interface, and user experience! Written in Go.
+- [kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, KeyCloak) with ORY-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headles, API-only - without templating or theming headaches.
 - [ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game library for Go
 - [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [proxypool](https://github.com/henson/proxypool) - Golang实现的IP代理池
@@ -2618,7 +2618,7 @@
 ## Python 
 
 - [fedlearner](https://github.com/bytedance/fedlearner) - A multi-party collaborative machine learning framework
-- [datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use open-access datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use NLP datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [macadmin-scripts](https://github.com/munki/macadmin-scripts) - Scripts of possible interest to macOS admins
 - [twitter-winner](https://github.com/lucasrangit/twitter-winner) - Twitter Winner
 - [big_screen](https://github.com/TurboWay/big_screen) - 数据大屏可视化
@@ -2787,7 +2787,7 @@
 - [python-spider](https://github.com/Jack-Cherish/python-spider) - :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等
 - [akbl](https://github.com/rsm-gh/akbl) - Control the lights of Alienware computers under GNU-Linux systems.
 - [alienware15r3_ubuntu14](https://github.com/awesomebytes/alienware15r3_ubuntu14) - Instructions on how to install Ubuntu 14.04 on the Alienware 15 R3 (and installing cuda, tensorflow and disabling intel graphics card)
-- [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
+- [core](https://github.com/home-assistant/core) - WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ :house_with_garden: Open source home automation that puts local control and privacy first
 - [requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
 - [abu](https://github.com/bbfamily/abu) - 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构
