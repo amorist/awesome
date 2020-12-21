@@ -296,6 +296,7 @@
 
 ## Go 
 
+- [bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
 - [go-workwx](https://github.com/xen0n/go-workwx) - a sensible Work Weixin(企业微信, Wechat Work) SDK for Go
 - [wechat](https://github.com/esap/wechat) - 微信SDK的golang实现，短小精悍，同时兼容【企业号/服务号/订阅号/小程序】
 - [go-sword](https://github.com/sunshinev/go-sword) - 【Go-sword】可视化CRUD管理后台生成工具
@@ -414,7 +415,7 @@
 - [betterGo](https://github.com/PioneerIncubator/betterGo) - Implement golang generic by code generating like C++ template (monomorphization)
 - [pkgsite](https://github.com/golang/pkgsite) - [mirror] Home of the pkg.go.dev website
 - [bimg](https://github.com/h2non/bimg) - Go package for fast high-level image processing powered by libvips C library
-- [spago](https://github.com/nlpodyssey/spago) - spaGO is a beautiful and maintainable machine learning library written in Go designed to support relevant neural network architectures in natural language processing tasks
+- [spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in GO
 - [google-api-go-client](https://github.com/googleapis/google-api-go-client) - Auto-generated Google APIs for Go.
 - [mosn](https://github.com/mosn/mosn) - MOSN is a cloud native proxy for edge or service mesh. https://mosn.io
 - [sentinel-golang](https://github.com/alibaba/sentinel-golang) - Sentinel Go version (Reliability & Resilience)
@@ -460,7 +461,7 @@
 - [go-lottery](https://github.com/goodcan/go-lottery) - Golang 实现各式各样的抽奖逻辑后台
 - [codenames](https://github.com/jbowens/codenames) - Play codenames online
 - [ion](https://github.com/pion/ion) - Distributed RTC System by pure Go and Flutter
-- [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System
+- [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System 可以看做Open-Falcon的下一代，不止运维监控，更是要做一款生产级运维平台
 - [protoc-gen-micro](https://github.com/asim/protoc-gen-micro) - Protobuf code generation for Micro
 - [cli](https://github.com/rancher/cli) - Rancher CLI
 - [kubeless](https://github.com/kubeless/kubeless) - Kubernetes Native Serverless Framework
@@ -953,7 +954,6 @@
 - [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
 - [noise](https://github.com/perlin-network/noise) - A decentralized P2P networking stack written in Go.
 - [leetcode](https://github.com/amorist/leetcode) - golang leetcode
-- [statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON/YAML/XML/CSV Data
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -1060,7 +1060,7 @@
 - [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [schematyper](https://github.com/idubinskiy/schematyper) - Generates Go types based on JSON Schemas
 - [chanx](https://github.com/tidwall/chanx) - A simple interface wrapper around a Go channel.
-- [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for microservices development
+- [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
 - [gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [go-apla](https://github.com/AplaProject/go-apla) - A blockchain platform with a simplified programming language
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
@@ -2203,6 +2203,7 @@
 
 ## Jupyter Notebook 
 
+- [ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
 - [python-training](https://github.com/jpmorganchase/python-training) - Python training for business analysts and traders
 - [RL-Stock](https://github.com/wangshub/RL-Stock) - 📈 如何用深度强化学习自动炒股
 - [automl](https://github.com/google/automl) - Google Brain AutoML
@@ -3489,6 +3490,7 @@
 - [raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [topsi-project-manager](https://github.com/Physiix/topsi-project-manager) - A Desktop Kanban board app.
 - [music](https://github.com/sunzongzheng/music) - electron跨平台音乐播放器；可搜网易云、QQ音乐、虾米音乐；支持QQ、微博、Github登录，云歌单; 支持一键导入音乐平台歌单
+- [statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [VBlog](https://github.com/GitHub-Laziji/VBlog) - 使用GitHub API 搭建一个可动态发布文章的博客
 - [vue2-manage](https://github.com/bailicangdu/vue2-manage) - 基于 vue + element-ui 的后台管理系统
