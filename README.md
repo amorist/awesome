@@ -463,7 +463,7 @@
 - [codenames](https://github.com/jbowens/codenames) - Play codenames online
 - [ion](https://github.com/pion/ion) - Distributed RTC System by pure Go and Flutter
 - [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System 可以看做Open-Falcon的下一代，不止运维监控，更是要做一款生产级运维平台
-- [protoc-gen-micro](https://github.com/asim/protoc-gen-micro) - Protobuf code generation for Micro
+- [protoc-gen-micro](https://github.com/microhq/protoc-gen-micro) - Protobuf code generation for Micro. Moved to go-micro/cmd/protoc-gen-micro.
 - [cli](https://github.com/rancher/cli) - Rancher CLI
 - [kubeless](https://github.com/kubeless/kubeless) - Kubernetes Native Serverless Framework
 - [netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting
@@ -587,7 +587,7 @@
 - [jsonc](https://github.com/muhammadmuzzammil1998/jsonc) - JSON with comments for Go!
 - [godoctor](https://github.com/godoctor/godoctor) - Go Doctor - The Golang Refactoring Engine
 - [github-actions-golang](https://github.com/mvdan/github-actions-golang) - GitHub Actions as CI for Go
-- [go-plugins](https://github.com/asim/go-plugins) - Go Micro Plugins
+- [go-plugins](https://github.com/microhq/go-plugins) - Go Micro Plugins. Moved to go-micro/plugins.
 - [falcon-plus](https://github.com/open-falcon/falcon-plus) - An open-source and enterprise-level monitoring system.
 - [go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
 - [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
@@ -2789,7 +2789,7 @@
 - [hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
 - [fooltrader](https://github.com/foolcage/fooltrader) - quant framework for stock
 - [python-spider](https://github.com/Jack-Cherish/python-spider) - :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等
-- [akbl](https://github.com/rsm-gh/akbl) - Control the lights of Alienware computers under GNU-Linux systems.
+- [akbl](https://github.com/rsm-gh/akbl) - Control the lights of Alienware computers under GNU/Linux systems.
 - [alienware15r3_ubuntu14](https://github.com/awesomebytes/alienware15r3_ubuntu14) - Instructions on how to install Ubuntu 14.04 on the Alienware 15 R3 (and installing cuda, tensorflow and disabling intel graphics card)
 - [core](https://github.com/home-assistant/core) - WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ :house_with_garden: Open source home automation that puts local control and privacy first
 - [requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
