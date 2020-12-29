@@ -296,6 +296,9 @@
 
 ## Go 
 
+- [alist](https://github.com/Xhofe/alist) - 阿里云盘列表
+- [twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
+- [sec-dev-in-action-src](https://github.com/netxfly/sec-dev-in-action-src) - 《白帽子安全开发实战》配套代码
 - [imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
 - [bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
 - [go-workwx](https://github.com/xen0n/go-workwx) - a sensible Work Weixin(企业微信, Wechat Work) SDK for Go
@@ -416,7 +419,7 @@
 - [betterGo](https://github.com/PioneerIncubator/betterGo) - Implement golang generic by code generating like C++ template (monomorphization)
 - [pkgsite](https://github.com/golang/pkgsite) - [mirror] Home of the pkg.go.dev website
 - [bimg](https://github.com/h2non/bimg) - Go package for fast high-level image processing powered by libvips C library
-- [spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in GO
+- [spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go
 - [google-api-go-client](https://github.com/googleapis/google-api-go-client) - Auto-generated Google APIs for Go.
 - [mosn](https://github.com/mosn/mosn) - MOSN is a cloud native proxy for edge or service mesh. https://mosn.io
 - [sentinel-golang](https://github.com/alibaba/sentinel-golang) - Sentinel Go version (Reliability & Resilience)
@@ -976,6 +979,7 @@
 - [pigo](https://github.com/esimov/pigo) - Pure Go face detection, pupil/eyes localization and facial landmark points detection library.
 - [sessions](https://github.com/gin-contrib/sessions) - Gin middleware for session management
 - [mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+- [supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
 - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [discovery](https://github.com/bilibili/discovery) - A registry for resilient mid-tier load balancing and failover.
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -1652,7 +1656,7 @@
 - [ghChat](https://github.com/aermin/ghChat) - :octocat: 📱A chat application for GitHub. React + PWA + Node(koa2) + Typescripts  + Mysql  + Socket.io
 - [snowpack](https://github.com/snowpackjs/snowpack) - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
 - [grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
-- [formidable](https://github.com/node-formidable/formidable) - A node.js module for parsing form data, especially file uploads.
+- [formidable](https://github.com/node-formidable/formidable) - The most used, flexible, fast and streaming parser for multipart form data. Supports uploading to serverless environments, AWS S3, Azure, GCP or the filesystem. Used in production.
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
 - [cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
 - [examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
@@ -1783,7 +1787,7 @@
 - [Live2D](https://github.com/galnetwen/Live2D) - 在 Web 上展示 Live2D 吧！
 - [date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
-- [ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant HTTP client based on window.fetch
+- [ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 - [emojilib](https://github.com/muan/emojilib) - :book: Emoji keyword library.
 - [poddycast](https://github.com/MrChuckomo/poddycast) - Podcast app made with Electron
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
@@ -1856,7 +1860,6 @@
 - [taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。  https://taro.zone/
 - [search-with-your-keyboard](https://github.com/electron/search-with-your-keyboard) - Add keyboard navigation to your existing client-side search interface.
 - [awesome-talks](https://github.com/SaraVieira/awesome-talks) - Awesome Talks Curated By the Community
-- [supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
 - [maid](https://github.com/egoist/maid) - Markdown driven task runner.
 - [router](https://github.com/reach/router) - 
 - [learntocrypto](https://github.com/sodium-friends/learntocrypto) - Learn to crypto workshop
@@ -2311,7 +2314,7 @@
 - [HDMI-PI](https://github.com/peng-zhihui/HDMI-PI) - 我设计的一个HDMI转MIPI模块，可以用于驱动各种手机屏幕当显示器用。
 - [majsoul-x](https://github.com/moxcomic/majsoul-x) - iOS首款支持扩展的第三方雀魂客户端, 支持雀魂Plus 2.x插件、mod，安卓版本开发中...
 - [pi-webcam](https://github.com/geerlingguy/pi-webcam) - Automation to configure a Raspberry Pi as a USB OTG webcam
-- [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub
+- [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [awful-ai](https://github.com/daviddao/awful-ai) - 😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness
 - [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2020
 - [siyuan](https://github.com/siyuan-note/siyuan) - 📕 思源笔记是一款 Markdown 块级引用和双向链接的网状笔记应用，支持 Windows、Mac 和 Linux，可在浏览器上直接使用，支持移动端适配。SiYuan is a Markdown Block-Reference and Bidirectional-Link note-taking application, supports Windows, Mac and Linux, can be used directly on the browser, and supports mobile-end adaptation.
@@ -2620,6 +2623,7 @@
 
 ## Python 
 
+- [jd_seckill](https://github.com/huanghyw/jd_seckill) - 京东秒杀商品抢购，目前只支持茅台抢购，不支持其他商品！
 - [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
 - [fedlearner](https://github.com/bytedance/fedlearner) - A multi-party collaborative machine learning framework
 - [datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use NLP datasets for ML models with fast, easy-to-use and efficient data manipulation tools
