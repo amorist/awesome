@@ -296,6 +296,7 @@
 
 ## Go 
 
+- [Distributed-Systems](https://github.com/feixiao/Distributed-Systems) - MIT课程《Distributed Systems 》学习和翻译
 - [alist](https://github.com/Xhofe/alist) - 阿里云盘列表
 - [twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [sec-dev-in-action-src](https://github.com/netxfly/sec-dev-in-action-src) - 《白帽子安全开发实战》配套代码
@@ -928,7 +929,7 @@
 - [invadersapp](https://github.com/sausheong/invadersapp) - Space invaders in an app
 - [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [finance-go](https://github.com/piquette/finance-go) - :bar_chart: Financial markets data library implemented in go.
-- [benthos](https://github.com/Jeffail/benthos) - A stream processor for mundane tasks written in Go
+- [benthos](https://github.com/Jeffail/benthos) - Declarative streaming ETL for mundane tasks, written in Go
 - [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [goim](https://github.com/Terry-Mao/goim) - goim
 - [drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
@@ -2623,7 +2624,8 @@
 
 ## Python 
 
-- [jd_seckill](https://github.com/huanghyw/jd_seckill) - 京东秒杀商品抢购，目前只支持茅台抢购，不支持其他商品！
+- [share](https://github.com/liujunren93/share) - 
+- [jd_seckill](https://github.com/huanghyw/jd_seckill) - 京东茅台抢购，不支持其他商品！愿大家与黄牛站在同一个起跑线，公平的参与这场抢茅大赛。
 - [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
 - [fedlearner](https://github.com/bytedance/fedlearner) - A multi-party collaborative machine learning framework
 - [datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use NLP datasets for ML models with fast, easy-to-use and efficient data manipulation tools
@@ -3475,7 +3477,7 @@
 - [gods-pen](https://github.com/ymm-tech/gods-pen) - 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink.
 - [saber-theme-template](https://github.com/saberland/saber-theme-template) - A template for creating Saber theme.
 - [GitDataV](https://github.com/HongqingCao/GitDataV) - 基于Vue框架构建的github数据可视化平台
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 120k+ developers. https://hoppscotch.io
 - [OverVue](https://github.com/open-source-labs/OverVue) - Prototyping Tool For Vue Devs 适用于Vue的原型工具
 - [vuepress-plugin-code-switcher](https://github.com/padarom/vuepress-plugin-code-switcher) - :arrows_clockwise: Component that adds synchronized multi-language code blocks to your Vuepress sites
 - [el-data-table](https://github.com/FEMessage/el-data-table) - 🥘Base on element-ui, makes crud easily
