@@ -3136,7 +3136,7 @@
 - [tailwind-nextjs-saas-template](https://github.com/egoist-sponsors/tailwind-nextjs-saas-template) - A TailwindCSS + Next.js template for your next SaaS product.
 - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
-- [vite](https://github.com/vitejs/vite) - Native-ESM powered web dev build tool. It's fast.
+- [vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast.
 - [g](https://github.com/antvis/g) - A powerful rendering engine which providing Canvas and SVG draw for G2 & G6
 - [graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
