@@ -40,6 +40,7 @@
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Processing](#processing)
+  - [Pug](#pug)
   - [Python](#python)
   - [Rascal](#rascal)
   - [Reason](#reason)
@@ -92,6 +93,7 @@
 - [ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
 - [os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
+- [v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror)
 - [robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
@@ -296,6 +298,8 @@
 
 ## Go 
 
+- [go-demo](https://github.com/pibigstar/go-demo) - Go语言实例教程从入门到进阶，包括基础库使用、设计模式、面试易错点、工具类、对接第三方等
+- [jd_seckill](https://github.com/ztino/jd_seckill) - go版本jd_seckill，京东茅台抢购，降低使用门栏。
 - [go-admin](https://github.com/GoAdminGroup/go-admin) - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
 - [proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
 - [Distributed-Systems](https://github.com/feixiao/Distributed-Systems) - MIT课程《Distributed Systems 》学习和翻译
@@ -598,7 +602,7 @@
 - [go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
 - [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache
-- [gopay](https://github.com/iGoogle-ink/gopay) - QQ、微信（WeChat）、支付宝（AliPay）的Go版本SDK。【微信支付V3已部分接入，接口完善中...】
+- [gopay](https://github.com/iGoogle-ink/gopay) - QQ、微信（WeChat）、支付宝（AliPay）的Go版本SDK。【微信支付V3基础支付已完成，其他接口完善中...】
 - [code](https://github.com/goinaction/code) - Source Code for Go In Action examples
 - [presidio](https://github.com/microsoft/presidio) - Context aware, pluggable and customizable data protection and anonymization service for text and images
 - [TopList](https://github.com/tophubs/TopList) - 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish
@@ -798,7 +802,7 @@
 - [notionapi](https://github.com/kjk/notionapi) - Unofficial Go API for Notion.so
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [hil](https://github.com/hashicorp/hil) - HIL is a small embedded language for string interpolations.
-- [Beaver](https://github.com/Clivern/Beaver) - 💨 A real time messaging server to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
+- [Beaver](https://github.com/Clivern/Beaver) - 💨 A real time messaging system to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
 - [syncd](https://github.com/dreamans/syncd) - syncd是一款开源的代码部署工具，它具有简单、高效、易用等特点，可以提高团队的工作效率.
 - [gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
 - [gophers](https://github.com/egonelbre/gophers) - Free gophers
@@ -1223,7 +1227,6 @@
 - [designiot](https://github.com/phodal/designiot) - 教你设计物联网系统。构建自己的Internet of Things 。
 - [repractise](https://github.com/phodal/repractise) - RePractise
 - [bootstrap-toggle](https://github.com/minhur/bootstrap-toggle) - Bootstrap Toggle is a highly flexible Bootstrap plugin that converts checkboxes into toggles
-- [bootstrap-switch](https://github.com/Bttstrp/bootstrap-switch) - Turn checkboxes and radio buttons in toggle switches.
 
 ## Haskell 
 
@@ -1235,8 +1238,8 @@
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [wx-api](https://github.com/niefy/wx-api) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
 - [react-native-otg-storage](https://github.com/scizers/react-native-otg-storage) - 
-- [BILIBILI-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER) - B站，哔哩哔哩（Bilibili）自动签到每日自动投币，银瓜子兑换硬币，领取大会员福利，大会员月底给自己充电等。每天轻松获取65经验值。赶快和我一起成为Lv6吧！
-- [PowerJob](https://github.com/KFCFans/PowerJob) - Enterprise job scheduling middleware with distributed computing ability.
+- [BILIBILI-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER) - B站，哔哩哔哩（Bilibili）自动签到投币工具，每天轻松获取65经验值，支持每日自动投币，银瓜子兑换硬币，领取大会员福利，大会员月底给自己充电等功能。呐！赶快和我一起成为Lv6吧！
+- [PowerJob](https://github.com/PowerJob/PowerJob) - Enterprise job scheduling middleware with distributed computing ability.
 - [WePush](https://github.com/rememberber/WePush) - 专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
 - [litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
 - [hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍「算法面试+算法知识」针对小白的算法训练 | 还包括：1、阿里、字节、滴滴 百篇大厂面经汇总 2、千本开源电子书  3、百张思维导图 （右侧来个 star 吧 🌹，English version supported）
@@ -1403,7 +1406,6 @@
 - [AnimalCrossingHelper](https://github.com/aaBaO/AnimalCrossingHelper) - 动物之森小助手
 - [acnl-editor](https://github.com/marcrobledo/acnl-editor) - An Animal Crossing: New Leaf savegame editor made in HTML5
 - [villagerdb](https://github.com/jefflomacy/villagerdb) - Animal Crossing Item and Villager Database
-- [website](https://github.com/egoist/website) - EGOIST's homepage.
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Materials to help you rock your next coding interview
 - [wxParse](https://github.com/icindy/wxParse) - wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析
 - [kbone-ts-template](https://github.com/stephenml/kbone-ts-template) - 
@@ -1796,7 +1798,6 @@
 - [isometric-contributions](https://github.com/jasonlong/isometric-contributions) - Browser extension for rendering an isometric pixel art version of your GitHub contribution graph.
 - [vue2-editor](https://github.com/davidroyer/vue2-editor) - A text editor using Vue.js and Quill
 - [rc-bmap](https://github.com/jser-club/rc-bmap) - 当百度地图遇上React，会产生怎样的火花🔥     🎉欢迎您的加入🎉
-- [v86](https://github.com/copy/v86) - x86 virtualization in JavaScript, running in your browser and NodeJS
 - [markdown-it-chain](https://github.com/ulivz/markdown-it-chain) - A chaining API like webpack-chain but for markdown-it.
 - [react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
 - [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
@@ -2222,7 +2223,7 @@
 - [Cat_Recognition](https://github.com/tinalulu1327/Cat_Recognition) - Cat Detection and Breed Recognition
 - [Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
 - [lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
-- [fastai](https://github.com/fastai/fastai) - The fastai deep learning library, plus lessons and tutorials
+- [fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [google-research](https://github.com/google-research/google-research) - Google Research
 - [CodeSearchNet](https://github.com/github/CodeSearchNet) - Datasets, tools, and benchmarks for representation learning of code.
 - [examples](https://github.com/tensorflow/examples) - TensorFlow examples
@@ -2312,6 +2313,7 @@
 
 ## Others 
 
+- [zero-doc](https://github.com/tal-tech/zero-doc) - The docs for go-zero
 - [HappyHackingCalendar](https://github.com/BetterTuring/HappyHackingCalendar) - 黑客专属日历
 - [HDMI-PI](https://github.com/peng-zhihui/HDMI-PI) - 我设计的一个HDMI转MIPI模块，可以用于驱动各种手机屏幕当显示器用。
 - [majsoul-x](https://github.com/moxcomic/majsoul-x) - iOS首款支持扩展的第三方雀魂客户端, 支持雀魂Plus 2.x插件、mod，安卓版本开发中...
@@ -2341,7 +2343,7 @@
 - [Machine-Learning-Notes](https://github.com/Sophia-11/Machine-Learning-Notes) - 周志华《机器学习》手推笔记
 - [OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
-- [ShadowsocksBio](https://github.com/JadaGates/ShadowsocksBio) - 记录一下SS的前世今生，以及一个简单的教程总结
+- [ShadowsocksBio](https://github.com/KeiKinn/ShadowsocksBio) - 记录一下SS的前世今生，以及一个简单的教程总结
 - [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
 - [package-maintenance](https://github.com/nodejs/package-maintenance) - Repository for work for discussion of helping with maintenance of key packages in the ecosystem.
 - [how-to-get-rich-without-getting-lucky](https://github.com/fat-garage/how-to-get-rich-without-getting-lucky) - 
@@ -2502,7 +2504,7 @@
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [mentorship](https://github.com/nodejs/mentorship) - Node.js Mentorship Program Initiative
 - [conference](https://github.com/gopherchina/conference) - 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2020
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  我个人曾经做过的技术分享...
 - [weixin-xiaochengxu666-info](https://github.com/xiaobei666/weixin-xiaochengxu666-info) - 微信小程序开发框架、资源-干货汇总
 - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
@@ -2622,6 +2624,10 @@
 ## Processing 
 
 - [VTBB](https://github.com/vibertthio/VTBB) - 🎤 An interactive toy, an audio visual work.
+
+## Pug 
+
+- [bootstrap-switch](https://github.com/Bttstrp/bootstrap-switch) - Turn checkboxes and radio buttons in toggle switches.
 
 ## Python 
 
@@ -2798,7 +2804,7 @@
 - [python-spider](https://github.com/Jack-Cherish/python-spider) - :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等
 - [akbl](https://github.com/rsm-gh/akbl) - Control the lights of Alienware computers under GNU/Linux systems.
 - [alienware15r3_ubuntu14](https://github.com/awesomebytes/alienware15r3_ubuntu14) - Instructions on how to install Ubuntu 14.04 on the Alienware 15 R3 (and installing cuda, tensorflow and disabling intel graphics card)
-- [core](https://github.com/home-assistant/core) - WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ :house_with_garden: Open source home automation that puts local control and privacy first
+- [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
 - [requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
 - [abu](https://github.com/bbfamily/abu) - 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构
@@ -3136,7 +3142,7 @@
 - [tailwind-nextjs-saas-template](https://github.com/egoist-sponsors/tailwind-nextjs-saas-template) - A TailwindCSS + Next.js template for your next SaaS product.
 - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
-- [vite](https://github.com/vitejs/vite) - Native-ESM powered web dev build tool. It's fast.
+- [vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast.
 - [g](https://github.com/antvis/g) - A powerful rendering engine which providing Canvas and SVG draw for G2 & G6
 - [graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
@@ -3466,6 +3472,7 @@
 - [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) - 🚀🚀🚀vue3,vue3.0,vue,vue3.x,vue.js,后台管理,admin,vue-admin,vue-element-admin，主线版本基于element-plus、element-ui、ant-design-vue三者并行开发维护，同时支持电脑，手机，平板，切换分支查看不同的vue版本，element-plus版本已发布(vue3,vue3.0,vue,vue3.x,vue.js)
 - [animal-crossing-trading-system](https://github.com/kastnerorz/animal-crossing-trading-system) - 🥬 《集合啦！动物森友会》的大头菜交易市场。
 - [ACNLPatternTool](https://github.com/Thulinma/ACNLPatternTool) - Animal Crossing: New Leaf Pattern Tool
+- [website](https://github.com/egoist/website) - EGOIST's homepage.
 - [PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit) - 一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。
 - [eros](https://github.com/bmfe/eros) - 📱一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。【已停止维护】
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
