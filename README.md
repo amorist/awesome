@@ -93,7 +93,6 @@
 - [ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
 - [os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
-- [v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror)
 - [robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
@@ -121,6 +120,7 @@
 
 ## C++ 
 
+- [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
 - [opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component  developed by WeChat.
@@ -1292,6 +1292,7 @@
 
 ## JavaScript 
 
+- [myDrive](https://github.com/subnub/myDrive) - Node.js and mongoDB Google Drive Clone
 - [next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [gods-pen-server](https://github.com/ymm-tech/gods-pen-server) - 码良服务端项目
 - [just-react](https://github.com/BetaSu/just-react) - 「React技术揭秘」  一本自顶向下的React源码分析书
@@ -1797,7 +1798,8 @@
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [isometric-contributions](https://github.com/jasonlong/isometric-contributions) - Browser extension for rendering an isometric pixel art version of your GitHub contribution graph.
 - [vue2-editor](https://github.com/davidroyer/vue2-editor) - A text editor using Vue.js and Quill
-- [rc-bmap](https://github.com/jser-club/rc-bmap) - 当百度地图遇上React，会产生怎样的火花🔥     🎉欢迎您的加入🎉
+- [rc-bmap](https://github.com/JserWang/rc-bmap) - 当百度地图遇上React，会产生怎样的火花🔥     🎉欢迎您的加入🎉
+- [v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [markdown-it-chain](https://github.com/ulivz/markdown-it-chain) - A chaining API like webpack-chain but for markdown-it.
 - [react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
 - [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
@@ -2314,6 +2316,7 @@
 ## Others 
 
 - [zero-doc](https://github.com/tal-tech/zero-doc) - The docs for go-zero
+- [jd_seckill](https://github.com/huanghyw/jd_seckill) - 
 - [HappyHackingCalendar](https://github.com/BetterTuring/HappyHackingCalendar) - 黑客专属日历
 - [HDMI-PI](https://github.com/peng-zhihui/HDMI-PI) - 我设计的一个HDMI转MIPI模块，可以用于驱动各种手机屏幕当显示器用。
 - [majsoul-x](https://github.com/moxcomic/majsoul-x) - iOS首款支持扩展的第三方雀魂客户端, 支持雀魂Plus 2.x插件、mod，安卓版本开发中...
@@ -2632,7 +2635,6 @@
 ## Python 
 
 - [share](https://github.com/liujunren93/share) - 
-- [jd_seckill](https://github.com/huanghyw/jd_seckill) - 
 - [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
 - [fedlearner](https://github.com/bytedance/fedlearner) - A multi-party collaborative machine learning framework
 - [datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use NLP datasets for ML models with fast, easy-to-use and efficient data manipulation tools
@@ -2647,7 +2649,7 @@
 - [GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart:让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。
 - [WechatSogou](https://github.com/chyroc/WechatSogou) - 基于搜狗微信搜索的微信公众号爬虫接口
 - [wxpy](https://github.com/youfou/wxpy) - 微信机器人 / 可能是最优雅的微信个人号 API ✨✨
-- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
 - [stock](https://github.com/pythonstock/stock) - stock，股票系统。使用python进行开发。
 - [ml-mac-classify](https://github.com/imgcook/ml-mac-classify) - 体验机器学习：在Mac电脑上训练和部署一个图片分类模型
@@ -2754,7 +2756,7 @@
 - [walle-web](https://github.com/meolu/walle-web) - walle - 瓦力 Devops开源项目代码部署平台
 - [uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
 - [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-- [visdom](https://github.com/facebookresearch/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
+- [visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
 - [bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 - [d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球140所大学采用教学。
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -3052,6 +3054,7 @@
 
 ## TypeScript 
 
+- [vue-mini](https://github.com/vue-mini/vue-mini) - 像写 Vue 3 一样写小程序
 - [X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
 - [react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
 - [porn-vault](https://github.com/porn-vault/porn-vault) - 💋 Manage your ever-growing porn collection. Using Vue & GraphQL
@@ -3392,7 +3395,7 @@
 - [pandora](https://github.com/midwayjs/pandora) - A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
 - [i18n](https://github.com/electron/i18n) - 🌍 The home of Electron's translated documentation
 - [vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
-- [ice](https://github.com/alibaba/ice) - 🚀  Simple and friendly front-end development system（飞冰，简单而友好的前端研发体系 ）https://ice.work/
+- [ice](https://github.com/alibaba/ice) - 🚀 Simple and friendly front-end development system（飞冰，简单而友好的前端研发体系 ）https://ice.work/
 - [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
