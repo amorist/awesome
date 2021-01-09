@@ -186,7 +186,6 @@
 - [magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
 - [98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
-- [hugo-hero-theme](https://github.com/zerostaticthemes/hugo-hero-theme) - A modern business theme for Hugo.
 - [hugo-lime](https://github.com/uicardiodev/hugo-lime) - Hugo Lime is a business theme for GoHugo by https://uicard.io
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [dragon](https://github.com/tomhodgins/dragon) - dragon.js is a bookmarklet that lets you drag any element on a website using a mouse or touchscreen. The goal is to speed up in-browser design critiques and brainstorming new layout ideas.
@@ -298,6 +297,7 @@
 
 ## Go 
 
+- [go-stash](https://github.com/tal-tech/go-stash) - go-stash is a high performance, free and open source server-side data processing pipeline that ingests data from Kafka, processes it, and then sends it to ElasticSearch.
 - [go-demo](https://github.com/pibigstar/go-demo) - Go语言实例教程从入门到进阶，包括基础库使用、设计模式、面试易错点、工具类、对接第三方等
 - [helloworld](https://github.com/ztino/helloworld) - Hello，MT
 - [go-admin](https://github.com/GoAdminGroup/go-admin) - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
@@ -451,7 +451,7 @@
 - [jsonparser](https://github.com/buger/jsonparser) - One of the fastest alternative JSON parser for Go that does not require schema
 - [learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
 - [ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
-- [arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line interface
+- [arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 - [certstore](https://github.com/github/certstore) - Go library for using system certificate stores on macOS/Windows
 - [barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
 - [starter-kit](https://github.com/stack-labs/starter-kit) - stack-rpc 快速开发包
@@ -511,7 +511,7 @@
 - [nats-http](https://github.com/derekcollison/nats-http) - Using HTTP Request and Response with NATS
 - [sqlvet](https://github.com/houqp/sqlvet) - Go fearless SQL. Sqlvet performs static analysis on raw SQL queries in your Go code base.
 - [govalidate](https://github.com/rakyll/govalidate) - Validates your Go installation and dependencies.
-- [kratos](https://github.com/go-kratos/kratos) - Kratos是一套轻量级的Go微服务框架，包含大量微服务相关框架及工具。
+- [kratos](https://github.com/go-kratos/kratos) - A Go framework for microservices.
 - [codeclass](https://github.com/Golangltd/codeclass) - Golang语言社区--腾讯课堂、网易云课堂、字节教育课程PPT及代码
 - [go-plugins-helpers](https://github.com/docker/go-plugins-helpers) - Go helper packages to extend the Docker Engine
 - [ok-zoomer](https://github.com/jbirms/ok-zoomer) - A Go program that takes an image, uses pigo to detect a face, and creates a gif that zooms in on the face
@@ -705,7 +705,7 @@
 - [muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
 - [go-sitemap](https://github.com/yterajima/go-sitemap) - Get sitemap.xml (or sitemapindex.xml) from URL and Generate Sitemap object.
 - [vscode-remote-try-go](https://github.com/microsoft/vscode-remote-try-go) - Go sample project for trying out the 'VS Code Remote - Containers' extension
-- [go-streams](https://github.com/reugn/go-streams) - Go stream processing library
+- [go-streams](https://github.com/reugn/go-streams) - A lightweight stream processing library for Go
 - [MTBSystem](https://github.com/wiatingpub/MTBSystem) - 使用go-micro微服务实现的在线电影院订票系统
 - [Mastering-Go](https://github.com/PacktPublishing/Mastering-Go) - Mastering Go, published by Packt
 - [sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
@@ -829,7 +829,7 @@
 - [khalzam](https://github.com/kisasexypantera94/khalzam) - Simple audio recognition library.
 - [netcap](https://github.com/dreadl0ck/netcap) - A framework for secure and scalable network traffic analysis - https://netcap.io
 - [txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
-- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [devd](https://github.com/cortesi/devd) - A local webserver for developers
 - [greact](https://github.com/gernest/greact) - like preact, but for go with wasm
 - [gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
@@ -1292,6 +1292,7 @@
 
 ## JavaScript 
 
+- [miniapp-coupons](https://github.com/hedongshu/miniapp-coupons) - 原生小程序云开发，别人领外卖券，你拿佣金，轻松赚个零花钱
 - [myDrive](https://github.com/subnub/myDrive) - Node.js and mongoDB Google Drive Clone
 - [next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [gods-pen-server](https://github.com/ymm-tech/gods-pen-server) - 码良服务端项目
@@ -2315,6 +2316,7 @@
 
 ## Others 
 
+- [interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview
 - [zero-doc](https://github.com/tal-tech/zero-doc) - The docs for go-zero
 - [jd_seckill](https://github.com/huanghyw/jd_seckill) - 
 - [HappyHackingCalendar](https://github.com/BetterTuring/HappyHackingCalendar) - 黑客专属日历
@@ -2634,6 +2636,7 @@
 
 ## Python 
 
+- [PythonPark](https://github.com/Jack-Cherish/PythonPark) - Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 - [share](https://github.com/liujunren93/share) - 
 - [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
 - [fedlearner](https://github.com/bytedance/fedlearner) - A multi-party collaborative machine learning framework
@@ -2907,6 +2910,7 @@
 - [heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
+- [hugo-hero-theme](https://github.com/zerostaticthemes/hugo-hero-theme) - A modern business theme for Hugo.
 - [css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [for-the-badge](https://github.com/BraveUX/for-the-badge) - Badges for badges' sake.
@@ -3079,7 +3083,7 @@
 - [vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Newest updates: https://blog.vuestorefront.io. Always Open Source, MIT license.
 - [grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
-- [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - (H5编辑器)H5-Dooring是一款功能强大，开源免费的H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react为主， 后台采用nodejs开发.
+- [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - H5 Page Maker, H5 Editor. | 致力于提供一套简单方便、专业可靠、无限可能的H5/PC页面制作解决方案.
 - [taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
 - [logbox](https://github.com/egoist/logbox) - View console logs and errors on any website without opening the devtools
 - [fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
@@ -3432,7 +3436,7 @@
 
 - [til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [yapi-docker](https://github.com/crper/yapi-docker) - 使用docker构建yapi容器
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
 - [vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
