@@ -300,7 +300,6 @@
 - [high-performance-go](https://github.com/geektutu/high-performance-go) - high performance coding with golang（Go 语言高性能编程，Go 语言陷阱，Gotchas，Traps）
 - [go-stash](https://github.com/tal-tech/go-stash) - go-stash is a high performance, free and open source server-side data processing pipeline that ingests data from Kafka, processes it, and then sends it to ElasticSearch.
 - [go-demo](https://github.com/pibigstar/go-demo) - Go语言实例教程从入门到进阶，包括基础库使用、设计模式、面试易错点、工具类、对接第三方等
-- [helloworld](https://github.com/ztino/helloworld) - Hello，MT
 - [go-admin](https://github.com/GoAdminGroup/go-admin) - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
 - [proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
 - [Distributed-Systems](https://github.com/feixiao/Distributed-Systems) - MIT课程《Distributed Systems 》学习和翻译
@@ -868,7 +867,7 @@
 - [aminal](https://github.com/liamg/aminal) - A modern cross-platform terminal emulator in Go
 - [autopprof](https://github.com/rakyll/autopprof) - Pprof made easy at development time for Go
 - [makisu](https://github.com/uber/makisu) - Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
-- [hydra](https://github.com/ory/hydra) - OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
+- [hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [go-nsq](https://github.com/youzan/go-nsq) - 
 - [qor](https://github.com/qor/qor) - QOR is a set of libraries written in Go that abstracts common features needed for business applications, CMSs, and E-commerce systems.
@@ -899,7 +898,7 @@
 - [resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
 - [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
-- [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint.
+- [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [govaluate](https://github.com/Knetic/govaluate) - Arbitrary expression evaluation for golang
 - [photoprism](https://github.com/photoprism/photoprism) - Personal Photo Management powered by Go and Google TensorFlow
@@ -3034,7 +3033,7 @@
 - [aperture-node](https://github.com/wulkano/aperture-node) - Record the screen on macOS from Node.js
 - [UPImageMacApp](https://github.com/chenxtdo/UPImageMacApp) - a mac app can upload images and save links.(support markdown links)
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
-- [wallpapper](https://github.com/mczachurski/wallpapper) - Console application for creating dynamic wallpapers for macOS Mojave
+- [wallpapper](https://github.com/mczachurski/wallpapper) - Console application for creating dynamic wallpapers for macOS Mojave and newer
 - [WebShell](https://github.com/djyde/WebShell) - Bundle web apps to native OS X app
 - [vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift web framework.
 - [Charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
