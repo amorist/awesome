@@ -217,6 +217,7 @@
 - [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
 - [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no JS)
 - [instagram.css](https://github.com/picturepan2/instagram.css) - Instagram.css - Complete set of Instagram filters in pure CSS
+- [emoji](https://github.com/muan/emoji) - :love_letter: Find the emoji that echoes your mind.
 - [phugo](https://github.com/aerohub/phugo) - Phugo [ˈfjuːgəʊ] is a gallery/photoblog theme for Hugo.
 - [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) - The next generation Javascript WYSIWYG HTML Editor.
 - [ghost-material](https://github.com/nauzethc/ghost-material) - Material Design theme for Ghost blogging platform
@@ -1794,7 +1795,7 @@
 - [date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
 - [ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
-- [emojilib](https://github.com/muan/emojilib) - :book: Emoji keyword library.
+- [emojilib](https://github.com/muan/emojilib) - Emoji keyword library.
 - [poddycast](https://github.com/MrChuckomo/poddycast) - Podcast app made with Electron
 - [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [isometric-contributions](https://github.com/jasonlong/isometric-contributions) - Browser extension for rendering an isometric pixel art version of your GitHub contribution graph.
@@ -2029,7 +2030,6 @@
 - [heml](https://github.com/SparkPost/heml) - HEML is an open source markup language for building responsive email.
 - [fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [node-steam](https://github.com/seishun/node-steam) - Interface directly with Steam servers from Node.js
-- [emoji](https://github.com/muan/emoji) - :love_letter: Find the emoji that echoes your mind.
 - [danmu-client](https://github.com/zsxsoft/danmu-client) - A cross-platforms danmaku client that supports transparency which based on canvas + WebSocket. 多用跨平台透明弹幕客户端，支持图文弹幕，基于canvas + WebSocket。
 - [spider-for-netease-music](https://github.com/qiangzi7723/spider-for-netease-music) - 抓取网易云音乐上所有歌曲的评论数量，并整理数据打造一个前端展示页面
 - [blog](https://github.com/jawil/blog) - Too young, too simple. Sometimes, naive & stupid 🐌
@@ -2316,6 +2316,7 @@
 
 ## Others 
 
+- [data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
 - [interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview
 - [zero-doc](https://github.com/tal-tech/zero-doc) - The docs for go-zero
 - [HappyHackingCalendar](https://github.com/BetterTuring/HappyHackingCalendar) - 黑客专属日历
@@ -2635,6 +2636,7 @@
 
 ## Python 
 
+- [parler-tricks](https://github.com/d0nk/parler-tricks) - Reverse engineered Parler API
 - [PythonPark](https://github.com/Jack-Cherish/PythonPark) - Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 - [share](https://github.com/liujunren93/share) - 一个简单轻量的微服务框架
 - [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
