@@ -579,7 +579,7 @@
 - [tools](https://github.com/golang/tools) - [mirror] Go Tools
 - [go-twitter](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
 - [zenpress](https://github.com/insionng/zenpress) - Zenpress is a cms system of written in golang
-- [golang-set](https://github.com/deckarep/golang-set) - A simple set type for the Go language. Also used by Docker, 1Password, Ethereum.
+- [golang-set](https://github.com/deckarep/golang-set) - A simple set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
 - [go-starter-kit](https://github.com/olebedev/go-starter-kit) - Golang isomorphic react/hot reloadable/redux/css-modules/SSR  starter kit
@@ -1747,6 +1747,7 @@
 - [tray-example](https://github.com/kevinsawicki/tray-example) - Electron Tray Mac OS X Example App
 - [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug
 - [openmct](https://github.com/nasa/openmct) - A web based mission control framework.
+- [arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
 - [wxa-plugin-canvas](https://github.com/jasondu/wxa-plugin-canvas) - 小程序海报组件-生成朋友圈分享海报并生成图片
 - [enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
 - [now-builders](https://github.com/vercel/now-builders) - Official Now Builders created by the ZEIT team
@@ -3059,6 +3060,7 @@
 
 ## TypeScript 
 
+- [amplication](https://github.com/amplication/amplication) - Create business applications, without coding. Build a fully functional Node.js server-side app with all your data models and a React client, in less than 5 minutes.
 - [imove](https://github.com/imgcook/imove) - Move your mouse, generate code from flow chart
 - [vue-mini](https://github.com/vue-mini/vue-mini) - 像写 Vue 3 一样写小程序
 - [X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
@@ -3351,7 +3353,6 @@
 - [cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 - [trop](https://github.com/electron/trop) - automate the backporting process
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-- [arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
 - [eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [vuese](https://github.com/vuese/vuese) - 🤗 One-stop solution for vue component documentation. Original org: https://github.com/vuese
