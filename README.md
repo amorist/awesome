@@ -1374,7 +1374,7 @@
 - [lottie-api](https://github.com/bodymovin/lottie-api) - A library to edit lottie-web animations dynamically
 - [svg-parser](https://github.com/Rich-Harris/svg-parser) - 
 - [node-sketch](https://github.com/oscarotero/node-sketch) - 💎 Javascript library to manipulate sketch files
-- [vue-demi](https://github.com/antfu/vue-demi) - 🎩 Creates Universal Library for Vue 2 & 3
+- [vue-demi](https://github.com/vueuse/vue-demi) - 🎩 Creates Universal Library for Vue 2 & 3
 - [changelog-reader-action](https://github.com/mindsers/changelog-reader-action) - A GitHub action to read and get data from the CHANGELOG.md file 🚀
 - [svgify](https://github.com/hughsk/svgify) - A browserify transform for requiring SVG files to embed directly in your code.
 - [animate_demo](https://github.com/Fzw-com/animate_demo) - 常用的动画效果。前端JS动画效果，包括封装js运动库，css3，html5，canvas，svg，移动端微信网页 主要的实例有通过原生js完成的各种运动效果，图片抖动，图片轮播，放大镜效果，图片拖拽，图片按需加载，手机滑屏效果，css3的3D效果，iPhone开机动画，苹果电脑鼠标移入放大效果， 画时钟，SVG3D模型等
@@ -3060,7 +3060,7 @@
 
 ## TypeScript 
 
-- [amplication](https://github.com/amplication/amplication) - Create business applications, without coding. Build a fully functional Node.js server-side app with all your data models and a React client, in less than 5 minutes.
+- [amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [imove](https://github.com/imgcook/imove) - Move your mouse, generate code from flow chart
 - [vue-mini](https://github.com/vue-mini/vue-mini) - 像写 Vue 3 一样写小程序
 - [X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
@@ -3113,7 +3113,7 @@
 - [vue-next-jsx](https://github.com/HcySunYang/vue-next-jsx) - A babel plugin that provides jsx syntax for vue3
 - [alloy-worker](https://github.com/AlloyTeam/alloy-worker) - 面向事务的高可用 Web Worker 通信框架
 - [graphql-api-starter](https://github.com/egoist/graphql-api-starter) - GraphQL API starter.
-- [vueuse](https://github.com/antfu/vueuse) - 🧰 Collection of essential Vue Composition Utilities for Vue 2 and 3
+- [vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [vercel-builder](https://github.com/nuxt/vercel-builder) - Vercel Builder for Nuxt.js
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev environment for building scalable, high-quality user interfaces
