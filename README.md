@@ -1319,6 +1319,7 @@
 - [geojson-3d](https://github.com/maptime-ams/geojson-3d) - GeoJSON & TopoJSON in 3D, with Three.js
 - [portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
+- [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - H5 Page Maker, H5 Editor. | 致力于提供一套简单方便、专业可靠、无限可能的H5/PC页面制作解决方案.
 - [container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using https://github.com/actions/toolkit/
 - [react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
 - [youtube-clone-nodejs-api](https://github.com/techreagan/youtube-clone-nodejs-api) - VueTube is a YouTube clone built with nodejs, expressjs & mongodb. This is the RESTful API repository.
@@ -1364,7 +1365,6 @@
 - [rick-and-morty-react](https://github.com/LeonidasEsteban/rick-and-morty-react) - 
 - [k8s-in-action](https://github.com/wuYin/k8s-in-action) - 《Kubernetes in Action 中文版》
 - [tinymce-all-in-one](https://github.com/PanJiaChen/tinymce-all-in-one) - Build all tinymce plugins into one js
-- [strapi-module](https://github.com/nuxt-community/strapi-module) - Strapi Module for NuxtJS
 - [react-popper](https://github.com/popperjs/react-popper) - 🍿⚛Official React library to use Popper, the positioning library
 - [jexcel](https://github.com/jspreadsheet/jexcel) - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
 - [json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
@@ -1974,7 +1974,7 @@
 - [numeronyms](https://github.com/zeke/numeronyms) - Turn words into neuronyms
 - [mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [i18n](https://github.com/nodejs/i18n) - The Node.js Internationalization Working Group – A Community Committee initiative.
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [wemark](https://github.com/TooBug/wemark) - 微信小程序Markdown渲染库
 - [dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -2234,7 +2234,6 @@
 - [examples](https://github.com/tensorflow/examples) - TensorFlow examples
 - [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft
 - [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code and resources for Machine Learning for Algorithmic Trading, 2nd edition.
-- [regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box) - 定投改变命运 —— 让时间陪你慢慢变富 https://onregularinvesting.com
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)
 - [deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
@@ -2638,6 +2637,7 @@
 
 ## Python 
 
+- [pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 120+ Indicators
 - [parler-tricks](https://github.com/d0nk/parler-tricks) - Reverse engineered Parler API
 - [PythonPark](https://github.com/Jack-Cherish/PythonPark) - Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 - [share](https://github.com/liujunren93/share) - 一个简单轻量的微服务框架
@@ -2729,6 +2729,7 @@
 - [calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [public-speaking-with-meaning](https://github.com/xiaolai/public-speaking-with-meaning) - 《我也有话要说》—— 普通人的当众讲话技能
 - [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
+- [regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box) - 定投改变命运 —— 让时间陪你慢慢变富 https://onregularinvesting.com
 - [wheels](https://github.com/home-assistant/wheels) - Build wheels for Home Assistant
 - [hub](https://github.com/pytorch/hub) - Submission to https://pytorch.org/hub/
 - [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -3088,7 +3089,6 @@
 - [vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Newest updates: https://blog.vuestorefront.io. Always Open Source, MIT license.
 - [grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
-- [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - H5 Page Maker, H5 Editor. | 致力于提供一套简单方便、专业可靠、无限可能的H5/PC页面制作解决方案.
 - [taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
 - [logbox](https://github.com/egoist/logbox) - View console logs and errors on any website without opening the devtools
 - [fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
@@ -3126,6 +3126,7 @@
 - [financial](https://github.com/lmammino/financial) - A Zero-dependency TypeScript/JavaScript financial library (based on numpy-financial) for Node.js, Deno and the browser
 - [tinymce-vue](https://github.com/tinymce/tinymce-vue) - Official TinyMCE Vue component
 - [auth-module](https://github.com/nuxt-community/auth-module) - 
+- [strapi-module](https://github.com/nuxt-community/strapi-module) - Strapi Module for NuxtJS
 - [gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
 - [lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas
 - [tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable particles animations and use them as animated backgrounds for your website. Ready to use components available for React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno.
