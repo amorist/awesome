@@ -174,6 +174,7 @@
 
 ## CSS 
 
+- [glass-website](https://github.com/developedbyed/glass-website) - 
 - [gods-pen-admin](https://github.com/ymm-tech/gods-pen-admin) - 码良管理后台项目
 - [halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
 - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
@@ -1057,7 +1058,7 @@
 - [ponzu](https://github.com/ponzu-cms/ponzu) - Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.
 - [go-colorful](https://github.com/lucasb-eyer/go-colorful) - A library for playing with colors in go (golang).
 - [go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
-- [btree](https://github.com/google/btree) - 
+- [btree](https://github.com/google/btree) - BTree provides a simple, ordered, in-memory data structure for Go programs.
 - [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
 - [now](https://github.com/jinzhu/now) - Now is a time toolkit for golang
@@ -2322,7 +2323,7 @@
 - [zero-doc](https://github.com/tal-tech/zero-doc) - The docs for go-zero
 - [HappyHackingCalendar](https://github.com/BetterTuring/HappyHackingCalendar) - 黑客专属日历
 - [HDMI-PI](https://github.com/peng-zhihui/HDMI-PI) - 我设计的一个HDMI转MIPI模块，可以用于驱动各种手机屏幕当显示器用。
-- [majsoul-x](https://github.com/moxcomic/majsoul-x) - iOS首款支持扩展的第三方雀魂客户端, 支持雀魂Plus 2.x插件、mod，安卓版本开发中...
+- [majsoul-ex](https://github.com/moxcomic/majsoul-ex) - iOS首款支持扩展的第三方雀魂客户端, 支持雀魂Plus 2.x插件、mod，安卓版本开发中...
 - [pi-webcam](https://github.com/geerlingguy/pi-webcam) - Automation to configure a Raspberry Pi as a USB OTG webcam
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [awful-ai](https://github.com/daviddao/awful-ai) - 😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness
