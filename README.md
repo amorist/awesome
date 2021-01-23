@@ -1324,7 +1324,6 @@
 - [container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using https://github.com/actions/toolkit/
 - [react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
 - [youtube-clone-nodejs-api](https://github.com/techreagan/youtube-clone-nodejs-api) - VueTube is a YouTube clone built with nodejs, expressjs & mongodb. This is the RESTful API repository.
-- [api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
 - [preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [sponsor-verifier](https://github.com/matchai/sponsor-verifier) - Sponsor verification for stickers being sent 💌
 - [douyin](https://github.com/afeifeifei/douyin) - 抖音上面的源码全在这里了！
@@ -1989,7 +1988,7 @@
 - [github-webhook-handler](https://github.com/rvagg/github-webhook-handler) - Node.js web handler / middleware for processing GitHub Webhooks
 - [HexoEditor](https://github.com/zhuzhuyule/HexoEditor) - this markdown Editor for hexo blog
 - [life-commit](https://github.com/ByronHsu/life-commit) - 🏃📆  Life as a git. Commit on your life.
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 🤪  😜 阿里招p6/p7 Python Golang | gaojunqi@outlook.com | 上海张江
 - [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [viron](https://github.com/cam-inc/viron) - ☕️ Automated Design-based Management Console.
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
@@ -2090,7 +2089,7 @@
 - [Amor](https://github.com/amorist/Amor) - Amor
 - [react-trader](https://github.com/ccoenraets/react-trader) - Sample application built with React and Socket.io
 - [examples](https://github.com/eggjs/examples) - Store all egg examples in one place
-- [react-native-web](https://github.com/necolas/react-native-web) - React Native for Web
+- [react-native-web](https://github.com/necolas/react-native-web) - React Native Components and APIs for the Web
 - [GitHubPopular](https://github.com/crazycodeboy/GitHubPopular) - 这是一个用来查看GitHub最受欢迎与最热项目的App,它基于React Native支持Android和iOS双平台。#适配RN最新版在这里☞#
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [x-ray](https://github.com/matthewmueller/x-ray) - The next web scraper. See through the &lt;html&gt; noise.
@@ -3039,7 +3038,7 @@
 - [aperture-node](https://github.com/wulkano/aperture-node) - Record the screen on macOS from Node.js
 - [UPImageMacApp](https://github.com/chenxtdo/UPImageMacApp) - a mac app can upload images and save links.(support markdown links)
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
-- [wallpapper](https://github.com/mczachurski/wallpapper) - Console application for creating dynamic wallpapers for macOS Mojave and newer
+- [wallpapper](https://github.com/mczachurski/wallpapper) - :computer: Console application for creating dynamic wallpapers for macOS Mojave and newer
 - [WebShell](https://github.com/djyde/WebShell) - Bundle web apps to native OS X app
 - [vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift web framework.
 - [Charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
@@ -3096,6 +3095,7 @@
 - [kittenTricks](https://github.com/akveo/kittenTricks) - React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
 - [feedbackok-react](https://github.com/egoist/feedbackok-react) - React component for Feedback OK.
 - [feedbackok-js](https://github.com/egoist/feedbackok-js) - Collecting feedback with ease.
+- [api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
 - [wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most advanced NodeJS WhatsApp library for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [zebra-editor-core](https://github.com/acccco/zebra-editor-core) - 一款强大、现代的可视化编辑器。
