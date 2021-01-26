@@ -299,6 +299,7 @@
 
 ## Go 
 
+- [protoc-gen-validate](https://github.com/envoyproxy/protoc-gen-validate) - protoc plugin to generate polyglot message validators
 - [gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
 - [high-performance-go](https://github.com/geektutu/high-performance-go) - high performance coding with golang（Go 语言高性能编程，Go 语言陷阱，Gotchas，Traps）
 - [go-stash](https://github.com/tal-tech/go-stash) - go-stash is a high performance, free and open source server-side data processing pipeline that ingests data from Kafka, processes it, and then sends it to ElasticSearch.
@@ -1275,7 +1276,7 @@
 - [symphony](https://github.com/b3log/symphony) - 仓库已经迁移到 https://github.com/88250/symphony
 - [Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
 - [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
-- [elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine
+- [elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [NewXmPluginSDK](https://github.com/MiEcosystem/NewXmPluginSDK) - xiaomi smarthome app plugin sdk
 - [spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [coody-icop](https://github.com/coodyer/coody-icop) - cglib轻量化mvc框架(ioc+aop+mvc+orm+切面级事物)
@@ -3062,6 +3063,7 @@
 
 ## TypeScript 
 
+- [excalidraw-room](https://github.com/excalidraw/excalidraw-room) - 
 - [amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [imove](https://github.com/imgcook/imove) - Move your mouse, generate code from flow chart
 - [vue-mini](https://github.com/vue-mini/vue-mini) - 像写 Vue 3 一样写小程序
@@ -3095,7 +3097,7 @@
 - [kittenTricks](https://github.com/akveo/kittenTricks) - React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
 - [feedbackok-react](https://github.com/egoist/feedbackok-react) - React component for Feedback OK.
 - [feedbackok-js](https://github.com/egoist/feedbackok-js) - Collecting feedback with ease.
-- [api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
+- [api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most advanced NodeJS WhatsApp library for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [zebra-editor-core](https://github.com/acccco/zebra-editor-core) - 一款强大、现代的可视化编辑器。
