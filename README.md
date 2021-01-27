@@ -1295,6 +1295,7 @@
 
 ## JavaScript 
 
+- [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - [miniapp-coupons](https://github.com/hedongshu/miniapp-coupons) - 原生小程序云开发，别人领外卖券，你拿佣金，轻松赚个零花钱
 - [myDrive](https://github.com/subnub/myDrive) - Node.js and mongoDB Google Drive Clone
@@ -1962,7 +1963,6 @@
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [fkill](https://github.com/sindresorhus/fkill) - Fabulously kill processes. Cross-platform.
 - [download-stats](https://github.com/electron/download-stats) - ⬇️ Download stats for Electron. Updated daily.
-- [tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [Promise](https://github.com/huanshen/Promise) - 教你一步一步实现一个promise
 - [nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js website.
 - [driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
@@ -3063,6 +3063,7 @@
 
 ## TypeScript 
 
+- [tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0.
 - [excalidraw-room](https://github.com/excalidraw/excalidraw-room) - 
 - [amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [imove](https://github.com/imgcook/imove) - Move your mouse, generate code from flow chart
@@ -3402,6 +3403,7 @@
 - [intelligo](https://github.com/intelligo-io/intelligo) - 🤖 Chatbot Framework for Node.js.
 - [propel](https://github.com/propelml/propel) - Differential Programming in JavaScript.
 - [sentry-electron](https://github.com/getsentry/sentry-electron) - The official Sentry SDK for Electron
+- [tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [pandora](https://github.com/midwayjs/pandora) - A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
@@ -3453,6 +3455,7 @@
 
 ## Vue 
 
+- [redCover](https://github.com/zwpro/redCover) - 微信红包封面领取，用户观看视频广告或者邀请用户可获取微信红包序列号
 - [coupons](https://github.com/zwpro/coupons) - 美团饿了吗红包，先领红包再下单。外卖红包，cps分成，别人领红包下单，你拿佣金。
 - [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
 - [doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon and the new Apple M1 processor
