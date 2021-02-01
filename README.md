@@ -1699,7 +1699,6 @@
 - [signcode](https://github.com/kevinsawicki/signcode) - Codesign Windows executables from a Mac
 - [deeptraffic](https://github.com/lexfridman/deeptraffic) - DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series.
 - [registry](https://github.com/denoland/registry) - 
-- [ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [apollo](https://github.com/apollographql/apollo) - :rocket: Open source tools for GraphQL. Central repo for discussion.
 - [learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) - :closed_lock_with_key: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
 - [react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
@@ -1753,7 +1752,6 @@
 - [tray-example](https://github.com/kevinsawicki/tray-example) - Electron Tray Mac OS X Example App
 - [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug
 - [openmct](https://github.com/nasa/openmct) - A web based mission control framework.
-- [arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
 - [wxa-plugin-canvas](https://github.com/jasondu/wxa-plugin-canvas) - 小程序海报组件-生成朋友圈分享海报并生成图片
 - [enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
 - [now-builders](https://github.com/vercel/now-builders) - Official Now Builders created by the ZEIT team
@@ -2337,7 +2335,7 @@
 - [e-invoicing](https://github.com/alcoholwang/e-invoicing) - 上海地区中小企业电子发票申请及解决方案
 - [tooling](https://github.com/nodejs/tooling) - Advancing Node.js as a framework for writing great tools
 - [1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
-- [vue3-News](https://github.com/vue3/vue3-News) - 🎯Find the latest breaking √vue3 & vue-cli 3+  News.
+- [vue3-News](https://github.com/vue3/vue3-News) - 🎯Find the latest breaking Vue3 & Vue CLI 3+  News. (2021)
 - [awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
 - [web-server-frameworks](https://github.com/nodejs/web-server-frameworks) - A place for Node.js Web-Server Framework authors and users to collaborate
@@ -3343,6 +3341,7 @@
 - [xstate](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web.
 - [itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
 - [dejs](https://github.com/syumai/dejs) - ejs template engine for deno.
+- [ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [apollo-server](https://github.com/apollographql/apollo-server) - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
 - [apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
 - [umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
@@ -3362,6 +3361,7 @@
 - [cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 - [trop](https://github.com/electron/trop) - automate the backporting process
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
+- [arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
 - [eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [vuese](https://github.com/vuese/vuese) - 🤗 One-stop solution for vue component documentation. Original org: https://github.com/vuese
