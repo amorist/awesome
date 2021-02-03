@@ -299,6 +299,7 @@
 
 ## Go 
 
+- [ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
 - [protoc-gen-validate](https://github.com/envoyproxy/protoc-gen-validate) - protoc plugin to generate polyglot message validators
 - [gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
 - [high-performance-go](https://github.com/geektutu/high-performance-go) - high performance coding with golang（Go 语言高性能编程，Go 语言陷阱，Gotchas，Traps）
@@ -548,7 +549,7 @@
 - [githubv4](https://github.com/shurcooL/githubv4) - Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://developer.github.com/v4/).
 - [triage](https://github.com/tj/triage) - Interactive command-line GitHub issue & notification triaging tool.
 - [building-web-applications-in-go](https://github.com/unknwon/building-web-applications-in-go) - Go 语言 Web 应用开发系列教程，从新手到双手残废
-- [miniapp](https://github.com/medivhzhan/miniapp) - Golang 微信小程序 SDK
+- [miniapp](https://github.com/medivhzhan/miniapp) - 微信小程序服务端 SDK (for Golang)
 - [firebolt](https://github.com/digitalocean/firebolt) - Golang framework for streaming ETL, observability data pipeline, and event processing apps
 - [transfer](https://github.com/rinetd/transfer) - Converts from one encoding to another. Supported formats HCL ⇄ JSON ⇄ YAML⇄TOML⇄XML⇄plist⇄pickle⇄properties ...
 - [goweight](https://github.com/jondot/goweight) - A tool to analyze and troubleshoot a Go binary size.
@@ -1296,9 +1297,10 @@
 
 ## JavaScript 
 
+- [daxigua](https://github.com/liyupi/daxigua) - 最简单的魔改发布『 合成大西瓜 』，配套改图工具，不用改代码，修改配置即可！
 - [bigwatermelon](https://github.com/bullhe4d/bigwatermelon) - 合成大西瓜源码,修改版
 - [Recorder](https://github.com/xiangyuecn/Recorder) - html5 js 录音 mp3 wav ogg webm amr 格式，支持pc和Android、ios部分浏览器、和Hybrid App（提供Android IOS App源码），微信也是支持的，提供H5版语音通话聊天示例 和DTMF编解码
-- [daxigua](https://github.com/xiaopengand/daxigua) - 合成大西瓜源码，破解版源码，支持模式选择，分数选择
+- [daxigua](https://github.com/xiaopengand/daxigua) - 大西瓜，合成大西瓜源码，破解版源码，支持模式选择，分数选择
 - [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - [miniapp-coupons](https://github.com/hedongshu/miniapp-coupons) - 原生小程序云开发，别人领外卖券，你拿佣金，轻松赚个零花钱
@@ -2643,7 +2645,7 @@
 - [pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 120+ Indicators
 - [parler-tricks](https://github.com/d0nk/parler-tricks) - Reverse engineered Parler API
 - [PythonPark](https://github.com/Jack-Cherish/PythonPark) - Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
-- [share](https://github.com/liujunren93/share) - 一个简单轻量的微服务框架
+- [share](https://github.com/liujunren93/share) - 一个简单轻量的golang微服务框架
 - [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
 - [fedlearner](https://github.com/bytedance/fedlearner) - A multi-party collaborative machine learning framework
 - [datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use NLP datasets for ML models with fast, easy-to-use and efficient data manipulation tools
@@ -2910,6 +2912,7 @@
 - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
+- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 
 ## SCSS 
@@ -3106,7 +3109,7 @@
 - [zebra-editor-core](https://github.com/acccco/zebra-editor-core) - 一款强大、现代的可视化编辑器。
 - [class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
 - [tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
-- [appsmith](https://github.com/appsmithorg/appsmith) - A web framework to build admin panels and internal tools.
+- [appsmith](https://github.com/appsmithorg/appsmith) - An open source platform to build admin panels, workflows, business apps, and any internal tool.
 - [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
 - [covid-alert-app](https://github.com/cds-snc/covid-alert-app) - Exposure notification client application / Application client de notification d'exposition
 - [3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
@@ -3387,7 +3390,6 @@
 - [fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
-- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [vue-qrcode](https://github.com/fengyuanchen/vue-qrcode) - QR code component for Vue.js
 - [wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
