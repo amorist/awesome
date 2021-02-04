@@ -125,7 +125,7 @@
 - [opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component  developed by WeChat.
 - [NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
-- [lac](https://github.com/baidu/lac) - 百度NLP：分词，词性标注，命名实体识别
+- [lac](https://github.com/baidu/lac) - 百度NLP：分词，词性标注，命名实体识别，词重要性
 - [mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [react-native-macos](https://github.com/microsoft/react-native-macos) - A framework for building native macOS apps with React.
 - [cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src) - Leak of CS:GO Source code, provided by yours truly so go rep me
@@ -299,6 +299,7 @@
 
 ## Go 
 
+- [notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
 - [protoc-gen-validate](https://github.com/envoyproxy/protoc-gen-validate) - protoc plugin to generate polyglot message validators
 - [gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
@@ -3402,7 +3403,7 @@
 - [Zoe](https://github.com/iawia002/Zoe) - 快捷上传文件到七牛云 for macOS
 - [vuepack](https://github.com/znck/vuepack) - Publish .vue files in NPM packages
 - [proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
-- [wechaty](https://github.com/wechaty/wechaty) - RPA SDK for Chatbot Makers
+- [wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers
 - [tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
@@ -3462,6 +3463,8 @@
 
 ## Vue 
 
+- [geek-navigation](https://github.com/geekape/geek-navigation) - ❤️ 极客猿梦导航－独立开发者的导航站！
+- [funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
 - [redCover](https://github.com/zwpro/redCover) - 微信红包封面领取，用户观看视频广告或者邀请用户可获取微信红包序列号
 - [coupons](https://github.com/zwpro/coupons) - 美团饿了吗红包，先领红包再下单。外卖红包，cps分成，别人领红包下单，你拿佣金。
 - [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
