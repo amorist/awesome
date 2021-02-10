@@ -362,7 +362,7 @@
 - [ksubdomain](https://github.com/knownsec/ksubdomain) - 无状态子域名爆破工具
 - [go-gpt3](https://github.com/sashabaranov/go-gpt3) - OpenAI GPT-3 API wrapper for Go
 - [go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
-- [ent](https://github.com/facebook/ent) - An entity framework for Go
+- [ent](https://github.com/ent/ent) - An entity framework for Go
 - [RedisShake](https://github.com/alibaba/RedisShake) - Redis-shake is a tool for synchronizing data between two redis databases. Redis-shake是一个用于在两个redis之间同步数据的工具，满足用户非常灵活的同步、迁移需求。
 - [go-mail](https://github.com/mrz1836/go-mail) - :incoming_envelope: Simple email interface across multiple service providers (ses, postmark, mandrill, smtp)
 - [go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
@@ -490,7 +490,7 @@
 - [distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 - [netgraph](https://github.com/ga0/netgraph) - A cross platform http sniffer with a web UI
 - [apiproject](https://github.com/wangshibiaoFlytiger/apiproject) - [https://www.sofineday.com], golang项目开发脚手架,集成最佳实践(gin+gorm+go-redis+mongo+cors+jwt+json日志库zap(支持日志收集到kafka或mongo)+消息队列kafka+微信支付宝支付gopay+api加密+api反向代理+go modules依赖管理+headless爬虫chromedp+makefile+二进制压缩+livereload热加载)
-- [dex](https://github.com/dexidp/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
+- [dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [fynedesk](https://github.com/fyne-io/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 - [go](https://github.com/stellar/go) - Stellar's public monorepo of go code
 - [stripe-go](https://github.com/stripe/stripe-go) - Go library for the Stripe API.
@@ -1530,7 +1530,7 @@
 - [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [data-directory](https://github.com/docs/data-directory) - 🌳 A Node.js module to recursively load a directory of YAML, JSON, and Markdown files into a JavaScript object.
 - [gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
-- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Secret detection for your GitHub, GitLab and Bitbucket repositories.
+- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
 - [generative-artistry](https://github.com/tholman/generative-artistry) - A website for self coding generative art tutorials.
 - [sticker-surge](https://github.com/DarylPinto/sticker-surge) - Custom stickers and sticker packs for Discord servers!
 - [cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
@@ -2990,6 +2990,7 @@
 
 ## Swift 
 
+- [FreeTimePicker](https://github.com/fromkk/FreeTimePicker) - Free time picker iOS Application with SwiftUI and Combine
 - [HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
 - [swift-log](https://github.com/apple/swift-log) - A Logging API for Swift
 - [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.
