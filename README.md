@@ -2696,7 +2696,7 @@
 - [examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
 - [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
-- [akshare](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
+- [akshare](https://github.com/jindaxiang/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 - [kindle](https://github.com/muzi502/kindle) - kindle 标注笔记
 - [word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch) - 搜索所有中文NLP数据集，附常用英文NLP数据集
@@ -2870,7 +2870,7 @@
 ## Ruby 
 
 - [faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers.
-- [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬
+- [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
 - [t](https://github.com/sferik/t) - A command-line power tool for Twitter.
 - [fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -3074,6 +3074,7 @@
 
 ## TypeScript 
 
+- [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [code-red](https://github.com/Rich-Harris/code-red) - Experimental toolkit for writing x-to-JavaScript compilers
 - [tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0.
 - [excalidraw-room](https://github.com/excalidraw/excalidraw-room) - 
@@ -3267,7 +3268,7 @@
 - [electron-quick-start-typescript](https://github.com/electron/electron-quick-start-typescript) - Clone to try a simple Electron app (in TypeScript)
 - [qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and completed solution for micro frontends.
 - [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
-- [discord-vscode](https://github.com/iCrawl/discord-vscode) - 🖋️ Update your discord status with the newly added rich presence
+- [discord-vscode](https://github.com/iCrawl/discord-vscode) - 🖋️ Update your discord status with a rich presence
 - [composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
 - [rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [ignite](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
@@ -3291,7 +3292,7 @@
 - [playground](https://github.com/tensorflow/playground) - Play with neural networks!
 - [prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite
 - [vue-class-component](https://github.com/vuejs/vue-class-component) - ES / TypeScript decorator for class-style Vue components.
-- [common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
+- [common-voice](https://github.com/common-voice/common-voice) - [Please note: the Common Voice team is offline until March 15] Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private proxy registry build in Node.js
 - [snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [react-use](https://github.com/streamich/react-use) - React Hooks — 👍
