@@ -1522,7 +1522,6 @@
 - [repo-analytics.github.io](https://github.com/repo-analytics/repo-analytics.github.io) - Thorough analytics for your GitHub repos
 - [react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
-- [appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
 - [appmetrics-dash](https://github.com/RuntimeTools/appmetrics-dash) - A data visualizer that uses " Node Application Metrics" (appmetrics) to monitor and display Node.js application data as a html web application.
 - [appmetrics](https://github.com/RuntimeTools/appmetrics) - Node Application Metrics provides a foundational infrastructure for collecting resource and performance monitoring data for Node.js-based applications.
 - [iconv-lite](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings in pure javascript.
@@ -2619,6 +2618,7 @@
 - [monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [crater](https://github.com/bytefury/crater) - Free & Open Source Invoice App for Freelancers & Small Businesses
 - [PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is a fully scalable open source e-commerce solution.
+- [appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
 - [typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
 - [apache2nginx](https://github.com/mow/apache2nginx) - Converts apache rewrite rules to nginx rewrite rules
 - [parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
