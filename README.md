@@ -668,7 +668,7 @@
 - [logrus_sentry](https://github.com/evalphobia/logrus_sentry) - sentry hook for logrus
 - [sling](https://github.com/dghubble/sling) - A Go HTTP client library for creating and sending API requests
 - [snowflake](https://github.com/bwmarrin/snowflake) - A simple to use Go (golang) package to generate or parse Twitter snowflake IDs
-- [listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Go + VueJS.
+- [listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [mango](https://github.com/amorist/mango) - Use mongo-go-driver  like mgo
 - [melody](https://github.com/olahol/melody) - :notes: Minimalist websocket framework for Go
 - [scipipe](https://github.com/scipipe/scipipe) - Robust, flexible and resource-efficient pipelines using Go and the commandline
@@ -1379,7 +1379,7 @@
 - [k8s-in-action](https://github.com/wuYin/k8s-in-action) - 《Kubernetes in Action 中文版》
 - [tinymce-all-in-one](https://github.com/PanJiaChen/tinymce-all-in-one) - Build all tinymce plugins into one js
 - [react-popper](https://github.com/popperjs/react-popper) - 🍿⚛Official React library to use Popper, the positioning library
-- [jexcel](https://github.com/jspreadsheet/jexcel) - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
+- [ce](https://github.com/jspreadsheet/ce) - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
 - [json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
 - [electron-typescript-react](https://github.com/diego3g/electron-typescript-react) - :electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.
 - [react-device-detect](https://github.com/duskload/react-device-detect) - Detect device, and render view according to detected device type.
