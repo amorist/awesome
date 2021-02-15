@@ -1315,7 +1315,7 @@
 - [gods-pen-server](https://github.com/ymm-tech/gods-pen-server) - 码良服务端项目
 - [just-react](https://github.com/BetaSu/just-react) - 「React技术揭秘」  一本自顶向下的React源码分析书
 - [twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components and goober) at build time.
-- [react-designer](https://github.com/react-designer/react-designer) - Vector blending tool. It's not art
+- [react-designer](https://github.com/react-designer/react-designer) - It's not art
 - [presenta-lib](https://github.com/presenta-software/presenta-lib) - A javascript library to build expressive web presentations in seconds.
 - [xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
 - [danmu.js](https://github.com/bytedance/danmu.js) - HTML5 danmu (danmaku) plugin for any DOM element
@@ -1379,7 +1379,7 @@
 - [k8s-in-action](https://github.com/wuYin/k8s-in-action) - 《Kubernetes in Action 中文版》
 - [tinymce-all-in-one](https://github.com/PanJiaChen/tinymce-all-in-one) - Build all tinymce plugins into one js
 - [react-popper](https://github.com/popperjs/react-popper) - 🍿⚛Official React library to use Popper, the positioning library
-- [ce](https://github.com/jspreadsheet/ce) - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.
+- [ce](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software.
 - [json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
 - [electron-typescript-react](https://github.com/diego3g/electron-typescript-react) - :electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.
 - [react-device-detect](https://github.com/duskload/react-device-detect) - Detect device, and render view according to detected device type.
@@ -2297,6 +2297,7 @@
 
 ## Objective-C 
 
+- [HHKBAssistant_for_mac](https://github.com/hanks/HHKBAssistant_for_mac) - A funny helper tool for HHKB professional keyboard on mac. Its main job is that it can auto detect the HHKB professional keyboard plugged in and out, and do some actions you want.
 - [WeChatSeptet-ForMac](https://github.com/MustangYM/WeChatSeptet-ForMac) - 简版Mac微信小助手
 - [hera](https://github.com/weidian-inc/hera) - A framework for running WeChat applet. （小程序 SDK，小程序转 H5，小程序转安卓、iOS 原生应用、小程序渲染引擎）
 - [tip](https://github.com/tanin47/tip) - Programmable tooltip that can be used with any Mac OS app
@@ -3042,7 +3043,7 @@
 - [SwiftUI-Combine](https://github.com/ra1028/SwiftUI-Combine) - This is an example project of SwiftUI and Combine using GitHub API.
 - [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
 - [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) - Add “Launch at Login” functionality to your macOS app in seconds
-- [Pock](https://github.com/pigigaldi/Pock) - Display macOS Dock in Touch Bar
+- [pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
 - [ios-developer-tools](https://github.com/LeoMobileDeveloper/ios-developer-tools) - Tools that every iOS developer should know.
 - [Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS
@@ -3181,7 +3182,6 @@
 - [oak](https://github.com/oakserver/oak) - A middleware framework for Deno's net server 🐿️ 🦕
 - [library](https://github.com/zxing-js/library) - Multi-format 1D/2D barcode image processing library, usable in JavaScript ecosystem.
 - [vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
-- [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 - [ream](https://github.com/ream/ream) - [Alpha] A full-stack framework for building web apps, powered by Vue 3.
 - [github-url-detection](https://github.com/fregante/github-url-detection) - Which GitHub page are you on? Is it an issue? Is it a list? Perfect for your WebExtension or userscript.
@@ -3382,7 +3382,7 @@
 - [symbol-server](https://github.com/electron/symbol-server) - Electron symbol server
 - [zan-proxy](https://github.com/youzan/zan-proxy) - An extensible proxy for PC/Mobile/APP developer
 - [markbox](https://github.com/djyde/markbox) - Parse your code in markdown into CodeSandbox.
-- [desktop](https://github.com/wexond/desktop) - A privacy-focused, extensible and beautiful web browser
+- [browser-base](https://github.com/wexond/browser-base) - A privacy-focused, extensible and beautiful web browser
 - [reactxp](https://github.com/microsoft/reactxp) - Library for cross-platform app development.
 - [windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [moonight](https://github.com/Ovilia/moonight) - 音频手绘可视化 - 今夜月色真美
