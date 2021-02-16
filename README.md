@@ -71,6 +71,7 @@
 
 ## C 
 
+- [HDMI-PI](https://github.com/peng-zhihui/HDMI-PI) - 我设计的一个HDMI转MIPI模块，可以用于驱动各种手机屏幕当显示器用。
 - [silk-v3-decoder](https://github.com/kn007/silk-v3-decoder) - [Skype Silk Codec SDK]Decode silk v3 audio files (like wechat amr, aud files, qq slk files) and convert to other format (like mp3). Batch conversion support.
 - [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [sm64](https://github.com/n64decomp/sm64) - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
@@ -551,7 +552,7 @@
 - [sudolikeaboss](https://github.com/ravenac95/sudolikeaboss) - Get 1password access from iterm2
 - [expr](https://github.com/antonmedv/expr) - Expression evaluation engine for Go: fast, non-Turing complete, dynamic typing, static typing
 - [gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language"
-- [githubv4](https://github.com/shurcooL/githubv4) - Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://developer.github.com/v4/).
+- [githubv4](https://github.com/shurcooL/githubv4) - Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://docs.github.com/en/graphql).
 - [triage](https://github.com/tj/triage) - Interactive command-line GitHub issue & notification triaging tool.
 - [building-web-applications-in-go](https://github.com/unknwon/building-web-applications-in-go) - Go 语言 Web 应用开发系列教程，从新手到双手残废
 - [miniapp](https://github.com/medivhzhan/miniapp) - 微信小程序服务端 SDK (for Golang)
@@ -927,7 +928,7 @@
 - [TarsGo](https://github.com/TarsCloud/TarsGo) - A  high performance microservice  framework  in golang. A linux foundation project.
 - [borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
 - [pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
-- [gcache](https://github.com/bluele/gcache) - Cache library for golang. It supports expirable Cache, LFU, LRU and ARC.
+- [gcache](https://github.com/bluele/gcache) - An in-memory cache library for golang. It supports multiple eviction policies: LRU, LFU, ARC
 - [rwtxt](https://github.com/schollz/rwtxt) - A cms for absolute minimalists.
 - [open-match](https://github.com/googleforgames/open-match) - Flexible, extensible, and scalable video game matchmaking.
 - [go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
@@ -2332,7 +2333,6 @@
 - [interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview
 - [zero-doc](https://github.com/tal-tech/zero-doc) - The docs for go-zero
 - [HappyHackingCalendar](https://github.com/BetterTuring/HappyHackingCalendar) - 黑客专属日历
-- [HDMI-PI](https://github.com/peng-zhihui/HDMI-PI) - 我设计的一个HDMI转MIPI模块，可以用于驱动各种手机屏幕当显示器用。
 - [majsoul-ex](https://github.com/moxcomic/majsoul-ex) - Android & iOS平台扩展的第三方雀魂客户端, 支持雀魂Plus 2.x插件、mod
 - [pi-webcam](https://github.com/geerlingguy/pi-webcam) - Automation to configure a Raspberry Pi as a USB OTG webcam
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
@@ -3075,6 +3075,7 @@
 
 ## TypeScript 
 
+- [dogehouse](https://github.com/benawad/dogehouse) - The home for voice conversations.
 - [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [code-red](https://github.com/Rich-Harris/code-red) - Experimental toolkit for writing x-to-JavaScript compilers
 - [tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0.
