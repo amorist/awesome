@@ -85,7 +85,6 @@
 - [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 - [shairplay](https://github.com/juhovh/shairplay) - Apple airplay and raop protocol server
 - [mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
-- [betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware
 - [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering) - Reversing Google's 3D satellite mode
 - [webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
@@ -145,6 +144,7 @@
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [USTC-Course](https://github.com/USTC-Resource/USTC-Course) - :heart:中国科学技术大学课程资源
+- [betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware
 - [osx-mouse](https://github.com/kapetan/osx-mouse) - Mouse tracking for OS X
 - [flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) - Experimental plugins for Flutter for Desktop
 - [react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
@@ -3538,7 +3538,7 @@
 - [logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 - [vue-json-tree-view](https://github.com/michaelfitzhavey/vue-json-tree-view) - A JSON Tree View Component for Vue.js
 - [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
-- [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
+- [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
 - [ui](https://github.com/vuejs/ui) - 💻 UI components for official Vue organization apps
 - [vue-cropper](https://github.com/xyxiao001/vue-cropper) - A simple  picture clipping plugin for vue
