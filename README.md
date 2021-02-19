@@ -31,6 +31,7 @@
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [Mathematica](#mathematica)
+  - [Mercury](#mercury)
   - [NSIS](#nsis)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
@@ -120,6 +121,7 @@
 
 ## C++ 
 
+- [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
 - [opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
@@ -2287,6 +2289,10 @@
 
 - [Live2d-model](https://github.com/Eikanya/Live2d-model) - Live2d model collection
 
+## Mercury 
+
+- [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
+
 ## NSIS 
 
 - [electron-builder-binaries](https://github.com/electron-userland/electron-builder-binaries) - 
@@ -2303,7 +2309,6 @@
 - [tip](https://github.com/tanin47/tip) - Programmable tooltip that can be used with any Mac OS app
 - [V2RayX](https://github.com/Cenmrev/V2RayX) - GUI for v2ray-core on macOS
 - [bitbar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar
-- [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 - [ios-deploy](https://github.com/ios-control/ios-deploy) - Install and debug iPhone apps from the command line, without using Xcode
 - [EarlGrey](https://github.com/google/EarlGrey) - :tea: iOS UI Automation Test Framework
 - [QQPlugin-macOS](https://github.com/TKkk-iOSer/QQPlugin-macOS) - 
@@ -2327,6 +2332,9 @@
 
 ## Others 
 
+- [OKRs-self-learning](https://github.com/sophi-li/OKRs-self-learning) - Sophia's OKRs for learning how to code.
+- [okrs](https://github.com/src-d/okrs) - Objectives & Key Results repository for the source{d} team
+- [awesome-okr](https://github.com/domenicosolazzo/awesome-okr) - A curated list about OKR (Objective - Key Results)
 - [android-emulator-m1-preview](https://github.com/google/android-emulator-m1-preview) - 
 - [data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
 - [interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview
@@ -2337,14 +2345,14 @@
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [awful-ai](https://github.com/daviddao/awful-ai) - 😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness
 - [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
-- [siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a Markdown Block-Reference and Bidirectional-Link note-taking application, supports Windows, Mac and Linux, can be used directly on the browser, and supports mobile-end adaptation.
+- [siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, support fine-grained block-level reference and Markdown instant-render editing.
 - [awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [feedbackok-roadmap](https://github.com/egoist/feedbackok-roadmap) - Roadmap for FeedbackOK.com
 - [e-invoicing](https://github.com/alcoholwang/e-invoicing) - 上海地区中小企业电子发票申请及解决方案
 - [tooling](https://github.com/nodejs/tooling) - Advancing Node.js as a framework for writing great tools
 - [1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
-- [vue3-News](https://github.com/vue3/vue3-News) - 🎯Find the latest breaking Vue3 & Vue CLI 3+  News. (2021)
+- [vue3-News](https://github.com/vue3/vue3-News) - 🔥 Find the latest breaking Vue3 & Vue CLI 3+  News. (2021)
 - [awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
 - [web-server-frameworks](https://github.com/nodejs/web-server-frameworks) - A place for Node.js Web-Server Framework authors and users to collaborate
@@ -3337,7 +3345,7 @@
 - [playroom](https://github.com/seek-oss/playroom) - Design with JSX, powered by your own component library.
 - [frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
 - [editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
-- [gcoord](https://github.com/hujiulong/gcoord) - 地理坐标系转换工具，支持WGS84/GCJ02/BD09等常用坐标系互转
+- [gcoord](https://github.com/hujiulong/gcoord) - 地理坐标系转换工具
 - [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [vue-dev-server](https://github.com/vuejs/vue-dev-server) - A POC dev server that allows you to import `*.vue` files via native ES modules imports.
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
