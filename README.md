@@ -302,6 +302,7 @@
 
 ## Go 
 
+- [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [goploy](https://github.com/zhenorzz/goploy) - Deploy, CI/CD, APP monitor, Crontab Manager.
 - [macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
@@ -1248,6 +1249,7 @@
 
 ## Java 
 
+- [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) - 基于代码生成器的低代码平台，超越传统商业平台！前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新低代码开发模式OnlineCoding-&gt;代码生成-&gt;手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [wx-api](https://github.com/niefy/wx-api) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
 - [react-native-otg-storage](https://github.com/scizers/react-native-otg-storage) - 
@@ -1892,7 +1894,7 @@
 - [js-tree-list](https://github.com/yi-ge/js-tree-list) - Convert list to tree, managing a tree and its nodes.
 - [hotkeys](https://github.com/jaywcjlove/hotkeys) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
 - [vuido](https://github.com/mimecorg/vuido) - Native desktop applications using Vue.js.
-- [vue-echarts](https://github.com/ecomfe/vue-echarts) - Apache ECharts (incubating) component for Vue.js.
+- [vue-echarts](https://github.com/ecomfe/vue-echarts) - Apache ECharts component for Vue.js.
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
 - [polacode](https://github.com/octref/polacode) - 📸 Polaroid for your code
 - [passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
@@ -2332,6 +2334,7 @@
 
 ## Others 
 
+- [pdf](https://github.com/itdevbooks/pdf) - 编程电子书下载，电子书下载，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类
 - [OKRs-self-learning](https://github.com/sophi-li/OKRs-self-learning) - Sophia's OKRs for learning how to code.
 - [okrs](https://github.com/src-d/okrs) - Objectives & Key Results repository for the source{d} team
 - [awesome-okr](https://github.com/domenicosolazzo/awesome-okr) - A curated list about OKR (Objective - Key Results)
@@ -3082,6 +3085,8 @@
 
 ## TypeScript 
 
+- [surf](https://github.com/surfcodes/surf) - 🏄‍♂️ Surf GitHub code with VS Code. (with CLI, chrome extensions, also works for Gitlab)
+- [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [dogehouse](https://github.com/benawad/dogehouse) - The home for voice conversations.
 - [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [code-red](https://github.com/Rich-Harris/code-red) - Experimental toolkit for writing x-to-JavaScript compilers
@@ -3097,7 +3102,7 @@
 - [hetu](https://github.com/LianjiaTech/hetu) - 低代码平台, 可视化编辑器，单手打代码，解放你的双手
 - [renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [CTFNote](https://github.com/TFNS/CTFNote) - CTFNote is a collaborative tool aiming to help CTF teams to organise their work.
-- [directus](https://github.com/directus/directus) - Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰
+- [directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [react-codemirror2](https://github.com/scniro/react-codemirror2) - Codemirror integrated components for React
 - [admin-bro](https://github.com/SoftwareBrothers/admin-bro) - AdminBro is an admin panel for apps written in node.js
@@ -3486,7 +3491,7 @@
 - [redCover](https://github.com/zwpro/redCover) - 微信红包封面领取，用户观看视频广告或者邀请用户可获取微信红包序列号
 - [coupons](https://github.com/zwpro/coupons) - 美团饿了吗红包，先领红包再下单。外卖红包，cps分成，别人领红包下单，你拿佣金。
 - [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
-- [doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon and the new Apple M1 processor
+- [doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon and the new Apple M1 Macs
 - [vue-essential-slices](https://github.com/prismicio/vue-essential-slices) - A set of professionally made, accessible Vue components, linked to a (Prismic) backend
 - [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) - Replacement icons for popular apps in the style of macOS Big Sur
 - [vue-form-making](https://github.com/GavinZhuLei/vue-form-making) - A visual form designer/generator base on Vue.js, make form development simple and efficient.（基于Vue的可视化表单设计器，让表单开发简单而高效。）
