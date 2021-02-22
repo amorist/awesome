@@ -102,7 +102,6 @@
 - [Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [OBS](https://github.com/jp9000/OBS) - Open Broadcaster Software (Deprecated: See OBS Studio repository instead)
-- [OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine
 - [kterm](https://github.com/bfabiszewski/kterm) - gtk+ terminal emulator with embedded virtual keyboard for Kindle
 - [robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
 - [node-rpio](https://github.com/jperkin/node-rpio) - Raspberry Pi GPIO library for node.js
@@ -131,7 +130,7 @@
 - [mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [react-native-macos](https://github.com/microsoft/react-native-macos) - A framework for building native macOS apps with React.
 - [cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src) - Leak of CS:GO Source code, provided by yours truly so go rep me
-- [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
+- [chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
 - [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing on CPUs & GPUs
 - [yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 - [node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using N-API from C++
@@ -168,6 +167,7 @@
 - [apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [Familia](https://github.com/baidu/Familia) - A Toolkit for Industrial Topic Modeling
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
+- [OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine
 - [yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
 - [electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -1309,6 +1309,7 @@
 
 ## JavaScript 
 
+- [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 - [Web](https://github.com/qianguyihao/Web) - 前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
 - [architect](https://github.com/architect/architect) - The simplest, most powerful way to build serverless applications
 - [Portal-Lite-China](https://github.com/Privoce/Portal-Lite-China) - Portal网页版（中文版）
@@ -2650,7 +2651,7 @@
 - [virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [PSBits](https://github.com/gtworek/PSBits) - Simple (relatively) things allowing you to dig a bit deeper than usual.
 - [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
-- [k8s-for-docker-desktop](https://github.com/AliyunContainerService/k8s-for-docker-desktop) - 为Docker Desktop for Mac/Windows开启Kubernetes和Istio - Enable Kubernetes/Istio on Docker Desktop in China
+- [k8s-for-docker-desktop](https://github.com/AliyunContainerService/k8s-for-docker-desktop) - 为Docker Desktop for Mac/Windows开启Kubernetes和Istio。M1芯片Mac用户请切换v1.19.7分支
 - [Thanos.sh](https://github.com/hotvulcan/Thanos.sh) - if you are Thanos(root), this command could delete half your files randomly
 - [deno_install](https://github.com/denoland/deno_install) - Deno Binary Installer
 
@@ -2717,7 +2718,7 @@
 - [kindle](https://github.com/muzi502/kindle) - kindle 标注笔记
 - [word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch) - 搜索所有中文NLP数据集，附常用英文NLP数据集
-- [vectorbt](https://github.com/polakowo/vectorbt) - Python library for backtesting and analyzing trading strategies at scale
+- [vectorbt](https://github.com/polakowo/vectorbt) - Python library for time series analysis and backtesting at scale
 - [newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
 - [python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
@@ -3091,6 +3092,8 @@
 
 ## TypeScript 
 
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js (web and react-native)
+- [react-xr](https://github.com/pmndrs/react-xr) - 🤳 VR/AR with react-three-fiber
 - [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [surf](https://github.com/surfcodes/surf) - 🏄‍♂️ Surf GitHub code with VS Code. (with CLI, chrome extensions, also works for Gitlab)
 - [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
