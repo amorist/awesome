@@ -302,6 +302,8 @@
 
 ## Go 
 
+- [clubhouse-tools](https://github.com/better-than-yours/clubhouse-tools) - 
+- [clubhouseapi](https://github.com/lafin/clubhouseapi) - clubhouse api
 - [go-extend](https://github.com/thinkeridea/go-extend) - go语言扩展包，收集一些常用的操作函数，辅助更快的完成开发工作，并减少重复代码
 - [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -1309,6 +1311,7 @@
 
 ## JavaScript 
 
+- [WeChat-MiniProgram-AR-3D](https://github.com/sanyuered/WeChat-MiniProgram-AR-3D) - A WeChat MiniProgram 3D that includes a Panorama Viewer and a 3D Viewer using the device orientation control.
 - [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 - [Web](https://github.com/qianguyihao/Web) - 前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
 - [architect](https://github.com/architect/architect) - The simplest, most powerful way to build serverless applications
@@ -2666,7 +2669,7 @@
 ## Python 
 
 - [clubhouse-py](https://github.com/stypr/clubhouse-py) - Clubhouse API written in Python. Standalone client included. For reference and education purposes only.
-- [pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 120+ Indicators
+- [pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130+ Indicators
 - [parler-tricks](https://github.com/d0nk/parler-tricks) - Reverse engineered Parler API
 - [PythonPark](https://github.com/Jack-Cherish/PythonPark) - Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 - [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
