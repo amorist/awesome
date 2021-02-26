@@ -653,7 +653,7 @@
 - [testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) - open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！
 - [yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
-- [over-golang](https://github.com/overnote/over-golang) - Golang相关：[进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
+- [over-golang](https://github.com/overnote/over-golang) - Golang相关：[审稿进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
 - [aks-engine](https://github.com/Azure/aks-engine) - AKS Engine: Units of Kubernetes on Azure!
 - [gocron](https://github.com/jasonlvhit/gocron) - A Golang Job Scheduling Package.
 - [mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍
@@ -928,7 +928,7 @@
 - [CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features
 - [meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
 - [go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
-- [gorse](https://github.com/zhenghaoz/gorse) - A recommender system service based on collaborative filtering written in Go
+- [gorse](https://github.com/zhenghaoz/gorse) - A recommender system service written in Go
 - [wego](https://github.com/ynqa/wego) - Word Embeddings (e.g. Word2Vec) in Go!
 - [go-funk](https://github.com/thoas/go-funk) - A modern Go utility library which provides helpers (map, find, contains, filter, ...)
 - [TarsGo](https://github.com/TarsCloud/TarsGo) - A  high performance microservice  framework  in golang. A linux foundation project.
@@ -1248,7 +1248,7 @@
 
 ## Haskell 
 
-- [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 
 ## Java 
@@ -1311,6 +1311,7 @@
 
 ## JavaScript 
 
+- [wedding](https://github.com/iammapping/wedding) - 婚礼大屏互动，微信请柬一站式解决方案
 - [ams](https://github.com/vipshop/ams) - AMS是基于 Vue.js 和 Element组件库、通过JSON配置来快速搭建管理后台的一整套前端解决方案
 - [node-config](https://github.com/lorenwest/node-config) - Node.js Application Configuration
 - [engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
@@ -2726,7 +2727,7 @@
 - [kindle](https://github.com/muzi502/kindle) - kindle 标注笔记
 - [word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch) - 搜索所有中文NLP数据集，附常用英文NLP数据集
-- [vectorbt](https://github.com/polakowo/vectorbt) - Python library for time series analysis and backtesting at scale
+- [vectorbt](https://github.com/polakowo/vectorbt) - Ultimate Python library for time series analysis and backtesting at scale
 - [newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
 - [python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
@@ -3101,6 +3102,7 @@
 
 ## TypeScript 
 
+- [CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary) - Javascript Live Comment (Danmaku) Engine Implementation. JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js (web and react-native)
 - [react-xr](https://github.com/pmndrs/react-xr) - 🤳 VR/AR with react-three-fiber
 - [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
@@ -3132,7 +3134,7 @@
 - [moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
 - [FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
-- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨ A vue3 style Admin based on Vite2, vue3.0,  ant-design-vue 2.x, typescript，Efforts to update in progress...
+- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨ A vue3 style Admin based on Vite2, vue3.0,  ant-design-vue 2.x, typescript，vuex,vue-router,Efforts to update in progress...
 - [headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [remote](https://github.com/electron/remote) - Bridge JavaScript objects from the main process to the renderer process in Electron.
 - [material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
@@ -3507,7 +3509,7 @@
 - [geek-navigation](https://github.com/geekape/geek-navigation) - ❤️ 极客猿梦导航－独立开发者的导航站！
 - [funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
 - [redCover](https://github.com/zwpro/redCover) - 微信红包封面领取，用户观看视频广告或者邀请用户可获取微信红包序列号
-- [coupons](https://github.com/zwpro/coupons) - 美团饿了吗红包，先领红包再下单。外卖红包，cps分成，别人领红包下单，你拿佣金。
+- [coupons](https://github.com/zwpro/coupons) - 美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。
 - [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
 - [doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon and the new Apple M1 Macs
 - [directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
