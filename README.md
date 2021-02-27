@@ -280,7 +280,6 @@
 - [container-action](https://github.com/actions/container-action) - 
 - [kubernetes-learning](https://github.com/cnych/kubernetes-learning) - 《从Docker到Kubernetes进阶课程》在线文档
 - [dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes
-- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
 - [build-images](https://github.com/electron/build-images) - Base docker image used to build Electron on CI
 - [puppeteer-container](https://github.com/ianwalter/puppeteer-container) - A GitHub Action / Docker image for   Puppeteer, the Headless Chrome Node API
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -2975,6 +2974,7 @@
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [link-snitch](https://github.com/victoriadrake/link-snitch) - :octocat: GitHub Action to scan your site for broken links so you can fix them 🔗
 - [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
 - [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [rebase](https://github.com/cirrus-actions/rebase) - GitHub Action to automatically rebase PRs
 - [onpremise](https://github.com/getsentry/onpremise) - Sentry On-Premise setup
@@ -3114,7 +3114,7 @@
 - [tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0.
 - [excalidraw-room](https://github.com/excalidraw/excalidraw-room) - 
 - [amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
-- [imove](https://github.com/imgcook/imove) - Move your mouse, generate code from flow chart
+- [imove](https://github.com/ykfe/imove) - Move your mouse, generate code from flow chart
 - [vue-mini](https://github.com/vue-mini/vue-mini) - 像写 Vue 3 一样写小程序
 - [X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
 - [react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
@@ -3153,7 +3153,7 @@
 - [zebra-editor-core](https://github.com/acccco/zebra-editor-core) - 一款强大、现代的可视化编辑器。
 - [class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
 - [tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
-- [appsmith](https://github.com/appsmithorg/appsmith) - An open source platform to build admin panels, workflows, business apps, and any internal tool.
+- [appsmith](https://github.com/appsmithorg/appsmith) - A platform to build and self-host admin panels, workflows, business apps, and any internal app.
 - [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
 - [covid-alert-app](https://github.com/cds-snc/covid-alert-app) - Exposure notification client application / Application client de notification d'exposition
 - [3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
@@ -3202,7 +3202,7 @@
 - [supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [erxes](https://github.com/erxes/erxes) - Free and open fair-code licensed all-in-one growth marketing & management software
 - [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native) - ⚛️ 📺 Projects from the “Can it be done in React Native?” YouTube series
-- [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.
+- [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [twilio-video-app-react](https://github.com/twilio/twilio-video-app-react) - A collaboration application built with the twilio-video.js SDK and React.js
 - [rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [tailwind-nextjs-saas-template](https://github.com/egoist-sponsors/tailwind-nextjs-saas-template) - A TailwindCSS + Next.js template for your next SaaS product.
@@ -3217,7 +3217,7 @@
 - [library](https://github.com/zxing-js/library) - Multi-format 1D/2D barcode image processing library, usable in JavaScript ecosystem.
 - [vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
-- [ream](https://github.com/ream/ream) - A super fast SSR framework for Vue.js.
+- [ream](https://github.com/ream/ream) - A super-fast SSR framework for Vue.js 3 ⚡️
 - [github-url-detection](https://github.com/fregante/github-url-detection) - Which GitHub page are you on? Is it an issue? Is it a list? Perfect for your WebExtension or userscript.
 - [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
 - [Thief-Book-VSCode](https://github.com/cteamx/Thief-Book-VSCode) - VScode 上一款真正的摸鱼插件
