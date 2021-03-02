@@ -301,6 +301,7 @@
 
 ## Go 
 
+- [xtools](https://github.com/tal-tech/xtools) - Tool house. with many useful tools, such as config management,json parser, flag tool
 - [clubhouse-tools](https://github.com/better-than-yours/clubhouse-tools) - 
 - [clubhouseapi](https://github.com/lafin/clubhouseapi) - clubhouse api
 - [go-extend](https://github.com/thinkeridea/go-extend) - go语言扩展包，收集一些常用的操作函数，辅助更快的完成开发工作，并减少重复代码
@@ -406,7 +407,6 @@
 - [bee](https://github.com/beego/bee) - Bee is a tool for helping develop with beego app framework.
 - [redux](https://github.com/dannypsnl/redux) - redux implementation in Go/Rust
 - [godux](https://github.com/luisvinicius167/godux) - State Management for Go Backend application inspired in Redux.
-- [number-verifier](https://github.com/upmasked/number-verifier) - Number Verifier is a SMS verification tool that makes it easy to get a disposable SMS number and bypass SMS number verifications on any site.
 - [cue](https://github.com/cuelang/cue) - Validate and define text-based and dynamic configuration
 - [edas](https://github.com/custer-go/edas) - 期望做一个基于go-micro + casbin + jwt 的用户认证和权限的微服务
 - [goddd](https://github.com/marcusolsson/goddd) - Exploring DDD in Go
@@ -620,7 +620,6 @@
 - [golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache
 - [gopay](https://github.com/iGoogle-ink/gopay) - QQ、微信（WeChat）、支付宝（AliPay）的Go版本SDK。【微信支付V3基础支付已完成，其他接口完善中...】
 - [code](https://github.com/goinaction/code) - Source Code for Go In Action examples
-- [presidio](https://github.com/microsoft/presidio) - Context aware, pluggable and customizable data protection and anonymization SDK for text and images
 - [TopList](https://github.com/tophubs/TopList) - 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish
 - [compress](https://github.com/klauspost/compress) - Optimized compression packages
 - [vdom](https://github.com/albrow/vdom) - A virtual dom implementation written in go which is compatible with gopherjs
@@ -927,7 +926,7 @@
 - [CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features
 - [meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
 - [go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
-- [gorse](https://github.com/zhenghaoz/gorse) - A recommender system service written in Go
+- [gorse](https://github.com/zhenghaoz/gorse) - An open source recommender system service written in Go
 - [wego](https://github.com/ynqa/wego) - Word Embeddings (e.g. Word2Vec) in Go!
 - [go-funk](https://github.com/thoas/go-funk) - A modern Go utility library which provides helpers (map, find, contains, filter, ...)
 - [TarsGo](https://github.com/TarsCloud/TarsGo) - A  high performance microservice  framework  in golang. A linux foundation project.
@@ -1310,6 +1309,7 @@
 
 ## JavaScript 
 
+- [webpack](https://github.com/vuejs-templates/webpack) - A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.
 - [mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
 - [wedding](https://github.com/iammapping/wedding) - 婚礼大屏互动，微信请柬一站式解决方案
 - [ams](https://github.com/vipshop/ams) - AMS是基于 Vue.js 和 Element组件库、通过JSON配置来快速搭建管理后台的一整套前端解决方案
@@ -2763,6 +2763,7 @@
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets
 - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
+- [presidio](https://github.com/microsoft/presidio) - Context aware, pluggable and customizable data protection and anonymization SDK for text and images
 - [octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。
 - [calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
@@ -3201,7 +3202,7 @@
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [hooks](https://github.com/alibaba/hooks) - React Hooks Library
-- [bit](https://github.com/teambit/bit) - Build, distribute, and collaborate on components.
+- [bit](https://github.com/teambit/bit) - Develop modular web applications with components - fast, together, and at scale.
 - [supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [erxes](https://github.com/erxes/erxes) - Free and open fair-code licensed all-in-one growth marketing & management software
 - [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native) - ⚛️ 📺 Projects from the “Can it be done in React Native?” YouTube series
@@ -3268,7 +3269,7 @@
 - [expo-cli](https://github.com/expo/expo-cli) - Tools for creating, running, and deploying universal Expo and React Native apps
 - [material-ui-pickers](https://github.com/mui-org/material-ui-pickers) - Date & Time pickers, built with ❤️ for @material-ui/core
 - [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs) - Free and open source streaming software built on OBS and Electron.
-- [fiora](https://github.com/yinxin630/fiora) - An interesting chat application power by socket.io, koa, mongodb and react
+- [fiora](https://github.com/yinxin630/fiora) - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
 - [phaser-catch-the-cat](https://github.com/ganlvtech/phaser-catch-the-cat) - An HTML5 game 'Catch The Cat' powered by Phaser 3
 - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - 💬 The most complete chat UI for React Native
 - [tiktok-api](https://github.com/szdc/tiktok-api) - Unofficial API wrapper for TikTok (previously musical.ly)
