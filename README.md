@@ -302,6 +302,7 @@
 
 ## Go 
 
+- [goutil](https://github.com/gookit/goutil) - 💪 Helper Utils For The Go: string, array/slice, map, format, cli, env, filesystem, test and more. Go 的一些工具函数，格式化，特殊处理，常用信息获取等等
 - [build](https://github.com/TeaWeb/build) - TeaWeb-可视化的Web代理服务。DEMO: http://teaos.cn:7777
 - [fake-sms](https://github.com/Narasimha1997/fake-sms) - A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
 - [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
@@ -3117,6 +3118,7 @@
 
 ## TypeScript 
 
+- [visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary) - Javascript Live Comment (Danmaku) Engine Implementation. JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js (web and react-native)
 - [react-xr](https://github.com/pmndrs/react-xr) - 🤳 VR/AR with react-three-fiber
@@ -3251,7 +3253,7 @@
 - [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - The source for REST API specifications for Microsoft Azure.
 - [shadowsocks-global](https://github.com/igoogolx/shadowsocks-global) - A VPN or proxy client for Windows
 - [ever](https://github.com/ever-co/ever) - Ever® - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
-- [gauzy](https://github.com/ever-co/gauzy) - Gauzy™ - Open-Source Business Management Platform (ERP/CRM/HRM) focused on Fairness and Transparency
+- [gauzy](https://github.com/ever-co/gauzy) - Gauzy™ - Open-Source Business Management Platform (ERP/CRM/HRM)
 - [react-native-netinfo](https://github.com/react-native-netinfo/react-native-netinfo) - React Native Network Info API for Android & iOS
 - [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [WebWindow](https://github.com/SteveSandersonMS/WebWindow) - .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental.
@@ -3563,7 +3565,7 @@
 - [eros](https://github.com/bmfe/eros) - 📱一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。【已停止维护】
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [kbone-ui](https://github.com/wechat-miniprogram/kbone-ui) - kbone-ui 是一套能同时支持 小程序(kbone) 和 vue 框架开发的多端 UI 库（PS：新版 kbone-ui 已出炉并迁移到 kbone 主仓库，此仓库仅做旧版维护之用）
-- [vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 💥 A simple and beautiful vuepress Blog & Doc theme.
+- [vuepress-theme-reco](https://github.com/vue-reco/vuepress-theme-reco) - 💥 A simple and beautiful vuepress Blog & Doc theme.
 - [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
 - [coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - CoreUI Vue is free Vue admin template based on Bootstrap 4
 - [coco-annotator](https://github.com/jsbroks/coco-annotator) - :pencil2: Web-based image segmentation tool for object detection, localization, and keypoints
