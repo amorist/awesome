@@ -1112,7 +1112,7 @@
 - [cow](https://github.com/cyfdecyf/cow) - HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
 - [websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
 - [go-finance](https://github.com/FlashBoys/go-finance) - :warning: Deprecrated in favor of https://github.com/piquette/finance-go
-- [tview](https://github.com/rivo/tview) - Rich interactive widgets for your terminal UI, written in Go
+- [tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
 - [pipe](https://github.com/b3log/pipe) - 🎷 一款小而美的博客平台，专为程序员设计。
 - [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
@@ -1320,6 +1320,7 @@
 
 ## JavaScript 
 
+- [touchemulator](https://github.com/hammerjs/touchemulator) - Emulate touch input on your desktop
 - [devops-guidebook](https://github.com/tsejx/devops-guidebook) - 📚 DevOps 知识图谱 关于Linux、服务器、数据库、部署等相关体系
 - [Automate-Sketch](https://github.com/Ashung/Automate-Sketch) - Make your workflow more efficient.
 - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
