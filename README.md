@@ -964,7 +964,7 @@
 - [invadersapp](https://github.com/sausheong/invadersapp) - Space invaders in an app
 - [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [finance-go](https://github.com/piquette/finance-go) - :bar_chart: Financial markets data library implemented in go.
-- [benthos](https://github.com/Jeffail/benthos) - Declarative stream processing for mundane tasks and ETL, written in Go
+- [benthos](https://github.com/Jeffail/benthos) - Declarative stream processing for mundane tasks and data engineering
 - [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [goim](https://github.com/Terry-Mao/goim) - goim
 - [drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
@@ -1323,6 +1323,7 @@
 
 ## JavaScript 
 
+- [chinese-poetry](https://github.com/amorist/chinese-poetry) - 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [touchemulator](https://github.com/hammerjs/touchemulator) - Emulate touch input on your desktop
 - [devops-guidebook](https://github.com/tsejx/devops-guidebook) - 📚 DevOps 知识图谱 关于Linux、服务器、数据库、部署等相关体系
 - [Automate-Sketch](https://github.com/Ashung/Automate-Sketch) - Make your workflow more efficient.
@@ -1523,7 +1524,6 @@
 - [goober](https://github.com/cristianbote/goober) - 🥜 goober, a less than 1KB 🎉  css-in-js alternative with a familiar API
 - [vue-webpack4-template](https://github.com/dfcook/vue-webpack4-template) - VueJs template using Webpack 4
 - [form-render](https://github.com/alibaba/form-render) - 🚴‍♀️ 易用的跨组件体系的表单渲染引擎 - 通过 JSON Schema 快速生成自定义表单配置界面
-- [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [Dream](https://github.com/KieSun/Dream) - 我是 yck，✍️ 这里是写博客以及记录学习的地方
 - [react-frame-component](https://github.com/ryanseddon/react-frame-component) - Render your React app to an iFrame
 - [pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
@@ -2278,7 +2278,7 @@
 - [CodeSearchNet](https://github.com/github/CodeSearchNet) - Datasets, tools, and benchmarks for representation learning of code.
 - [examples](https://github.com/tensorflow/examples) - TensorFlow examples
 - [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft
-- [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code and resources for Machine Learning for Algorithmic Trading, 2nd edition.
+- [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)
 - [deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
@@ -2698,6 +2698,7 @@
 
 ## Python 
 
+- [blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind Watermark （图片盲水印，提取水印无须原图！）
 - [PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
 - [clubhouse-py](https://github.com/stypr/clubhouse-py) - Clubhouse API written in Python. Standalone client included. For reference and education purposes only.
 - [pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130+ Indicators
@@ -3043,6 +3044,7 @@
 
 ## Swift 
 
+- [adb-tools-mac](https://github.com/naman14/adb-tools-mac) - Mac menu bar app for common adb tools
 - [FreeTimePicker](https://github.com/fromkk/FreeTimePicker) - Free time picker iOS Application with SwiftUI and Combine
 - [HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
 - [swift-log](https://github.com/apple/swift-log) - A Logging API for Swift
@@ -3127,6 +3129,7 @@
 
 ## TypeScript 
 
+- [Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 一款简洁有趣的可拓展评论系统 | A Fast, Slight & Funny Comment System.
 - [auth-oauth-device.js](https://github.com/octokit/auth-oauth-device.js) - GitHub OAuth Device authentication strategy for JavaScript
 - [react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
@@ -3290,6 +3293,7 @@
 - [checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [BoostNote.next](https://github.com/BoostIO/BoostNote.next) - Boost Note is a powerful, lightspeed collaborative workspace for developer teams.
 - [sign-action](https://github.com/jeffrafter/sign-action) - A GitHub Action which allows users to reply to an issue with a comment to sign a petition.
+- [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [expo-cli](https://github.com/expo/expo-cli) - Tools for creating, running, and deploying universal Expo and React Native apps
 - [material-ui-pickers](https://github.com/mui-org/material-ui-pickers) - Date & Time pickers, built with ❤️ for @material-ui/core
 - [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs) - Free and open source streaming software built on OBS and Electron.
