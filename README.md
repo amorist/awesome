@@ -418,7 +418,7 @@
 - [gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
 - [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [bee](https://github.com/beego/bee) - Bee is a tool for helping develop with beego app framework.
-- [redux](https://github.com/dannypsnl/redux) - redux implementation in Go/Rust
+- [redux](https://github.com/dannypsnl/redux) - redux implementation in Go
 - [godux](https://github.com/luisvinicius167/godux) - State Management for Go Backend application inspired in Redux.
 - [cue](https://github.com/cuelang/cue) - Validate and define text-based and dynamic configuration
 - [edas](https://github.com/custer-go/edas) - 期望做一个基于go-micro + casbin + jwt 的用户认证和权限的微服务
@@ -2954,6 +2954,7 @@
 - [orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit.
 - [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
+- [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -3295,7 +3296,6 @@
 - [checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [BoostNote.next](https://github.com/BoostIO/BoostNote.next) - Boost Note is a powerful, lightspeed collaborative workspace for developer teams.
 - [sign-action](https://github.com/jeffrafter/sign-action) - A GitHub Action which allows users to reply to an issue with a comment to sign a petition.
-- [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [expo-cli](https://github.com/expo/expo-cli) - Tools for creating, running, and deploying universal Expo and React Native apps
 - [material-ui-pickers](https://github.com/mui-org/material-ui-pickers) - Date & Time pickers, built with ❤️ for @material-ui/core
 - [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs) - Free and open source streaming software built on OBS and Electron.
