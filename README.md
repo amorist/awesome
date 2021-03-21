@@ -304,6 +304,7 @@
 
 ## Go 
 
+- [opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
 - [prisma-client-go](https://github.com/prisma/prisma-client-go) - Prisma Client Go is an auto-generated and fully type-safe database client
 - [go-prisma-example](https://github.com/mattn/go-prisma-example) - 
 - [generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
@@ -3131,6 +3132,7 @@
 
 ## TypeScript 
 
+- [ledge](https://github.com/phodal/ledge) - Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。
 - [prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 一款简洁有趣的可拓展评论系统 | A Fast, Slight & Funny Comment System.
@@ -3250,7 +3252,7 @@
 - [library](https://github.com/zxing-js/library) - Multi-format 1D/2D barcode image processing library, usable in JavaScript ecosystem.
 - [vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
-- [ream](https://github.com/ream/ream) - A super-fast SSR framework for Vue.js 3 ⚡️
+- [ream](https://github.com/ream/ream) - A toolkit for building web apps, powered by Vite.
 - [github-url-detection](https://github.com/fregante/github-url-detection) - Which GitHub page are you on? Is it an issue? Is it a list? Perfect for your WebExtension or userscript.
 - [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
 - [Thief-Book-VSCode](https://github.com/cteamx/Thief-Book-VSCode) - VScode 上一款真正的摸鱼插件
