@@ -304,6 +304,7 @@
 
 ## Go 
 
+- [mattn/go-generics-example](https://github.com/mattn/go-generics-example) - Example code for Go generics
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
 - [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) - Prisma Client Go is an auto-generated and fully type-safe database client
@@ -1326,6 +1327,7 @@
 
 ## JavaScript 
 
+- [lqqyt2423/wechat_spider](https://github.com/lqqyt2423/wechat_spider) - 微信爬虫，获取文章内容、阅读量、点赞量、评论等，获取公众号所有历史文章链接。
 - [amorist/chinese-poetry](https://github.com/amorist/chinese-poetry) - 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [hammerjs/touchemulator](https://github.com/hammerjs/touchemulator) - Emulate touch input on your desktop
 - [tsejx/devops-guidebook](https://github.com/tsejx/devops-guidebook) - 📚 DevOps 知识图谱 关于Linux、服务器、数据库、部署等相关体系
@@ -1614,7 +1616,7 @@
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [ramiel/mongoose-sequence](https://github.com/ramiel/mongoose-sequence) - Sequence and autoincrement handling for mongoose
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
-- [LinusBorg/portal-vue](https://github.com/LinusBorg/portal-vue) - A feature-rich Portal Plugin for Vue 2, for rendering DOM outside of a component, anywhere our app or the entire document.
+- [LinusBorg/portal-vue](https://github.com/LinusBorg/portal-vue) - A feature-rich Portal Plugin for Vue 2, for rendering DOM outside of a component, anywhere in your app or the entire document.
 - [InterImm/InterImmBook](https://github.com/InterImm/InterImmBook) - :seedling: The Book of Interplanetary Civilization;星际移民之书.
 - [1995parham/github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) - GitHub do not ban us from open source world :iran:
 - [itorr/imouto](https://github.com/itorr/imouto) - 快速、明确、极简
@@ -2373,6 +2375,8 @@
 
 ## Others 
 
+- [ARKInvest/ARK-Invest-Tesla-Valuation-Model](https://github.com/ARKInvest/ARK-Invest-Tesla-Valuation-Model) - An excerpt from our financial valuation model of Tesla
+- [quilljs/awesome-quill](https://github.com/quilljs/awesome-quill) - A curated list of awesome things related to Quill
 - [hereappdev/Here-Plugins](https://github.com/hereappdev/Here-Plugins) - Plugins for Here App 🚀
 - [deniseyu/tech-talking](https://github.com/deniseyu/tech-talking) - Resources for both beginners and seasoned public speakers to hone their technical speaking skills!
 - [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊
@@ -2719,7 +2723,7 @@
 - [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) - [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
 - [minivision-ai/photo2cartoon](https://github.com/minivision-ai/photo2cartoon) - 人像卡通化探索项目 (photo-to-cartoon translation project)
 - [surya-veer/movement-tracking](https://github.com/surya-veer/movement-tracking) - UP - DOWN - LEFT  - RIGHT movement tracking.
-- [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装软件）
+- [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 - [chyroc/WechatSogou](https://github.com/chyroc/WechatSogou) - 基于搜狗微信搜索的微信公众号爬虫接口
 - [youfou/wxpy](https://github.com/youfou/wxpy) - 微信机器人 / 可能是最优雅的微信个人号 API ✨✨
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -3366,7 +3370,7 @@
 - [tensorflow/playground](https://github.com/tensorflow/playground) - Play with neural networks!
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite
 - [vuejs/vue-class-component](https://github.com/vuejs/vue-class-component) - ES / TypeScript decorator for class-style Vue components.
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) - [Please note: the Common Voice team is offline until March 15: https://discourse.mozilla.org/t/update-on-common-voice-mozilla-foundation/74526/] Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private proxy registry build in Node.js
 - [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
@@ -3571,10 +3575,10 @@
 - [coderwhy/HYMall](https://github.com/coderwhy/HYMall) - A vue.js mall application.
 - [topfullstack/node-vue-moba](https://github.com/topfullstack/node-vue-moba) - Node.js (Express.js) + Vue.js (Element UI) 全栈开发王者荣耀手机端官网和管理后台
 - [F-loat/mpvue-wxParse](https://github.com/F-loat/mpvue-wxParse) - 📰适用于 Mpvue 的微信小程序富文本解析自定义组件
-- [infinityu/mina-wear-mask](https://github.com/infinityu/mina-wear-mask) - 头像加口罩小程序 - 基于uniapp使用vue快速实现，广告收入6k+
+- [infinityu/mina-wear-mask](https://github.com/infinityu/mina-wear-mask) - 头像加口罩小程序 - 基于uniapp使用vue快速实现，广告月收入4k+
 - [strapi/strapi-starter-nuxt-blog](https://github.com/strapi/strapi-starter-nuxt-blog) - Strapi Starter Nuxt Blog
 - [dcloudio/uni-ui](https://github.com/dcloudio/uni-ui) - 基于uni-app的ui框架
-- [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Vuestic UI Framework
+- [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Vue.js UI Library
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
 - [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!
