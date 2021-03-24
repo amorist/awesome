@@ -473,7 +473,7 @@
 - [douyu/jupiter](https://github.com/douyu/jupiter) - Jupiter是斗鱼开源的面向服务治理的Golang微服务框架
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
 - [opentracing/opentracing-go](https://github.com/opentracing/opentracing-go) - OpenTracing API for Go
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with ORY-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headles, API-only - without templating or themeing headaches.
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with ORY-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headless, API-only - without templating or theming headaches.
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game library for Go
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [henson/proxypool](https://github.com/henson/proxypool) - Golang实现的IP代理池
@@ -1406,7 +1406,6 @@
 - [TaleLin/lin-ui](https://github.com/TaleLin/lin-ui) - 🌈 简洁、易用、灵活的微信小程序组件库
 - [xiaolin3303/wx-charts](https://github.com/xiaolin3303/wx-charts) - 微信小程序图表charts组件，Charts for WeChat small app
 - [hyj1991/easy-monitor](https://github.com/hyj1991/easy-monitor) - 企业级 Node.js 应用性能监控与线上故障定位解决方案
-- [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [electron/build-tools](https://github.com/electron/build-tools) - The GN scripts to use for Electron dev-flows
 - [docs/render-content](https://github.com/docs/render-content) - ✏️ Markdown and Liquid rendering pipeline for Node.js
 - [alibaba/butterfly](https://github.com/alibaba/butterfly) - 🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field.    (基于JavaScript/React/Vue2的流程图组件)
@@ -2901,7 +2900,7 @@
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [Urinx/WeixinBot](https://github.com/Urinx/WeixinBot) - 网页版微信API，包含终端版微信及微信机器人
 - [apachecn/AiLearning](https://github.com/apachecn/AiLearning) - AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development.
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目（5 周年）
 - [triketora/women-in-software-eng](https://github.com/triketora/women-in-software-eng) - Crowdsourced repository of women in software engineering stats.
 - [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
@@ -3212,6 +3211,7 @@
 - [AlloyTeam/alloy-worker](https://github.com/AlloyTeam/alloy-worker) - 面向事务的高可用 Web Worker 通信框架
 - [egoist/graphql-api-starter](https://github.com/egoist/graphql-api-starter) - GraphQL API starter.
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
+- [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [nuxt/vercel-builder](https://github.com/nuxt/vercel-builder) - Vercel Builder for Nuxt.js
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
@@ -3578,7 +3578,7 @@
 - [infinityu/mina-wear-mask](https://github.com/infinityu/mina-wear-mask) - 头像加口罩小程序 - 基于uniapp使用vue快速实现，广告月收入4k+
 - [strapi/strapi-starter-nuxt-blog](https://github.com/strapi/strapi-starter-nuxt-blog) - Strapi Starter Nuxt Blog
 - [dcloudio/uni-ui](https://github.com/dcloudio/uni-ui) - 基于uni-app的ui框架
-- [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Vue.js UI Library
+- [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Vue.js 3.0 UI Library (WIP)
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
 - [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!
