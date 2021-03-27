@@ -3262,7 +3262,7 @@
 - [zxing-js/library](https://github.com/zxing-js/library) - Multi-format 1D/2D barcode image processing library, usable in JavaScript ecosystem.
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [MichalLytek/type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
-- [ream/ream](https://github.com/ream/ream) - A toolkit for building web apps, powered by Vite.
+- [ream/ream](https://github.com/ream/ream) - A Vue 3 framework, powered by Vite.
 - [fregante/github-url-detection](https://github.com/fregante/github-url-detection) - Which GitHub page are you on? Is it an issue? Is it a list? Perfect for your WebExtension or userscript.
 - [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
 - [cteamx/Thief-Book-VSCode](https://github.com/cteamx/Thief-Book-VSCode) - VScode 上一款真正的摸鱼插件
@@ -3331,7 +3331,7 @@
 - [azu/github-funding-yml-updater](https://github.com/azu/github-funding-yml-updater) - Update multiple repositories's `.github/FUNDING.yml` via GitHub API
 - [SaturnTeam/saturn-datepicker](https://github.com/SaturnTeam/saturn-datepicker) - Angular Material Datepicker with range selection
 - [github/time-elements](https://github.com/github/time-elements) - Web component extensions to the standard &lt;time&gt; element.
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - Tina is a toolkit for building visual editing into your site. With Tina, developers can give their teams a contextual and intuitive editing experience without sacrificing code quality.
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - Tina is a open source editor to help building visual editing into React websites. Tina empowers developers to give their teams a contextual and intuitive editing experience without sacrificing code quality.
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [microsoft/dts-gen](https://github.com/microsoft/dts-gen) - dts-gen creates starter TypeScript definition files for any module or library.
 - [vuejs/vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
