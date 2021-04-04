@@ -2398,7 +2398,6 @@
 - [deniseyu/tech-talking](https://github.com/deniseyu/tech-talking) - Resources for both beginners and seasoned public speakers to hone their technical speaking skills!
 - [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊
 - [qiu-deqing/FE-learning](https://github.com/qiu-deqing/FE-learning) - 结合个人经历总结的前端入门方法
-- [itdevbooks/pdf](https://github.com/itdevbooks/pdf) - 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类
 - [sophi-li/OKRs-self-learning](https://github.com/sophi-li/OKRs-self-learning) - Sophia's OKRs for learning how to code.
 - [src-d/okrs](https://github.com/src-d/okrs) - Objectives & Key Results repository for the source{d} team
 - [domenicosolazzo/awesome-okr](https://github.com/domenicosolazzo/awesome-okr) - A curated list about OKR (Objective - Key Results)
@@ -2778,7 +2777,7 @@
 - [muzi502/kindle](https://github.com/muzi502/kindle) - kindle 标注笔记
 - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [CLUEbenchmark/CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch) - 搜索所有中文NLP数据集，附常用英文NLP数据集
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Ultimate Python library for time series analysis and backtesting at scale
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Ultimate Python library for time series analysis and backtesting at speed and scale
 - [kotartemiy/newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
 - [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
@@ -3214,7 +3213,7 @@
 - [acccco/zebra-editor-core](https://github.com/acccco/zebra-editor-core) - 一款强大、现代的可视化编辑器。
 - [typestack/class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Use Appsmith to build and self-host your internal apps. Create UI that connects to any database or API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build beautiful admin panels, dashboards, and CRUD apps. Connect to any database or API. One-click docker installation.
 - [drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
 - [cds-snc/covid-alert-app](https://github.com/cds-snc/covid-alert-app) - Exposure notification client application / Application client de notification d'exposition
 - [scastiel/3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
