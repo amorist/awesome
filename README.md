@@ -998,7 +998,7 @@
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [jhvst/vertigo](https://github.com/jhvst/vertigo) - Blog engine in Go (golang)
 - [kozmos/strict-request](https://github.com/kozmos/strict-request) - Send strict HTTP Requests with Go
-- [micro/micro](https://github.com/micro/micro) - Micro is a cloud platform for API development
+- [micro/micro](https://github.com/micro/micro) - Micro is a cloud native development platform
 - [jdkato/prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [Jeiwan/blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [josephyzhou/github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
@@ -1398,7 +1398,7 @@
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [matchai/sponsor-verifier](https://github.com/matchai/sponsor-verifier) - Sponsor verification for stickers being sent 💌
 - [afeifeifei/douyin](https://github.com/afeifeifei/douyin) - 抖音上面的源码全在这里了！
-- [skygongque/douyin_signature](https://github.com/skygongque/douyin_signature) - douyin web  signature（已失效，官方web端也没有tac无法获取用户主页信息）
+- [skygongque/douyin_signature](https://github.com/skygongque/douyin_signature) - douyin web  signature
 - [TaleLin/lin-cms-koa](https://github.com/TaleLin/lin-cms-koa) - 🌀使用Node.JS KOA构建的CMS开发框架
 - [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [gpujs/gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
