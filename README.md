@@ -1072,7 +1072,7 @@
 - [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go
 - [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) - Gopher Artwork by Ashley McNamara
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
-- [ysrc/yulong-hids](https://github.com/ysrc/yulong-hids) - 一款由 YSRC 开源的主机入侵检测系统
+- [ysrc/yulong-hids-archived](https://github.com/ysrc/yulong-hids-archived) - 一款由 YSRC 开源的主机入侵检测系统
 - [floyernick/Data-Structures-and-Algorithms](https://github.com/floyernick/Data-Structures-and-Algorithms) - Data Structures and Algorithms implementation in Go
 - [anaskhan96/soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
 - [philopon/go-toposort](https://github.com/philopon/go-toposort) - deterministic topological sort implementation for golang
@@ -3314,7 +3314,7 @@
 - [RocketChat/Rocket.Chat.GitHub.Action.Notification](https://github.com/RocketChat/Rocket.Chat.GitHub.Action.Notification) - Rocket.Chat Notification for GitHub Actions :bell: :rocket:
 - [machinelearnjs/machinelearnjs](https://github.com/machinelearnjs/machinelearnjs) - Machine Learning library for the web and Node.
 - [rhysd/electron-in-page-search](https://github.com/rhysd/electron-in-page-search) - Module to introduce Electron's native in-page search avoiding pitfalls
-- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like. It also includes support for GitHub Enterprise.
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [umijs/umi-next](https://github.com/umijs/umi-next) - The next version of umi. (under development)
 - [alibaba/formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution.
 - [hujiulong/action-qiniu-upload](https://github.com/hujiulong/action-qiniu-upload) - Github Action for Uploading Files to Qiniu.com
