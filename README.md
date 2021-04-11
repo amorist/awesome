@@ -1757,7 +1757,6 @@
 - [mawie81/electron-window-state](https://github.com/mawie81/electron-window-state) - A library to store and restore window sizes and positions for your Electron app
 - [yoshuawuyts/vmd](https://github.com/yoshuawuyts/vmd) - :pray: preview markdown files
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command
-- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [electron-userland/spectron](https://github.com/electron-userland/spectron) - 🔎 Test Electron apps using ChromeDriver
 - [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 - [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
@@ -1822,7 +1821,7 @@
 - [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [jasondu/wxa-plugin-canvas](https://github.com/jasondu/wxa-plugin-canvas) - 小程序海报组件-生成朋友圈分享海报并生成图片
-- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
+- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
 - [vercel/now-builders](https://github.com/vercel/now-builders) - Official Now Builders created by the ZEIT team
 - [vercel/now-desktop](https://github.com/vercel/now-desktop) - An example of building a desktop application using the Now API
 - [Jackliu007888/stock-helper](https://github.com/Jackliu007888/stock-helper) - a chrome extension for Chinese stock
@@ -1875,7 +1874,6 @@
 - [jasonlong/isometric-contributions](https://github.com/jasonlong/isometric-contributions) - Browser extension for rendering an isometric pixel art version of your GitHub contribution graph.
 - [davidroyer/vue2-editor](https://github.com/davidroyer/vue2-editor) - A text editor using Vue.js and Quill
 - [JserWang/rc-bmap](https://github.com/JserWang/rc-bmap) - 当百度地图遇上React，会产生怎样的火花🔥     🎉欢迎您的加入🎉
-- [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [ulivz/markdown-it-chain](https://github.com/ulivz/markdown-it-chain) - A chaining API like webpack-chain but for markdown-it.
 - [reduxjs/react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
@@ -2996,6 +2994,7 @@
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
+- [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 
@@ -3450,6 +3449,7 @@
 - [electron/typescript-definitions](https://github.com/electron/typescript-definitions) - Convert the Electron API JSON file to electron.d.ts
 - [auchenberg/vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
 - [hotwired/stimulus](https://github.com/hotwired/stimulus) - A modest JavaScript framework for the HTML you already have
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [davidkpiano/xstate](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web.
 - [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
 - [syumai/dejs](https://github.com/syumai/dejs) - ejs template engine for deno.
