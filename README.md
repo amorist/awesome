@@ -411,7 +411,7 @@
 - [asyncins/mist](https://github.com/asyncins/mist) - 超高性能且不受时间回拨影响的全局唯一 ID 生成算法，薄雾算法
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
-- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Advanced information gathering & OSINT framework for phone numbers
+- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering & OSINT framework for phone numbers
 - [google/licensecheck](https://github.com/google/licensecheck) - The licensecheck package classifies license files and heuristically determines how well they correspond to known open source licenses.
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
 - [tomnomnom/assetfinder](https://github.com/tomnomnom/assetfinder) - Find domains and subdomains related to a given domain
@@ -1546,7 +1546,7 @@
 - [blocks/blocks](https://github.com/blocks/blocks) - A JSX-based page builder for creating beautiful websites without writing code
 - [cristianbote/goober](https://github.com/cristianbote/goober) - 🥜 goober, a less than 1KB 🎉  css-in-js alternative with a familiar API
 - [dfcook/vue-webpack4-template](https://github.com/dfcook/vue-webpack4-template) - VueJs template using Webpack 4
-- [alibaba/form-render](https://github.com/alibaba/form-render) - 🚴‍♀️ 易用的跨组件体系的表单渲染引擎 - 通过 JSON Schema 快速生成自定义表单配置界面
+- [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 飞猪中后台开箱即用解决方案
 - [KieSun/Dream](https://github.com/KieSun/Dream) - 我是 yck，✍️ 这里是写博客以及记录学习的地方
 - [ryanseddon/react-frame-component](https://github.com/ryanseddon/react-frame-component) - Render your React app to an iFrame
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
@@ -3216,7 +3216,7 @@
 - [acccco/zebra-editor-core](https://github.com/acccco/zebra-editor-core) - 一款强大、现代的可视化编辑器。
 - [typestack/class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build custom CRUD UI that talks to any API or database. All without HTML or CSS.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build custom CRUD apps that talk to any API or database. All without HTML or CSS.
 - [drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
 - [cds-snc/covid-alert-app](https://github.com/cds-snc/covid-alert-app) - Exposure notification client application / Application client de notification d'exposition
 - [scastiel/3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
@@ -3299,8 +3299,8 @@
 - [Polymer/lit-html](https://github.com/Polymer/lit-html) - An efficient, expressive, extensible HTML templating library for JavaScript.
 - [Azure/azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - The source for REST API specifications for Microsoft Azure.
 - [igoogolx/shadowsocks-global](https://github.com/igoogolx/shadowsocks-global) - A VPN or proxy client for Windows
-- [ever-co/ever](https://github.com/ever-co/ever) - Ever® - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
-- [ever-co/gauzy](https://github.com/ever-co/gauzy) - Gauzy™ - Open-Source Business Management Platform (ERP/CRM/HRM)
+- [ever-co/ever](https://github.com/ever-co/ever) - Ever® Demand™ - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
+- [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open-Source Business Management Platform (ERP/CRM/HRM)
 - [react-native-netinfo/react-native-netinfo](https://github.com/react-native-netinfo/react-native-netinfo) - React Native Network Info API for Android & iOS
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [SteveSandersonMS/WebWindow](https://github.com/SteveSandersonMS/WebWindow) - .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental.
