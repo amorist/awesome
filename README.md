@@ -823,7 +823,7 @@
 - [chai2010/go2-book](https://github.com/chai2010/go2-book) - :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [inlets/inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel
-- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Cost-effective serverless computing at scale
+- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Serverless computing at scale
 - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [eranyanay/1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
 - [apex/gh-polls](https://github.com/apex/gh-polls) - Polls for user feedback in GitHub issues
