@@ -910,7 +910,7 @@
 - [octokit/go-octokit](https://github.com/octokit/go-octokit) - Simple Go wrapper for the GitHub API
 - [liamg/aminal](https://github.com/liamg/aminal) - A modern cross-platform terminal emulator in Go
 - [rakyll/autopprof](https://github.com/rakyll/autopprof) - Pprof made easy at development time for Go
-- [uber/makisu](https://github.com/uber/makisu) - Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
+- [uber-archive/makisu](https://github.com/uber-archive/makisu) - Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [youzan/go-nsq](https://github.com/youzan/go-nsq) - 
@@ -1191,7 +1191,7 @@
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [eddycjy/blog](https://github.com/eddycjy/blog) - 煎鱼的博客，有点忙，传送门：https://eddycjy.com
 - [saurabhdaware/text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting) - So your teacher asked you to upload written assignments? Hate writing assigments? This tool will help you convert your text to handwriting xD
-- [vinitshahdeo/HBD](https://github.com/vinitshahdeo/HBD) - :birthday: Coder's way of wishing Happy Birthday! :cake: :cupcake: :confetti_ball: :tada: :balloon:
+- [vinitshahdeo/HBD](https://github.com/vinitshahdeo/HBD) - :birthday: Coder's way of wishing Happy Birthday! :cake:  :confetti_ball: :tada: :balloon:
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具
 - [TurboWay/big_screen](https://github.com/TurboWay/big_screen) - 数据大屏可视化
