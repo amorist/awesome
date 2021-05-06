@@ -313,6 +313,9 @@
 
 ## Go 
 
+- [deepfabric/busybee](https://github.com/deepfabric/busybee) - 营销流程引擎
+- [yellowFarLu/Boss-System](https://github.com/yellowFarLu/Boss-System) - BOSS系统是一个数字化运营平台。该系统实现了公司销售人员、渠道代理人员、超级管理员的基本工作，可以维护渠道商机等商业数据，把商业机会数字化，客户跟踪历史记录，批量导入客户信息，多条件筛选，提高工作人员的协作能力，实现总公司、代理、销售三位一体运营,实现数字化运营
+- [yudeyong/pyromid](https://github.com/yudeyong/pyromid) - 分级营销积分体系
 - [fanux/sealos](https://github.com/fanux/sealos) - sealos即将贡献给阿里，更名为sealer，继续保持开源，详情见readme，一条命令离线安装kubernetes，超全版本，支持国产化，生产环境中稳如老狗，99年证书，0依赖，去haproxy keepalived，v1.20支持containerd！
 - [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用 等等。
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -1281,6 +1284,7 @@
 
 ## Java 
 
+- [fuzhengwei/itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design) - :art: 《重学Java设计模式》是一本互联网真实案例实践书籍。以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。欢迎关注小傅哥，微信(fustack)，公众号：bugstack虫洞栈，博客：https://bugstack.cn
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Enterprise Single Sign On for all earthlings and beyond.
 - [dromara/sa-token](https://github.com/dromara/sa-token) - 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
 - [zhangdaiscott/jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) - 「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding-&gt;代码生成-&gt;手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
@@ -1306,7 +1310,7 @@
 - [yangchong211/YCStatusBar](https://github.com/yangchong211/YCStatusBar) - 关于状态栏方案总结案例，适合于绝大多数的使用场景……同时，兼容了小米，魅族等手机状态栏字体颜色设置失效问题。已经用于实际项目投资界，新芽，沙丘大学等APP，一键集成并使用！支持单Activity多Fragment动态修改状态栏颜色，入侵性低，一行代码即可实现你需要的需求
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available `out of the box`.
 - [react-native-camera/react-native-camera](https://github.com/react-native-camera/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
-- [ctripcorp/apollo](https://github.com/ctripcorp/apollo) - Apollo is a reliable configuration management system. It can centrally manage the configurations of different applications and different clusters. It is suitable for microservice configuration management scenarios.
+- [ctripcorp/apollo](https://github.com/ctripcorp/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 - [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [dianping/cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
@@ -1340,6 +1344,20 @@
 
 ## JavaScript 
 
+- [fudaoji/KyPHP](https://github.com/fudaoji/KyPHP) - 微信营销系统，利用微信开放平台搭建公众号、小程序为载体的应用市场
+- [crmeb/CRMEB_WeChatMiniProgram](https://github.com/crmeb/CRMEB_WeChatMiniProgram) - CRMEBv2.6以客户管理为中心+电商营销系统，微信小程序商城，带分销、秒杀、积分、优惠券等功能
+- [xiongwilee/imageTemplateGenerator](https://github.com/xiongwilee/imageTemplateGenerator) - 通过创建的模板，快速生成对应的图片，用以：自动生成营销分享图片、批量生成不同二维码的图片等
+- [xzncit/A3Mall](https://github.com/xzncit/A3Mall) - A3Mall是B2C免费开源商城系统，支持微信公众号商城、H5商城、小程序商城，支持多种营销活动，优惠劵、订单活动、团购、秒杀、会员特价、积分商品等功能。前后端全部开源。本系统基于ThinkPHP6框架。
+- [51cc/wechat-shop-](https://github.com/51cc/wechat-shop-) - 一个关于微信小程序的项目，实现了所有商城的功能。内置微信营销的插件、摇一摇  大转盘等。
+- [frank-young/nana-crm](https://github.com/frank-young/nana-crm) - 外贸CRM客户关系管理系统，用于管理用户、产品、邮件营销、外贸询盘等。
+- [anightrabbit/lottery-api](https://github.com/anightrabbit/lottery-api) - 抽奖api，适用于各种h5营销抽奖活动
+- [zimuqingyang/minprogram-marketingapp](https://github.com/zimuqingyang/minprogram-marketingapp) - 一款门店营销小程序，包含首页、数据统计、门店列表、营销事件、个人设置、登录注册等。
+- [sunniejs/sol-weapp](https://github.com/sunniejs/sol-weapp) - :clap:红包雨，大转盘，小程序营销组件，小程序商城常用组件  https://sunniejs.github.io/sol-weapp/
+- [lixunn/H5-Promotion](https://github.com/lixunn/H5-Promotion) - (Stopped Maintenanced) H5营销经典小例子 (HTML5 Content Marketing Classic Example)，摇一摇、抽签、摇签、红包
+- [cyclegtx/burberryshow](https://github.com/cyclegtx/burberryshow) - 腾讯Burberry线上营销页面特效
+- [merrier/mobile-games](https://github.com/merrier/mobile-games) - :game_die: 这里总结了我的团队做过的手机小游戏，大部分都是微信相关的，用于营销和推广
+- [github/include-fragment-element](https://github.com/github/include-fragment-element) - A client-side includes tag.
+- [github/github-elements](https://github.com/github/github-elements) - GitHub's Web Component collection.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [web-animations/web-animations-js](https://github.com/web-animations/web-animations-js) - JavaScript implementation of the Web Animations API
 - [iamdarcy/hioshop-miniprogram](https://github.com/iamdarcy/hioshop-miniprogram) - 海风小店，开源商城，微信小程序商城
@@ -2696,6 +2714,7 @@
 
 ## PHP 
 
+- [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [OtkurBiz/ByteDance](https://github.com/OtkurBiz/ByteDance) - 字节跳动PHP SDK 抖音小程序、头条小程序开发组件。PHP SDK for bytedance (douyin, tiktok, toutiao)
 - [fghrsh/live2d_api](https://github.com/fghrsh/live2d_api) - Live2D 看板娘插件 (https://www.fghrsh.net/post/123.html) 上使用的后端 API
@@ -3012,7 +3031,7 @@
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
-- [zerostaticthemes/hugo-hero-theme](https://github.com/zerostaticthemes/hugo-hero-theme) - A modern business theme for Hugo.
+- [zerostaticthemes/hugo-hero-theme](https://github.com/zerostaticthemes/hugo-hero-theme) - A multi-page Hugo theme with fullscreen hero images and fullwidth sections.
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [BraveUX/for-the-badge](https://github.com/BraveUX/for-the-badge) - Badges for badges' sake.
@@ -3081,6 +3100,8 @@
 
 ## Swift 
 
+- [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
+- [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - The macOS color picker as an app with more features
 - [naman14/adb-tools-mac](https://github.com/naman14/adb-tools-mac) - Mac menu bar app for common adb tools
 - [fromkk/FreeTimePicker](https://github.com/fromkk/FreeTimePicker) - Free time picker iOS Application with SwiftUI and Combine
 - [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
@@ -3588,6 +3609,9 @@
 
 ## Vue 
 
+- [Leo-lin214/marketing-Components](https://github.com/Leo-lin214/marketing-Components) - 营销组件的积累和学习
+- [gupei2015/marketing-management-web](https://github.com/gupei2015/marketing-management-web) - 优惠券营销后台管理前端工程
+- [vkcyan/activity-YD](https://github.com/vkcyan/activity-YD) - 易动 - H5营销页面弱代码搭建系统 支持动画、第三方接口接入🔥🔥
 - [newbee-ltd/newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - 🔥 🎉Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城 Vue3 版本，技术栈为 Vue 3.0 + Vue-Router 4.0 + Vuex 4.0 + Vant 3.0。
 - [geekape/geek-navigation](https://github.com/geekape/geek-navigation) - ❤️ 极客猿梦导航－独立开发者的导航站！
 - [x2rr/funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
