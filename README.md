@@ -37,6 +37,7 @@
   - [Mercury](#mercury)
   - [Mustache](#mustache)
   - [NSIS](#nsis)
+  - [Nunjucks](#nunjucks)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Objective-C++](#objective-c++)
@@ -312,6 +313,7 @@
 
 ## Go 
 
+- [baiyutang/meetup](https://github.com/baiyutang/meetup) - 【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎  PR  / Issues
 - [deepfabric/busybee](https://github.com/deepfabric/busybee) - 营销流程引擎
 - [yellowFarLu/Boss-System](https://github.com/yellowFarLu/Boss-System) - BOSS系统是一个数字化运营平台。该系统实现了公司销售人员、渠道代理人员、超级管理员的基本工作，可以维护渠道商机等商业数据，把商业机会数字化，客户跟踪历史记录，批量导入客户信息，多条件筛选，提高工作人员的协作能力，实现总公司、代理、销售三位一体运营,实现数字化运营
 - [yudeyong/pyromid](https://github.com/yudeyong/pyromid) - 分级营销积分体系
@@ -1343,6 +1345,7 @@
 
 ## JavaScript 
 
+- [EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) - 微信小程序商城，微信小程序微店
 - [fudaoji/KyPHP](https://github.com/fudaoji/KyPHP) - 微信营销系统，利用微信开放平台搭建公众号、小程序为载体的应用市场
 - [crmeb/CRMEB_WeChatMiniProgram](https://github.com/crmeb/CRMEB_WeChatMiniProgram) - CRMEBv2.6以客户管理为中心+电商营销系统，微信小程序商城，带分销、秒杀、积分、优惠券等功能
 - [xiongwilee/imageTemplateGenerator](https://github.com/xiongwilee/imageTemplateGenerator) - 通过创建的模板，快速生成对应的图片，用以：自动生成营销分享图片、批量生成不同二维码的图片等
@@ -1578,7 +1581,6 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [indutny/node-ip](https://github.com/indutny/node-ip) - IP address tools for node.js
 - [jberg/butterchurn](https://github.com/jberg/butterchurn) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
-- [jnsmtnr/guess-the-breed](https://github.com/jnsmtnr/guess-the-breed) - A cat breed guesser game
 - [angrbrd/hangman](https://github.com/angrbrd/hangman) - Cat Breed Themed Hangman Game
 - [TakWolf/NyanCatEverywhere](https://github.com/TakWolf/NyanCatEverywhere) - 让彩虹猫入侵全世界！
 - [CB-ysx/game-nerve-cat](https://github.com/CB-ysx/game-nerve-cat) - egret引擎写的围住神经猫游戏
@@ -2381,6 +2383,10 @@
 ## NSIS 
 
 - [electron-userland/electron-builder-binaries](https://github.com/electron-userland/electron-builder-binaries) - 
+
+## Nunjucks 
+
+- [phuoc-ng/html-dom](https://github.com/phuoc-ng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 
 ## OCaml 
 
@@ -3311,7 +3317,6 @@
 - [fregante/github-url-detection](https://github.com/fregante/github-url-detection) - Which GitHub page are you on? Is it an issue? Is it a list? Perfect for your WebExtension or userscript.
 - [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
 - [cteamx/Thief-Book-VSCode](https://github.com/cteamx/Thief-Book-VSCode) - VScode 上一款真正的摸鱼插件
-- [phuoc-ng/html-dom](https://github.com/phuoc-ng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 - [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript's largest utility library
 - [egoist/mordred](https://github.com/egoist/mordred) - [Experimental] Source data from anywhere, for Next.js, Nuxt.js, Eleventy and many more.
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
@@ -3605,6 +3610,7 @@
 
 ## Vue 
 
+- [Summer-Lin/vue-wechat-menu](https://github.com/Summer-Lin/vue-wechat-menu) - 微信公众号菜单配置
 - [Leo-lin214/marketing-Components](https://github.com/Leo-lin214/marketing-Components) - 营销组件的积累和学习
 - [gupei2015/marketing-management-web](https://github.com/gupei2015/marketing-management-web) - 优惠券营销后台管理前端工程
 - [vkcyan/activity-YD](https://github.com/vkcyan/activity-YD) - 易动 - H5营销页面弱代码搭建系统 支持动画、第三方接口接入🔥🔥
