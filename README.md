@@ -3369,7 +3369,7 @@
 - [yinxin630/fiora](https://github.com/yinxin630/fiora) - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
 - [ganlvtech/phaser-catch-the-cat](https://github.com/ganlvtech/phaser-catch-the-cat) - An HTML5 game 'Catch The Cat' powered by Phaser 3
 - [FaridSafi/react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - 💬 The most complete chat UI for React Native
-- [szdc/tiktok-api](https://github.com/szdc/tiktok-api) - Unofficial API wrapper for TikTok (previously musical.ly)
+- [szdc/tiktok-api](https://github.com/szdc/tiktok-api) - Unofficial API wrapper for TikTok
 - [material-components/material-components-web-components](https://github.com/material-components/material-components-web-components) - Material Design Web Components
 - [canvg/canvg](https://github.com/canvg/canvg) - Javascript SVG parser and renderer on Canvas
 - [szimek/signature_pad](https://github.com/szimek/signature_pad) - HTML5 canvas based smooth signature drawing
