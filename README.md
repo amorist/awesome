@@ -126,6 +126,7 @@
 
 ## C++ 
 
+- [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 - [google/lyra](https://github.com/google/lyra) - A Very Low-Bitrate Codec for Speech Compression
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
@@ -1345,6 +1346,9 @@
 
 ## JavaScript 
 
+- [AlloyTeam/AlloyCrop](https://github.com/AlloyTeam/AlloyCrop) - The best and tiny size mobile cropping component - 做最好且最小的移动裁剪组件
+- [simoneb/axios-hooks](https://github.com/simoneb/axios-hooks) - 🦆 React hooks for axios
+- [Renovamen/playground-macos](https://github.com/Renovamen/playground-macos) - My portfolio website simulating macOS's GUI, developed with React and tailwindcss.
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
 - [Voyzz/Fruit-store-mp](https://github.com/Voyzz/Fruit-store-mp) - 🍊微信小程序-水果商城-云开发
 - [electron/electronjs.org-new](https://github.com/electron/electronjs.org-new) - 
