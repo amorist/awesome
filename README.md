@@ -341,7 +341,6 @@
 - [thinkeridea/go-extend](https://github.com/thinkeridea/go-extend) - go语言扩展包，收集一些常用的操作函数，辅助更快的完成开发工作，并减少重复代码
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [zhenorzz/goploy](https://github.com/zhenorzz/goploy) - Deploy, CI/CD, Xterm, APP monitor, Crontab Manager.
 - [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
@@ -2456,7 +2455,7 @@
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [daviddao/awful-ai](https://github.com/daviddao/awful-ai) - 😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown instant-render editing.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG.
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [egoist/feedbackok-roadmap](https://github.com/egoist/feedbackok-roadmap) - Roadmap for FeedbackOK.com
@@ -3633,6 +3632,7 @@
 - [gupei2015/marketing-management-web](https://github.com/gupei2015/marketing-management-web) - 优惠券营销后台管理前端工程
 - [vkcyan/activity-YD](https://github.com/vkcyan/activity-YD) - 易动 - H5营销页面弱代码搭建系统 支持动画、第三方接口接入🔥🔥
 - [newbee-ltd/newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - 🔥 🎉Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城 Vue3 版本，技术栈为 Vue 3.0 + Vue-Router 4.0 + Vuex 4.0 + Vant 3.0。
+- [zhenorzz/goploy](https://github.com/zhenorzz/goploy) - Deploy, CI/CD, Xterm, APP monitor, Crontab Manager.
 - [geekape/geek-navigation](https://github.com/geekape/geek-navigation) - ❤️ 极客猿梦导航－独立开发者的导航站！
 - [x2rr/funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
 - [zwpro/redCover](https://github.com/zwpro/redCover) - 微信红包封面领取，用户观看视频广告或者邀请用户可获取微信红包序列号
