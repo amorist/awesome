@@ -388,6 +388,7 @@
 - [blushft/go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [free5gc/free5gc](https://github.com/free5gc/free5gc) - Open source 5G core network base on 3GPP R15
 - [GoesToEleven/golang-web-dev](https://github.com/GoesToEleven/golang-web-dev) - 
+- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
@@ -422,7 +423,7 @@
 - [google/licensecheck](https://github.com/google/licensecheck) - The licensecheck package classifies license files and heuristically determines how well they correspond to known open source licenses.
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
 - [tomnomnom/assetfinder](https://github.com/tomnomnom/assetfinder) - Find domains and subdomains related to a given domain
-- [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm) - Go implementation of the Ethereum 2.0 blockchain
+- [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm) - Go implementation of Ethereum proof of stake
 - [labulaka521/crocodile](https://github.com/labulaka521/crocodile) - Distributed Task Scheduling System|分布式定时任务调度平台
 - [amorist/douyin](https://github.com/amorist/douyin) - 抖音开放平台API
 - [15921483570/wechat_spider](https://github.com/15921483570/wechat_spider) - 微信公众号爬虫  (只需设置代理, 一键可以爬取所有历史文章)
@@ -827,7 +828,7 @@
 - [chai2010/go2-book](https://github.com/chai2010/go2-book) - :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [inlets/inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel
-- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Scale compute-intensive serverless workloads
+- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Build scalable backends faster
 - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [eranyanay/1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
 - [apex/gh-polls](https://github.com/apex/gh-polls) - Polls for user feedback in GitHub issues
@@ -1284,7 +1285,7 @@
 
 ## Java 
 
-- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 腾讯内外五个奖项、腾讯开源五个第一 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构！🏆 5 awards inside&outside Tencent, 5 best aspects of Tencent Open. 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
+- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🚀 零代码、热更新、自动化 ORM 库，后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
 - [fuzhengwei/itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design) - :art: 《重学Java设计模式》是一本互联网真实案例实践书籍。以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。欢迎关注小傅哥，微信(fustack)，公众号：bugstack虫洞栈，博客：https://bugstack.cn
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Enterprise Single Sign On for all earthlings and beyond.
 - [dromara/sa-token](https://github.com/dromara/sa-token) - 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
@@ -1345,6 +1346,7 @@
 
 ## JavaScript 
 
+- [justjavac/proxy-www](https://github.com/justjavac/proxy-www) - 学会 Proxy 就可以为所欲为吗？对，学会 Proxy 就可以为所欲为！
 - [Run2948/wechat_applet](https://github.com/Run2948/wechat_applet) - Open-Shop小程序商城，包括：分销（支持三级）、团购（拼多多模式）、秒杀、优惠券、等功能，前后端全部开源。做全网最开源、最稳定、功能做强大的开源小程序商城。
 - [juanpaokeji/jpshop-wechat-app-live-mall](https://github.com/juanpaokeji/jpshop-wechat-app-live-mall) - 开源jpshop社区团购微商城直播，秒杀，分销，拼团，砍价，群接龙，多商户小程序，快速搭建属于自己的小程序系统 。系统采用电商专用Yii2框架+php7.2，后台采用element+vue开发，前后端分离，小程序QQ交流群：1029489867，欢迎入群交流
 - [AlloyTeam/AlloyCrop](https://github.com/AlloyTeam/AlloyCrop) - The best and tiny size mobile cropping component - 做最好且最小的移动裁剪组件
@@ -1516,6 +1518,7 @@
 - [adobe-webplatform/Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
 - [mozilla/hubs](https://github.com/mozilla/hubs) - Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.
 - [stack-labs/stack-labs-site](https://github.com/stack-labs/stack-labs-site) - Micro 中文站点
+- [antvis/g](https://github.com/antvis/g) - A powerful rendering engine which providing Canvas and SVG draw for G2 & G6
 - [sunniejs/vue-h5-template](https://github.com/sunniejs/vue-h5-template) - :tada:vue搭建移动端开发,基于vue-cli4.0+webpack 4+vant ui + sass+ rem适配方案+axios封装，构建手机端模板脚手架
 - [thesephist/draw](https://github.com/thesephist/draw) - Real-time collaborative whiteboard on the web
 - [yemount/pose-animator](https://github.com/yemount/pose-animator) - 
@@ -2776,7 +2779,6 @@
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use NLP datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [munki/macadmin-scripts](https://github.com/munki/macadmin-scripts) - Scripts of possible interest to macOS admins
 - [lucasrangit/twitter-winner](https://github.com/lucasrangit/twitter-winner) - Twitter Winner
-- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
 - [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) - [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
@@ -3205,7 +3207,7 @@
 - [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ 云空调，便携小空调，为你的夏日带去清凉！
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Public Beta 🎉)
 - [justjavac/ali-words](https://github.com/justjavac/ali-words) - 互联网黑话词汇表，包含“赋能、抓手、闭环、沉淀、打通”等阿里味儿词汇
-- [woopen/nplayer](https://github.com/woopen/nplayer) - 无任何第三方运行时依赖，兼容 IE11，支持 SSR。高度可定制，可二次开发。和 B 站一样体验的弹幕系统。可以接入任何流媒体，支持直播。
+- [woopen/nplayer](https://github.com/woopen/nplayer) - 🚀 支持移动端、支持 SSR、支持直播，可以接入任何流媒体。高性能的弹幕系统。高度可定制，所有图标、主题色等都可以替换，并且提供了内置组件方便二次开发。无第三方运行时依赖。
 - [contra/react-responsive](https://github.com/contra/react-responsive) - CSS media queries in react - for responsive design, and more.
 - [vueComponent/pro-layout](https://github.com/vueComponent/pro-layout) - easy use `Ant Design Vue` layout
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open source and free no-code development platform.
@@ -3321,7 +3323,6 @@
 - [surmon-china/vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-- [antvis/g](https://github.com/antvis/g) - A powerful rendering engine which providing Canvas and SVG draw for G2 & G6
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [uw-labs/bloomrpc](https://github.com/uw-labs/bloomrpc) - GUI Client for GRPC Services
@@ -3657,7 +3658,7 @@
 - [infinityu/mina-wear-mask](https://github.com/infinityu/mina-wear-mask) - 头像加口罩小程序 - 基于uniapp使用vue快速实现，广告月收入4k+
 - [strapi/strapi-starter-nuxt-blog](https://github.com/strapi/strapi-starter-nuxt-blog) - Strapi Starter Nuxt Blog
 - [dcloudio/uni-ui](https://github.com/dcloudio/uni-ui) - 基于uni-app的ui框架
-- [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Vue.js 3.0 UI Library (WIP)
+- [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Vue.js 3.0 UI Library
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
 - [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!
