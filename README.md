@@ -19,6 +19,7 @@
   - [EJS](#ejs)
   - [Eagle](#eagle)
   - [Elm](#elm)
+  - [FreeMarker](#freemarker)
   - [Gnuplot](#gnuplot)
   - [Go](#go)
   - [Groovy](#groovy)
@@ -309,6 +310,10 @@
 ## Elm 
 
 - [jfairbank/programming-elm.com](https://github.com/jfairbank/programming-elm.com) - Source for programming-elm.com
+
+## FreeMarker 
+
+- [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
 
 ## Gnuplot 
 
@@ -1289,6 +1294,7 @@
 
 ## Java 
 
+- [981011512/--](https://github.com/981011512/--) - 停车场系统源码，停车场小程序，智能停车，Parking system，【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持app上查询附近停车场(导航，可用车位数，停车场费用，优惠券，评分，评论等)，可预约车位。⑤断电断网支持岗亭人员使用app可接管硬件进行停车记录的录入。 【技术架构】：后端开发语言java，框架oauth2+springboot2+dubble，数据库mysql/mongodb/redis，即时通讯底层框架netty4，安卓和ios均为原生开发，后台管理模板vue专业定制
 - [caisl/activity-platform](https://github.com/caisl/activity-platform) - 营销活动平台，提供平台组件化，活动管理，规则引擎等功能，支撑多种营销活动，方便扩展
 - [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🚀 零代码、热更新、自动化 ORM 库，后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
 - [fuzhengwei/itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design) - :art: 《重学Java设计模式》是一本互联网真实案例实践书籍。以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。欢迎关注小傅哥，微信(fustack)，公众号：bugstack虫洞栈，博客：https://bugstack.cn
@@ -1724,7 +1730,6 @@
 - [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
 - [HunterXuan/wx-tfjs-demo](https://github.com/HunterXuan/wx-tfjs-demo) - 微信小程序运行 TensorFlow 的 Demo
 - [yan-foto/electron-reload](https://github.com/yan-foto/electron-reload) - Simplest (:pray:) way to reload an electron app on file changes!
-- [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
 - [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [apollographql/react-apollo](https://github.com/apollographql/react-apollo) - :recycle: React integration for Apollo Client
 - [vuegg/vuegg](https://github.com/vuegg/vuegg) - :hatching_chick: vue GUI generator
@@ -2783,6 +2788,7 @@
 
 ## Python 
 
+- [frappe/erpnext](https://github.com/frappe/erpnext) - World's best free and open source ERP.
 - [it-projects-llc/odoo-saas-tools](https://github.com/it-projects-llc/odoo-saas-tools) - Odoo SaaS Tools — tools for SaaS Businesses. Sale and manage Odoo databases.
 - [Xavier-Lam/wechat-django](https://github.com/Xavier-Lam/wechat-django) - WeChat-Django旨在为接入微信公众平台的django开发者提供便捷的微信功能封装及最基本的后台管理支持
 - [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind Watermark （图片盲水印，提取水印无须原图！）
@@ -3525,8 +3531,8 @@
 - [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
 - [syumai/dejs](https://github.com/syumai/dejs) - ejs template engine for deno.
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
-- [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
-- [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
+- [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
+- [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 - [umijs/umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [denoland/deno_std](https://github.com/denoland/deno_std) - Deno standard library
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
