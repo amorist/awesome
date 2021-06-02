@@ -322,6 +322,8 @@
 
 ## Go 
 
+- [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go
+- [TwinProduction/gatus](https://github.com/TwinProduction/gatus) - ⛑ Gatus - Automated service health dashboard
 - [name5566/leaf](https://github.com/name5566/leaf) - A game server framework in Go (golang)
 - [tencentyun/cos-go-sdk-v5](https://github.com/tencentyun/cos-go-sdk-v5) - 腾讯云 COS GO SDK（XML API）
 - [didi/gendry](https://github.com/didi/gendry) - a golang library for sql builder
@@ -459,7 +461,7 @@
 - [dannypsnl/redux](https://github.com/dannypsnl/redux) - redux implementation in Go
 - [luisvinicius167/godux](https://github.com/luisvinicius167/godux) - State Management for Go Backend application inspired in Redux.
 - [cuelang/cue](https://github.com/cuelang/cue) - Validate and define text-based and dynamic configuration
-- [custer-go/edas](https://github.com/custer-go/edas) - 期望做一个基于go-micro + casbin + jwt 的用户认证和权限的微服务
+- [custer-fun/edas](https://github.com/custer-fun/edas) - 期望做一个基于go-micro + casbin + jwt 的用户认证和权限的微服务
 - [marcusolsson/goddd](https://github.com/marcusolsson/goddd) - Exploring DDD in Go
 - [egoist/esbuild-service](https://github.com/egoist/esbuild-service) - esbuild as a service. bundle any npm package on the fly as you request.
 - [godcong/fate](https://github.com/godcong/fate) - Fate is a modern science chinese name create tool.
@@ -2344,7 +2346,7 @@
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [stefanerickson/covervid](https://github.com/stefanerickson/covervid) - Make your HTML5 video behave like a background cover image with this lightweight Javascript plugin / jQuery extension
 - [cykod/Quintus](https://github.com/cykod/Quintus) - HTML5 Game Engine
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 
 ## Jinja 
