@@ -3378,7 +3378,7 @@
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [alibaba/hooks](https://github.com/alibaba/hooks) - React Hooks Library
-- [teambit/bit](https://github.com/teambit/bit) - A lightweight and highly extendible tool for component-driven development.
+- [teambit/bit](https://github.com/teambit/bit) - A lightweight and highly extendible Polyrepo for component-driven development.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [erxes/erxes](https://github.com/erxes/erxes) - Free and open fair-code licensed all-in-one growth marketing & management software
 - [wcandillon/can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native) - ⚛️ 📺 Projects from the “Can it be done in React Native?” YouTube series
