@@ -324,6 +324,7 @@
 
 ## Go 
 
+- [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [naiba/nezha](https://github.com/naiba/nezha) - :trollface: 哪吒监控 一站式轻监控轻运维系统。支持系统状态、HTTP、TCP、Ping 监控报警，命令批量执行和计划任务。
 - [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) - 
 - [SMerrony/aghast](https://github.com/SMerrony/aghast) - AGHAST is A Go Home Automation SysTem.
@@ -969,7 +970,6 @@
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
 - [kylesliu/Golang-Learn](https://github.com/kylesliu/Golang-Learn) - 💪本长仓库记录了我学习golang的过程包括算法，数据结构，基本操作等
 - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
-- [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
@@ -1379,6 +1379,7 @@
 
 ## JavaScript 
 
+- [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
 - [electron/mksnapshot](https://github.com/electron/mksnapshot) - Electron mksnapshot binaries
 - [qiushi123/xiaochengxu_demos](https://github.com/qiushi123/xiaochengxu_demos) - 小程序优秀项目源码汇总，每个项目都有图有源码，零基础学微信小程序，小程序表格，小程序视频，小程序视频弹幕，小程序仿天猫大转盘抽奖等源码，小程序云开发，小程序发邮件，小程序支付，微信支付，持续更新。。。
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
@@ -3263,6 +3264,7 @@
 
 ## TypeScript 
 
+- [millionjs/million](https://github.com/millionjs/million) - 🌈 &lt;1kb virtual DOM - it's fast!
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 - [dfinity/cancan](https://github.com/dfinity/cancan) - A scalable video sharing service.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
