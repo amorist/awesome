@@ -689,7 +689,6 @@
 - [google/gapid](https://github.com/google/gapid) - Graphics API Debugger
 - [bigwhite/gocmpp](https://github.com/bigwhite/gocmpp) - An implementation of China Mobile Peer to Peer protocol in golang for both client and server sides.
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
-- [hacklcx/HFish](https://github.com/hacklcx/HFish) - 🍯 A Most Convenient Honeypot Platform.  🐝🐝🐝 🐝🐝
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - [jung-kurt/gofpdf](https://github.com/jung-kurt/gofpdf) - A PDF document generator with high level support for text, drawing and images
 - [GoogleCloudPlatform/golang-samples](https://github.com/GoogleCloudPlatform/golang-samples) - Sample apps and code written for Google Cloud in the Go programming language.
@@ -959,7 +958,7 @@
 - [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go
 - [home-assistant/cli](https://github.com/home-assistant/cli) - :white_square_button: Home Assistant command line interface
 - [goki/gi](https://github.com/goki/gi) - Native Go (golang) Graphical Interface system (2D and 3D), built on GoKi tree framework
-- [writefreely/writefreely](https://github.com/writefreely/writefreely) - Simple blogging platform made just for writers. Write together, and build a community.
+- [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, minimalist publishing platform made for writers. Write together, and build a community.
 - [33cn/chain33](https://github.com/33cn/chain33) - 高度模块化, 遵循 KISS原则的区块链开发框架
 - [chanwit/vuego](https://github.com/chanwit/vuego) - 
 - [google/logger](https://github.com/google/logger) - Cross platform Go logging library.
@@ -2599,6 +2598,7 @@
 - [widuu/chinese_docker](https://github.com/widuu/chinese_docker) - docker中文文档，docker Chinese Documation
 - [pietrzakadrian/bank](https://github.com/pietrzakadrian/bank) - 🏦 Full Stack Web Application similar to financial software that is used in banking institutions | React.js and Node.js
 - [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
+- [hacklcx/HFish](https://github.com/hacklcx/HFish) - 🍯 A Most Convenient Honeypot Platform.  🐝🐝🐝 🐝🐝
 - [Vay-keen/Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes) - 周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [qq449245884/xiaozhi](https://github.com/qq449245884/xiaozhi) - 
@@ -2831,6 +2831,8 @@
 
 ## Python 
 
+- [PiotrMachowski/Xiaomi-cloud-tokens-extractor](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor) - This tool/script retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices.
+- [zhongzhi107/raspberry-pi-tutorials](https://github.com/zhongzhi107/raspberry-pi-tutorials) - 面向软件工程师的树莓派入门教程
 - [Yonsm/.homeassistant](https://github.com/Yonsm/.homeassistant) - Home Assistant Extras for Yonsm
 - [goooooouwa/news2kindle](https://github.com/goooooouwa/news2kindle) - A docker containter that pulls your favourite RSS feeds, converts to MOBI, then whipersync to Kindle
 - [frappe/erpnext](https://github.com/frappe/erpnext) - World's best free and open source ERP.
@@ -3080,6 +3082,7 @@
 
 ## Rust 
 
+- [sgbasaraner/yeelight-cli](https://github.com/sgbasaraner/yeelight-cli) - a low level, cross-platform command line client for Yeelight
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open source remote desktop client software
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
@@ -3186,6 +3189,7 @@
 
 ## Swift 
 
+- [zhxnlai/ZLSwipeableViewSwift](https://github.com/zhxnlai/ZLSwipeableViewSwift) - A simple view for building card like interface inspired by Tinder and Potluck.
 - [benjaminmayo/merchantkit](https://github.com/benjaminmayo/merchantkit) - A modern In-App Purchases management framework for iOS.
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - The macOS color picker as an app with more features
