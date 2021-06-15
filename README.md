@@ -325,6 +325,8 @@
 
 ## Go 
 
+- [harranali/authority](https://github.com/harranali/authority) - Role Based Access Control (RBAC) with database persistence
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [marmotedu/iam](https://github.com/marmotedu/iam) - 极客时间《Go 语言项目开发实战》教学项目
 - [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [naiba/nezha](https://github.com/naiba/nezha) - :trollface: 哪吒监控 一站式轻监控轻运维系统。支持系统状态、HTTP、TCP、Ping 监控报警，命令批量执行和计划任务。
@@ -1382,6 +1384,7 @@
 
 ## JavaScript 
 
+- [purplebamboo/font-carrier](https://github.com/purplebamboo/font-carrier) - font-carrier是一个功能强大的字体操作库，使用它你可以随心所欲的操作字体。让你可以在svg的维度改造字体的展现形状。
 - [nefe/number-precision](https://github.com/nefe/number-precision) - 🚀1K tiny & fast lib for doing addition, subtraction, multiplication and division operations precisely
 - [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
@@ -1451,7 +1454,7 @@
 - [sanyuered/WeChat-MiniProgram-AR-3D](https://github.com/sanyuered/WeChat-MiniProgram-AR-3D) - A WeChat MiniProgram 3D that includes a Panorama Viewer and a 3D Viewer using the device orientation control.
 - [pmndrs/react-xr](https://github.com/pmndrs/react-xr) - 🤳 VR/AR with react-three-fiber
 - [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
-- [qianguyihao/Web](https://github.com/qianguyihao/Web) - 前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
+- [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
 - [architect/architect](https://github.com/architect/architect) - The simplest, most powerful way to build serverless applications
 - [Rich-Harris/code-red](https://github.com/Rich-Harris/code-red) - Experimental toolkit for writing x-to-JavaScript compilers
 - [Privoce/Portal-Lite](https://github.com/Privoce/Portal-Lite) - Multi-platform Personalized Portal: Web, Browser Extension. All components are web apps--users can compose their own Portal freely, and developers can contribute to the Privoce Web App library to easily incorporate their web app to our Portal.
@@ -2599,7 +2602,7 @@
 - [widuu/chinese_docker](https://github.com/widuu/chinese_docker) - docker中文文档，docker Chinese Documation
 - [pietrzakadrian/bank](https://github.com/pietrzakadrian/bank) - 🏦 Full Stack Web Application similar to financial software that is used in banking institutions | React.js and Node.js
 - [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
-- [hacklcx/HFish](https://github.com/hacklcx/HFish) - 🍯 A Most Convenient Honeypot Platform.  🐝🐝🐝 🐝🐝
+- [hacklcx/HFish](https://github.com/hacklcx/HFish) - 安全、可靠、简单、免费的企业级蜜罐
 - [Vay-keen/Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes) - 周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [qq449245884/xiaozhi](https://github.com/qq449245884/xiaozhi) - 
@@ -3363,7 +3366,7 @@
 - [karanpratapsingh/fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit) - GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
 - [iamvucms/react-native-instagram-clone](https://github.com/iamvucms/react-native-instagram-clone) - A React Native app - Clone Instagram mobile app
 - [google/model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR!
-- [steveruizok/perfect-arrows](https://github.com/steveruizok/perfect-arrows) - A set of minimal functions for drawing perfect arrows between points and shapes.
+- [steveruizok/perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
 - [HcySunYang/vue-next-jsx](https://github.com/HcySunYang/vue-next-jsx) - A babel plugin that provides jsx syntax for vue3
 - [AlloyTeam/alloy-worker](https://github.com/AlloyTeam/alloy-worker) - 面向事务的高可用 Web Worker 通信框架
 - [egoist/graphql-api-starter](https://github.com/egoist/graphql-api-starter) - GraphQL API starter.
@@ -3711,6 +3714,7 @@
 
 ## Vue 
 
+- [bawangxx/XZVoice](https://github.com/bawangxx/XZVoice) - Free and open source text-to-speech software
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [probil/vue-moveable](https://github.com/probil/vue-moveable) - ↔️ ↕️ 🔄  Vue.js wrapper for Moveable
 - [jojo-Lei/wx-page-builder](https://github.com/jojo-Lei/wx-page-builder) - Weixin page builder ，微信活动页搭建
