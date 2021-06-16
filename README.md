@@ -565,7 +565,7 @@
 - [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
 - [giorgisio/goav](https://github.com/giorgisio/goav) - Golang bindings for FFmpeg
 - [dchest/captcha](https://github.com/dchest/captcha) - Go package captcha implements generation and verification of image and audio CAPTCHAs.
-- [mojocn/base64Captcha](https://github.com/mojocn/base64Captcha) - captcha of base64 and diversity
+- [mojocn/base64Captcha](https://github.com/mojocn/base64Captcha) - captcha of base64 image string
 - [docker/swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
@@ -2465,7 +2465,6 @@
 ## Objective-C 
 
 - [hanks/HHKBAssistant_for_mac](https://github.com/hanks/HHKBAssistant_for_mac) - A funny helper tool for HHKB professional keyboard on mac. Its main job is that it can auto detect the HHKB professional keyboard plugged in and out, and do some actions you want.
-- [MustangYM/WeChatSeptet-ForMac](https://github.com/MustangYM/WeChatSeptet-ForMac) - 简版Mac微信小助手
 - [weidian-inc/hera](https://github.com/weidian-inc/hera) - A framework for running WeChat applet. （小程序 SDK，小程序转 H5，小程序转安卓、iOS 原生应用、小程序渲染引擎）
 - [tanin47/tip](https://github.com/tanin47/tip) - Programmable tooltip that can be used with any Mac OS app
 - [Cenmrev/V2RayX](https://github.com/Cenmrev/V2RayX) - GUI for v2ray-core on macOS
@@ -2516,6 +2515,7 @@
 - [Olshansk/interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview
 - [tal-tech/zero-doc](https://github.com/tal-tech/zero-doc) - The docs for go-zero
 - [BetterTuring/HappyHackingCalendar](https://github.com/BetterTuring/HappyHackingCalendar) - 黑客专属日历
+- [MustangYM/WeChatSeptet-ForMac](https://github.com/MustangYM/WeChatSeptet-ForMac) - 简版Mac微信小助手
 - [moxcomic/majsoul-ex](https://github.com/moxcomic/majsoul-ex) - 支持全平台的第三方雀魂客户端, 支持安装自定义扩展
 - [geerlingguy/pi-webcam](https://github.com/geerlingguy/pi-webcam) - Automation to configure a Raspberry Pi as a USB OTG webcam
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
@@ -3099,7 +3099,6 @@
 - [redox-os/orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit.
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [hecrj/iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -3183,7 +3182,7 @@
 - [busterc/osx-iso](https://github.com/busterc/osx-iso) -  Create a bootable ISO of OS X / macOS, from the installation app file
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [obihann/archey-osx](https://github.com/obihann/archey-osx) - An archey script clone for OS X
 - [viljoviitanen/setup-simple-pptp-vpn](https://github.com/viljoviitanen/setup-simple-pptp-vpn) - This is a very old repo, and a script that used to work years ago. Please find a newer vpn setup.
 
@@ -3282,6 +3281,7 @@
 
 ## TypeScript 
 
+- [tal-tech/electron-playground](https://github.com/tal-tech/electron-playground) - This is a project to quickly experiment and learn electron related APIs
 - [egoist/usermatters](https://github.com/egoist/usermatters) - User Matters helps you collect customer feedbacks effortlessly.
 - [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.
 - [millionjs/million](https://github.com/millionjs/million) - 🌈 &lt;1kb virtual DOM - it's fast!
@@ -3461,6 +3461,7 @@
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [BoostIO/BoostNote.next](https://github.com/BoostIO/BoostNote.next) - Boost Note is a powerful, lightspeed collaborative workspace for developer teams.
 - [jeffrafter/sign-action](https://github.com/jeffrafter/sign-action) - A GitHub Action which allows users to reply to an issue with a comment to sign a petition.
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [expo/expo-cli](https://github.com/expo/expo-cli) - Tools for creating, running, and deploying universal Expo and React Native apps
 - [mui-org/material-ui-pickers](https://github.com/mui-org/material-ui-pickers) - Date & Time pickers, built with ❤️ for @material-ui/core
 - [stream-labs/streamlabs-obs](https://github.com/stream-labs/streamlabs-obs) - Free and open source streaming software built on OBS and Electron.
@@ -3740,7 +3741,7 @@
 - [hinesboy/mavonEditor](https://github.com/hinesboy/mavonEditor) - mavonEditor - A markdown editor based on Vue that supports a variety of personalized features
 - [niefy/wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
 - [rowanwins/vue-dropzone](https://github.com/rowanwins/vue-dropzone) - A Vue.js component for Dropzone.js - a drag’n’drop file uploads utility with image previews
-- [vuejs/docs-next](https://github.com/vuejs/docs-next) - Vue 3 core documentation
+- [vuejs/docs](https://github.com/vuejs/docs) - Vue 3 core documentation
 - [stavyan/TinyShop-UniApp](https://github.com/stavyan/TinyShop-UniApp) - 基于 RageFrame2 的一款免费开源的基础商城销售功能的开源微商城。
 - [coderwhy/HYMall](https://github.com/coderwhy/HYMall) - A vue.js mall application.
 - [topfullstack/node-vue-moba](https://github.com/topfullstack/node-vue-moba) - Node.js (Express.js) + Vue.js (Element UI) 全栈开发王者荣耀手机端官网和管理后台
