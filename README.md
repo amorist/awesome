@@ -1385,6 +1385,8 @@
 
 ## JavaScript 
 
+- [ant-design/ant-motion](https://github.com/ant-design/ant-motion) - :bicyclist: Animate specification and components of Ant Design
+- [ant-motion/ant-design-3.x-landing-page](https://github.com/ant-motion/ant-design-3.x-landing-page) - ant design 3.x landing page
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [LuckDraw/mini-luck-draw](https://github.com/LuckDraw/mini-luck-draw) - 🍁🍁🍁 微信小程序原生组件 :【大转盘 / 九宫格】抽奖，🚧 目前图片引入只支持（base64图片 / 网络图片）
 - [purplebamboo/font-carrier](https://github.com/purplebamboo/font-carrier) - font-carrier是一个功能强大的字体操作库，使用它你可以随心所欲的操作字体。让你可以在svg的维度改造字体的展现形状。
@@ -2840,6 +2842,7 @@
 
 ## Python 
 
+- [peng-zhihui/GitHubLottery](https://github.com/peng-zhihui/GitHubLottery) - 我发布的一些开源项目福利环节的GitHub抽奖程序
 - [PiotrMachowski/Xiaomi-cloud-tokens-extractor](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor) - This tool/script retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices.
 - [zhongzhi107/raspberry-pi-tutorials](https://github.com/zhongzhi107/raspberry-pi-tutorials) - 面向软件工程师的树莓派入门教程
 - [Yonsm/.homeassistant](https://github.com/Yonsm/.homeassistant) - Home Assistant Extras for Yonsm
@@ -3334,7 +3337,7 @@
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [scniro/react-codemirror2](https://github.com/scniro/react-codemirror2) - Codemirror integrated components for React
-- [SoftwareBrothers/admin-bro](https://github.com/SoftwareBrothers/admin-bro) - AdminBro is an admin panel for apps written in node.js
+- [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminBro is an admin panel for apps written in node.js
 - [vercel/static-fun](https://github.com/vercel/static-fun) - A fun demo for wildcard domains
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [oznu/homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x) - The Homebridge UI. Monitor, configure and backup Homebridge from a browser.
