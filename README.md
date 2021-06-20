@@ -131,6 +131,7 @@
 
 ## C++ 
 
+- [Kitt-AI/snowboy](https://github.com/Kitt-AI/snowboy) - Future versions with model training module will be maintained through a forked version here: https://github.com/seasalt-ai/snowboy
 - [dresden-elektronik/deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin) - deCONZ REST-API plugin to control ZigBee devices
 - [zhujisheng/Home-Assistant-DIY](https://github.com/zhujisheng/Home-Assistant-DIY) - Home Assistant智能家居实践篇
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
@@ -191,6 +192,7 @@
 
 ## CSS 
 
+- [thatoranzhevyy/slidev-theme-zhozhoba](https://github.com/thatoranzhevyy/slidev-theme-zhozhoba) - A zhozhoba theme for Slidev.
 - [vincent4j/weixin-paiban](https://github.com/vincent4j/weixin-paiban) - 微信公众号文章自动化一键排版
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [developedbyed/glass-website](https://github.com/developedbyed/glass-website) - 
@@ -325,6 +327,14 @@
 
 ## Go 
 
+- [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
+- [n0vad3v/g2ww](https://github.com/n0vad3v/g2ww) - Proxy Grafana Webhook alert to WeChat Work.
+- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
+- [AllenDang/giu](https://github.com/AllenDang/giu) - Cross platform rapid GUI framework for golang based on Dear ImGui.
+- [dnaeon/go-vcr](https://github.com/dnaeon/go-vcr) - Record and replay your HTTP interactions for fast, deterministic and accurate tests
+- [suifengqjn/videoWater](https://github.com/suifengqjn/videoWater) - 视频批量处理, 码率设置, 格式转换, 添加字幕, 添加水印, 文字跑马灯, 去除水印, 修改分辨率, 视频剪裁, 倍速播放, 视频分段, 视频合成, 视频镜像, 背景音乐, 插入背景图片, 视频高斯模糊, 模糊拓边, 画中画,字幕,翻译,影视解说,影视混剪,抖音带货,视频全自动剪辑,视频批量剪辑
+- [suifengqjn/videoMaker](https://github.com/suifengqjn/videoMaker) - AI视频工厂，通过关键词即可批量制作原创视频
+- [brentnd/go-snowboy](https://github.com/brentnd/go-snowboy) - Go wrapper for Kitt-AI's snowboy audio detection library.
 - [xxjwxc/public](https://github.com/xxjwxc/public) - util toolkit for go.golang 通用函数包
 - [harranali/authority](https://github.com/harranali/authority) - Role Based Access Control (RBAC) with database persistence
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
@@ -511,7 +521,7 @@
 - [alibaba/sentinel-golang](https://github.com/alibaba/sentinel-golang) - Sentinel Go version (Reliability & Resilience)
 - [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/凹语言)
 - [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go) - Nacos client in Golang
-- [zouyx/agollo](https://github.com/zouyx/agollo) - 🚀Go client for ctrip/apollo (https://github.com/ctripcorp/apollo)
+- [apolloconfig/agollo](https://github.com/apolloconfig/agollo) - 🚀Go client for ctrip/apollo (https://github.com/ctripcorp/apollo)
 - [xinjiayu/ms-weather](https://github.com/xinjiayu/ms-weather) - 天气预报API数据代理服务
 - [golang/appengine](https://github.com/golang/appengine) - Go App Engine packages
 - [mbertschler/dragon-iss-docking-autopilot](https://github.com/mbertschler/dragon-iss-docking-autopilot) - Autopilot in Go for docking the SpaceX Dragon capsule in the simulator
@@ -1385,6 +1395,8 @@
 
 ## JavaScript 
 
+- [ant-motion/experience-cloud-landing-page](https://github.com/ant-motion/experience-cloud-landing-page) - 体验云的 landing page
+- [webfansplz/volute](https://github.com/webfansplz/volute) - Raspberry Pi + Nodejs = Speech Robot
 - [ant-design/ant-motion](https://github.com/ant-design/ant-motion) - :bicyclist: Animate specification and components of Ant Design
 - [ant-motion/ant-design-3.x-landing-page](https://github.com/ant-motion/ant-design-3.x-landing-page) - ant design 3.x landing page
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
@@ -2498,6 +2510,7 @@
 
 ## Others 
 
+- [ixaxaar/awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management) - Pointers for learning and day-to-day practice of engineering management & leadership.
 - [vercel/art](https://github.com/vercel/art) - Public branding assets for ZEIT's products
 - [fancylife/awesome-free-saas](https://github.com/fancylife/awesome-free-saas) - an awesome list of  free SaaS (software as a service) for you. 一份很棒的免费SaaS（软件即服务）清单。
 - [dvgodoy/dl-visuals](https://github.com/dvgodoy/dl-visuals) - Over 200 figures and diagrams of the most popular deep learning architectures and layers FREE TO USE in your blog posts, slides, presentations, or papers.
@@ -2842,6 +2855,11 @@
 
 ## Python 
 
+- [facebookresearch/pytorchvideo](https://github.com/facebookresearch/pytorchvideo) - A deep learning library for video understanding research.
+- [EssayKillerBrain/EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
+- [facebookresearch/AugLy](https://github.com/facebookresearch/AugLy) - A data augmentations library for audio, image, text, and video.
+- [seasalt-ai/snowboy](https://github.com/seasalt-ai/snowboy) - DNN based hotword and wake word detection toolkit (model generation included)
+- [respeaker/mic_hat](https://github.com/respeaker/mic_hat) - 2 Mic Array for Raspberry Pi
 - [peng-zhihui/GitHubLottery](https://github.com/peng-zhihui/GitHubLottery) - 我发布的一些开源项目福利环节的GitHub抽奖程序
 - [PiotrMachowski/Xiaomi-cloud-tokens-extractor](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor) - This tool/script retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices.
 - [zhongzhi107/raspberry-pi-tutorials](https://github.com/zhongzhi107/raspberry-pi-tutorials) - 面向软件工程师的树莓派入门教程
@@ -3289,6 +3307,8 @@
 
 ## TypeScript 
 
+- [google/gts](https://github.com/google/gts) - ☂️ TypeScript style guide, formatter, and linter.
+- [cozmo/jsQR](https://github.com/cozmo/jsQR) - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
 - [tal-tech/electron-playground](https://github.com/tal-tech/electron-playground) - This is a project to quickly experiment and learn electron related APIs
 - [egoist/usermatters](https://github.com/egoist/usermatters) - User Matters helps you collect customer feedbacks effortlessly.
 - [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.
@@ -3722,6 +3742,7 @@
 
 ## Vue 
 
+- [alvarosaburido/slidev-theme-penguin](https://github.com/alvarosaburido/slidev-theme-penguin) - A Penguin 🐧   theme for Slidev
 - [bawangxx/XZVoice](https://github.com/bawangxx/XZVoice) - Free and open source text-to-speech software
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [probil/vue-moveable](https://github.com/probil/vue-moveable) - ↔️ ↕️ 🔄  Vue.js wrapper for Moveable
