@@ -18,6 +18,7 @@
   - [Dockerfile](#dockerfile)
   - [EJS](#ejs)
   - [Eagle](#eagle)
+  - [Elixir](#elixir)
   - [Elm](#elm)
   - [FreeMarker](#freemarker)
   - [Gnuplot](#gnuplot)
@@ -192,6 +193,7 @@
 
 ## CSS 
 
+- [creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [thatoranzhevyy/slidev-theme-zhozhoba](https://github.com/thatoranzhevyy/slidev-theme-zhozhoba) - A zhozhoba theme for Slidev.
 - [vincent4j/weixin-paiban](https://github.com/vincent4j/weixin-paiban) - 微信公众号文章自动化一键排版
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
@@ -313,6 +315,10 @@
 
 - [awende/Cherry_MX_Keyboard](https://github.com/awende/Cherry_MX_Keyboard) - A custom 4x4 keyboard plus two rotary encoders
 
+## Elixir 
+
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+
 ## Elm 
 
 - [jfairbank/programming-elm.com](https://github.com/jfairbank/programming-elm.com) - Source for programming-elm.com
@@ -327,6 +333,7 @@
 
 ## Go 
 
+- [ddelizia/saasaas](https://github.com/ddelizia/saasaas) - SaaS as a Service Boilerplate
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [n0vad3v/g2ww](https://github.com/n0vad3v/g2ww) - Proxy Grafana Webhook alert to WeChat Work.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
@@ -412,7 +419,7 @@
 - [samitpal/simple-sso](https://github.com/samitpal/simple-sso) - Single sign on service with authorization capabilities written in Go (aka golang).
 - [rs/cors](https://github.com/rs/cors) - Go net/http configurable handler to handle CORS requests
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and many more 🚀 It's completely configurable and 100% cross-platform compatible.
-- [cnbattle/douyin](https://github.com/cnbattle/douyin) - 抖音推荐列表视频爬虫方案,基于app(虚拟机或真机) 相关技术 golang adb
+- [cnbattle/douyin](https://github.com/cnbattle/douyin) - 抖音推荐/搜索页视频列表视频爬虫方案,基于app(虚拟机或真机) 相关技术 golang adb
 - [stack-labs/stack](https://github.com/stack-labs/stack) - Edge-Network dev framework
 - [getlantern/systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
 - [bitepeng/b0pass](https://github.com/bitepeng/b0pass) - 百灵快传：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
@@ -1229,6 +1236,8 @@
 
 ## HTML 
 
+- [mhaecal/skilline-landing-page](https://github.com/mhaecal/skilline-landing-page) - Free landing page template built on top of Tailwind CSS
+- [michelegera/tailwindcss-open-template](https://github.com/michelegera/tailwindcss-open-template) - 🛬 An implementation of the “Open” landing page template using Tailwind CSS Boilerplate.
 - [ganlanyuan/tiny-slider](https://github.com/ganlanyuan/tiny-slider) - Vanilla javascript slider for all purposes.
 - [brucewar/svg-tutorial](https://github.com/brucewar/svg-tutorial) - SVG教程的翻译版 - http://brucewar.gitbooks.io/svg-tutorial
 - [jasonlong/jasonlong](https://github.com/jasonlong/jasonlong) - 
@@ -1337,7 +1346,7 @@
 - [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🚀 零代码、热更新、自动化 ORM 库，后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
 - [fuzhengwei/itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design) - :art: 《重学Java设计模式》是一本互联网真实案例实践书籍。以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。欢迎关注小傅哥，微信(fustack)，公众号：bugstack虫洞栈，博客：https://bugstack.cn
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Enterprise Single Sign On for all earthlings and beyond.
-- [dromara/sa-token](https://github.com/dromara/sa-token) - 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
+- [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
 - [zhangdaiscott/jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) - 「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding-&gt;代码生成-&gt;手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [niefy/wx-api](https://github.com/niefy/wx-api) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
@@ -1395,6 +1404,8 @@
 
 ## JavaScript 
 
+- [maizzle/framework](https://github.com/maizzle/framework) - HTML email development framework.
+- [naufaldi/next-landing-vpn](https://github.com/naufaldi/next-landing-vpn) - An Open Source Landingpage For VPN or Apps. Build using NextJS 10 and Tailwind v2.0
 - [ant-motion/experience-cloud-landing-page](https://github.com/ant-motion/experience-cloud-landing-page) - 体验云的 landing page
 - [webfansplz/volute](https://github.com/webfansplz/volute) - Raspberry Pi + Nodejs = Speech Robot
 - [ant-design/ant-motion](https://github.com/ant-design/ant-motion) - :bicyclist: Animate specification and components of Ant Design
@@ -2510,6 +2521,7 @@
 
 ## Others 
 
+- [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [ixaxaar/awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management) - Pointers for learning and day-to-day practice of engineering management & leadership.
 - [vercel/art](https://github.com/vercel/art) - Public branding assets for ZEIT's products
 - [fancylife/awesome-free-saas](https://github.com/fancylife/awesome-free-saas) - an awesome list of  free SaaS (software as a service) for you. 一份很棒的免费SaaS（软件即服务）清单。
@@ -2816,6 +2828,7 @@
 
 ## PHP 
 
+- [iluminar/goodwork](https://github.com/iluminar/goodwork) - Self hosted project management and collaboration tool powered by TALL stack
 - [nxez/pi-dashboard](https://github.com/nxez/pi-dashboard) - A WebUI dashboard for IoT devices likes raspberry pi.
 - [mochat-cloud/mochat](https://github.com/mochat-cloud/mochat) - 基于企业微信的开源SCRM应用开发框架&引擎，也是一套通用的企业私域流量管理系统!
 - [chaituan/fanqie_shop](https://github.com/chaituan/fanqie_shop) - 番茄社区多门店是一款帮助多商家线上盈利的工具，可做社区门店，也可以做社区团购，还可以做自营连锁店，内含小程序和公众号两个端，同一个后台管理。
@@ -3307,6 +3320,13 @@
 
 ## TypeScript 
 
+- [nuxt-community/tailwindcss-module](https://github.com/nuxt-community/tailwindcss-module) - Tailwind CSS module for Nuxt
+- [trungk18/jira-clone-angular](https://github.com/trungk18/jira-clone-angular) - A simplified Jira clone built with Angular, ng-zorro and Akita
+- [saasify-sh/synopsis](https://github.com/saasify-sh/synopsis) - Automagical summarization for webpages and articles. 🔥
+- [chrisvxd/og-impact](https://github.com/chrisvxd/og-impact) - A free API for generating social media images
+- [graphile/starter](https://github.com/graphile/starter) - Opinionated SaaS quick-start with pre-built user account and organization system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, Apollo Client, Graphile Worker, Graphile Migrate, GraphQL Code Generator, Ant Design and Next.js
+- [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
+- [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [google/gts](https://github.com/google/gts) - ☂️ TypeScript style guide, formatter, and linter.
 - [cozmo/jsQR](https://github.com/cozmo/jsQR) - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
 - [tal-tech/electron-playground](https://github.com/tal-tech/electron-playground) - This is a project to quickly experiment and learn electron related APIs
