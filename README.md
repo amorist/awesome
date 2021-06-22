@@ -333,6 +333,7 @@
 
 ## Go 
 
+- [zhangshuai/douyin-go](https://github.com/zhangshuai/douyin-go) - 抖音Open API
 - [ddelizia/saasaas](https://github.com/ddelizia/saasaas) - SaaS as a Service Boilerplate
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [n0vad3v/g2ww](https://github.com/n0vad3v/g2ww) - Proxy Grafana Webhook alert to WeChat Work.
@@ -2404,6 +2405,7 @@
 
 ## Jupyter Notebook 
 
+- [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
 - [jpmorganchase/python-training](https://github.com/jpmorganchase/python-training) - Python training for business analysts and traders
 - [wangshub/RL-Stock](https://github.com/wangshub/RL-Stock) - 📈 如何用深度强化学习自动炒股
@@ -2522,7 +2524,7 @@
 ## Others 
 
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
-- [ixaxaar/awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management) - Pointers for learning and day-to-day practice of engineering management & leadership.
+- [ixaxaar/awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 - [vercel/art](https://github.com/vercel/art) - Public branding assets for ZEIT's products
 - [fancylife/awesome-free-saas](https://github.com/fancylife/awesome-free-saas) - an awesome list of  free SaaS (software as a service) for you. 一份很棒的免费SaaS（软件即服务）清单。
 - [dvgodoy/dl-visuals](https://github.com/dvgodoy/dl-visuals) - Over 200 figures and diagrams of the most popular deep learning architectures and layers FREE TO USE in your blog posts, slides, presentations, or papers.
@@ -2868,6 +2870,7 @@
 
 ## Python 
 
+- [grayddq/GScan](https://github.com/grayddq/GScan) - 本程序旨在为安全应急响应人员对Linux主机排查时提供便利，实现主机侧Checklist的自动全面化检测，根据检测结果自动数据聚合，进行黑客攻击路径溯源。
 - [facebookresearch/pytorchvideo](https://github.com/facebookresearch/pytorchvideo) - A deep learning library for video understanding research.
 - [EssayKillerBrain/EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
 - [facebookresearch/AugLy](https://github.com/facebookresearch/AugLy) - A data augmentations library for audio, image, text, and video.
