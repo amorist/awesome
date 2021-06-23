@@ -333,6 +333,10 @@
 
 ## Go 
 
+- [hajimehoshi/go-mp3](https://github.com/hajimehoshi/go-mp3) - An MP3 decoder in pure Go
+- [TencentCloud/tencentcloud-sdk-go](https://github.com/TencentCloud/tencentcloud-sdk-go) - Tencent Cloud API 3.0 SDK for Golang
+- [leoython/text-to-video](https://github.com/leoython/text-to-video) - 知乎文章转视频的实现(乞丐版)
+- [wxbool/video-srt-windows](https://github.com/wxbool/video-srt-windows) - 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。
 - [zhangshuai/douyin-go](https://github.com/zhangshuai/douyin-go) - 抖音Open API
 - [ddelizia/saasaas](https://github.com/ddelizia/saasaas) - SaaS as a Service Boilerplate
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
@@ -1758,7 +1762,6 @@
 - [ian13456/mc.js](https://github.com/ian13456/mc.js) - Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS.
 - [ricklamers/gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
 - [Wscats/piano](https://github.com/Wscats/piano) - 🎹用键盘8个键演奏一首蒲公英的约定送给自己或月亮代表我的心送给她
-- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [ramiel/mongoose-sequence](https://github.com/ramiel/mongoose-sequence) - Sequence and autoincrement handling for mongoose
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
@@ -2405,6 +2408,7 @@
 
 ## Jupyter Notebook 
 
+- [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Python, and Java.
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
 - [jpmorganchase/python-training](https://github.com/jpmorganchase/python-training) - Python training for business analysts and traders
@@ -2870,6 +2874,15 @@
 
 ## Python 
 
+- [hankcs/pyhanlp](https://github.com/hankcs/pyhanlp) - 中文分词 词性标注 命名实体识别 依存句法分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁 自然语言处理
+- [asyml/texar](https://github.com/asyml/texar) - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow.  This is part of the CASL project: http://casl-project.ai/
+- [liuhuanyong/ComplexEventExtraction](https://github.com/liuhuanyong/ComplexEventExtraction) - A concept and obvious expression pattern collection of Chinese compound event extraction which then be evolved into ComplexEventGraph，本项目提出了中文复合事件的概念与显式模式，包括条件事件、因果事件、顺承事件、反转事件等事件抽取，并形成事理图谱。
+- [wmathor/Rubbish-Video-Generator](https://github.com/wmathor/Rubbish-Video-Generator) - 营销号视频生成器
+- [flavioribeiro/video-thumbnail-generator](https://github.com/flavioribeiro/video-thumbnail-generator) - :camera: Generate thumbnail sprites from videos.
+- [prannayk/videoMultiGAN](https://github.com/prannayk/videoMultiGAN) - End to End learning for Video Generation from Text
+- [DinoMan/speech-driven-animation](https://github.com/DinoMan/speech-driven-animation) - 
+- [YaoFANGUK/video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor) - 视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle from videos and generating srt files.
+- [kwai/DouZero](https://github.com/kwai/DouZero) - [ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI
 - [grayddq/GScan](https://github.com/grayddq/GScan) - 本程序旨在为安全应急响应人员对Linux主机排查时提供便利，实现主机侧Checklist的自动全面化检测，根据检测结果自动数据聚合，进行黑客攻击路径溯源。
 - [facebookresearch/pytorchvideo](https://github.com/facebookresearch/pytorchvideo) - A deep learning library for video understanding research.
 - [EssayKillerBrain/EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
@@ -3757,6 +3770,7 @@
 
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [crper/yapi-docker](https://github.com/crper/yapi-docker) - 使用docker构建yapi容器
+- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
