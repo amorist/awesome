@@ -1413,9 +1413,11 @@
 
 ## JavaScript 
 
+- [nieyangyang712/WeChat-APP-Demos](https://github.com/nieyangyang712/WeChat-APP-Demos) - 微信小程序案例库，目前有120多个涵盖各个应用场景的微信小程序源码。
+- [Data-Camp/WeApp_Demos](https://github.com/Data-Camp/WeApp_Demos) - 持续更新中的微信小程序和小游戏的源码案例库。目前涵盖了120多个微信小程序或小游戏。
 - [shaynet10/puppeteer-video-recorder](https://github.com/shaynet10/puppeteer-video-recorder) - 
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
-- [maizzle/framework](https://github.com/maizzle/framework) - HTML email development framework.
+- [maizzle/framework](https://github.com/maizzle/framework) - Quickly build HTML emails with Tailwind CSS.
 - [naufaldi/next-landing-vpn](https://github.com/naufaldi/next-landing-vpn) - An Open Source Landingpage For VPN or Apps. Build using NextJS 10 and Tailwind v2.0
 - [ant-motion/experience-cloud-landing-page](https://github.com/ant-motion/experience-cloud-landing-page) - 体验云的 landing page
 - [webfansplz/volute](https://github.com/webfansplz/volute) - Raspberry Pi + Nodejs = Speech Robot
@@ -2865,7 +2867,7 @@
 
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [gtworek/PSBits](https://github.com/gtworek/PSBits) - Simple (relatively) things allowing you to dig a bit deeper than usual.
-- [AliyunContainerService/k8s-for-docker-desktop](https://github.com/AliyunContainerService/k8s-for-docker-desktop) - 为Docker Desktop for Mac/Windows开启Kubernetes和Istio。M1芯片Mac用户请切换v1.19.7分支
+- [AliyunContainerService/k8s-for-docker-desktop](https://github.com/AliyunContainerService/k8s-for-docker-desktop) - 为Docker Desktop for Mac/Windows开启Kubernetes和Istio。
 - [hotvulcan/Thanos.sh](https://github.com/hotvulcan/Thanos.sh) - if you are Thanos(root), this command could delete half your files randomly
 - [denoland/deno_install](https://github.com/denoland/deno_install) - Deno Binary Installer
 
@@ -3344,6 +3346,7 @@
 
 ## TypeScript 
 
+- [reach/reach-ui](https://github.com/reach/reach-ui) - The Accessible Foundation for React Apps and Design Systems
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [nuxt-community/tailwindcss-module](https://github.com/nuxt-community/tailwindcss-module) - Tailwind CSS module for Nuxt
 - [trungk18/jira-clone-angular](https://github.com/trungk18/jira-clone-angular) - A simplified Jira clone built with Angular, ng-zorro and Akita
