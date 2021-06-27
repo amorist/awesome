@@ -81,7 +81,7 @@
 - [cmusphinx/pocketsphinx](https://github.com/cmusphinx/pocketsphinx) - PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop
 - [peng-zhihui/HDMI-PI](https://github.com/peng-zhihui/HDMI-PI) - 我设计的一个HDMI转MIPI模块，可以用于驱动各种手机屏幕当显示器用。
 - [kn007/silk-v3-decoder](https://github.com/kn007/silk-v3-decoder) - [Skype Silk Codec SDK]Decode silk v3 audio files (like wechat amr, aud files, qq slk files) and convert to other format (like mp3). Batch conversion support.
-- [augmentable-dev/askgit](https://github.com/augmentable-dev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
+- [askgitdev/askgit](https://github.com/askgitdev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [n64decomp/sm64](https://github.com/n64decomp/sm64) - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
 - [arut/nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
@@ -260,6 +260,7 @@
 
 ## CoffeeScript 
 
+- [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [Pagedraw/pagedraw](https://github.com/Pagedraw/pagedraw) - a UI builder for React web apps
 - [ichord/At.js](https://github.com/ichord/At.js) - Add Github like mentions autocomplete to your application.
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
@@ -333,6 +334,7 @@
 
 ## Go 
 
+- [2637309949/dolphin](https://github.com/2637309949/dolphin) - Automated code tool for Golang
 - [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [wxbool/video-srt](https://github.com/wxbool/video-srt) - 这是一个可以识别视频语音自动生成字幕SRT文件的开源命令行工具。
 - [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
@@ -1413,6 +1415,9 @@
 
 ## JavaScript 
 
+- [zgh0711/vue-template-mobile](https://github.com/zgh0711/vue-template-mobile) - Vue 移动端新项目模板，封装了 H5 项目开发中一些比较常用的功能，比如：微信授权及分享、axios 封装、移动端 vw 适配、UI 组件库等等。使用时只需把项目 clone 下来，按照文档稍作修改即可直接进行业务开发。
+- [annshuMei/vue-h5](https://github.com/annshuMei/vue-h5) - 开发适配手机、平板电脑H5项目模板 vue-cli4.0+（eslin、prettier）使用指南+VantUi+sass+rem+axios封装+vue-router+vuex模块化  文档指导开发适配手机、平板电脑方案  swiper 动态导航 二级镶嵌封装
+- [clipisode/puppeteer-recorder](https://github.com/clipisode/puppeteer-recorder) - Record animations using puppeteer. Based on electron-recorder.
 - [nieyangyang712/WeChat-APP-Demos](https://github.com/nieyangyang712/WeChat-APP-Demos) - 微信小程序案例库，目前有120多个涵盖各个应用场景的微信小程序源码。
 - [Data-Camp/WeApp_Demos](https://github.com/Data-Camp/WeApp_Demos) - 持续更新中的微信小程序和小游戏的源码案例库。目前涵盖了120多个微信小程序或小游戏。
 - [shaynet10/puppeteer-video-recorder](https://github.com/shaynet10/puppeteer-video-recorder) - 
@@ -2411,6 +2416,7 @@
 
 ## Jinja 
 
+- [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
 - [easzlab/kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
 
 ## Jupyter Notebook 
@@ -2542,7 +2548,7 @@
 - [dvgodoy/dl-visuals](https://github.com/dvgodoy/dl-visuals) - Over 200 figures and diagrams of the most popular deep learning architectures and layers FREE TO USE in your blog posts, slides, presentations, or papers.
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
 - [imarvinle/awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
-- [hellodword/wechat-feeds](https://github.com/hellodword/wechat-feeds) - 给微信公众号生成 RSS 订阅源
+- [hellodword/wechat-feeds](https://github.com/hellodword/wechat-feeds) - [已停止服务] 给微信公众号生成 RSS 订阅源
 - [itdevbooks/pdf](https://github.com/itdevbooks/pdf) - 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类
 - [phodal/cloud-dev](https://github.com/phodal/cloud-dev) - 云研发，是一种生于云上的闭环 + 代码化的软件开发方式。它可以让业务人员、开发人员、运营人员等在同一个云端共同协作、透明化地完成整个软件的生命周期（需求、设计、编码、构建、部署、运营），而非相互隔离，又或者是借助于多个软件才能完成工作。
 - [easychen/one-person-businesses-methodology](https://github.com/easychen/one-person-businesses-methodology) - 一人公司方法论
@@ -3346,6 +3352,10 @@
 
 ## TypeScript 
 
+- [zenozeng/fonts.css](https://github.com/zenozeng/fonts.css) - 跨平台 CSS 中文字体解决方案
+- [puppeteer/recorder](https://github.com/puppeteer/recorder) - 
+- [developit/mitt](https://github.com/developit/mitt) - 🥊 Tiny 200 byte functional event emitter / pubsub.
+- [fmeringdal/nettu-meet](https://github.com/fmeringdal/nettu-meet) - Open source video conferencing system for tutors.
 - [reach/reach-ui](https://github.com/reach/reach-ui) - The Accessible Foundation for React Apps and Design Systems
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [nuxt-community/tailwindcss-module](https://github.com/nuxt-community/tailwindcss-module) - Tailwind CSS module for Nuxt
