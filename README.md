@@ -82,7 +82,6 @@
 - [cmusphinx/pocketsphinx](https://github.com/cmusphinx/pocketsphinx) - PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop
 - [peng-zhihui/HDMI-PI](https://github.com/peng-zhihui/HDMI-PI) - 我设计的一个HDMI转MIPI模块，可以用于驱动各种手机屏幕当显示器用。
 - [kn007/silk-v3-decoder](https://github.com/kn007/silk-v3-decoder) - [Skype Silk Codec SDK]Decode silk v3 audio files (like wechat amr, aud files, qq slk files) and convert to other format (like mp3). Batch conversion support.
-- [askgitdev/askgit](https://github.com/askgitdev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [n64decomp/sm64](https://github.com/n64decomp/sm64) - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
 - [arut/nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
@@ -339,6 +338,7 @@
 
 ## Go 
 
+- [silenceper/gowatch](https://github.com/silenceper/gowatch) - 🚀 gowatch is a command line tool that builds and (re)starts your go project everytime you save a Go or template file.
 - [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - 👄 The most accurate natural language detection library in the Go ecosystem, suitable for long and short text alike
 - [2637309949/dolphin](https://github.com/2637309949/dolphin) - Automated code tool for Golang
 - [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
@@ -454,6 +454,7 @@
 - [blushft/go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [free5gc/free5gc](https://github.com/free5gc/free5gc) - Open source 5G core network base on 3GPP R15
 - [GoesToEleven/golang-web-dev](https://github.com/GoesToEleven/golang-web-dev) - 
+- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
@@ -515,6 +516,7 @@
 - [dgryski/semgrep-go](https://github.com/dgryski/semgrep-go) - Go rules for semgrep and go-ruleguard
 - [tj/letterbox](https://github.com/tj/letterbox) - Go program to batch-process letter-boxing of photographs.
 - [theycallmemac/odin](https://github.com/theycallmemac/odin) - A programmable, observable and distributed job orchestration system.
+- [askgitdev/askgit](https://github.com/askgitdev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [emicklei/go-restful](https://github.com/emicklei/go-restful) - package for building REST-style Web Services using Go
 - [faiface/pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
@@ -714,7 +716,7 @@
 - [bitly/go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache
-- [go-pay/gopay](https://github.com/go-pay/gopay) - 微信（WeChat）、支付宝（AliPay）的Go版本SDK。【极简、易用的SDK】
+- [go-pay/gopay](https://github.com/go-pay/gopay) - 微信（WeChat）、支付宝（AliPay）的Go版本SDK。【极简、易用的聚合支付SDK】
 - [goinaction/code](https://github.com/goinaction/code) - Source Code for Go In Action examples
 - [tophubs/TopList](https://github.com/tophubs/TopList) - 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
@@ -1092,7 +1094,7 @@
 - [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [gyuho/learn](https://github.com/gyuho/learn) - learn
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
-- [dgrijalva/jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
+- [dgrijalva/jwt-go](https://github.com/dgrijalva/jwt-go) - ARCHIVE - Golang implementation of JSON Web Tokens (JWT). This project is now maintained at:
 - [esimov/pigo](https://github.com/esimov/pigo) - Fast face detection, pupil/eyes localization and facial landmark points detection library in pure Go.
 - [gin-contrib/sessions](https://github.com/gin-contrib/sessions) - Gin middleware for session management
 - [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
@@ -1312,7 +1314,7 @@
 - [myvin/Characters_of_the_Three_Kingdoms](https://github.com/myvin/Characters_of_the_Three_Kingdoms) - :three: Characters of the Three Kingdoms - 三国人物结构化数据
 - [naro143/hugo-coder-portfolio](https://github.com/naro143/hugo-coder-portfolio) - It is a theme to have you know yourself than developed based on "hugo-coder".
 - [takahirox/MMDLoader-app](https://github.com/takahirox/MMDLoader-app) - sample applications for THREE.MMDLoader
-- [domchristie/turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
+- [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [atian25/blog](https://github.com/atian25/blog) - 天猪部落阁  http://atian25.github.io
 - [YongHaoWu/qianduan-yule-club](https://github.com/YongHaoWu/qianduan-yule-club) - 前端娱乐圈大事记 http://qianduanyule.club/
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
@@ -2654,7 +2656,7 @@
 - [zeke/test](https://github.com/zeke/test) - 
 - [studygolang/gophers](https://github.com/studygolang/gophers) - 收集Go语言相关的公众号、博客，国内Go开源项目 以及这些布道者们
 - [huihut/CS-Books](https://github.com/huihut/CS-Books) - 📚 Computer Science Books 计算机技术类书籍 PDF
-- [webcomponents-dev/webcomponents.dev](https://github.com/webcomponents-dev/webcomponents.dev) - 
+- [divriots/webcomponents.dev](https://github.com/divriots/webcomponents.dev) - 
 - [sindresorhus/ama](https://github.com/sindresorhus/ama) - [[I'm slow at replying these days, but I hope to get back to answering questions eventually]] Ask me anything!
 - [openjs-foundation/code-and-learn](https://github.com/openjs-foundation/code-and-learn) - Organizing the Code&Learn session for Node+JS Interactive
 - [widuu/chinese_docker](https://github.com/widuu/chinese_docker) - docker中文文档，docker Chinese Documation
@@ -2893,6 +2895,7 @@
 
 ## Python 
 
+- [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline!
 - [youyuge34/Anime-InPainting](https://github.com/youyuge34/Anime-InPainting) - An application tool of edge-connect, which can do anime inpainting and drawing.   动漫人物图片自动修复，去马赛克，填补，去瑕疵
 - [PaddlePaddle/PaddleClas](https://github.com/PaddlePaddle/PaddleClas) - A treasure chest for visual recognition powered by PaddlePaddle
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
@@ -2930,7 +2933,6 @@
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use NLP datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [munki/macadmin-scripts](https://github.com/munki/macadmin-scripts) - Scripts of possible interest to macOS admins
 - [lucasrangit/twitter-winner](https://github.com/lucasrangit/twitter-winner) - Twitter Winner
-- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
 - [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) - [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
