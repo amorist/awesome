@@ -338,6 +338,7 @@
 
 ## Go 
 
+- [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
 - [easychen/wecomchan](https://github.com/easychen/wecomchan) - 通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。可以看成Server酱的开源替代方案之一。
 - [sjatsh/unwxapkg](https://github.com/sjatsh/unwxapkg) - 微信小程序.wxapkg解码工具
 - [tdewolff/canvas](https://github.com/tdewolff/canvas) - Cairo in Go: vector to raster, SVG, PDF, EPS, WASM, OpenGL, Gio, etc.
@@ -1428,6 +1429,7 @@
 
 ## JavaScript 
 
+- [remarkjs/remark-frontmatter](https://github.com/remarkjs/remark-frontmatter) - plugin to support frontmatter (YAML, TOML, and more)
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [qit-team/taro-yanxuan](https://github.com/qit-team/taro-yanxuan) - 首个 Taro 多端统一实例 - 网易严选（小程序 + H5 + React Native） - By 趣店 FED
 - [jschr/textillate](https://github.com/jschr/textillate) - A jquery plugin for CSS3 text animations.
@@ -1442,7 +1444,7 @@
 - [Data-Camp/WeApp_Demos](https://github.com/Data-Camp/WeApp_Demos) - 持续更新中的微信小程序和小游戏的源码案例库。目前涵盖了120多个微信小程序或小游戏。
 - [shaynet10/puppeteer-video-recorder](https://github.com/shaynet10/puppeteer-video-recorder) - 
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
-- [maizzle/framework](https://github.com/maizzle/framework) - Quickly build HTML emails with Tailwind CSS.
+- [maizzle/framework](https://github.com/maizzle/framework) - The Maizzle Framework.
 - [naufaldi/next-landing-vpn](https://github.com/naufaldi/next-landing-vpn) - An Open Source Landingpage For VPN or Apps. Build using NextJS 10 and Tailwind v2.0
 - [ant-motion/experience-cloud-landing-page](https://github.com/ant-motion/experience-cloud-landing-page) - 体验云的 landing page
 - [webfansplz/volute](https://github.com/webfansplz/volute) - Raspberry Pi + Nodejs = Speech Robot
@@ -1636,7 +1638,7 @@
 - [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API
 - [probot/settings](https://github.com/probot/settings) - Pull Requests for GitHub repository settings
-- [prismicio/slice-machine](https://github.com/prismicio/slice-machine) - Common utilities to build Slice Machine libraries
+- [prismicio/slice-machine](https://github.com/prismicio/slice-machine) - A series of tools for developing and deploying website sections with Prismic
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi
 - [nuxt/content](https://github.com/nuxt/content) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
 - [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
@@ -2975,7 +2977,7 @@
 - [JustKowalski/sound_separation](https://github.com/JustKowalski/sound_separation) - 
 - [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [facebookresearch/pifuhd](https://github.com/facebookresearch/pifuhd) - High-Resolution 3D Human Digitization from A Single Image.
-- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [anopara/genetic-drawing](https://github.com/anopara/genetic-drawing) - A genetic algorithm toy project for drawing
 - [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [anandpawara/Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation) - The Project is real time application in opencv using first order model
