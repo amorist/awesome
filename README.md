@@ -1479,7 +1479,6 @@
 - [juanpaokeji/jpshop-wechat-app-live-mall](https://github.com/juanpaokeji/jpshop-wechat-app-live-mall) - 开源jpshop社区团购微商城直播，秒杀，分销，拼团，砍价，群接龙，多商户小程序，快速搭建属于自己的小程序系统 。系统采用电商专用Yii2框架+php7.2，后台采用element+vue开发，前后端分离，小程序QQ交流群：1029489867，欢迎入群交流
 - [AlloyTeam/AlloyCrop](https://github.com/AlloyTeam/AlloyCrop) - The best and tiny size mobile cropping component - 做最好且最小的移动裁剪组件
 - [simoneb/axios-hooks](https://github.com/simoneb/axios-hooks) - 🦆 React hooks for axios
-- [Renovamen/playground-macos](https://github.com/Renovamen/playground-macos) - My portfolio website simulating macOS's GUI, developed with React and Tailwind CSS.
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
 - [Voyzz/Fruit-store-mp](https://github.com/Voyzz/Fruit-store-mp) - 🍊微信小程序-水果商城-云开发
 - [electron/electronjs.org-new](https://github.com/electron/electronjs.org-new) - 
@@ -3415,6 +3414,7 @@
 - [github/mini-throttle](https://github.com/github/mini-throttle) - A small JavaScript throttle & debounce implementation.
 - [FeedHive/twitter-api-client](https://github.com/FeedHive/twitter-api-client) - A user-friendly Node.js / JavaScript client library for interacting with the Twitter API.
 - [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ 云空调，便携小空调，为你的夏日带去清凉！
+- [Renovamen/playground-macos](https://github.com/Renovamen/playground-macos) - My portfolio website simulating macOS's GUI, developed with React and Tailwind CSS.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [justjavac/ali-words](https://github.com/justjavac/ali-words) - 互联网黑话词汇表，包含“赋能、抓手、闭环、沉淀、打通”等阿里味儿词汇
 - [woopen/nplayer](https://github.com/woopen/nplayer) - 🚀 支持移动端、支持 SSR、支持直播，可以接入任何流媒体。高性能的弹幕系统。高度可定制，所有图标、主题色等都可以替换，并且提供了内置组件方便二次开发。无第三方运行时依赖。
@@ -3755,8 +3755,8 @@
 - [MoeFE/GoogleTranslate](https://github.com/MoeFE/GoogleTranslate) - 🌐 Google 翻译 Mac 客户端
 - [electron-userland/electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [opendatav/datav](https://github.com/opendatav/datav) - 📊 Beautiful and interactive data visualization platform, visualize metrics,logs,traces and big-screens
-- [pedronauck/docz](https://github.com/pedronauck/docz) - ✍ It has never been so easy to document your things!
+- [datav-io/datav](https://github.com/datav-io/datav) - 📊 Beautiful and interactive data visualization platform, visualize metrics,logs,traces and big-screens
+- [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [kactus-io/kactus](https://github.com/kactus-io/kactus) - :cactus: A true version control tool for designers
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
