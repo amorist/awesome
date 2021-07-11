@@ -1076,7 +1076,7 @@
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [jhvst/vertigo](https://github.com/jhvst/vertigo) - Blog engine in Go (golang)
 - [kozmos/strict-request](https://github.com/kozmos/strict-request) - Send strict HTTP Requests with Go
-- [micro/micro](https://github.com/micro/micro) - Micro is a distributed OS built for the Cloud
+- [micro/micro](https://github.com/micro/micro) - Micro is a cloud platform for API development
 - [jdkato/prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [Jeiwan/blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [josephyzhou/github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
@@ -1190,7 +1190,7 @@
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [idubinskiy/schematyper](https://github.com/idubinskiy/schematyper) - Generates Go types based on JSON Schemas
 - [tidwall/chanx](https://github.com/tidwall/chanx) - A simple interface wrapper around a Go channel.
-- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a standalone framework for distributed systems development
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [AplaProject/go-apla](https://github.com/AplaProject/go-apla) - A blockchain platform with a simplified programming language
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
