@@ -513,7 +513,7 @@
 - [beego/bee](https://github.com/beego/bee) - Bee is a tool for helping develop with beego app framework.
 - [dannypsnl/redux](https://github.com/dannypsnl/redux) - redux implementation in Go
 - [luisvinicius167/godux](https://github.com/luisvinicius167/godux) - State Management for Go Backend application inspired in Redux.
-- [cuelang/cue](https://github.com/cuelang/cue) - Validate and define text-based and dynamic configuration
+- [cuelang/cue](https://github.com/cuelang/cue) - CUE has moved to https://github.com/cue-lang/cue
 - [custer-fun/edas](https://github.com/custer-fun/edas) - 期望做一个基于go-micro + casbin + jwt 的用户认证和权限的微服务
 - [marcusolsson/goddd](https://github.com/marcusolsson/goddd) - Exploring DDD in Go
 - [egoist/esbuild-service](https://github.com/egoist/esbuild-service) - esbuild as a service. bundle any npm package on the fly as you request.
