@@ -74,6 +74,7 @@
 
 ## Assembly 
 
+- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [cwgavin/CatBreeds](https://github.com/cwgavin/CatBreeds) - A Xamarin app that recognizes the breeds of cats in the photos.
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 
@@ -351,7 +352,6 @@
 - [silenceper/gowatch](https://github.com/silenceper/gowatch) - 🚀 gowatch is a command line tool that builds and (re)starts your go project everytime you save a Go or template file.
 - [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - 👄 The most accurate natural language detection library in the Go ecosystem, suitable for long and short text alike
 - [2637309949/dolphin](https://github.com/2637309949/dolphin) - Automated code tool for Golang
-- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [wxbool/video-srt](https://github.com/wxbool/video-srt) - 这是一个可以识别视频语音自动生成字幕SRT文件的开源命令行工具。
 - [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
 - [hajimehoshi/go-mp3](https://github.com/hajimehoshi/go-mp3) - An MP3 decoder in pure Go
@@ -594,7 +594,7 @@
 - [Jrohy/trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
 - [goodcan/go-lottery](https://github.com/goodcan/go-lottery) - Golang 实现各式各样的抽奖逻辑后台
 - [jbowens/codenames](https://github.com/jbowens/codenames) - Play codenames online
-- [pion/ion](https://github.com/pion/ion) - Distributed RTC System by pure Go and Flutter
+- [pion/ion](https://github.com/pion/ion) - Real-Distributed(non-cluster) RTC System by pure Go and Flutter
 - [didi/nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System.  The next generation of Open-Falcon
 - [microhq/protoc-gen-micro](https://github.com/microhq/protoc-gen-micro) - Protobuf code generation for Micro. Moved to go-micro/cmd/protoc-gen-micro.
 - [rancher/cli](https://github.com/rancher/cli) - Rancher CLI
@@ -1432,6 +1432,7 @@
 
 ## JavaScript 
 
+- [mfcndw/kindle-notion](https://github.com/mfcndw/kindle-notion) - A chrome plugin that export kindle notes to a notion compatible csv file.
 - [eKoopmans/html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - Client-side HTML-to-PDF rendering using pure JS.
 - [remarkjs/remark-frontmatter](https://github.com/remarkjs/remark-frontmatter) - plugin to support frontmatter (YAML, TOML, and more)
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
