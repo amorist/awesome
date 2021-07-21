@@ -2043,7 +2043,7 @@
 - [kensnyder/quill-image-drop-module](https://github.com/kensnyder/quill-image-drop-module) - A module for Quill rich text editor to allow images to be pasted and drag/dropped into the editor.
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [gitignore-org/gitignore-org](https://github.com/gitignore-org/gitignore-org) - A collection of useful .gitignore templates
-- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
+- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [youngjuning/wx-promise-pro](https://github.com/youngjuning/wx-promise-pro) - ✨强大、优雅的微信小程序异步库🚀
 - [sghall/react-move](https://github.com/sghall/react-move) - React Move | Beautiful, data-driven animations for React
 - [SouthbankSoftware/dbkoda](https://github.com/SouthbankSoftware/dbkoda) - State of the art MongoDB IDE
@@ -2552,7 +2552,6 @@
 - [abynim/Sketch-Headers](https://github.com/abynim/Sketch-Headers) - Headers from Sketch app exported using class-dump
 - [facebookarchive/WebDriverAgent](https://github.com/facebookarchive/WebDriverAgent) - A WebDriver server for iOS that runs inside the Simulator.
 - [titman/iScreenSaver](https://github.com/titman/iScreenSaver) - A magic screensaver for Mac OSX, a lot of fun. Built-in more than 30 screensavers.
-- [yulingtianxia/FishChat](https://github.com/yulingtianxia/FishChat) - Hook WeChat.app on non-jailbroken devices.
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [marcuswestin/WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) - An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews
 - [shadowsocks/shadowsocks-iOS](https://github.com/shadowsocks/shadowsocks-iOS) - Removed according to regulations.
@@ -2824,6 +2823,7 @@
 - [hackerkid/bots](https://github.com/hackerkid/bots) - :zap: Tools for building bots
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
+- [yulingtianxia/FishChat](https://github.com/yulingtianxia/FishChat) - Hook WeChat.app on non-jailbroken devices.
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [Alibaba-Technology/hangzhouYunQi2017ppt](https://github.com/Alibaba-Technology/hangzhouYunQi2017ppt) - 
 - [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
@@ -3632,7 +3632,7 @@
 - [nestjs/serverless-core-deprecated](https://github.com/nestjs/serverless-core-deprecated) - [Deprecated] Serverless Core module for Nest framework (node.js)  🦊
 - [electron/get](https://github.com/electron/get) - Download Electron release artifacts
 - [electron/electron-quick-start-typescript](https://github.com/electron/electron-quick-start-typescript) - Clone to try a simple Electron app (in TypeScript)
-- [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and completed solution for micro frontends.
+- [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [iCrawl/discord-vscode](https://github.com/iCrawl/discord-vscode) - 🖋️ Update your discord status with a rich presence
 - [vuejs/composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
