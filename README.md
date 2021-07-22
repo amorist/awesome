@@ -2916,9 +2916,10 @@
 
 ## Python 
 
+- [Thmen/EGVSR](https://github.com/Thmen/EGVSR) - Efficient & Generic Video Super-Resolution
 - [lepture/authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
 - [psoho/fast-poster](https://github.com/psoho/fast-poster) - fastposter低代码海报生成器，一分钟完成海报开发。
-- [Ackerr/Algorithms](https://github.com/Ackerr/Algorithms) - (๑• . •๑)
+- [ackerr/Algorithms](https://github.com/ackerr/Algorithms) - (๑• . •๑)
 - [alibaba/AliceMind](https://github.com/alibaba/AliceMind) - 
 - [claffin/cloudproxy](https://github.com/claffin/cloudproxy) - Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
 - [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline!
@@ -3848,6 +3849,7 @@
 
 ## Vue 
 
+- [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - 基于 Vue3.x + TypeScript 的在线演示文稿应用。实现PPT幻灯片的在线编辑、演示。
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
 - [nuxt/modules](https://github.com/nuxt/modules) - Discover our list of modules to supercharge your Nuxt project
 - [alvarosaburido/slidev-theme-penguin](https://github.com/alvarosaburido/slidev-theme-penguin) - A Penguin 🐧   theme for Slidev
