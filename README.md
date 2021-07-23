@@ -338,7 +338,7 @@
 
 ## Go 
 
-- [yedf/dtm](https://github.com/yedf/dtm) - 🔥go语言分布式事务管理器 a lightweight distributed transaction management service, support xa tcc saga
+- [yedf/dtm](https://github.com/yedf/dtm) - 🔥A lightweight distributed transaction management service, support xa tcc saga. go分布式事务管理器
 - [livekit/livekit-server](https://github.com/livekit/livekit-server) - Distributed audio/video rooms over WebRTC
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - 
 - [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
@@ -507,7 +507,7 @@
 - [xmlking/micro-starter-kit](https://github.com/xmlking/micro-starter-kit) - Cloud Native GoLang Microservices - gRPC, GraphQL
 - [robertkrimen/otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
-- [jointwt/twtxt](https://github.com/jointwt/twtxt) - 📕 twtxt is a Self-Hosted, Twitter™-like Decentralised microBlogging platform. No ads, no tracking, your content, your data!
+- [jointwt/twtxt](https://github.com/jointwt/twtxt) - 📕 yarn is a Self-Hosted, Twitter™-like Decentralised microBlogging platform. No ads, no tracking, your content, your data!
 - [Jeffail/gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [beego/bee](https://github.com/beego/bee) - Bee is a tool for helping develop with beego app framework.
@@ -900,7 +900,7 @@
 - [tidwall/evio](https://github.com/tidwall/evio) - Fast event-loop networking for Go
 - [chai2010/go2-book](https://github.com/chai2010/go2-book) - :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel
+- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel, now inlets PRO
 - [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Containers as a service on AWS
 - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [eranyanay/1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
@@ -1850,7 +1850,7 @@
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
 - [metafizzy/zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 - [eashish93/imgsquash](https://github.com/eashish93/imgsquash) - Simple image compression full website code written in node, react and next.js framework. Easy to deploy as a microservice.
-- [scaleflex/js-cloudimage-360-view](https://github.com/scaleflex/js-cloudimage-360-view) - Engage your customers with a stunning 360 view of your products
+- [scaleflex/js-cloudimage-360-view](https://github.com/scaleflex/js-cloudimage-360-view) - Engage your customers with a stunning 360 view of your products. Any questions or issues, please report to https://github.com/scaleflex/js-cloudimage-360-view/issues
 - [vercel/webpack-asset-relocator-loader](https://github.com/vercel/webpack-asset-relocator-loader) - Used in ncc while emitting and relocating any asset references
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [hustcc/canvas-nest.js](https://github.com/hustcc/canvas-nest.js) - :cancer: Interactive Particle / Nest System With JavaScript and Canvas, no jQuery.
