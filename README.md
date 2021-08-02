@@ -1437,6 +1437,7 @@
 
 ## JavaScript 
 
+- [TeamStuQ/Poster](https://github.com/TeamStuQ/Poster) - 海报生成器：http://www.geekbang.org/poster
 - [FernAbby/H5-Activities](https://github.com/FernAbby/H5-Activities) - 存放部分活动页面,包含大转盘、砸金蛋、刮刮卡、摇一摇、投票、问卷、抓娃娃、砍价、优惠券投票、意见收集等活动......
 - [haoguangpu/H5](https://github.com/haoguangpu/H5) - 个人制作或收集的一些H5微信场景
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
@@ -2574,6 +2575,7 @@
 
 ## Others 
 
+- [guevara/read-it-later](https://github.com/guevara/read-it-later) - read it later
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 - [hyqyoung/computer-vision-in-action](https://github.com/hyqyoung/computer-vision-in-action) - 《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（更新中，可以先 star）
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
@@ -2926,9 +2928,11 @@
 
 ## Python 
 
+- [Rudrabha/Lip2Wav](https://github.com/Rudrabha/Lip2Wav) - This is the repository containing codes for our CVPR, 2020 paper titled "Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis"
+- [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
 - [Thmen/EGVSR](https://github.com/Thmen/EGVSR) - Efficient & Generic Video Super-Resolution
 - [lepture/authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
-- [psoho/fast-poster](https://github.com/psoho/fast-poster) - fastposter低代码海报生成器，一分钟完成海报开发。
+- [psoho/fast-poster](https://github.com/psoho/fast-poster) - fastposter低代码海报生成器，一分钟完成海报开发。支持Java,Python,PHP,Go,JavaScript等多种语言。文档：https://poster.prodapi.cn/doc/
 - [ackerr/Algorithms](https://github.com/ackerr/Algorithms) - (๑• . •๑)
 - [alibaba/AliceMind](https://github.com/alibaba/AliceMind) - 
 - [claffin/cloudproxy](https://github.com/claffin/cloudproxy) - Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
@@ -3404,6 +3408,9 @@
 
 ## TypeScript 
 
+- [alibaba/designable](https://github.com/alibaba/designable) - 🧩 Make everything designable 🧩
+- [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - 🐬 vxe-table vue  表格解决方案
+- [H5-Dooring/dooringx](https://github.com/H5-Dooring/dooringx) - 快速高效搭建可视化拖拽平台
 - [TriDiamond/face-ai](https://github.com/TriDiamond/face-ai) - Detects faces with AI.
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [golang/vscode-go](https://github.com/golang/vscode-go) - Go extension for VS Code
@@ -3864,6 +3871,7 @@
 
 ## Vue 
 
+- [a7650/h5-editor](https://github.com/a7650/h5-editor) - 📕h5可视化编辑器，支持添加图片/文本/形状等，拥有图层/参考线/标尺/自动吸附对齐等功能
 - [gtamas/etcdmanager](https://github.com/gtamas/etcdmanager) - A cross-platform GUI and ETCD client
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - 基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
