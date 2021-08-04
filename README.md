@@ -61,6 +61,7 @@
   - [Shell](#shell)
   - [Standard ML](#standard-ml)
   - [Stylus](#stylus)
+  - [Svelte](#svelte)
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
@@ -1436,6 +1437,7 @@
 
 ## JavaScript 
 
+- [casbin/casnode](https://github.com/casbin/casnode) - Next-generation forum software based on React + Golang, QQ group: 555019739, online demo: https://forum.casbin.com
 - [TeamStuQ/Poster](https://github.com/TeamStuQ/Poster) - 海报生成器：http://www.geekbang.org/poster
 - [FernAbby/H5-Activities](https://github.com/FernAbby/H5-Activities) - 存放部分活动页面,包含大转盘、砸金蛋、刮刮卡、摇一摇、投票、问卷、抓娃娃、砍价、优惠券投票、意见收集等活动......
 - [haoguangpu/H5](https://github.com/haoguangpu/H5) - 个人制作或收集的一些H5微信场景
@@ -3316,6 +3318,10 @@
 
 - [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) - Elegant and powerful theme for Hexo.
 
+## Svelte 
+
+- [catchspider2002/svelte-svg-patterns](https://github.com/catchspider2002/svelte-svg-patterns) - Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design
+
 ## Swift 
 
 - [zhxnlai/ZLSwipeableViewSwift](https://github.com/zhxnlai/ZLSwipeableViewSwift) - A simple view for building card like interface inspired by Tinder and Potluck.
@@ -3407,10 +3413,11 @@
 
 ## TypeScript 
 
+- [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 - [alibaba/designable](https://github.com/alibaba/designable) - 🧩 Make everything designable 🧩
 - [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - 🐬 vxe-table vue  表格解决方案
 - [H5-Dooring/dooringx](https://github.com/H5-Dooring/dooringx) - 快速高效搭建可视化拖拽平台
-- [TriDiamond/face-ai](https://github.com/TriDiamond/face-ai) - Detects faces with AI.
+- [bennyxguo/face-ai](https://github.com/bennyxguo/face-ai) - Detects faces with AI.
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [golang/vscode-go](https://github.com/golang/vscode-go) - Go extension for VS Code
 - [anncwb/vben-admin-thin-next](https://github.com/anncwb/vben-admin-thin-next) - vue-vben-admin-2.0 mini template.vue3,vite,typescript
@@ -3788,7 +3795,7 @@
 - [MoeFE/GoogleTranslate](https://github.com/MoeFE/GoogleTranslate) - 🌐 Google 翻译 Mac 客户端
 - [electron-userland/electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [datav-io/datav](https://github.com/datav-io/datav) - 📊Datav is a data visualization platform for metrics,traces,logs and large-screens. Also as an open-source alternative to DataDog&NewRelic, we build a apm layer on datav, which has fully native support for @open-telemetry.
+- [datav-io/datav](https://github.com/datav-io/datav) - 📊Modern apm for metrics,traces and logs. Datav has fully native support for @open-telemetry, is an open-source alternative to DataDog, NewRelic.
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [kactus-io/kactus](https://github.com/kactus-io/kactus) - :cactus: A true version control tool for designers
