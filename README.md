@@ -1907,7 +1907,7 @@
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [AutoPiano/AutoPiano](https://github.com/AutoPiano/AutoPiano) - 自由钢琴 🎹 AutoPiano ( https://www.autopiano.cn )   Simple & Elegant Piano Online
 - [request/request](https://github.com/request/request) - 🏊🏾 Simplified HTTP request client.
-- [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨 A web component for drawing patterns with CSS.
+- [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
 - [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based JavaScript（canvas） spreadsheet
 - [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架
 - [victordibia/handtrack.js](https://github.com/victordibia/handtrack.js) - A library for prototyping realtime hand detection (bounding box), directly in the browser.
