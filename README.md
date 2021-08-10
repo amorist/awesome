@@ -342,6 +342,7 @@
 
 ## Go 
 
+- [odpf/optimus](https://github.com/odpf/optimus) - Optimus is an easy-to-use, reliable, and performant workflow orchestrator for data transformation, data modeling, pipelines, and data quality management.
 - [q191201771/naza](https://github.com/q191201771/naza) - 🔥 Go basic library. || Go语言基础库
 - [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, efficient spring animation library 🎼
@@ -382,7 +383,7 @@
 - [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [naiba/nezha](https://github.com/naiba/nezha) - :trollface: 哪吒监控 一站式轻监控轻运维系统。支持系统状态、HTTP、TCP、Ping 监控报警，命令批量执行和计划任务。
 - [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) - 
-- [SMerrony/aghast](https://github.com/SMerrony/aghast) - AGHAST is A Go Home Automation SysTem.
+- [SMerrony/aghast](https://github.com/SMerrony/aghast) - AGHAST is A Go Home Automation SysTem closely coupled with MQTT.
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go
 - [TwinProduction/gatus](https://github.com/TwinProduction/gatus) - ⛑ Gatus - Automated service health dashboard
 - [name5566/leaf](https://github.com/name5566/leaf) - A game server framework in Go (golang)
