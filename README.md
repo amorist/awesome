@@ -306,7 +306,6 @@
 - [actions/container-action](https://github.com/actions/container-action) - 
 - [cnych/kubernetes-learning](https://github.com/cnych/kubernetes-learning) - 《从Docker到Kubernetes进阶课程》在线文档
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes
-- [electron/build-images](https://github.com/electron/build-images) - Base docker image used to build Electron on CI
 - [ianwalter/puppeteer-container](https://github.com/ianwalter/puppeteer-container) - A GitHub Action / Docker image for   Puppeteer, the Headless Chrome Node API
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [nodejs/code-and-learn](https://github.com/nodejs/code-and-learn) - A series of workshop sprints for Node.js.
@@ -3283,6 +3282,7 @@
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
 - [cirrus-actions/rebase](https://github.com/cirrus-actions/rebase) - GitHub Action to automatically rebase PRs
+- [electron/build-images](https://github.com/electron/build-images) - Base docker image used to build Electron on CI
 - [getsentry/onpremise](https://github.com/getsentry/onpremise) - Sentry On-Premise setup
 - [ljharb/rebase](https://github.com/ljharb/rebase) - GitHub Action to automatically rebase PRs
 - [real-dev/stacks](https://github.com/real-dev/stacks) - Various tech "stacks" for Real Dev tasks
@@ -3418,7 +3418,7 @@
 ## TeX 
 
 - [beijinglug/fsfs-zh](https://github.com/beijinglug/fsfs-zh) - Chinese translation for "Free Software, Free Society"(3rd)
-- [moesoha/debian-media-box](https://github.com/moesoha/debian-media-box) - “Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。bullseye 的目前是 pre-release，请点开 release 查看。
+- [moesoha/debian-media-box](https://github.com/moesoha/debian-media-box) - “Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。
 - [lib-pku/libpku](https://github.com/lib-pku/libpku) - 贵校课程资料民间整理
 - [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) - Deep Learning Book Chinese Translation
 
