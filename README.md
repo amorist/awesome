@@ -135,7 +135,7 @@
 
 ## C++ 
 
-- [No-Github/1earn](https://github.com/No-Github/1earn) - 个人维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup
+- [No-Github/1earn](https://github.com/No-Github/1earn) - ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup
 - [Kitt-AI/snowboy](https://github.com/Kitt-AI/snowboy) - Future versions with model training module will be maintained through a forked version here: https://github.com/seasalt-ai/snowboy
 - [dresden-elektronik/deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin) - deCONZ REST-API plugin to control ZigBee devices
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
@@ -829,7 +829,7 @@
 - [coreos/etcd-operator](https://github.com/coreos/etcd-operator) - etcd operator creates/configures/manages etcd clusters atop Kubernetes
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [raviqqe/muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
-- [yterajima/go-sitemap](https://github.com/yterajima/go-sitemap) - Get sitemap.xml (or sitemapindex.xml) from URL and Generate Sitemap object.
+- [yuya-matsushima/go-sitemap](https://github.com/yuya-matsushima/go-sitemap) - Get sitemap.xml (or sitemapindex.xml) from URL and Generate Sitemap object.
 - [microsoft/vscode-remote-try-go](https://github.com/microsoft/vscode-remote-try-go) - Go sample project for trying out the 'VS Code Remote - Containers' extension
 - [reugn/go-streams](https://github.com/reugn/go-streams) - A lightweight stream processing library for Go
 - [wiatingpub/MTBSystem](https://github.com/wiatingpub/MTBSystem) - 使用go-micro微服务实现的在线电影院订票系统
@@ -2788,7 +2788,7 @@
 - [learn-vuejs/vue-patterns](https://github.com/learn-vuejs/vue-patterns) - Useful Vue patterns, techniques, tips and tricks and helpful curated links.
 - [MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi Mobile Phone Kernel OpenSource
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
-- [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [chenshenhai/koa2-note](https://github.com/chenshenhai/koa2-note) - 《Koa2进阶学习笔记》已完结🎄🎄🎄
 - [upend/IF_MS_BUYS_GITHUB_IMMA_OUT](https://github.com/upend/IF_MS_BUYS_GITHUB_IMMA_OUT) - GitHub has sold us out. Time to get out.
 - [qwerty472123/wxappUnpacker](https://github.com/qwerty472123/wxappUnpacker) - wxml被“编译“后”压缩“一下多好！😀
@@ -3111,7 +3111,7 @@
 - [neozhaoliang/pywonderland](https://github.com/neozhaoliang/pywonderland) - A tour in the wonderland of math with python.
 - [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 🎮 Chinese DOS games collections.
 - [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available now to avoid spammy issues.
 - [QUANTAXIS/QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS) - QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币  数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案
 - [mkaz/termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
 - [tensorflow/hub](https://github.com/tensorflow/hub) - A library for transfer learning by reusing parts of TensorFlow models.
