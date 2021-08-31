@@ -237,7 +237,7 @@
 - [sharecuts/website](https://github.com/sharecuts/website) - A public repository of shortcuts for the Shortcuts app
 - [drawcall/clock-shop](https://github.com/drawcall/clock-shop) - 🕙⏰🕰 Clock Shop is a website that collects beautiful clock codes
 - [nodejs/nodejs-zh-CN](https://github.com/nodejs/nodejs-zh-CN) - node.js 中文化 & 中文社区
-- [nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🪴 A simple, clean, flexible Hugo theme → now in 5.0!
+- [nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🪴 A simple, clean, flexible Hugo theme → now 5.0!
 - [apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh) - :book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】
 - [DMQ/mvvm](https://github.com/DMQ/mvvm) - 剖析vue实现原理，自己动手实现mvvm
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
@@ -593,7 +593,7 @@
 - [spf13/jwalterweatherman](https://github.com/spf13/jwalterweatherman) - So you always leave a note
 - [golang/lint](https://github.com/golang/lint) - [mirror] This is a linter for Go source code. (deprecated)
 - [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
-- [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于gin+vue搭建的（中）后台系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器，通用工作流等基础功能，五分钟一套CURD前后端代码，VUE3版本正在重构，欢迎issue和pr~
+- [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于gin+vue搭建的（中）后台系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器，通用工作流等基础功能，五分钟一套CURD前后端代码，VUE3已开放测试，欢迎issue和pr~
 - [shomali11/go-interview](https://github.com/shomali11/go-interview) - Collection of Technical Interview Questions solved with Go
 - [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev   Demo： https://www.go-admin.dev
@@ -3426,6 +3426,7 @@
 
 ## TypeScript 
 
+- [whyour/qinglong](https://github.com/whyour/qinglong) - Python/JavaScript/Shell/Typescript 定时任务管理
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [vakinge/jeesuite-passport](https://github.com/vakinge/jeesuite-passport) - Jeesuite-passport是面向企业级单点登录、统一认证的一站式解决方案。支持微信、企业微信、主流开放平台OAuth、Oauth2.0，JWT、SAML2.0多种认证集成模式。
 - [vueuse/motion](https://github.com/vueuse/motion) - 🤹 Vue Composables putting your components in motion
