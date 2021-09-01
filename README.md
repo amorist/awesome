@@ -339,6 +339,7 @@
 
 ## Go 
 
+- [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
@@ -1440,6 +1441,7 @@
 
 ## JavaScript 
 
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low code platform that helps IT professionals build, automate and self-host internal tools in minutes 🚀
 - [faahim/happy-birthday](https://github.com/faahim/happy-birthday) - Wish your friend/loved-ones happy birthday in a nerdy way.
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
 - [stefanbuck/github-issue-parser](https://github.com/stefanbuck/github-issue-parser) - 
@@ -2465,6 +2467,7 @@
 
 ## Jupyter Notebook 
 
+- [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) - 
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Python, and Java.
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
@@ -3426,6 +3429,7 @@
 
 ## TypeScript 
 
+- [sparrow-js/sparrow](https://github.com/sparrow-js/sparrow) - 🎉场景化低代码（LowCode）搭建工作台，实时输出源代码
 - [whyour/qinglong](https://github.com/whyour/qinglong) - Python/JavaScript/Shell/Typescript 定时任务管理
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [vakinge/jeesuite-passport](https://github.com/vakinge/jeesuite-passport) - Jeesuite-passport是面向企业级单点登录、统一认证的一站式解决方案。支持微信、企业微信、主流开放平台OAuth、Oauth2.0，JWT、SAML2.0多种认证集成模式。
