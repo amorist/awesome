@@ -339,6 +339,9 @@
 
 ## Go 
 
+- [cespare/reflex](https://github.com/cespare/reflex) - Run a command when files change
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
+- [happy888888/WeiboTask](https://github.com/happy888888/WeiboTask) - 🔔WeiboTask⏰  微博超话app每日签到，评论转发，积分获取。微博app每日签到
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
@@ -350,7 +353,7 @@
 - [golang-design/history](https://github.com/golang-design/history) - 📝  Go: A Documentary | https://golang.design/history
 - [yedf/dtm](https://github.com/yedf/dtm) - 🔥A lightweight distributed transaction management service, support xa tcc saga. go分布式事务管理器。
 - [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable, production-grade WebRTC video conferencing. SDKs for web & mobile.
-- [cloudwego/kitex](https://github.com/cloudwego/kitex) - 
+- [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.
 - [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
 - [easychen/wecomchan](https://github.com/easychen/wecomchan) - 通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。可以看成Server酱的开源替代方案之一。
 - [sjatsh/unwxapkg](https://github.com/sjatsh/unwxapkg) - 微信小程序.wxapkg解码工具
@@ -1084,7 +1087,7 @@
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [jhvst/vertigo](https://github.com/jhvst/vertigo) - Blog engine in Go (golang)
 - [kozmos/strict-request](https://github.com/kozmos/strict-request) - Send strict HTTP Requests with Go
-- [micro/micro](https://github.com/micro/micro) - Micro is a platform for API development
+- [micro/micro](https://github.com/micro/micro) - Micro is a cloud operating system
 - [jdkato/prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [Jeiwan/blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [josephyzhou/github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
@@ -1405,7 +1408,7 @@
 - [phodal/migration](https://github.com/phodal/migration) - 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护
 - [newbee-ltd/newbee-mall](https://github.com/newbee-ltd/newbee-mall) - 🔥 🎉newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
 - [yangchong211/YCStatusBar](https://github.com/yangchong211/YCStatusBar) - 关于状态栏方案总结案例，适合于绝大多数的使用场景……同时，兼容了小米，魅族等手机状态栏字体颜色设置失效问题。已经用于实际项目投资界，新芽，沙丘大学等APP，一键集成并使用！支持单Activity多Fragment动态修改状态栏颜色，入侵性低，一行代码即可实现你需要的需求
-- [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available `out of the box`.
+- [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available out of box.
 - [react-native-camera/react-native-camera](https://github.com/react-native-camera/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
 - [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 - [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
@@ -1441,6 +1444,7 @@
 
 ## JavaScript 
 
+- [woai3c/nand2tetris](https://github.com/woai3c/nand2tetris) - 计算机系统要素-从零开始构建现代计算机
 - [HashLips/generative-art-node](https://github.com/HashLips/generative-art-node) - Create generative art by using the canvas api and node js
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low code platform that helps IT professionals build, automate and self-host internal tools in minutes 🚀
 - [faahim/happy-birthday](https://github.com/faahim/happy-birthday) - Wish your friend/loved-ones happy birthday in a nerdy way.
@@ -1970,7 +1974,7 @@
 - [marcbachmann/node-html-pdf](https://github.com/marcbachmann/node-html-pdf) - :page_facing_up: Html to pdf converter in nodejs. It spawns a phantomjs process and passes the pdf as buffer or as filename.
 - [e-oj/Magic-Grid](https://github.com/e-oj/Magic-Grid) - A simple, lightweight Javascript library for dynamic grid layouts.
 - [IFmiss/wx-cropper](https://github.com/IFmiss/wx-cropper) - :scissors: 微信小程序  图片裁剪工具，简单易用
-- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - A markdown editor for developers on Mac, Windows and Linux.
+- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [jenslind/electron-gh-releases](https://github.com/jenslind/electron-gh-releases) - :shipit: Electron auto-update by releasing on Github.
 - [itgalaxy/favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js
 - [vercel/hazel](https://github.com/vercel/hazel) - Lightweight update server for Electron apps
@@ -2169,6 +2173,7 @@
 - [cnodejs/egg-cnode](https://github.com/cnodejs/egg-cnode) - CNode 社区 Egg 版本
 - [substack/stream-handbook](https://github.com/substack/stream-handbook) - how to write node programs with streams
 - [electron-userland/electron-installer-dmg](https://github.com/electron-userland/electron-installer-dmg) - Create DMG installers for your electron apps using appdmg.
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [mntnr/name-your-contributors](https://github.com/mntnr/name-your-contributors) - Name your GitHub contributors; get commits, issues, and comments
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
@@ -2530,7 +2535,6 @@
 ## Makefile 
 
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 
 ## Markdown 
 
@@ -3436,7 +3440,7 @@
 - [posva/pinia](https://github.com/posva/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
 - [sparrow-js/sparrow](https://github.com/sparrow-js/sparrow) - 🎉场景化低代码（LowCode）搭建工作台，实时输出源代码
-- [whyour/qinglong](https://github.com/whyour/qinglong) - Python/JavaScript/Shell/Typescript 定时任务管理
+- [whyour/qinglong](https://github.com/whyour/qinglong) - Python/JavaScript/Shell/Typescript 定时任务管理面板
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [vakinge/jeesuite-passport](https://github.com/vakinge/jeesuite-passport) - Jeesuite-passport是面向企业级单点登录、统一认证的一站式解决方案。支持微信、企业微信、主流开放平台OAuth、Oauth2.0，JWT、SAML2.0多种认证集成模式。
 - [vueuse/motion](https://github.com/vueuse/motion) - 🤹 Vue Composables putting your components in motion
@@ -3907,6 +3911,7 @@
 
 ## Vue 
 
+- [woai3c/visual-drag-demo](https://github.com/woai3c/visual-drag-demo) - 一个低代码（可视化拖拽）教学项目
 - [YanxinNet/uView](https://github.com/YanxinNet/uView) - uView UI，是uni-app生态最优秀的UI框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水
 - [a7650/h5-editor](https://github.com/a7650/h5-editor) - 📕h5可视化编辑器，支持添加图片/文本/形状等，拥有图层/参考线/标尺/自动吸附对齐等功能
 - [gtamas/etcdmanager](https://github.com/gtamas/etcdmanager) - A cross-platform GUI and ETCD client
