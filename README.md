@@ -2957,7 +2957,7 @@
 - [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
 - [Thmen/EGVSR](https://github.com/Thmen/EGVSR) - Efficient & Generic Video Super-Resolution
 - [lepture/authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
-- [psoho/fast-poster](https://github.com/psoho/fast-poster) - fastposter低代码海报生成器，一分钟完成海报开发。支持Java,Python,PHP,Go,JavaScript等多种语言。文档：https://poster.prodapi.cn/docs/
+- [psoho/fast-poster](https://github.com/psoho/fast-poster) - fastposter 低代码海报生成器，可视化编辑设计海报，快速完成海报设计，一分钟完成海报开发，快速生成海报，完成海报制作，自动化生成海报。支持Java,Python,PHP,Go,JS等多种语言，也支持小程序生成海报。 文档：https://poster.prodapi.cn/docs/
 - [ackerr/Algorithms](https://github.com/ackerr/Algorithms) - (๑• . •๑)
 - [alibaba/AliceMind](https://github.com/alibaba/AliceMind) - 
 - [claffin/cloudproxy](https://github.com/claffin/cloudproxy) - Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
