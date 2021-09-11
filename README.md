@@ -599,7 +599,7 @@
 - [spf13/jwalterweatherman](https://github.com/spf13/jwalterweatherman) - So you always leave a note
 - [golang/lint](https://github.com/golang/lint) - [mirror] This is a linter for Go source code. (deprecated)
 - [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
-- [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的（中）后台系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器，通用工作流等基础功能，五分钟一套CURD前后端代码，VUE3已开放测试，欢迎issue和pr~
+- [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的（中）后台系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器，通用工作流等基础功能，五分钟一套CURD前后端代码，欢迎issue和pr~
 - [shomali11/go-interview](https://github.com/shomali11/go-interview) - Collection of Technical Interview Questions solved with Go
 - [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev   Demo： https://www.go-admin.dev
@@ -2954,7 +2954,7 @@
 
 ## Python 
 
-- [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - 
+- [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [ThoughtfulDev/EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [Rudrabha/Lip2Wav](https://github.com/Rudrabha/Lip2Wav) - This is the repository containing codes for our CVPR, 2020 paper titled "Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis"
@@ -2976,7 +2976,7 @@
 - [flavioribeiro/video-thumbnail-generator](https://github.com/flavioribeiro/video-thumbnail-generator) - :camera: Generate thumbnail sprites from videos.
 - [prannayk/videoMultiGAN](https://github.com/prannayk/videoMultiGAN) - End to End learning for Video Generation from Text
 - [DinoMan/speech-driven-animation](https://github.com/DinoMan/speech-driven-animation) - 
-- [YaoFANGUK/video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor) - 视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle from videos and generating srt files.
+- [YaoFANGUK/video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor) - 视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle(hardsub) from videos and generating srt files.
 - [kwai/DouZero](https://github.com/kwai/DouZero) - [ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI
 - [grayddq/GScan](https://github.com/grayddq/GScan) - 本程序旨在为安全应急响应人员对Linux主机排查时提供便利，实现主机侧Checklist的自动全面化检测，根据检测结果自动数据聚合，进行黑客攻击路径溯源。
 - [facebookresearch/pytorchvideo](https://github.com/facebookresearch/pytorchvideo) - A deep learning library for video understanding research.
@@ -2990,7 +2990,7 @@
 - [Yonsm/.homeassistant](https://github.com/Yonsm/.homeassistant) - Home Assistant Extras for Yonsm
 - [goooooouwa/news2kindle](https://github.com/goooooouwa/news2kindle) - A docker containter that pulls your favourite RSS feeds, converts to MOBI, then whipersync to Kindle
 - [zhujisheng/Home-Assistant-DIY](https://github.com/zhujisheng/Home-Assistant-DIY) - Home Assistant智能家居实践篇
-- [frappe/erpnext](https://github.com/frappe/erpnext) - World's best free and open source ERP.
+- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [it-projects-llc/odoo-saas-tools](https://github.com/it-projects-llc/odoo-saas-tools) - Odoo SaaS Tools — tools for SaaS Businesses. Sale and manage Odoo databases.
 - [Xavier-Lam/wechat-django](https://github.com/Xavier-Lam/wechat-django) - WeChat-Django旨在为接入微信公众平台的django开发者提供便捷的微信功能封装及最基本的后台管理支持
 - [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind Watermark （图片盲水印，提取水印无须原图！）
