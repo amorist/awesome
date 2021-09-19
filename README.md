@@ -1450,6 +1450,7 @@
 
 ## JavaScript 
 
+- [thx/gogocode](https://github.com/thx/gogocode) - The simplest tool to parse/transform/generate code on ast
 - [Kujiale-Mobile/Painter](https://github.com/Kujiale-Mobile/Painter) - 小程序生成图片库，轻松通过 json 方式绘制一张可以发到朋友圈的图片
 - [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) - やり直すんだ。そして、次はうまくやる。
 - [woai3c/nand2tetris](https://github.com/woai3c/nand2tetris) - 计算机系统要素-从零开始构建现代计算机
@@ -2601,6 +2602,7 @@
 
 ## Others 
 
+- [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
 - [guevara/read-it-later](https://github.com/guevara/read-it-later) - read it later
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
@@ -2959,6 +2961,7 @@
 
 ## Python 
 
+- [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [ThoughtfulDev/EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -3449,6 +3452,7 @@
 
 ## TypeScript 
 
+- [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
 - [gorhom/react-navigation-scrollable-modal](https://github.com/gorhom/react-navigation-scrollable-modal) - This is a POC to replicate the native interaction behavior of iOS modal presentation with React Navigation.
 - [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone.
 - [edp963/davinci](https://github.com/edp963/davinci) - Davinci is a DVsaaS (Data Visualization as a Service) Platform
@@ -3926,6 +3930,7 @@
 
 ## Vue 
 
+- [Lijinghan9611/Li-ExamWidget](https://github.com/Lijinghan9611/Li-ExamWidget) - uniapp组件, 答题，测试组件，支持单选，多选，填空，在安卓手机端、微信小程序，浏览器测试没有问题
 - [woai3c/visual-drag-demo](https://github.com/woai3c/visual-drag-demo) - 一个低代码（可视化拖拽）教学项目
 - [YanxinNet/uView](https://github.com/YanxinNet/uView) - uView UI，是uni-app生态最优秀的UI框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水
 - [a7650/h5-editor](https://github.com/a7650/h5-editor) - 📕h5可视化编辑器，支持添加图片/文本/形状等，拥有图层/参考线/标尺/自动吸附对齐等功能
