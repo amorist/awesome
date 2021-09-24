@@ -205,7 +205,6 @@
 - [creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [thatoranzhevyy/slidev-theme-zhozhoba](https://github.com/thatoranzhevyy/slidev-theme-zhozhoba) - A zhozhoba theme for Slidev.
 - [vincent4j/weixin-paiban](https://github.com/vincent4j/weixin-paiban) - 微信公众号文章自动化一键排版
-- [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [developedbyed/glass-website](https://github.com/developedbyed/glass-website) - 
 - [ymm-tech/gods-pen-admin](https://github.com/ymm-tech/gods-pen-admin) - 码良管理后台项目
 - [elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) - Replacement icons for popular apps in the style of macOS Big Sur
@@ -1882,7 +1881,6 @@
 - [microsoft/TypeScript-Vue-Starter](https://github.com/microsoft/TypeScript-Vue-Starter) - A starter template for TypeScript and Vue with a detailed README describing how to use the two together.
 - [pqina/vue-filepond](https://github.com/pqina/vue-filepond) - 🔌 A handy FilePond adapter component for Vue
 - [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
-- [HunterXuan/wx-tfjs-demo](https://github.com/HunterXuan/wx-tfjs-demo) - 微信小程序运行 TensorFlow 的 Demo
 - [yan-foto/electron-reload](https://github.com/yan-foto/electron-reload) - Simplest (:pray:) way to reload an electron app on file changes!
 - [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [apollographql/react-apollo](https://github.com/apollographql/react-apollo) - :recycle: React integration for Apollo Client
@@ -2111,7 +2109,6 @@
 - [GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [phobal/ivideo](https://github.com/phobal/ivideo) - 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
-- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [egoist/is-taken](https://github.com/egoist/is-taken) - Check if an NPM package name is taken.
 - [nefe/You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
@@ -2717,7 +2714,7 @@
 - [tj/sponsors](https://github.com/tj/sponsors) - Open-source project suggestions powered by my GitHub sponsors
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [github/github-sponsors-beta](https://github.com/github/github-sponsors-beta) - Fund your work.  Build what matters. 💖
-- [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - A collection of open source and commercial tools that aid in red team operations.
+- [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for red teamer.
 - [matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts) - Transcripts of Clojure-related talks
 - [egoist/node-vs-deno](https://github.com/egoist/node-vs-deno) - A Deno guide for Node.js developers
 - [amorist/quant-finance](https://github.com/amorist/quant-finance) - futu quant finance
@@ -3032,7 +3029,7 @@
 - [vt-vl-lab/3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
 - [pythonstock/stock](https://github.com/pythonstock/stock) - stock，股票系统。使用python进行开发。
 - [imgcook/ml-mac-classify](https://github.com/imgcook/ml-mac-classify) - 体验机器学习：在Mac电脑上训练和部署一个图片分类模型
-- [fireeye/capa](https://github.com/fireeye/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
+- [mandiant/capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [adobe/frontend-regression-validator](https://github.com/adobe/frontend-regression-validator) - Visual regression tool used to compare baseline and updated instances of a website in a deployment pipeline.
 - [SVAIGBA/WMSeg](https://github.com/SVAIGBA/WMSeg) - 
@@ -3149,6 +3146,7 @@
 - [QUANTAXIS/QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS) - QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币  数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案
 - [mkaz/termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
 - [tensorflow/hub](https://github.com/tensorflow/hub) - A library for transfer learning by reusing parts of TensorFlow models.
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [techbanca/coinai](https://github.com/techbanca/coinai) - Seed applications based on AI for digital currency quantitative analysis, medium-term forecast and asset allocation for the secondary market of the BANCA community
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [magenta/magenta](https://github.com/magenta/magenta) - Magenta: Music and Art Generation with Machine Intelligence
@@ -3290,6 +3288,7 @@
 
 ## SCSS 
 
+- [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
@@ -3460,6 +3459,7 @@
 
 ## TypeScript 
 
+- [AriaMinaei/theatre](https://github.com/AriaMinaei/theatre) - Motion design editor for the web
 - [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
 - [gorhom/react-navigation-scrollable-modal](https://github.com/gorhom/react-navigation-scrollable-modal) - This is a POC to replicate the native interaction behavior of iOS modal presentation with React Navigation.
 - [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone.
@@ -3765,6 +3765,7 @@
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [egoist/vue-compile](https://github.com/egoist/vue-compile) - Compile the blocks in Vue single-file components to use JS/CSS instead of Babel/Sass/Stylus.
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
+- [HunterXuan/wx-tfjs-demo](https://github.com/HunterXuan/wx-tfjs-demo) - 微信小程序运行 TensorFlow 的 Demo
 - [amorist/electron-typescript-template](https://github.com/amorist/electron-typescript-template) - Electron typescript template
 - [zenghongtu/Remu](https://github.com/zenghongtu/Remu) - 💥Chrome Extension for GitHub that view stars / star history / organizing starred repository
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
