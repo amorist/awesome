@@ -346,7 +346,6 @@
 - [zeromicro/zero-examples](https://github.com/zeromicro/zero-examples) - go-zero examples
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
-- [kdcer/dgshare-marketing-platform](https://github.com/kdcer/dgshare-marketing-platform) - 云数享营销平台
 - [cespare/reflex](https://github.com/cespare/reflex) - Run a command when files change
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
 - [happy888888/WeiboTask](https://github.com/happy888888/WeiboTask) - 🔔WeiboTask⏰  微博超话app每日签到，评论转发，积分获取。微博app每日签到
@@ -359,7 +358,7 @@
 - [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, efficient spring animation library 🎼
 - [golang-design/history](https://github.com/golang-design/history) - 📝  Go: A Documentary | https://golang.design/history
-- [yedf/dtm](https://github.com/yedf/dtm) - 🔥A cross-language distributed transaction manager.
+- [yedf/dtm](https://github.com/yedf/dtm) - 🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages.
 - [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable, production-grade WebRTC video conferencing. SDKs for web & mobile.
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.
 - [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
@@ -2608,6 +2607,8 @@
 
 ## Others 
 
+- [microsoft/Power-Fx](https://github.com/microsoft/Power-Fx) - Power Fx low-code programming language
+- [qianguyihao/Mac](https://github.com/qianguyihao/Mac) - Mac系统、Mac软件的操作和使用技巧整理，正在不断完善中。努力做到最全。
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
 - [guevara/read-it-later](https://github.com/guevara/read-it-later) - read it later
@@ -2713,7 +2714,7 @@
 - [tj/sponsors](https://github.com/tj/sponsors) - Open-source project suggestions powered by my GitHub sponsors
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [github/github-sponsors-beta](https://github.com/github/github-sponsors-beta) - Fund your work.  Build what matters. 💖
-- [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for red teamer.
+- [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
 - [matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts) - Transcripts of Clojure-related talks
 - [egoist/node-vs-deno](https://github.com/egoist/node-vs-deno) - A Deno guide for Node.js developers
 - [amorist/quant-finance](https://github.com/amorist/quant-finance) - futu quant finance
