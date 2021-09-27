@@ -496,7 +496,7 @@
 - [sashabaranov/go-gpt3](https://github.com/sashabaranov/go-gpt3) - OpenAI GPT-3 API wrapper for Go
 - [c-bata/go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
-- [alibaba/RedisShake](https://github.com/alibaba/RedisShake) - Redis-shake is a tool for synchronizing data between two redis databases. Redis-shake 是一个用于在两个 redis之 间同步数据的工具，满足用户非常灵活的同步、迁移需求。
+- [alibaba/RedisShake](https://github.com/alibaba/RedisShake) - redis-shake is a tool for synchronizing data between two redis databases. Redis-shake 是一个用于在两个 redis之 间同步数据的工具，满足用户非常灵活的同步、迁移需求。
 - [mrz1836/go-mail](https://github.com/mrz1836/go-mail) - :incoming_envelope: Simple email interface across multiple service providers (ses, postmark, mandrill, smtp)
 - [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
@@ -1309,6 +1309,7 @@
 - [go-gorm/gorm.io](https://github.com/go-gorm/gorm.io) - GORM official site
 - [netpi/wechat-layout](https://github.com/netpi/wechat-layout) - 月薪 3W 的 Apple 微信编辑是这么发文章的 |如何发类似 Apple 微信公众号的文章效果
 - [tulios/json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
+- [1milligram/html-dom](https://github.com/1milligram/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 - [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
 - [onedr0p/k3s-homeops-ansible](https://github.com/onedr0p/k3s-homeops-ansible) - Bootstrap a k3s cluster on top of Ubuntu 20.04
 - [Paull/hiwifi.easucks](https://github.com/Paull/hiwifi.easucks) - 极路由器官方固件的插件，FIFA助手，SS，For 1.2.5-1.5.9
@@ -1453,6 +1454,8 @@
 
 ## JavaScript 
 
+- [react-visual-design/react-visual-design](https://github.com/react-visual-design/react-visual-design) - react 可视化搭建平台,移动端可视化编辑平台,低代码设计平台,组件复用  低代码 无代码
+- [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme) - GitHub's VS Code themes
 - [tsycnh/WeChatExporter](https://github.com/tsycnh/WeChatExporter) - 一个可以快速导出、查看你的微信聊天记录的工具
 - [thx/gogocode](https://github.com/thx/gogocode) - The simplest tool to parse/transform/generate code on ast
@@ -2572,7 +2575,6 @@
 
 ## Nunjucks 
 
-- [phuoc-ng/html-dom](https://github.com/phuoc-ng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 
 ## OCaml 
@@ -3231,6 +3233,7 @@
 
 ## Ruby 
 
+- [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
 - [faker-ruby/faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
@@ -3461,6 +3464,9 @@
 
 ## TypeScript 
 
+- [shadcn/next-mdx](https://github.com/shadcn/next-mdx) - next-mdx provides a set of helper functions for fetching and rendering local MDX files. It handles relational data, supports custom components, is TypeScript ready and really fast.
+- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
+- [gmpetrov/ultimate-saas-ts](https://github.com/gmpetrov/ultimate-saas-ts) - Template to quickstart a SAAS business
 - [AriaMinaei/theatre](https://github.com/AriaMinaei/theatre) - Motion design editor for the web
 - [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
 - [gorhom/react-navigation-scrollable-modal](https://github.com/gorhom/react-navigation-scrollable-modal) - This is a POC to replicate the native interaction behavior of iOS modal presentation with React Navigation.
