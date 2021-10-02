@@ -343,6 +343,7 @@
 
 ## Go 
 
+- [openscrm/api-server](https://github.com/openscrm/api-server) - OpenSCRM是一套基于Go和React的超高质量企业微信私域流量管理系统 。企业微信、私域流量、SCRM、CRM、Golang、React、企业微信SDK
 - [ihexxa/quickshare](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices, built with Go, React and Typescript.
 - [fogleman/ln](https://github.com/fogleman/ln) - 3D line art engine.
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
@@ -1462,6 +1463,7 @@
 
 ## JavaScript 
 
+- [tencentyun/wafer-client-demo](https://github.com/tencentyun/wafer-client-demo) - Wafer - 企业级微信小程序全栈方案
 - [muaz-khan/RecordRTC](https://github.com/muaz-khan/RecordRTC) - RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
 - [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 - [mue/mue](https://github.com/mue/mue) - Fast, open and free-to-use new tab page for modern browsers
@@ -1483,7 +1485,7 @@
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
 - [stefanbuck/github-issue-parser](https://github.com/stefanbuck/github-issue-parser) - 
 - [MauriceConrad/iCloud-API](https://github.com/MauriceConrad/iCloud-API) - Node API for Apple's iCloud services
-- [clouDr-f2e/rubick](https://github.com/clouDr-f2e/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
+- [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端监控系统，webfunny也是一款前端性能监控系统，无埋点监控前端日志，实时分析前端健康状态。webfunny is a lightweight front-end monitoring system and webfunny is also a front-end performance monitoring system. It monitors front-end logs and analyzes front-end health status in real time.
 - [casbin/casnode](https://github.com/casbin/casnode) - Next-generation forum software based on React + Golang, QQ group: 555019739, online demo: https://forum.casbin.com
 - [TeamStuQ/Poster](https://github.com/TeamStuQ/Poster) - 海报生成器：http://www.geekbang.org/poster
@@ -2183,7 +2185,7 @@
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [egoist/vue-timeago](https://github.com/egoist/vue-timeago) - A timeago component for Vue.
 - [yardnsm/ink-text-animation](https://github.com/yardnsm/ink-text-animation) - A text animation component for Ink
-- [mui-org/material-ui](https://github.com/mui-org/material-ui) - Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.
+- [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system or start with Material Design.
 - [jayqizone/homebridge-mi-heatercooler](https://github.com/jayqizone/homebridge-mi-heatercooler) - Mi / Aqara AC partner plugin for Homebridge
 - [sindresorhus/sindresorhus-cli](https://github.com/sindresorhus/sindresorhus-cli) - The Sindre Sorhus CLI
 - [node-schedule/node-schedule](https://github.com/node-schedule/node-schedule) - A cron-like and not-cron-like job scheduler for Node.
@@ -3477,6 +3479,7 @@
 
 ## TypeScript 
 
+- [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars.
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
