@@ -86,7 +86,6 @@
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [cmusphinx/pocketsphinx](https://github.com/cmusphinx/pocketsphinx) - PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop
 - [peng-zhihui/HDMI-PI](https://github.com/peng-zhihui/HDMI-PI) - 我设计的一个HDMI转MIPI模块，可以用于驱动各种手机屏幕当显示器用。
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [kn007/silk-v3-decoder](https://github.com/kn007/silk-v3-decoder) - [Skype Silk Codec SDK]Decode silk v3 audio files (like wechat amr, aud files, qq slk files) and convert to other format (like mp3). Batch conversion support.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [n64decomp/sm64](https://github.com/n64decomp/sm64) - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
@@ -403,7 +402,7 @@
 - [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) - 
 - [SMerrony/aghast](https://github.com/SMerrony/aghast) - AGHAST is A Go Home Automation SysTem closely coupled with MQTT.
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go
-- [TwinProduction/gatus](https://github.com/TwinProduction/gatus) - ⛑ Gatus - Automated service health dashboard
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [name5566/leaf](https://github.com/name5566/leaf) - A game server framework in Go (golang)
 - [tencentyun/cos-go-sdk-v5](https://github.com/tencentyun/cos-go-sdk-v5) - 腾讯云 COS GO SDK（XML API）
 - [didi/gendry](https://github.com/didi/gendry) - a golang library for sql builder
@@ -1079,7 +1078,7 @@
 - [sausheong/invadersapp](https://github.com/sausheong/invadersapp) - Space invaders in an app
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [piquette/finance-go](https://github.com/piquette/finance-go) - :bar_chart: Financial markets data library implemented in go.
-- [Jeffail/benthos](https://github.com/Jeffail/benthos) - Declarative stream processing for mundane tasks and data engineering
+- [Jeffail/benthos](https://github.com/Jeffail/benthos) - A declarative stream processor for lean data engineering
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [Terry-Mao/goim](https://github.com/Terry-Mao/goim) - goim
 - [drone/drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
@@ -2285,7 +2284,7 @@
 - [agebrock/tunnel-ssh](https://github.com/agebrock/tunnel-ssh) - Easy ssh tunneling
 - [GoogleTrends/data](https://github.com/GoogleTrends/data) - An index of all open-source data
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
-- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - The tiny framework for building hypertext applications.
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [bailicangdu/node-elm](https://github.com/bailicangdu/node-elm) - 基于 node.js + Mongodb 构建的后台系统
@@ -3040,6 +3039,7 @@
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [munki/macadmin-scripts](https://github.com/munki/macadmin-scripts) - Scripts of possible interest to macOS admins
 - [lucasrangit/twitter-winner](https://github.com/lucasrangit/twitter-winner) - Twitter Winner
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
