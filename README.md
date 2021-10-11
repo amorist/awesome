@@ -341,6 +341,7 @@
 
 ## Go 
 
+- [miguelmota/ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book) - 📖 A little guide book on Ethereum Development with Go (golang)
 - [kevwan/chatbot](https://github.com/kevwan/chatbot) - A fast responsive, machine learning, conversational dialog engine for creating chat bots, written in Go.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [changkun/urlstat](https://github.com/changkun/urlstat) - 📈 URL access statistic service
@@ -366,7 +367,7 @@
 - [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, efficient spring animation library 🎼
 - [golang-design/history](https://github.com/golang-design/history) - 📝  Go: A Documentary | https://golang.design/history
-- [yedf/dtm](https://github.com/yedf/dtm) - 🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages.  Go 分布式事务管理器
+- [yedf/dtm](https://github.com/yedf/dtm) - 🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages.
 - [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable, production-grade WebRTC video conferencing. SDKs for web & mobile.
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.
 - [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
@@ -1463,6 +1464,7 @@
 
 ## JavaScript 
 
+- [xudafeng/autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto Responsive Layout Library For React
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [tencentyun/wafer-client-demo](https://github.com/tencentyun/wafer-client-demo) - Wafer - 企业级微信小程序全栈方案
 - [muaz-khan/RecordRTC](https://github.com/muaz-khan/RecordRTC) - RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
@@ -3004,7 +3006,7 @@
 - [lepture/authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
 - [psoho/fast-poster](https://github.com/psoho/fast-poster) - fastposter 低代码海报生成器，可视化编辑设计海报，快速完成海报设计，一分钟完成海报开发，快速生成海报，完成海报制作，自动化生成海报。支持Java,Python,PHP,Go,JS等多种语言，也支持小程序生成海报。 文档：https://poster.prodapi.cn/docs/
 - [ackerr/Algorithms](https://github.com/ackerr/Algorithms) - (๑• . •๑)
-- [alibaba/AliceMind](https://github.com/alibaba/AliceMind) - 
+- [alibaba/AliceMind](https://github.com/alibaba/AliceMind) - ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab
 - [claffin/cloudproxy](https://github.com/claffin/cloudproxy) - Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
 - [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline!
 - [youyuge34/Anime-InPainting](https://github.com/youyuge34/Anime-InPainting) - An application tool of edge-connect, which can do anime inpainting and drawing.   动漫人物图片自动修复，去马赛克，填补，去瑕疵
@@ -3493,7 +3495,7 @@
 - [wsdo/taro-kit](https://github.com/wsdo/taro-kit) - 🏆✌️taro 小程序脚手架。 特性： 封装api、redux优雅集成、生成海报类，异常日志上报。 如果能帮到你，就给个 star😊
 - [microsoft/vscode-webview-ui-toolkit](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code.
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source Airtable-like experience for your database with GCP's scalability. Build any automation or cloud functions for your product. ⚡️✨
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source Airtable-like experience for your database (Firestore) with GCP's scalability. Build any automation or cloud functions for your product. ⚡️✨
 - [kentcdodds/kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) - My personal website
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, Prisma, and Vercel.
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
