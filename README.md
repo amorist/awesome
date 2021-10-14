@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [ASP.NET](#asp.net)
   - [AppleScript](#applescript)
   - [Assembly](#assembly)
   - [C](#c)
@@ -67,6 +68,10 @@
   - [VBA](#vba)
   - [Vim script](#vim-script)
   - [Vue](#vue)
+
+## ASP.NET 
+
+- [peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) - 我的超迷你机械臂机器人项目。
 
 ## AppleScript 
 
@@ -477,6 +482,7 @@
 - [getlantern/systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
 - [bitepeng/b0pass](https://github.com/bitepeng/b0pass) - 百灵快传：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
 - [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
+- [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [docker/compose-cli](https://github.com/docker/compose-cli) - Easily run your Compose application to the cloud with compose-cli
 - [docker/cli](https://github.com/docker/cli) - The Docker CLI
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
@@ -1465,6 +1471,7 @@
 
 ## JavaScript 
 
+- [xaboy/form-create-designer](https://github.com/xaboy/form-create-designer) - 好用的vue可视化表单设计器
 - [xudafeng/autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto Responsive Layout Library For React
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [tencentyun/wafer-client-demo](https://github.com/tencentyun/wafer-client-demo) - Wafer - 企业级微信小程序全栈方案
@@ -1617,7 +1624,6 @@
 - [haruiz/RiggingJs](https://github.com/haruiz/RiggingJs) - Tensorflow.js and Three.js skeletal animation tool
 - [vercel/vrs](https://github.com/vercel/vrs) - A serverless virtual reality e-commerce experience powered by Vercel
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-- [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [tj/node-delegates](https://github.com/tj/node-delegates) - Nodejs method and accessor delegation utility
 - [sunoj/jjb](https://github.com/sunoj/jjb) - 一个帮助你自动申请京东价格保护的chrome拓展
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
@@ -2994,6 +3000,7 @@
 
 ## Python 
 
+- [shibing624/pycorrector](https://github.com/shibing624/pycorrector) - pycorrector is a toolkit for text error correction. 文本纠错，Kenlm，Seq2Seq_Attention，BERT，MacBERT，ELECTRA，ERNIE，Transformer等模型实现，开箱即用。
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease
@@ -3409,7 +3416,7 @@
 - [zhxnlai/ZLSwipeableViewSwift](https://github.com/zhxnlai/ZLSwipeableViewSwift) - A simple view for building card like interface inspired by Tinder and Potluck.
 - [benjaminmayo/merchantkit](https://github.com/benjaminmayo/merchantkit) - A modern In-App Purchases management framework for iOS.
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
-- [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - The macOS color picker as an app with more features
+- [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - 🎨 The macOS color picker as an app with more features
 - [naman14/adb-tools-mac](https://github.com/naman14/adb-tools-mac) - Mac menu bar app for common adb tools
 - [fromkk/FreeTimePicker](https://github.com/fromkk/FreeTimePicker) - Free time picker iOS Application with SwiftUI and Combine
 - [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
@@ -3495,6 +3502,7 @@
 
 ## TypeScript 
 
+- [ProjectOpenSea/opensea-js](https://github.com/ProjectOpenSea/opensea-js) - JavaScript SDK for the OpenSea marketplace. Let your users buy or sell cryptogoods on your own site!
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [wsdo/taro-kit](https://github.com/wsdo/taro-kit) - 🏆✌️taro 小程序脚手架。 特性： 封装api、redux优雅集成、生成海报类，异常日志上报。 如果能帮到你，就给个 star😊
 - [microsoft/vscode-webview-ui-toolkit](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code.
