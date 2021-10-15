@@ -372,7 +372,7 @@
 - [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, efficient spring animation library 🎼
 - [golang-design/history](https://github.com/golang-design/history) - 📝  Go: A Documentary | https://golang.design/history
-- [yedf/dtm](https://github.com/yedf/dtm) - 🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages. go分布式事务管理器
+- [yedf/dtm](https://github.com/yedf/dtm) - 🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages.
 - [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable, production-grade WebRTC video conferencing. SDKs for web & mobile.
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.
 - [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
@@ -1107,7 +1107,7 @@
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [jhvst/vertigo](https://github.com/jhvst/vertigo) - Blog engine in Go (golang)
 - [kozmos/strict-request](https://github.com/kozmos/strict-request) - Send strict HTTP Requests with Go
-- [micro/micro](https://github.com/micro/micro) - Micro is an operating system for the cloud
+- [micro/micro](https://github.com/micro/micro) - Micro is an open source distributed cloud OS
 - [jdkato/prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [Jeiwan/blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [josephyzhou/github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
@@ -2058,7 +2058,6 @@
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [jasondu/wxa-plugin-canvas](https://github.com/jasondu/wxa-plugin-canvas) - 小程序海报组件-生成朋友圈分享海报并生成图片
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
-- [vercel/now-builders](https://github.com/vercel/now-builders) - Official Now Builders created by the ZEIT team
 - [vercel/now-desktop](https://github.com/vercel/now-desktop) - An example of building a desktop application using the Now API
 - [Jackliu007888/stock-helper](https://github.com/Jackliu007888/stock-helper) - a chrome extension for Chinese stock
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
@@ -2239,7 +2238,6 @@
 - [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
 - [jezen/is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [html-sketchapp/html-sketchapp](https://github.com/html-sketchapp/html-sketchapp) - HTML to Sketch export solution
-- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [issue-db/issue-db](https://github.com/issue-db/issue-db) - ☁️ Use GitHub Issues as a JSON datastore
 - [mrvautin/adminMongo](https://github.com/mrvautin/adminMongo) - adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.
 - [terkelg/ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App.
@@ -3939,6 +3937,7 @@
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [intelligo-mn/intelligo](https://github.com/intelligo-mn/intelligo) - 🤖 Chatbot Framework for Node.js.
+- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [propelml/propel](https://github.com/propelml/propel) - Differential Programming in JavaScript.
 - [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 - [getsentry/sentry-electron](https://github.com/getsentry/sentry-electron) - The official Sentry SDK for Electron
