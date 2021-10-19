@@ -350,7 +350,7 @@
 - [kevwan/chatbot](https://github.com/kevwan/chatbot) - A fast responsive, machine learning, conversational dialog engine for creating chat bots, written in Go.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [changkun/urlstat](https://github.com/changkun/urlstat) - 📈 URL access statistic service
-- [authzed/spicedb](https://github.com/authzed/spicedb) - A database system dedicated to managing security-critical permissions checking in your applications. Inspired by Google's Zanzibar paper.
+- [authzed/spicedb](https://github.com/authzed/spicedb) - A database system for managing security-critical permissions checking. Inspired by Google's Zanzibar paper.
 - [openscrm/api-server](https://github.com/openscrm/api-server) - OpenSCRM是一套基于Go和React的超高质量企业微信私域流量管理系统 。企业微信、私域流量、SCRM、CRM、Golang、React、企业微信SDK
 - [ihexxa/quickshare](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices, built with Go, React and Typescript.
 - [fogleman/ln](https://github.com/fogleman/ln) - 3D line art engine.
