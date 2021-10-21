@@ -12,6 +12,7 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
+  - [Clojure](#clojure)
   - [CodeQL](#codeql)
   - [CoffeeScript](#coffeescript)
   - [DIGITAL Command Language](#digital-command-language)
@@ -86,6 +87,7 @@
 
 ## C 
 
+- [guanshuicheng/invoice](https://github.com/guanshuicheng/invoice) - 增值税发票OCR识别，使用flask微服务架构，识别type：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等
 - [beanstalkd/beanstalkd](https://github.com/beanstalkd/beanstalkd) - Beanstalk is a simple, fast work queue.
 - [luin/wechat-export](https://github.com/luin/wechat-export) - 📃 Export WeChat chat histories to HTML files.
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
@@ -204,6 +206,8 @@
 
 ## CSS 
 
+- [marvelapp/devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
+- [QiShaoXuan/css_tricks](https://github.com/QiShaoXuan/css_tricks) - Some CSS tricks,一些 CSS 常用样式
 - [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
@@ -264,6 +268,10 @@
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [dargullin/icheck](https://github.com/dargullin/icheck) - Highly customizable checkboxes and radio buttons (jQuery & Zepto)
 
+## Clojure 
+
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
+
 ## CodeQL 
 
 - [github/codeql-go](https://github.com/github/codeql-go) - The CodeQL extractor and libraries for Go.
@@ -297,6 +305,7 @@
 
 ## Dart 
 
+- [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
 - [bytedance/RealRichText](https://github.com/bytedance/RealRichText) - A Tricky Solution for Implementing Inline-Image-In-Text Feature in Flutter.
 - [erluxman/awesomefluttertips](https://github.com/erluxman/awesomefluttertips) - ❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️
 - [limichange/bangumi-client](https://github.com/limichange/bangumi-client) - 基于Flutter的二次元追番客户端
@@ -346,6 +355,9 @@
 
 ## Go 
 
+- [erda-project/erda](https://github.com/erda-project/erda) - An enterprise-grade Cloud-Native application platform for Kubernetes.
+- [88250/lute](https://github.com/88250/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
+- [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted video-hosting website and yt-dlp video archival manager for Niconico, Bilibili, and Youtube
 - [miguelmota/ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book) - 📖 A little guide book on Ethereum Development with Go (golang)
 - [kevwan/chatbot](https://github.com/kevwan/chatbot) - A fast responsive, machine learning, conversational dialog engine for creating chat bots, written in Go.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
@@ -403,6 +415,7 @@
 - [brentnd/go-snowboy](https://github.com/brentnd/go-snowboy) - Go wrapper for Kitt-AI's snowboy audio detection library.
 - [xxjwxc/public](https://github.com/xxjwxc/public) - util toolkit for go.golang 通用函数包
 - [harranali/authority](https://github.com/harranali/authority) - Role Based Access Control (RBAC) with database persistence
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [marmotedu/iam](https://github.com/marmotedu/iam) - 企业级的 Go 语言实战项目（可作为Go项目开发脚手架）
 - [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [naiba/nezha](https://github.com/naiba/nezha) - :trollface: 哪吒监控 一站式轻监控轻运维系统。支持系统状态、HTTP、TCP、Ping 监控报警，计划任务和在线终端。
@@ -489,7 +502,7 @@
 - [caarlos0/env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven workflow automation framework
-- [timescale/promscale](https://github.com/timescale/promscale) - An open-source analytical platform for Prometheus metrics 🚀
+- [timescale/promscale](https://github.com/timescale/promscale) - The open-source observability backend for metrics and traces powered by SQL 🚀
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -721,7 +734,7 @@
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [Jeffail/tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
-- [didi/Gatekeeper](https://github.com/didi/Gatekeeper) - A plug-in / rapid development / high performance / golang gateway
+- [didi/GateKeeper](https://github.com/didi/GateKeeper) - A plug-in / Rapid development / High performance  golang gateway
 - [tj/go-search](https://github.com/tj/go-search) - Search Godoc.org via the command-line.
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
 - [percona/mongodb_exporter](https://github.com/percona/mongodb_exporter) - A Prometheus exporter for MongoDB including sharding, replication and storage engines
@@ -1107,7 +1120,7 @@
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [jhvst/vertigo](https://github.com/jhvst/vertigo) - Blog engine in Go (golang)
 - [kozmos/strict-request](https://github.com/kozmos/strict-request) - Send strict HTTP Requests with Go
-- [micro/micro](https://github.com/micro/micro) - Micro is an open source distributed cloud OS
+- [micro/micro](https://github.com/micro/micro) - Micro is a distributed cloud operating system
 - [jdkato/prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [Jeiwan/blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [josephyzhou/github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
@@ -1299,7 +1312,6 @@
 - [bruceyanwee/text4photo](https://github.com/bruceyanwee/text4photo) - 
 - [mhaecal/skilline-landing-page](https://github.com/mhaecal/skilline-landing-page) - Free landing page template built on top of Tailwind CSS
 - [michelegera/tailwindcss-open-template](https://github.com/michelegera/tailwindcss-open-template) - 🛬 An implementation of the “Open” landing page template using Tailwind CSS Boilerplate.
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [ganlanyuan/tiny-slider](https://github.com/ganlanyuan/tiny-slider) - Vanilla javascript slider for all purposes.
 - [brucewar/svg-tutorial](https://github.com/brucewar/svg-tutorial) - SVG教程的翻译版 - http://brucewar.gitbooks.io/svg-tutorial
 - [jasonlong/jasonlong](https://github.com/jasonlong/jasonlong) - 
@@ -1307,7 +1319,6 @@
 - [yi-ge/weixin-login-php](https://github.com/yi-ge/weixin-login-php) - 完美版本的开放平台无跳转微信登录🔥🔥🔥，将frame数据处理为图片或Base64图片数据返回客户端进行扫码。解决Chrome70中open.weixin.qq.com腾讯SSL证书不被信任的问题，解决Chrome68中frame跨域被拦截的问题。
 - [wechatjs/mp-darkmode](https://github.com/wechatjs/mp-darkmode) - 微信公众平台图文 Dark Mode 转换算法
 - [insoxin/qrpay](https://github.com/insoxin/qrpay) - 五合一收款码在线生成,40个模板 支持微信支付、支付宝支付、手机QQ支付、京东钱包、百度钱包,PayPal五合一收款，将其二维码合并为一个二维码，无需手续费,支持qq头像,昵称判断(HTML单页版多模板免安装) 腾讯云服务器 https://api.isoyu.com/qrpay/  腾讯云COS https://qrpay.isoyu.com/
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [eddycjy/blog](https://github.com/eddycjy/blog) - 煎鱼的博客，有点忙，传送门：https://eddycjy.com
 - [saurabhdaware/text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting) - So your teacher asked you to upload written assignments? Hate writing assigments? This tool will help you convert your text to handwriting xD
@@ -1401,6 +1412,7 @@
 
 ## Java 
 
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
 - [apache/rocketmq](https://github.com/apache/rocketmq) - Mirror of Apache RocketMQ
@@ -1477,6 +1489,11 @@
 
 ## JavaScript 
 
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is an open-source low-code platform for building and deploying internal tools with minimal engineering efforts 🚀
+- [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
+- [bxm0927/canvas-special](https://github.com/bxm0927/canvas-special) - :octocat::alien::star2:超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等。
+- [yyhsong/iDataV](https://github.com/yyhsong/iDataV) - 大屏数据可视化 Big screen data visualization demo
+- [fosscord/fosscord](https://github.com/fosscord/fosscord) - Fosscord is a free open source selfhostable discord compatible chat, voice and video platform
 - [alibaba-fusion/next](https://github.com/alibaba-fusion/next) - 🦍 A configurable component library for web built on React.
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [xaboy/form-create-designer](https://github.com/xaboy/form-create-designer) - 好用的vue可视化表单设计器
@@ -2641,6 +2658,8 @@
 
 ## Others 
 
+- [xatkit-bot-platform/xatkit](https://github.com/xatkit-bot-platform/xatkit) - The simplest way to build all types of smart chatbots and digital assistants
+- [emilebosch/awesome-fediverse](https://github.com/emilebosch/awesome-fediverse) - A curated, collaborative list of awesome Fediverse resources
 - [WorkerLivesMatter/WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) - 
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [amorist/free-saas-for-business](https://github.com/amorist/free-saas-for-business) - 免费SaaS帮助企业快速增长
@@ -2962,6 +2981,7 @@
 
 ## PHP 
 
+- [zhanghuanchong/icon-workshop](https://github.com/zhanghuanchong/icon-workshop) - 图标工场 - 移动应用图标生成工具，一键生成所有尺寸的应用图标和启动图
 - [helloxz/onenav](https://github.com/helloxz/onenav) - 使用PHP开发的简约导航/书签管理系统。
 - [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源式站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
 - [zeromicro/goctl-swagger](https://github.com/zeromicro/goctl-swagger) - 
@@ -3006,6 +3026,10 @@
 
 ## Python 
 
+- [jeffknupp/sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database. No code required!
+- [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
+- [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
+- [liuhuanyong/QASystemOnMedicalKG](https://github.com/liuhuanyong/QASystemOnMedicalKG) - A tutorial and implement of disease centered Medical knowledge graph and qa system based on it。知识图谱构建，自动问答，基于kg的自动问答。以疾病为中心的一定规模医药领域知识图谱，并以该知识图谱完成自动问答与分析服务。
 - [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [shibing624/pycorrector](https://github.com/shibing624/pycorrector) - pycorrector is a toolkit for text error correction. 文本纠错，Kenlm，Seq2Seq_Attention，BERT，MacBERT，ELECTRA，ERNIE，Transformer等模型实现，开箱即用。
@@ -3278,6 +3302,7 @@
 
 ## Ruby 
 
+- [github/octobox](https://github.com/github/octobox) - 📮Untangle your GitHub Notifications
 - [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
 - [faker-ruby/faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
@@ -3351,6 +3376,7 @@
 
 ## Scala 
 
+- [luochana/News_recommend](https://github.com/luochana/News_recommend) - 基于Spark的新闻推荐系统，包含爬虫项目、web网站以及spark推荐系统
 - [twitter-archive/snowflake](https://github.com/twitter-archive/snowflake) - Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
 
 ## Shell 
@@ -3511,6 +3537,11 @@
 
 ## TypeScript 
 
+- [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Figma to HTML, CSS, React, Vue, and more!
+- [pankod/refine](https://github.com/pankod/refine) - refine is a React-based framework for building data-intensive applications in no time ✨ It ships with Ant Design System, an enterprise-level UI toolkit.
+- [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
+- [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
+- [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework.
 - [ProjectOpenSea/opensea-js](https://github.com/ProjectOpenSea/opensea-js) - JavaScript SDK for the OpenSea marketplace. Let your users buy or sell cryptogoods on your own site!
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [wsdo/taro-kit](https://github.com/wsdo/taro-kit) - 🏆✌️taro 小程序脚手架。 特性： 封装api、redux优雅集成、生成海报类，异常日志上报。 如果能帮到你，就给个 star😊
@@ -3587,8 +3618,9 @@
 - [woopen/nplayer](https://github.com/woopen/nplayer) - 🚀 支持移动端、支持 SSR、支持直播，可以接入任何流媒体。高性能的弹幕系统。高度可定制，所有图标、主题色等都可以替换，并且提供了内置组件方便二次开发。无第三方运行时依赖。
 - [contra/react-responsive](https://github.com/contra/react-responsive) - CSS media queries in react - for responsive design, and more.
 - [vueComponent/pro-layout](https://github.com/vueComponent/pro-layout) - easy use `Ant Design Vue` layout
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open source and free no-code development platform.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code development platform.
 - [didi/LogicFlow](https://github.com/didi/LogicFlow) - A front-end framework for process visualization.
+- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [phodal/ledge](https://github.com/phodal/ledge) - Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
@@ -4008,6 +4040,9 @@
 
 ## Vue 
 
+- [vuejs/create-vue](https://github.com/vuejs/create-vue) - An easy way to start a Vue project
+- [uasoft-indonesia/badaso](https://github.com/uasoft-indonesia/badaso) - The API & platform builder, build your apps 10x faster even more, it's open source & 100% free !
+- [yangyuji/h5-factory](https://github.com/yangyuji/h5-factory) - h5制作，移动端专题活动页面可视化编辑
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
 - [gs-shop/vue-slick-carousel](https://github.com/gs-shop/vue-slick-carousel) - 🚥Vue Slick Carousel with True SSR Written for ⚡Faster Luxstay
 - [slidevjs/docs](https://github.com/slidevjs/docs) - Documentation for Slidev
