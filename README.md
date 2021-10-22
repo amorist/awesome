@@ -270,6 +270,7 @@
 
 ## Clojure 
 
+- [mikub/titanoboa](https://github.com/mikub/titanoboa) - Titanoboa makes complex workflows easy. It is a low-code workflow orchestration platform for JVM - distributed, highly scalable and fault tolerant.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 
 ## CodeQL 
@@ -355,6 +356,7 @@
 
 ## Go 
 
+- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [erda-project/erda](https://github.com/erda-project/erda) - An enterprise-grade Cloud-Native application platform for Kubernetes.
 - [88250/lute](https://github.com/88250/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted video-hosting website and yt-dlp video archival manager for Niconico, Bilibili, and Youtube
@@ -734,7 +736,7 @@
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [Jeffail/tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
-- [didi/GateKeeper](https://github.com/didi/GateKeeper) - A plug-in / Rapid development / High performance  golang gateway
+- [didi/GateKeeper](https://github.com/didi/GateKeeper) - A high-performance Golang gateway that supports rapid development and plug-inization
 - [tj/go-search](https://github.com/tj/go-search) - Search Godoc.org via the command-line.
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
 - [percona/mongodb_exporter](https://github.com/percona/mongodb_exporter) - A Prometheus exporter for MongoDB including sharding, replication and storage engines
@@ -1489,6 +1491,11 @@
 
 ## JavaScript 
 
+- [actuallyakash/spacers](https://github.com/actuallyakash/spacers) - 🔳 when you need more __space__
+- [saltcorn/saltcorn](https://github.com/saltcorn/saltcorn) - Free and open source no-code application builder
+- [grouparoo/grouparoo](https://github.com/grouparoo/grouparoo) - 🦘 The Grouparoo Monorepo - open source customer data sync framework
+- [ovineio/ovine](https://github.com/ovineio/ovine) - Build entirety admin system ui blazing fast with json.
+- [steedos/steedos-platform](https://github.com/steedos/steedos-platform) - 华炎魔方低代码/无代码开发平台源码仓库，私有部署完全免费。Steedos Low-Code / No-Code Platform, Self-hosted salesforce alternative.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is an open-source low-code platform for building and deploying internal tools with minimal engineering efforts 🚀
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [bxm0927/canvas-special](https://github.com/bxm0927/canvas-special) - :octocat::alien::star2:超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等。
@@ -1515,7 +1522,7 @@
 - [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) - やり直すんだ。そして、次はうまくやる。
 - [woai3c/nand2tetris](https://github.com/woai3c/nand2tetris) - 计算机系统要素-从零开始构建现代计算机
 - [HashLips/generative-art-node](https://github.com/HashLips/generative-art-node) - Create generative art by using the canvas api and node js
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low code platform that helps IT professionals build, automate and self-host internal tools in minutes 🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform and the easiest way to build beautiful internal tools  🚀
 - [faahim/happy-birthday](https://github.com/faahim/happy-birthday) - Wish your friend/loved-ones happy birthday in a nerdy way.
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
@@ -2658,6 +2665,8 @@
 
 ## Others 
 
+- [steedos/awesome-low-code](https://github.com/steedos/awesome-low-code) - Awesome Low-Code Application Platforms | 全球低代码平台开发资源大全
+- [mingdaocom/pd](https://github.com/mingdaocom/pd) - 明道云私有部署版 - 快速部署可免费使用的零代码企业应用平台（APaaS）
 - [xatkit-bot-platform/xatkit](https://github.com/xatkit-bot-platform/xatkit) - The simplest way to build all types of smart chatbots and digital assistants
 - [emilebosch/awesome-fediverse](https://github.com/emilebosch/awesome-fediverse) - A curated, collaborative list of awesome Fediverse resources
 - [WorkerLivesMatter/WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) - 
@@ -3026,6 +3035,7 @@
 
 ## Python 
 
+- [obsei/obsei](https://github.com/obsei/obsei) - Obsei is a low code AI powered automation tool. It can be used in various business flows like social listening, AI based alerting, brand image analysis, comparative study and more .
 - [jeffknupp/sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database. No code required!
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
@@ -3324,6 +3334,7 @@
 
 ## Rust 
 
+- [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
 - [graphql-rust/juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
 - [1Password/electron-hardener](https://github.com/1Password/electron-hardener) - A fast and small Rust library to make Electron apps more secure.
 - [sgbasaraner/yeelight-cli](https://github.com/sgbasaraner/yeelight-cli) - a low level, cross-platform command line client for Yeelight
@@ -3537,6 +3548,8 @@
 
 ## TypeScript 
 
+- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.
+- [buqiyuan/vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - vue3.x + vite2.x + vant + element-plus H5移动端低代码平台 lowcode 可视化拖拽 可视化编辑器 visual editor 类似易企秀的H5制作、建站工具、可视化搭建工具
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Figma to HTML, CSS, React, Vue, and more!
 - [pankod/refine](https://github.com/pankod/refine) - refine is a React-based framework for building data-intensive applications in no time ✨ It ships with Ant Design System, an enterprise-level UI toolkit.
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
@@ -3677,7 +3690,7 @@
 - [acccco/zebra-editor-core](https://github.com/acccco/zebra-editor-core) - 一款强大、现代的可视化编辑器。
 - [typestack/class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Quickly build any custom business software like admin panels, internal tools, dashboards and more with pre-built UI widgets that connect to any database, GraphQL or REST API, controlling everything with Javascript.
 - [drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
 - [cds-snc/covid-alert-app](https://github.com/cds-snc/covid-alert-app) - Exposure notification client application / Application client de notification d'exposition
 - [scastiel/3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
@@ -4040,6 +4053,7 @@
 
 ## Vue 
 
+- [dongsuo/vue-data-board](https://github.com/dongsuo/vue-data-board) - A Data Analysis Board in Vue.
 - [vuejs/create-vue](https://github.com/vuejs/create-vue) - An easy way to start a Vue project
 - [uasoft-indonesia/badaso](https://github.com/uasoft-indonesia/badaso) - The API & platform builder, build your apps 10x faster even more, it's open source & 100% free !
 - [yangyuji/h5-factory](https://github.com/yangyuji/h5-factory) - h5制作，移动端专题活动页面可视化编辑
