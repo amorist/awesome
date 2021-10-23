@@ -133,6 +133,8 @@
 
 ## C# # 
 
+- [monitor1394/ExportSceneToObj](https://github.com/monitor1394/ExportSceneToObj) - Export scene (including objects and terrain ) or fbx to .obj file for Unity. | 导出Unity的场景或FBX到obj文件
+- [ADN-DevTech/3dsMax-Explode-Geometry](https://github.com/ADN-DevTech/3dsMax-Explode-Geometry) - 3ds Max Explode Geometry plug-in
 - [renode/renode](https://github.com/renode/renode) - Renode - Antmicro's virtual development framework for complex embedded systems
 - [FluffyFishGames/ACNHDesignPatternEditor](https://github.com/FluffyFishGames/ACNHDesignPatternEditor) - An editor for Animal Crossing: New Horizons design patterns.
 - [sambeckingham/ACPatternMaker](https://github.com/sambeckingham/ACPatternMaker) - 
@@ -145,6 +147,7 @@
 
 ## C++ 
 
+- [facebookincubator/FBX2glTF](https://github.com/facebookincubator/FBX2glTF) - A command-line tool for the conversion of 3D model assets on the FBX file format to the glTF file format.
 - [ffffffff0x/1earn](https://github.com/ffffffff0x/1earn) - ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup
 - [Kitt-AI/snowboy](https://github.com/Kitt-AI/snowboy) - Future versions with model training module will be maintained through a forked version here: https://github.com/seasalt-ai/snowboy
 - [dresden-elektronik/deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin) - deCONZ REST-API plugin to control ZigBee devices
@@ -356,6 +359,8 @@
 
 ## Go 
 
+- [github/smimesign](https://github.com/github/smimesign) - An S/MIME signing utility for use with Git
+- [alibabacloud-go/dingtalk](https://github.com/alibabacloud-go/dingtalk) - Alibaba Cloud dingtalk SDK for Go
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [erda-project/erda](https://github.com/erda-project/erda) - An enterprise-grade Cloud-Native application platform for Kubernetes.
 - [88250/lute](https://github.com/88250/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
@@ -636,7 +641,7 @@
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码，欢迎issue和pr~
 - [shomali11/go-interview](https://github.com/shomali11/go-interview) - Collection of Technical Interview Questions solved with Go
 - [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
-- [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev   Demo： https://www.go-admin.dev
+- [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev   Demo： https://www.go-admin.dev Antd beta版本：https://preview.go-admin.dev
 - [Jrohy/trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
 - [goodcan/go-lottery](https://github.com/goodcan/go-lottery) - Golang 实现各式各样的抽奖逻辑后台
 - [jbowens/codenames](https://github.com/jbowens/codenames) - Play codenames online
@@ -1491,6 +1496,10 @@
 
 ## JavaScript 
 
+- [ckddbs/three-fbx-loader](https://github.com/ckddbs/three-fbx-loader) - 
+- [yamahigashi/FBXLoaderJS](https://github.com/yamahigashi/FBXLoaderJS) - *This repo  gone inactive* FBX loader written in Javascript without autodesk's FBX SDK ( for ThreeJS)
+- [hiloteam/Hilo3d](https://github.com/hiloteam/Hilo3d) - 🎮 A 3D WebGL Rendering Engine developed by Alibaba Group
+- [vimaec/au2019-forge-revit-to-fbx](https://github.com/vimaec/au2019-forge-revit-to-fbx) - Demonstrates using the Forge Design Automation API for 3ds Max to convert Revit files to FBX using Node.JS
 - [actuallyakash/spacers](https://github.com/actuallyakash/spacers) - 🔳 when you need more __space__
 - [saltcorn/saltcorn](https://github.com/saltcorn/saltcorn) - Free and open source no-code application builder
 - [grouparoo/grouparoo](https://github.com/grouparoo/grouparoo) - 🦘 The Grouparoo Monorepo - open source customer data sync framework
@@ -1500,7 +1509,7 @@
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [bxm0927/canvas-special](https://github.com/bxm0927/canvas-special) - :octocat::alien::star2:超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等。
 - [yyhsong/iDataV](https://github.com/yyhsong/iDataV) - 大屏数据可视化 Big screen data visualization demo
-- [fosscord/fosscord](https://github.com/fosscord/fosscord) - Fosscord is a free open source selfhostable discord compatible chat, voice and video platform
+- [fosscord/fosscord](https://github.com/fosscord/fosscord) - Fosscord is a free open source selfhostable discord compatible communication platform
 - [alibaba-fusion/next](https://github.com/alibaba-fusion/next) - 🦍 A configurable component library for web built on React.
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [xaboy/form-create-designer](https://github.com/xaboy/form-create-designer) - 好用的vue可视化表单设计器
@@ -2615,6 +2624,8 @@
 
 ## Mathematica 
 
+- [cyrillef/FBX-glTF](https://github.com/cyrillef/FBX-glTF) - FBX glTF importer/exporter plug-in and converter.
+- [BabylonJS/Exporters](https://github.com/BabylonJS/Exporters) - Exporters for Babylon.js and gltf file formats
 - [Eikanya/Live2d-model](https://github.com/Eikanya/Live2d-model) - Live2d model collection
 
 ## Mercury 
@@ -3035,6 +3046,10 @@
 
 ## Python 
 
+- [GiveMeAllYourCats/cats-blender-plugin](https://github.com/GiveMeAllYourCats/cats-blender-plugin) - :smiley_cat: A tool designed to shorten steps needed to import and optimize models into VRChat. Compatible models are: MMD, XNALara, Mixamo, DAZ/Poser, Blender Rigify, Sims 2, Motion Builder, 3DS Max and potentially more
+- [listyque/TACTIC-Handler](https://github.com/listyque/TACTIC-Handler) - PySide based TACTIC client for maya, nuke, 3dsmax, houdini, etc
+- [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
+- [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [obsei/obsei](https://github.com/obsei/obsei) - Obsei is a low code AI powered automation tool. It can be used in various business flows like social listening, AI based alerting, brand image analysis, comparative study and more .
 - [jeffknupp/sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database. No code required!
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
@@ -3351,6 +3366,7 @@
 - [redox-os/orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit.
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube.js — Open-Source Analytics API for Building Data Apps
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -3548,6 +3564,7 @@
 
 ## TypeScript 
 
+- [vercel/virtual-event-starter-kit](https://github.com/vercel/virtual-event-starter-kit) - Open source demo that Next.js developers can clone, deploy, and fully customize for events.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.
 - [buqiyuan/vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - vue3.x + vite2.x + vant + element-plus H5移动端低代码平台 lowcode 可视化拖拽 可视化编辑器 visual editor 类似易企秀的H5制作、建站工具、可视化搭建工具
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Figma to HTML, CSS, React, Vue, and more!
@@ -3795,7 +3812,6 @@
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a powerful, lightspeed collaborative workspace for developer teams. Forum (New!): https://github.com/BoostIO/BoostNote-App/discussions
 - [jeffrafter/sign-action](https://github.com/jeffrafter/sign-action) - A GitHub Action which allows users to reply to an issue with a comment to sign a petition.
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube.js — Open-Source Analytics API for Building Data Apps
 - [expo/expo-cli](https://github.com/expo/expo-cli) - Tools for creating, running, and deploying universal Expo and React Native apps
 - [mui-org/material-ui-pickers](https://github.com/mui-org/material-ui-pickers) - Date & Time pickers, built with ❤️ for @material-ui/core
 - [stream-labs/streamlabs-obs](https://github.com/stream-labs/streamlabs-obs) - Free and open source streaming software built on OBS and Electron.
