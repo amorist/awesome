@@ -147,6 +147,7 @@
 
 ## C++ 
 
+- [nmalex/threejs.dlx](https://github.com/nmalex/threejs.dlx) - 3ds max plugin to import/export three.js JSON files
 - [facebookincubator/FBX2glTF](https://github.com/facebookincubator/FBX2glTF) - A command-line tool for the conversion of 3D model assets on the FBX file format to the glTF file format.
 - [ffffffff0x/1earn](https://github.com/ffffffff0x/1earn) - ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup
 - [Kitt-AI/snowboy](https://github.com/Kitt-AI/snowboy) - Future versions with model training module will be maintained through a forked version here: https://github.com/seasalt-ai/snowboy
@@ -1496,6 +1497,7 @@
 
 ## JavaScript 
 
+- [fritx/vue-threejs](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js
 - [ckddbs/three-fbx-loader](https://github.com/ckddbs/three-fbx-loader) - 
 - [yamahigashi/FBXLoaderJS](https://github.com/yamahigashi/FBXLoaderJS) - *This repo  gone inactive* FBX loader written in Javascript without autodesk's FBX SDK ( for ThreeJS)
 - [hiloteam/Hilo3d](https://github.com/hiloteam/Hilo3d) - 🎮 A 3D WebGL Rendering Engine developed by Alibaba Group
@@ -3045,6 +3047,7 @@
 
 ## Python 
 
+- [Footsiefat/zspotify](https://github.com/Footsiefat/zspotify) - A Spotify downloader needing only a python interpreter and ffmpeg.
 - [GiveMeAllYourCats/cats-blender-plugin](https://github.com/GiveMeAllYourCats/cats-blender-plugin) - :smiley_cat: A tool designed to shorten steps needed to import and optimize models into VRChat. Compatible models are: MMD, XNALara, Mixamo, DAZ/Poser, Blender Rigify, Sims 2, Motion Builder, 3DS Max and potentially more
 - [listyque/TACTIC-Handler](https://github.com/listyque/TACTIC-Handler) - PySide based TACTIC client for maya, nuke, 3dsmax, houdini, etc
 - [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
@@ -3564,6 +3567,8 @@
 
 ## TypeScript 
 
+- [troisjs/trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
+- [BabylonJS/Editor](https://github.com/BabylonJS/Editor) - Community managed visual editor for Babylon.js
 - [vercel/virtual-event-starter-kit](https://github.com/vercel/virtual-event-starter-kit) - Open source demo that Next.js developers can clone, deploy, and fully customize for events.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.
 - [buqiyuan/vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - vue3.x + vite2.x + vant + element-plus H5移动端低代码平台 lowcode 可视化拖拽 可视化编辑器 visual editor 类似易企秀的H5制作、建站工具、可视化搭建工具
@@ -3802,7 +3807,7 @@
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [alibaba/formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution -- Support React/ReactNative/Vue2/Vue3
 - [hujiulong/action-qiniu-upload](https://github.com/hujiulong/action-qiniu-upload) - Github Action for Uploading Files to Qiniu.com
-- [uetchy/namae](https://github.com/uetchy/namae) - ☕️ Grab a slick name for your new project.
+- [uetchy/namae](https://github.com/uetchy/namae) - ☕️ Grab a slick name for your new project
 - [crawlab-team/artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
@@ -4080,7 +4085,7 @@
 - [xiaopenggithub/zindle](https://github.com/xiaopenggithub/zindle) - 本系统zindle是使用go-zero开发的一个完整的全端系统，基于官方的bookstore案例情景开发。后台功能包括权限角色管理、菜单管理等企业系统必备模块，在此基础上，很方便的进行业务开发。
 - [Lijinghan9611/Li-ExamWidget](https://github.com/Lijinghan9611/Li-ExamWidget) - uniapp组件, 答题，测试组件，支持单选，多选，填空，在安卓手机端、微信小程序，浏览器测试没有问题
 - [woai3c/visual-drag-demo](https://github.com/woai3c/visual-drag-demo) - 一个低代码（可视化拖拽）教学项目
-- [YanxinNet/uView](https://github.com/YanxinNet/uView) - uView UI，是uni-app生态最优秀的UI框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水
+- [umicro/uView](https://github.com/umicro/uView) - uView UI，是uni-app生态最优秀的UI框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水
 - [a7650/h5-editor](https://github.com/a7650/h5-editor) - 📕h5可视化编辑器，支持添加图片/文本/形状等，拥有图层/参考线/标尺/自动吸附对齐等功能
 - [gtamas/etcdmanager](https://github.com/gtamas/etcdmanager) - A cross-platform GUI and ETCD client
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - 基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。
