@@ -370,6 +370,7 @@
 
 ## Go 
 
+- [MangoDB-io/MangoDB](https://github.com/MangoDB-io/MangoDB) - A truly Open Source MongoDB alternative
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [krux02/assimp](https://github.com/krux02/assimp) - go wrapper of Assimp
 - [tbogdala/gombz](https://github.com/tbogdala/gombz) - a Go language library providing a serializable data structure for 3d models and animations
@@ -1783,7 +1784,6 @@
 - [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API
 - [probot/settings](https://github.com/probot/settings) - Pull Requests for GitHub repository settings
-- [prismicio/slice-machine](https://github.com/prismicio/slice-machine) - A series of tools for developing and deploying website sections with Prismic
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [nuxt/content](https://github.com/nuxt/content) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
 - [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
@@ -2626,7 +2626,6 @@
 
 - [godtoy/wework-hook-example](https://github.com/godtoy/wework-hook-example) - 企业微信xposed-hook，企业微信Hook，消息收发，自动爆粉
 - [JakeWharton/adb-event-mirror](https://github.com/JakeWharton/adb-event-mirror) - Mirror the touch/key/button events of one device onto one or more other devices in real-time
-- [qiuxiang/react-native-amap3d](https://github.com/qiuxiang/react-native-amap3d) - react-native 高德地图组件，使用最新 3D SDK，支持 Android + iOS
 - [SumiMakito/AwesomeQRCode](https://github.com/SumiMakito/AwesomeQRCode) - An awesome QR code generator for Android.
 - [google/iosched](https://github.com/google/iosched) - The Google I/O Android App
 
@@ -3594,6 +3593,7 @@
 
 ## TeX 
 
+- [foxsen/archbase](https://github.com/foxsen/archbase) - 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本
 - [beijinglug/fsfs-zh](https://github.com/beijinglug/fsfs-zh) - Chinese translation for "Free Software, Free Society"(3rd)
 - [moesoha/debian-media-box](https://github.com/moesoha/debian-media-box) - “Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。
 - [lib-pku/libpku](https://github.com/lib-pku/libpku) - 贵校课程资料民间整理
@@ -3799,11 +3799,13 @@
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [alibaba/hooks](https://github.com/alibaba/hooks) - React Hooks Library
 - [teambit/bit](https://github.com/teambit/bit) - A tool for component-driven application development.
+- [qiuxiang/react-native-amap3d](https://github.com/qiuxiang/react-native-amap3d) - react-native 高德地图组件，使用最新 3D SDK，支持 Android + iOS
 - [ssshooter/mind-elixir-core](https://github.com/ssshooter/mind-elixir-core) - Mind-elixir is a framework agnostic mind map core
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [erxes/erxes](https://github.com/erxes/erxes) - Free and open fair-code licensed all-in-one growth marketing & management software
 - [wcandillon/can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native) - ⚛️ 📺 Projects from the “Can it be done in React Native?” YouTube series
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
+- [prismicio/slice-machine](https://github.com/prismicio/slice-machine) - A series of tools for developing and deploying website sections with Prismic
 - [twilio/twilio-video-app-react](https://github.com/twilio/twilio-video-app-react) - A collaboration application built with the twilio-video.js SDK and React.js
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [egoist-sponsors/tailwind-nextjs-saas-template](https://github.com/egoist-sponsors/tailwind-nextjs-saas-template) - A TailwindCSS + Next.js template for your next SaaS product.
