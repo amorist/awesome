@@ -132,6 +132,8 @@
 
 ## C# # 
 
+- [IamMRM/3D-Image-Extraction](https://github.com/IamMRM/3D-Image-Extraction) - Script to extract images from .fbx, .dae (Collada), .3ds, .dxf, .obj, and .skp files
+- [sketchfab/UnityGLTF](https://github.com/sketchfab/UnityGLTF) - Runtime GLTF Loader for Unity3D
 - [Unity-Technologies/com.autodesk.fbx](https://github.com/Unity-Technologies/com.autodesk.fbx) - FBX SDK C# bindings
 - [acgessler/open3mod](https://github.com/acgessler/open3mod) - Open 3D Model Viewer - A quick and powerful 3D model viewer
 - [monitor1394/ExportSceneToObj](https://github.com/monitor1394/ExportSceneToObj) - Export scene (including objects and terrain ) or fbx to .obj file for Unity. | 导出Unity的场景或FBX到obj文件
@@ -149,6 +151,9 @@
 
 ## C++ 
 
+- [assimp/assimp2json](https://github.com/assimp/assimp2json) - JSON exporter for Open Asset Import Library to make 3D models accessible from JS/WebGl
+- [cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab) - The open source mesh processing system
+- [jimfoltz/a2s](https://github.com/jimfoltz/a2s) - command line assimp to sketchup converter (no textures)
 - [MTASZTAKI/ApertusVR](https://github.com/MTASZTAKI/ApertusVR) - Virtual Reality Software Library
 - [assimp/assimp](https://github.com/assimp/assimp) - The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.
 - [johnfredcee/fbxconverter](https://github.com/johnfredcee/fbxconverter) - An Open-Source version of the now defunct Autodest FBX Converter
@@ -370,6 +375,7 @@
 
 ## Go 
 
+- [raedatoui/assimp](https://github.com/raedatoui/assimp) - go wrapper of Assimp
 - [MangoDB-io/MangoDB](https://github.com/MangoDB-io/MangoDB) - A truly Open Source MongoDB alternative
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [krux02/assimp](https://github.com/krux02/assimp) - go wrapper of Assimp
@@ -1520,6 +1526,7 @@
 
 ## JavaScript 
 
+- [SamuelTS/SketchUp-PBR-Plugin](https://github.com/SamuelTS/SketchUp-PBR-Plugin) - Open-source Physically-Based Rendering extension for SketchUp 2017 or newer.
 - [CesiumGS/gltf-pipeline](https://github.com/CesiumGS/gltf-pipeline) - Content pipeline tools for optimizing glTF assets. :globe_with_meridians:
 - [CesiumGS/obj2gltf](https://github.com/CesiumGS/obj2gltf) - Convert OBJ assets to glTF
 - [headllines/github-daily](https://github.com/headllines/github-daily) - GitHub daily top 10 repos
@@ -3360,6 +3367,8 @@
 
 ## Ruby 
 
+- [bendbro/SketchupExportTo3ds](https://github.com/bendbro/SketchupExportTo3ds) - Plugin to Export SketchUp Models To 3ds on Free Version
+- [SamuelTS/SketchUp-Universal-Importer-Plugin](https://github.com/SamuelTS/SketchUp-Universal-Importer-Plugin) - Open-source importing extension for SketchUp 2017 or newer.
 - [YulioTech/SketchUp-glTF-Importer-Ruby](https://github.com/YulioTech/SketchUp-glTF-Importer-Ruby) - Ruby based SketchUp glTF Importer
 - [YulioTech/SketchUp-glTF-Exporter-Ruby](https://github.com/YulioTech/SketchUp-glTF-Exporter-Ruby) - Ruby based SketchUp glTF Exporter
 - [github/octobox](https://github.com/github/octobox) - 📮Untangle your GitHub Notifications
@@ -3443,6 +3452,8 @@
 
 ## Shell 
 
+- [makc/assimp2json](https://github.com/makc/assimp2json) - half-assed attempt at emscriptening assimp2json (half of models do not work - HELP 😱)
+- [lcorbasson/docker-skp2dae](https://github.com/lcorbasson/docker-skp2dae) - SketchUp (SKP) to DAE converter using Docker, WINE and ugly glue
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for a Raspberry Pi or any Linux distro for running self-hosted apps
 - [saleor/saleor-platform](https://github.com/saleor/saleor-platform) - All Saleor services started from a single repository with docker-compose.
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
@@ -3773,7 +3784,6 @@
 - [nuxt/vercel-builder](https://github.com/nuxt/vercel-builder) - Vercel Builder for Nuxt.js
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
-- [egoist/maho](https://github.com/egoist/maho) - Experimental framework for building server-rendered or static websites, powered by React and esbuild, hella fast.
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Platform for building serverless applications and APIs (Node.js, React, GraphQL)
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [lmammino/financial](https://github.com/lmammino/financial) - A Zero-dependency TypeScript/JavaScript financial library (based on numpy-financial) for Node.js, Deno and the browser
