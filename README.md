@@ -375,6 +375,7 @@
 
 ## Go 
 
+- [albrow/forms](https://github.com/albrow/forms) - A lightweight go library for parsing form data or json from an http.Request.
 - [raedatoui/assimp](https://github.com/raedatoui/assimp) - go wrapper of Assimp
 - [MangoDB-io/MangoDB](https://github.com/MangoDB-io/MangoDB) - A truly Open Source MongoDB alternative
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
@@ -3085,7 +3086,7 @@
 - [waldo-vision/optical.flow.demo](https://github.com/waldo-vision/optical.flow.demo) - A project that uses optical flow and machine learning to detect aimhacking in video clips.
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [Footsiefat/zspotify](https://github.com/Footsiefat/zspotify) - A Spotify downloader needing only a python interpreter and ffmpeg.
-- [GiveMeAllYourCats/cats-blender-plugin](https://github.com/GiveMeAllYourCats/cats-blender-plugin) - :smiley_cat: A tool designed to shorten steps needed to import and optimize models into VRChat. Compatible models are: MMD, XNALara, Mixamo, DAZ/Poser, Blender Rigify, Sims 2, Motion Builder, 3DS Max and potentially more
+- [e63uozicmujivxmyshivi9ao/cats-blender-plugin](https://github.com/e63uozicmujivxmyshivi9ao/cats-blender-plugin) - :smiley_cat: A tool designed to shorten steps needed to import and optimize models into VRChat. Compatible models are: MMD, XNALara, Mixamo, DAZ/Poser, Blender Rigify, Sims 2, Motion Builder, 3DS Max and potentially more
 - [listyque/TACTIC-Handler](https://github.com/listyque/TACTIC-Handler) - PySide based TACTIC client for maya, nuke, 3dsmax, houdini, etc
 - [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
