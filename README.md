@@ -376,6 +376,7 @@
 
 ## Go 
 
+- [Tylous/ZipExec](https://github.com/Tylous/ZipExec) - A unique technique to execute binaries from a password protected zip
 - [cdle/sillyGirl](https://github.com/cdle/sillyGirl) - 傻妞机器人
 - [albrow/forms](https://github.com/albrow/forms) - A lightweight go library for parsing form data or json from an http.Request.
 - [raedatoui/assimp](https://github.com/raedatoui/assimp) - go wrapper of Assimp
@@ -490,7 +491,7 @@
 - [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go
 - [zeromicro/go-queue](https://github.com/zeromicro/go-queue) - Kafka, Beanstalkd Pub/Sub framework.
-- [gookit/goutil](https://github.com/gookit/goutil) - 💪 Helper Utils For The Go: string, array/slice, map, format, cli, env, filesystem, test and more. Go 的一些工具函数，格式化，特殊处理，常用信息获取等等
+- [gookit/goutil](https://github.com/gookit/goutil) - 💪 Helper Utils For The Go: int, string, array/slice, map, dump, format, CLI, ENV, filesystem, test and more. Go 的一些工具函数，格式化，特殊处理，常用信息获取等等
 - [TeaWeb/build](https://github.com/TeaWeb/build) - TeaWeb-可视化的Web代理服务。DEMO: http://teaos.cn:7777
 - [Narasimha1997/fake-sms](https://github.com/Narasimha1997/fake-sms) - A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
@@ -1454,6 +1455,7 @@
 
 ## Java 
 
+- [Joolun/JooLun-wx](https://github.com/Joolun/JooLun-wx) - JooLun微信商城，Java + SpringBoot + Maven + Swagger + Mybatis Plus + Redis + Vue + elementUI，微信公众号开发、小程序商城、微信支付、订单管理；商业版还有微服务、多租户Sass、Uniapp商城、小程序直播、多规格SKU、拼团、砍价、商户管理、 秒杀、优惠券、积分、多店铺、商城拖拽装修、服务商收款等功能
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
@@ -1531,6 +1533,7 @@
 
 ## JavaScript 
 
+- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [SamuelTS/SketchUp-PBR-Plugin](https://github.com/SamuelTS/SketchUp-PBR-Plugin) - Open-source Physically-Based Rendering extension for SketchUp 2017 or newer.
 - [CesiumGS/gltf-pipeline](https://github.com/CesiumGS/gltf-pipeline) - Content pipeline tools for optimizing glTF assets. :globe_with_meridians:
 - [CesiumGS/obj2gltf](https://github.com/CesiumGS/obj2gltf) - Convert OBJ assets to glTF
@@ -1700,7 +1703,7 @@
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
 - [react-designer/react-designer](https://github.com/react-designer/react-designer) - It's not art
 - [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon and the new Apple M1 Macs
-- [presenta-software/presenta-lib](https://github.com/presenta-software/presenta-lib) - A javascript library to build expressive web presentations in seconds.
+- [presenta-software/presenta-lib](https://github.com/presenta-software/presenta-lib) - The javascript presentation library for the automation era.
 - [bytedance/xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
 - [bytedance/danmu.js](https://github.com/bytedance/danmu.js) - HTML5 danmu (danmaku) plugin for any DOM element
 - [Marak/faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
@@ -3086,6 +3089,7 @@
 
 ## Python 
 
+- [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
 - [ma1co/Sony-PMCA-RE](https://github.com/ma1co/Sony-PMCA-RE) - Reverse Engineering Sony Digital Cameras
 - [waldo-vision/optical.flow.demo](https://github.com/waldo-vision/optical.flow.demo) - A project that uses optical flow and machine learning to detect aimhacking in video clips.
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
