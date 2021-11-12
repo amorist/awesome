@@ -402,7 +402,7 @@
 - [kevwan/chatbot](https://github.com/kevwan/chatbot) - A fast responsive, machine learning, conversational dialog engine for creating chat bots, written in Go.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [changkun/urlstat](https://github.com/changkun/urlstat) - 📈 URL access statistic service
-- [authzed/spicedb](https://github.com/authzed/spicedb) - A database system for managing security-critical permissions checking. Inspired by Google's Zanzibar paper.
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Inspired by Google's Zanzibar paper, SpiceDB is a database system for managing security-critical application permissions.
 - [openscrm/api-server](https://github.com/openscrm/api-server) - OpenSCRM是一套基于Go和React的超高质量企业微信私域流量管理系统 。遵守Apache2.0协议，全网唯一免费商用。企业微信、私域流量、SCRM。
 - [ihexxa/quickshare](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices, built with Go, React and Typescript.
 - [fogleman/ln](https://github.com/fogleman/ln) - 3D line art engine.
@@ -1273,7 +1273,7 @@
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [idubinskiy/schematyper](https://github.com/idubinskiy/schematyper) - Generates Go types based on JSON Schemas
 - [tidwall/chanx](https://github.com/tidwall/chanx) - A simple interface wrapper around a Go channel.
-- [asim/go-micro](https://github.com/asim/go-micro) - A Go framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - A pluggable Go framework for distributed systems development
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [AplaProject/go-apla](https://github.com/AplaProject/go-apla) - A blockchain platform with a simplified programming language
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
@@ -1343,6 +1343,7 @@
 
 ## HTML 
 
+- [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 - [Saas-Starter-Kit/SAAS-Starter-Kit-Pro](https://github.com/Saas-Starter-Kit/SAAS-Starter-Kit-Pro) - 🚀A boilerplate for building Software-as-Service (SAAS) apps with Reactjs, and Nodejs
@@ -1533,6 +1534,12 @@
 
 ## JavaScript 
 
+- [tengge1/ShadowEditor](https://github.com/tengge1/ShadowEditor) - Cross-platform 3D scene editor based on three.js, golang and mongodb for desktop and web. https://tengge1.github.io/ShadowEditor-examples/
+- [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
+- [AR-js-org/AR.js](https://github.com/AR-js-org/AR.js) - Image tracking, Location Based AR, Marker tracking. All on the Web.
+- [tensorspace-team/tensorspace](https://github.com/tensorspace-team/tensorspace) - Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
+- [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics solver for Mediapipe/Tensorflow.js face, eyes, pose, and hand tracking models.
+- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
 - [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [SamuelTS/SketchUp-PBR-Plugin](https://github.com/SamuelTS/SketchUp-PBR-Plugin) - Open-source Physically-Based Rendering extension for SketchUp 2017 or newer.
 - [CesiumGS/gltf-pipeline](https://github.com/CesiumGS/gltf-pipeline) - Content pipeline tools for optimizing glTF assets. :globe_with_meridians:
@@ -2719,6 +2726,7 @@
 
 ## Others 
 
+- [Video-Hub/douyin-live](https://github.com/Video-Hub/douyin-live) - 联系微信（1764328791）、抖音数据、抖音直播数据、抖音直播Api、抖音视频Api、抖音爬虫、抖音去水印、抖音视频下载、抖音视频解析、抖音直播监控、抖音数据采集
 - [zhaoolee/pi](https://github.com/zhaoolee/pi) - 树莓派防吃灰小分队，让树莓派不再吃灰~
 - [steedos/awesome-low-code](https://github.com/steedos/awesome-low-code) - Awesome Low-Code Application Platforms | 全球低代码平台开发资源大全
 - [mingdaocom/pd](https://github.com/mingdaocom/pd) - 明道云私有部署版 - 快速部署可免费使用的零代码企业应用平台（APaaS）
@@ -3042,6 +3050,7 @@
 
 ## PHP 
 
+- [pagekit/pagekit](https://github.com/pagekit/pagekit) - Pagekit CMS
 - [lxerxa/actionview](https://github.com/lxerxa/actionview) - An issue tracking tool based on laravel+reactjs for small and medium-sized enterprises, open-source and free, similar to Jira.
 - [zhanghuanchong/icon-workshop](https://github.com/zhanghuanchong/icon-workshop) - 图标工场 - 移动应用图标生成工具，一键生成所有尺寸的应用图标和启动图
 - [helloxz/onenav](https://github.com/helloxz/onenav) - 使用PHP开发的简约导航/书签管理系统。
@@ -3088,6 +3097,8 @@
 
 ## Python 
 
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background.
+- [bhky/opennsfw2](https://github.com/bhky/opennsfw2) - TensorFlow 2 implementation of the Yahoo Open-NSFW model
 - [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
 - [ma1co/Sony-PMCA-RE](https://github.com/ma1co/Sony-PMCA-RE) - Reverse Engineering Sony Digital Cameras
 - [waldo-vision/optical.flow.demo](https://github.com/waldo-vision/optical.flow.demo) - A project that uses optical flow and machine learning to detect aimhacking in video clips.
@@ -3620,6 +3631,9 @@
 
 ## TypeScript 
 
+- [maartenbreddels/ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
+- [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
+- [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice) - Immersive virtual office built with Phaser, React, Redux, PeerJS, NodeJS, and Colyseus.
 - [zenghongtu/PPet](https://github.com/zenghongtu/PPet) - 👻在你的桌面放一个萌妹子，多一点趣味😏~（支持Mac、Win和Linux）
 - [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 Open-source notification infrastructure for products
 - [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker) - A library to display an interactive editor for any graph-like data.
@@ -3700,7 +3714,7 @@
 - [nefe/number-precision](https://github.com/nefe/number-precision) - 🚀1K tiny & fast lib for doing addition, subtraction, multiplication and division operations precisely
 - [egoist/usermatters](https://github.com/egoist/usermatters) - User Matters helps you collect customer feedbacks effortlessly.
 - [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.
-- [aidenybai/million](https://github.com/aidenybai/million) - 🦁 &lt;1kb compiler-focused virtual DOM. It's fast!
+- [aidenybai/million](https://github.com/aidenybai/million) - 🦁 &lt;1kb compiler-augmented virtual DOM. It's fast!
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 - [dfinity/cancan](https://github.com/dfinity/cancan) - A scalable video sharing service.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
@@ -3721,7 +3735,7 @@
 - [phodal/ledge](https://github.com/phodal/ledge) - Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
-- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 一款简洁的自托管评论系统 | A Selfhosted Comment System. | Golang + TypeScript
+- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 一款简洁的自托管评论系统 | A Selfhosted Comment System | Golang + TypeScript + Docker
 - [octokit/auth-oauth-device.js](https://github.com/octokit/auth-oauth-device.js) - GitHub OAuth Device authentication strategy for JavaScript
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
@@ -3839,7 +3853,6 @@
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [MichalLytek/type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 - [ream/ream](https://github.com/ream/ream) - A Vue 3 framework, powered by Vite.
-- [egoist/website](https://github.com/egoist/website) - EGOIST's homepage.
 - [fregante/github-url-detection](https://github.com/fregante/github-url-detection) - Which GitHub page are you on? Is it an issue? Is it a list? Perfect for your WebExtension or userscript.
 - [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
 - [cteamx/Thief-Book-VSCode](https://github.com/cteamx/Thief-Book-VSCode) - VScode 上一款真正的摸鱼插件
@@ -4138,6 +4151,7 @@
 
 ## Vue 
 
+- [hujiulong/vue-3d-model](https://github.com/hujiulong/vue-3d-model) - 📷 vue.js 3D model viewer component
 - [dongsuo/vue-data-board](https://github.com/dongsuo/vue-data-board) - A Data Analysis Board in Vue.
 - [vuejs/create-vue](https://github.com/vuejs/create-vue) - An easy way to start a Vue project
 - [uasoft-indonesia/badaso](https://github.com/uasoft-indonesia/badaso) - The API & platform builder, build your apps 10x faster even more, it's open source & 100% free !
@@ -4201,6 +4215,7 @@
 - [chuzhixin/vue-admin-beautiful-pro](https://github.com/chuzhixin/vue-admin-beautiful-pro) - 🚀🚀🚀vue3,vue3.0,vue,vue3.x,vue.js,vue后台管理,admin,vue-admin,vue-element-admin,ant-design，vue-admin-beautiful-pro,vab admin pro,vab admin plus主线版本基于element-plus、element-ui、ant-design-vue三者并行开发维护，同时支持电脑，手机，平板，切换分支查看不同的vue版本，element-plus版本已发布(vue3,vue3.0,vue,vue3.x,vue.js)
 - [kastnerorz/animal-crossing-trading-system](https://github.com/kastnerorz/animal-crossing-trading-system) - 🥬 《集合啦！动物森友会》的大头菜交易市场。
 - [Thulinma/ACNLPatternTool](https://github.com/Thulinma/ACNLPatternTool) - Animal Crossing: New Leaf Pattern Tool
+- [egoist/website](https://github.com/egoist/website) - EGOIST's homepage.
 - [CNOliverZhang/PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit) - 一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。
 - [bmfe/eros](https://github.com/bmfe/eros) - 📱 一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
@@ -4239,7 +4254,7 @@
 - [Physiix/topsi-project-manager](https://github.com/Physiix/topsi-project-manager) - A Desktop Kanban board app.
 - [sunzongzheng/music](https://github.com/sunzongzheng/music) - electron跨平台音乐播放器；可搜网易云、QQ音乐、虾米音乐；支持QQ、微博、Github登录，云歌单; 支持一键导入音乐平台歌单
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [GitHub-Laziji/VBlog](https://github.com/GitHub-Laziji/VBlog) - 使用GitHub API 搭建一个可动态发布文章的博客
 - [bailicangdu/vue2-manage](https://github.com/bailicangdu/vue2-manage) - 基于 vue + element-ui 的后台管理系统
