@@ -376,6 +376,7 @@
 
 ## Go 
 
+- [ycd/dstp](https://github.com/ycd/dstp) - 🧪 Run common networking tests against your site.
 - [V4NSH4J/discord-mass-DM-GO](https://github.com/V4NSH4J/discord-mass-DM-GO) - A selfbot written in GO to demonstrate how rule-violators utilize requests to spam Discord Users and launch large unsolicited DM Advertisement Campaigns
 - [Tylous/ZipExec](https://github.com/Tylous/ZipExec) - A unique technique to execute binaries from a password protected zip
 - [cdle/sillyGirl](https://github.com/cdle/sillyGirl) - 傻妞机器人
@@ -1142,7 +1143,7 @@
 - [Jeffail/benthos](https://github.com/Jeffail/benthos) - Fancy stream processing made operationally mundane
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [Terry-Mao/goim](https://github.com/Terry-Mao/goim) - goim
-- [drone/drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
+- [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
 - [dinedal/textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV
@@ -4200,7 +4201,7 @@
 - [niefy/wx-client](https://github.com/niefy/wx-client) - 微信公众号接口wx-api前端示例项目，包含微信登录、微信分享、CMS文章示例功能
 - [iamdarcy/hioshop-admin](https://github.com/iamdarcy/hioshop-admin) - 海风小店,开源商城,微信小程序商城管理后台,后台管理,VUE
 - [hinesboy/mavonEditor](https://github.com/hinesboy/mavonEditor) - mavonEditor - A markdown editor based on Vue that supports a variety of personalized features
-- [crmeb/CRMEB](https://github.com/crmeb/CRMEB) - CRMEB Min(前后端分离版自带客服系统)，是CRMEB品牌全新推出的一款轻量级、高性能、前后端分离的开源电商系统，完善的后台权限管理、会员管理、订单管理、产品管理、客服管理、CMS管理、多端管理、页面DIY、数据统计、系统配置、组合数据管理、日志管理、数据库管理，一键开通短信、产品采集、物流查询等接口。
+- [crmeb/CRMEB](https://github.com/crmeb/CRMEB) - 🔥🔥🔥 CRMEB打通版v4免费开源商城系统，uni-app+thinkphp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、可视化设置，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议
 - [niefy/wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
 - [rowanwins/vue-dropzone](https://github.com/rowanwins/vue-dropzone) - A Vue.js component for Dropzone.js - a drag’n’drop file uploads utility with image previews
 - [vuejs/docs](https://github.com/vuejs/docs) - Vue 3 core documentation
