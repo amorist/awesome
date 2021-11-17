@@ -83,6 +83,7 @@
 
 ## C 
 
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [recp/AssetKit](https://github.com/recp/AssetKit) - 🎨 Modern 2D/3D - Importer • Exporter • Util - Library, also  known as (AssetIO)
 - [libgdx/fbx-conv](https://github.com/libgdx/fbx-conv) - Command line utility using the FBX SDK to convert FBX/Collada/Obj files to a custom text/binary format for static, keyframed and skinned meshes.
@@ -376,6 +377,7 @@
 
 ## Go 
 
+- [go-eagle/eagle](https://github.com/go-eagle/eagle) - 🦅一款小巧的基于Go构建的开发框架，可以快速构建API服务或者Web网站进行业务开发，遵循SOLID设计原则
 - [ycd/dstp](https://github.com/ycd/dstp) - 🧪 Run common networking tests against your site.
 - [V4NSH4J/discord-mass-DM-GO](https://github.com/V4NSH4J/discord-mass-DM-GO) - A selfbot written in GO to demonstrate how rule-violators utilize requests to spam Discord Users and launch large unsolicited DM Advertisement Campaigns
 - [Tylous/ZipExec](https://github.com/Tylous/ZipExec) - A unique technique to execute binaries from a password protected zip
@@ -1344,6 +1346,7 @@
 
 ## HTML 
 
+- [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
@@ -1458,6 +1461,7 @@
 
 ## Java 
 
+- [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 - [Joolun/JooLun-wx](https://github.com/Joolun/JooLun-wx) - JooLun微信商城，Java + SpringBoot + Maven + Swagger + Mybatis Plus + Redis + Vue + elementUI，微信公众号开发、小程序商城、微信支付、订单管理；商业版还有微服务、多租户Sass、Uniapp商城、小程序直播、多规格SKU、拼团、砍价、商户管理、 秒杀、优惠券、积分、多店铺、商城拖拽装修、服务商收款等功能
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
@@ -1537,6 +1541,9 @@
 
 ## JavaScript 
 
+- [spite/THREE.MeshLine](https://github.com/spite/THREE.MeshLine) - Mesh replacement for THREE.Line
+- [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
+- [douyu/juno](https://github.com/douyu/juno) - Juno 译名朱诺。这个名字来源于古罗马神话中的众神之母。它是斗鱼的微服务管理系统， 如同众神之母一样守护着所有微服务的系统。
 - [giantswarm/install-binary-action](https://github.com/giantswarm/install-binary-action) - GitHub action installing a binary from a tarball behind URL
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [tengge1/ShadowEditor](https://github.com/tengge1/ShadowEditor) - Cross-platform 3D scene editor based on three.js, golang and mongodb for desktop and web. https://tengge1.github.io/ShadowEditor-examples/
@@ -1578,7 +1585,7 @@
 - [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 - [mue/mue](https://github.com/mue/mue) - Fast, open and free-to-use new tab page for modern browsers
 - [mauricius/vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) - Vue2 Component for draggable and resizable elements.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1250 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1350 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine) - HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.
 - [react-visual-design/react-visual-design](https://github.com/react-visual-design/react-visual-design) - react 可视化搭建平台,移动端可视化编辑平台,低代码设计平台,组件复用  低代码 无代码
 - [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
@@ -1589,7 +1596,7 @@
 - [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) - やり直すんだ。そして、次はうまくやる。
 - [woai3c/nand2tetris](https://github.com/woai3c/nand2tetris) - 计算机系统要素-从零开始构建现代计算机
 - [HashLips/generative-art-node](https://github.com/HashLips/generative-art-node) - Create generative art by using the canvas api and node js
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform and the easiest way to build beautiful internal tools  🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform and the easiest way to build beautiful business apps  🚀
 - [faahim/happy-birthday](https://github.com/faahim/happy-birthday) - Wish your friend/loved-ones happy birthday in a nerdy way.
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
@@ -1933,7 +1940,7 @@
 - [fengyuanchen/cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
 - [LinusU/node-appdmg](https://github.com/LinusU/node-appdmg) - 💾 Generate your app dmgs
 - [chrisvfritz/prerender-spa-plugin](https://github.com/chrisvfritz/prerender-spa-plugin) - Prerenders static HTML in a single-page application.
-- [remarkjs/remark](https://github.com/remarkjs/remark) - Markdown processor powered by plugins part of the @unifiedjs collective
+- [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
 - [artf/grapesjs-cli](https://github.com/artf/grapesjs-cli) - GrapesJS CLI helper for the development
 - [signmeup/signmeup](https://github.com/signmeup/signmeup) - Real-time application to sign up for and manage TA hours.
 - [nodejs/webcrypto](https://github.com/nodejs/webcrypto) - This repository has been archived. The WebCrypto API has been implemented in recent versions of Node.js and does not require additional packages.
@@ -2730,6 +2737,8 @@
 
 ## Others 
 
+- [outofambit/friends-and-lovers-license](https://github.com/outofambit/friends-and-lovers-license) - what if code i wrote was only for the people i love?
+- [MenghaoGuo/Awesome-Vision-Attentions](https://github.com/MenghaoGuo/Awesome-Vision-Attentions) - Summary of related papers on visual attention
 - [0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming) - 音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。
 - [r0eXpeR/supplier](https://github.com/r0eXpeR/supplier) - 主流供应商的一些攻击性漏洞汇总
 - [Video-Hub/douyin-live](https://github.com/Video-Hub/douyin-live) - 联系微信（1764328791）、抖音数据、抖音直播数据、抖音直播Api、抖音视频Api、抖音爬虫、抖音去水印、抖音视频下载、抖音视频解析、抖音直播监控、抖音数据采集
@@ -3103,6 +3112,7 @@
 
 ## Python 
 
+- [yihong0618/iBeats](https://github.com/yihong0618/iBeats) - Apple Watch 心率数据采集 - Your Soul, Your Beats!
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background.
 - [bhky/opennsfw2](https://github.com/bhky/opennsfw2) - TensorFlow 2 implementation of the Yahoo Open-NSFW model
@@ -3224,7 +3234,7 @@
 - [muzi502/kindle](https://github.com/muzi502/kindle) - kindle 标注笔记
 - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [CLUEbenchmark/CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch) - 搜索所有中文NLP数据集，附常用英文NLP数据集
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Supercharged backtesting and technical analysis for quants
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your alpha: Supercharged backtesting and technical analysis for quants
 - [kotartemiy/newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
 - [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见 Python中文网 http://www.zglg.work
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
@@ -3419,6 +3429,7 @@
 
 ## Rust 
 
+- [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
 - [graphql-rust/juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
 - [1Password/electron-hardener](https://github.com/1Password/electron-hardener) - A fast and small Rust library to make Electron apps more secure.
@@ -3638,6 +3649,10 @@
 
 ## TypeScript 
 
+- [craftzdog/react-native-animated-todo](https://github.com/craftzdog/react-native-animated-todo) - Animated ToDo app built with React Native and Reanimated v2
+- [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - Protocol and application framework for decentralized NFT minting, storefronts, and sales.
+- [chowa/ejyy](https://github.com/chowa/ejyy) - 「e家宜业」是基于nodejs、typescript、koa、vue打造的开源智慧物业管理系统，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等主要业务。
+- [splitbee/react-notion](https://github.com/splitbee/react-notion) - A fast React renderer for Notion pages
 - [maartenbreddels/ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
 - [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice) - Immersive virtual office built with Phaser, React, Redux, PeerJS, and Colyseus.
@@ -4159,6 +4174,8 @@
 
 ## Vue 
 
+- [shengxinjing/geektime-vue-course](https://github.com/shengxinjing/geektime-vue-course) - 极客时间代码
+- [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - 基于Vue3 + Element Plus 的后台管理系统解决方案
 - [hujiulong/vue-3d-model](https://github.com/hujiulong/vue-3d-model) - 📷 vue.js 3D model viewer component
 - [dongsuo/vue-data-board](https://github.com/dongsuo/vue-data-board) - A Data Analysis Board in Vue.
 - [vuejs/create-vue](https://github.com/vuejs/create-vue) - An easy way to start a Vue project
