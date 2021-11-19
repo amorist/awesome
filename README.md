@@ -1347,6 +1347,7 @@
 
 ## HTML 
 
+- [evmn/Paul-Graham](https://github.com/evmn/Paul-Graham) - Paul Graham's Essays, Kindle version, set several sections for easy navigation
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
@@ -1598,7 +1599,7 @@
 - [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) - やり直すんだ。そして、次はうまくやる。
 - [woai3c/nand2tetris](https://github.com/woai3c/nand2tetris) - 计算机系统要素-从零开始构建现代计算机
 - [HashLips/generative-art-node](https://github.com/HashLips/generative-art-node) - Create generative art by using the canvas api and node js
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform and the easiest way to build beautiful business apps  🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
 - [faahim/happy-birthday](https://github.com/faahim/happy-birthday) - Wish your friend/loved-ones happy birthday in a nerdy way.
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
@@ -2739,6 +2740,7 @@
 
 ## Others 
 
+- [shadowcz007/awesome-metaverse](https://github.com/shadowcz007/awesome-metaverse) - Useful resources for creating Meta-verse
 - [outofambit/friends-and-lovers-license](https://github.com/outofambit/friends-and-lovers-license) - what if code i wrote was only for the people i love?
 - [0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming) - 音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。
 - [r0eXpeR/supplier](https://github.com/r0eXpeR/supplier) - 主流供应商的一些攻击性漏洞汇总
@@ -3148,7 +3150,7 @@
 - [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
 - [Thmen/EGVSR](https://github.com/Thmen/EGVSR) - Efficient & Generic Video Super-Resolution
 - [lepture/authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
-- [psoho/fast-poster](https://github.com/psoho/fast-poster) - fastposter海报生成器，可视化编辑设计海报，快速完成海报设计，一分钟完成海报开发，快速生成海报，完成海报制作，自动化生成海报。支持Java,Python,PHP,Go,JS等多种语言，也支持小程序生成海报。 文档：https://poster.prodapi.cn/docs/
+- [psoho/fast-poster](https://github.com/psoho/fast-poster) - fastposter海报生成器，电商级别海报生成器，一分钟完成海报开发，快速生成海报，完成海报制作。支持Java,Python,PHP,Go,JS，小程序等多种语言。演示地址：https://poster.prodapi.cn/
 - [ackerr/Algorithms](https://github.com/ackerr/Algorithms) - (๑• . •๑)
 - [alibaba/AliceMind](https://github.com/alibaba/AliceMind) - ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab
 - [claffin/cloudproxy](https://github.com/claffin/cloudproxy) - Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
@@ -3492,6 +3494,7 @@
 
 ## Shell 
 
+- [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [makc/assimp2json](https://github.com/makc/assimp2json) - half-assed attempt at emscriptening assimp2json (half of models do not work - HELP 😱)
 - [lcorbasson/docker-skp2dae](https://github.com/lcorbasson/docker-skp2dae) - SketchUp (SKP) to DAE converter using Docker, WINE and ugly glue
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for Raspberry Pi or any Linux distro for running self-hosted apps
@@ -3703,7 +3706,7 @@
 - [posva/pinia](https://github.com/posva/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
 - [sparrow-js/sparrow](https://github.com/sparrow-js/sparrow) - 🎉场景化低代码（LowCode）搭建工作台，实时输出源代码
-- [whyour/qinglong](https://github.com/whyour/qinglong) - A timed task management panel that supports typescript, javaScript, python3, and shell.（支持python3、javaScript、shell、typescript 的定时任务管理面板）
+- [whyour/qinglong](https://github.com/whyour/qinglong) - 支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [vakinge/jeesuite-passport](https://github.com/vakinge/jeesuite-passport) - Jeesuite-passport是面向企业级单点登录、统一认证的一站式解决方案。支持微信、企业微信、主流开放平台OAuth、Oauth2.0，JWT、SAML2.0多种认证集成模式。
 - [vueuse/motion](https://github.com/vueuse/motion) - 🤹 Vue Composables putting your components in motion
