@@ -83,6 +83,7 @@
 
 ## C 
 
+- [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [recp/AssetKit](https://github.com/recp/AssetKit) - 🎨 Modern 2D/3D - Importer • Exporter • Util - Library, also  known as (AssetIO)
 - [libgdx/fbx-conv](https://github.com/libgdx/fbx-conv) - Command line utility using the FBX SDK to convert FBX/Collada/Obj files to a custom text/binary format for static, keyframed and skinned meshes.
@@ -1548,6 +1549,7 @@
 
 ## JavaScript 
 
+- [kovacsv/Online3DViewer](https://github.com/kovacsv/Online3DViewer) - A free and open source web solution to visualize and explore 3D models right in your browser.
 - [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
 - [Panshak/arcinvoice](https://github.com/Panshak/arcinvoice) - Fullstack open source Invoicing application made with MongoDB, Express, React & Nodejs (MERN)
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
@@ -1772,7 +1774,6 @@
 - [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop) - Drag and Drop feature for Editor.js
 - [csstools/parser](https://github.com/csstools/parser) - CSS Parser
 - [nodejs/node-core-utils](https://github.com/nodejs/node-core-utils) - CLI tools for Node.js Core collaborators
-- [doocs/md](https://github.com/doocs/md) - ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [lijinma/wechat_spider](https://github.com/lijinma/wechat_spider) - 使用“代理”的方式来抓取微信公众账号文章，可以抓取阅读数、点赞数，基于 anyproxy。
 - [yingye/weapp-qrcode](https://github.com/yingye/weapp-qrcode) - weapp.qrcode.js 在 微信小程序 中，快速生成二维码
 - [areslabs/alita](https://github.com/areslabs/alita) - 一套把React Native代码转换成微信小程序代码的转换引擎工具。我们不造轮子，不发明新框架，只是提供工具把RN扩展到微信小程序端。
@@ -1834,7 +1835,6 @@
 - [adobe-webplatform/Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
 - [mozilla/hubs](https://github.com/mozilla/hubs) - Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.
 - [stack-labs/stack-labs-site](https://github.com/stack-labs/stack-labs-site) - Micro 中文站点
-- [antvis/g](https://github.com/antvis/g) - A powerful rendering engine implemented with Canvas2D / SVG / WebGL / WebGPU.
 - [sunniejs/vue-h5-template](https://github.com/sunniejs/vue-h5-template) - :tada:vue搭建移动端开发,基于vue-cli4.0+webpack 4+vant ui + sass+ rem适配方案+axios封装，构建手机端模板脚手架
 - [thesephist/draw](https://github.com/thesephist/draw) - Real-time collaborative whiteboard on the web
 - [yemount/pose-animator](https://github.com/yemount/pose-animator) - 
@@ -3665,7 +3665,7 @@
 ## TypeScript 
 
 - [actions-cool/release-helper](https://github.com/actions-cool/release-helper) - 🤖 A GitHub Action that help you publish release.
-- [remix-run/remix](https://github.com/remix-run/remix) - Build better websites
+- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [craftzdog/react-native-animated-todo](https://github.com/craftzdog/react-native-animated-todo) - Animated ToDo app built with React Native and Reanimated v2
 - [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - Protocol and application framework for decentralized NFT minting, storefronts, and sales.
@@ -3886,6 +3886,7 @@
 - [surmon-china/vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+- [antvis/g](https://github.com/antvis/g) - A powerful rendering engine implemented with Canvas2D / SVG / WebGL / WebGPU.
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - GUI Client for GRPC Services
@@ -4241,6 +4242,7 @@
 - [crmeb/CRMEB](https://github.com/crmeb/CRMEB) - 🔥🔥🔥 CRMEB打通版v4免费开源商城系统，uni-app+thinkphp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、可视化设置，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议
 - [niefy/wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
 - [rowanwins/vue-dropzone](https://github.com/rowanwins/vue-dropzone) - A Vue.js component for Dropzone.js - a drag’n’drop file uploads utility with image previews
+- [doocs/md](https://github.com/doocs/md) - ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [vuejs/docs](https://github.com/vuejs/docs) - Vue 3 core documentation
 - [stavyan/TinyShop-UniApp](https://github.com/stavyan/TinyShop-UniApp) - 基于 RageFrame2 的一款免费开源的基础商城销售功能的开源微商城。
 - [coderwhy/HYMall](https://github.com/coderwhy/HYMall) - A vue.js mall application.
