@@ -625,7 +625,7 @@
 - [dgryski/semgrep-go](https://github.com/dgryski/semgrep-go) - Go rules for semgrep and go-ruleguard
 - [tj/letterbox](https://github.com/tj/letterbox) - Go program to batch-process letter-boxing of photographs.
 - [theycallmemac/odin](https://github.com/theycallmemac/odin) - A programmable, observable and distributed job orchestration system.
-- [askgitdev/askgit](https://github.com/askgitdev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
+- [mergestat/mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [emicklei/go-restful](https://github.com/emicklei/go-restful) - package for building REST-style Web Services using Go
 - [faiface/pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
@@ -1778,6 +1778,7 @@
 - [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop) - Drag and Drop feature for Editor.js
 - [csstools/parser](https://github.com/csstools/parser) - CSS Parser
 - [nodejs/node-core-utils](https://github.com/nodejs/node-core-utils) - CLI tools for Node.js Core collaborators
+- [doocs/md](https://github.com/doocs/md) - ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [lijinma/wechat_spider](https://github.com/lijinma/wechat_spider) - 使用“代理”的方式来抓取微信公众账号文章，可以抓取阅读数、点赞数，基于 anyproxy。
 - [yingye/weapp-qrcode](https://github.com/yingye/weapp-qrcode) - weapp.qrcode.js 在 微信小程序 中，快速生成二维码
 - [areslabs/alita](https://github.com/areslabs/alita) - 一套把React Native代码转换成微信小程序代码的转换引擎工具。我们不造轮子，不发明新框架，只是提供工具把RN扩展到微信小程序端。
@@ -3248,7 +3249,7 @@
 - [muzi502/kindle](https://github.com/muzi502/kindle) - kindle 标注笔记
 - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [CLUEbenchmark/CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch) - 搜索所有中文NLP数据集，附常用英文NLP数据集
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Supercharged backtesting and technical analysis for quants
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Next-gen framework for backtesting, algorithmic trading, and research. Blazingly fast. Flexible. Pandas friendly.
 - [kotartemiy/newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
 - [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见 Python中文网 http://www.zglg.work
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
@@ -4249,7 +4250,6 @@
 - [crmeb/CRMEB](https://github.com/crmeb/CRMEB) - 🔥🔥🔥 CRMEB打通版v4免费开源商城系统，uni-app+thinkphp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、可视化设置，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议
 - [niefy/wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
 - [rowanwins/vue-dropzone](https://github.com/rowanwins/vue-dropzone) - A Vue.js component for Dropzone.js - a drag’n’drop file uploads utility with image previews
-- [doocs/md](https://github.com/doocs/md) - ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [vuejs/docs](https://github.com/vuejs/docs) - Vue 3 core documentation
 - [stavyan/TinyShop-UniApp](https://github.com/stavyan/TinyShop-UniApp) - 基于 RageFrame2 的一款免费开源的基础商城销售功能的开源微商城。
 - [coderwhy/HYMall](https://github.com/coderwhy/HYMall) - A vue.js mall application.
