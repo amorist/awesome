@@ -110,7 +110,6 @@
 - [imbushuo/mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
-- [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 - [retroplasma/earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering) - Reversing Google's 3D satellite mode
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -154,6 +153,9 @@
 
 ## C++ 
 
+- [BabylonJS/BabylonReactNative](https://github.com/BabylonJS/BabylonReactNative) - Build React Native applications with the power of Babylon Native
+- [BabylonJS/BabylonNative](https://github.com/BabylonJS/BabylonNative) - Build cross-platform native applications with the power of the Babylon.js JavaScript framework
+- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [rishabh-bector/assimp-golang](https://github.com/rishabh-bector/assimp-golang) - Golang port of the Open Asset Import Library.
 - [kovacsv/assimpjs](https://github.com/kovacsv/assimpjs) - The emscripten interface for the assimp library that allows you to import 40+ 3D file formats in the browser.
@@ -371,7 +373,7 @@
 
 ## Erlang 
 
-- [dgiot/dgiot](https://github.com/dgiot/dgiot) - DG-IoT，Open-source IoT Platform - Connect management,Device management,Data collection, Processing and Visualization.High concurrency, light weight, low code, fast access, free platform. Industry SaaS for IoT Platform.物联网开源平台，千万级高并发、电信级稳定性、物联网平台开发，连接管理、设备管理、多工业协议兼容、数据采集、可视化开发、轻量级、低代码、快接入、平台免费。
+- [dgiot/dgiot](https://github.com/dgiot/dgiot) - Open source platform for IoT,1,000,000 of long connection and carrier level stability; Zero code for Object model - Rule Engine - Data Channel - Configuration Page; Fully open source, Multi industrial protocols are compatible.物联网开源平台，轻量级快速部署，千万级长连接承载、电信级稳定性。物模型-规则引擎-数据通道-组态页面全流程零代码开发、前后端完全开源、多行业工业协议兼容。
 
 ## FreeMarker 
 
@@ -1367,7 +1369,7 @@
 - [Saas-Starter-Kit/SAAS-Starter-Kit-Pro](https://github.com/Saas-Starter-Kit/SAAS-Starter-Kit-Pro) - 🚀A boilerplate for building Software-as-Service (SAAS) apps with Reactjs, and Nodejs
 - [holtzy/D3-graph-gallery](https://github.com/holtzy/D3-graph-gallery) - A collection of simple graphics made with D3.js
 - [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
-- [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) - (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
+- [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
@@ -1423,6 +1425,7 @@
 - [vsoch/watchme](https://github.com/vsoch/watchme) - Reproducible watchers for research
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
+- [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 - [leeoniya/dropcss](https://github.com/leeoniya/dropcss) - An exceptionally fast, thorough and tiny unused-CSS cleaner
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
@@ -1555,6 +1558,8 @@
 
 ## JavaScript 
 
+- [MozillaReality/gltf-bundle](https://github.com/MozillaReality/gltf-bundle) - 
+- [pissang/clay-viewer](https://github.com/pissang/clay-viewer) - 3D model viewer with high quality rendering and glTF2.0/GLB export
 - [kovacsv/Online3DViewer](https://github.com/kovacsv/Online3DViewer) - A free and open source web solution to visualize and explore 3D models right in your browser.
 - [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
 - [Panshak/arcinvoice](https://github.com/Panshak/arcinvoice) - Fullstack open source Invoicing application made with MongoDB, Express, React & Nodejs (MERN)
@@ -1569,7 +1574,6 @@
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [AR-js-org/AR.js](https://github.com/AR-js-org/AR.js) - Image tracking, Location Based AR, Marker tracking. All on the Web.
 - [tensorspace-team/tensorspace](https://github.com/tensorspace-team/tensorspace) - Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
-- [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics solver for Mediapipe/Tensorflow.js face, eyes, pose, and hand tracking models.
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
 - [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [SamuelTS/SketchUp-PBR-Plugin](https://github.com/SamuelTS/SketchUp-PBR-Plugin) - Open-source Physically-Based Rendering extension for SketchUp 2017 or newer.
@@ -1991,7 +1995,6 @@
 - [Wscats/piano](https://github.com/Wscats/piano) - 🎹用键盘8个键演奏一首蒲公英的约定送给自己或月亮代表我的心送给她
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [ramiel/mongoose-sequence](https://github.com/ramiel/mongoose-sequence) - Sequence and autoincrement handling for mongoose
-- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [LinusBorg/portal-vue](https://github.com/LinusBorg/portal-vue) - A feature-rich Portal Plugin for Vue 2, for rendering DOM outside of a component, anywhere in your app or the entire document.
 - [InterImm/InterImmBook](https://github.com/InterImm/InterImmBook) - :seedling: The Book of Interplanetary Civilization;星际移民之书.
 - [1995parham/github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) - GitHub do not ban us from open source world :iran:
@@ -2076,7 +2079,7 @@
 - [apidoc/apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 - [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
-- [ulivz/vuepress-plugin-yuque](https://github.com/ulivz/vuepress-plugin-yuque) - Input: Yuque Repo, Output: VuePress Site!
+- [aamayamaa/vuepress-plugin-yuque](https://github.com/aamayamaa/vuepress-plugin-yuque) - Input: Yuque Repo, Output: VuePress Site!
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
@@ -2189,7 +2192,7 @@
 - [kamranahmedse/pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window
 - [stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts) - :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
 - [poi-starters/simple](https://github.com/poi-starters/simple) - A simple web app starter for Poi, with zero config.
-- [ulivz/vuepress-blog-example-egoist](https://github.com/ulivz/vuepress-blog-example-egoist) - 
+- [aamayamaa/vuepress-blog-example-egoist](https://github.com/aamayamaa/vuepress-blog-example-egoist) - 
 - [pacocoursey/Dusk](https://github.com/pacocoursey/Dusk) - simple, customizable macOS application icons
 - [pacocoursey/Opus](https://github.com/pacocoursey/Opus) - minimal note-taking app
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
@@ -2223,7 +2226,7 @@
 - [jasonlong/isometric-contributions](https://github.com/jasonlong/isometric-contributions) - Browser extension for rendering an isometric pixel art version of your GitHub contribution graph.
 - [davidroyer/vue2-editor](https://github.com/davidroyer/vue2-editor) - A text editor using Vue.js and Quill
 - [JserWang/rc-bmap](https://github.com/JserWang/rc-bmap) - 当百度地图遇上React，会产生怎样的火花🔥     🎉欢迎您的加入🎉
-- [ulivz/markdown-it-chain](https://github.com/ulivz/markdown-it-chain) - A chaining API like webpack-chain but for markdown-it.
+- [aamayamaa/markdown-it-chain](https://github.com/aamayamaa/markdown-it-chain) - A chaining API like webpack-chain but for markdown-it.
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [kensnyder/quill-image-drop-module](https://github.com/kensnyder/quill-image-drop-module) - A module for Quill rich text editor to allow images to be pasted and drag/dropped into the editor.
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
@@ -2247,7 +2250,7 @@
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [zeke/passive-income-with-cassidoo](https://github.com/zeke/passive-income-with-cassidoo) - A chat about passive income with @cassidoo
 - [segmentio/evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
-- [ulivz/jira](https://github.com/ulivz/jira) - Daily ticket state dashboard for JIRA
+- [aamayamaa/jira](https://github.com/aamayamaa/jira) - Daily ticket state dashboard for JIRA
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [phobal/ivideo](https://github.com/phobal/ivideo) - 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
@@ -3249,7 +3252,7 @@
 - [muzi502/kindle](https://github.com/muzi502/kindle) - kindle 标注笔记
 - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [CLUEbenchmark/CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch) - 搜索所有中文NLP数据集，附常用英文NLP数据集
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Next-gen framework for backtesting, algorithmic trading, and research. Blazingly fast. Flexible. Pandas friendly.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Next-gen framework for backtesting, algorithmic trading, and research. Blazingly fast. Super accurate. Pandas friendly.
 - [kotartemiy/newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
 - [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见 Python中文网 http://www.zglg.work
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
@@ -3272,7 +3275,7 @@
 - [iGhibli/iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport) - This repository holds the device support files for the iOS, and I will update it regularly.
 - [lancopku/pkuseg-python](https://github.com/lancopku/pkuseg-python) - pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation
 - [Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB) - 💎1MB lightweight face detection model  (1MB轻量级人脸检测模型)
-- [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is FAIR's next-generation platform for object detection, segmentation and other visual recognition tasks.
+- [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
 - [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [idealo/imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
 - [NLP-LOVE/CodingInterviews2-ByPython](https://github.com/NLP-LOVE/CodingInterviews2-ByPython) - 此项目是《剑指offer》第二版里算法面试题的Python3实现版本，作为一本经典书籍，可以时常拿出来看一看、翻一翻、记一记。同时也是为了Python程序员能够更好的通过公司的技术面试，拿到心仪的offer。
@@ -3669,6 +3672,7 @@
 
 ## TypeScript 
 
+- [najadojo/gltf-import-export](https://github.com/najadojo/gltf-import-export) - Convert between GLB and GLTF files.
 - [inkandswitch/peritext](https://github.com/inkandswitch/peritext) - A CRDT for asynchronous rich-text collaboration, where authors can work independently and then merge their changes.
 - [actions-cool/release-helper](https://github.com/actions-cool/release-helper) - 🤖 A GitHub Action that help you publish release.
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
@@ -3680,6 +3684,7 @@
 - [maartenbreddels/ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
 - [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice) - Immersive virtual office built with Phaser, React, Redux, PeerJS, and Colyseus.
+- [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics solver for Mediapipe/Tensorflow.js face, eyes, pose, and hand tracking models.
 - [zenghongtu/PPet](https://github.com/zenghongtu/PPet) - 👻在你的桌面放一个萌妹子，多一点趣味😏~（支持Mac、Win和Linux）
 - [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 Open-source notification infrastructure for products
 - [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker) - A library to display an interactive editor for any graph-like data.
@@ -4010,6 +4015,7 @@
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
 - [vuejs/vue-class-component](https://github.com/vuejs/vue-class-component) - ES / TypeScript decorator for class-style Vue components.
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
+- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private proxy registry build in Node.js
 - [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
@@ -4303,7 +4309,7 @@
 - [xyxiao001/vue-cropper](https://github.com/xyxiao001/vue-cropper) - A simple  picture clipping plugin for vue
 - [egoist/vue-feather-icons](https://github.com/egoist/vue-feather-icons) - Simply beautiful open source icons as Vue functional components.
 - [koakumaping/ct-hodor](https://github.com/koakumaping/ct-hodor) - ct-hodor
-- [ulivz/vuepress-theme-egoist](https://github.com/ulivz/vuepress-theme-egoist) - [WIP] A blog theme for @EGOIST and a mirror of egoist/blog, but powered by VuePress.
+- [aamayamaa/vuepress-theme-egoist](https://github.com/aamayamaa/vuepress-theme-egoist) - [WIP] A blog theme for @EGOIST and a mirror of egoist/blog, but powered by VuePress.
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [Physiix/topsi-project-manager](https://github.com/Physiix/topsi-project-manager) - A Desktop Kanban board app.
 - [sunzongzheng/music](https://github.com/sunzongzheng/music) - electron跨平台音乐播放器；可搜网易云、QQ音乐、虾米音乐；支持QQ、微博、Github登录，云歌单; 支持一键导入音乐平台歌单
