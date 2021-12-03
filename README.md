@@ -442,7 +442,7 @@
 - [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, efficient spring animation library 🎼
 - [golang-design/history](https://github.com/golang-design/history) - 📝  Go: A Documentary | https://golang.design/history
-- [yedf/dtm](https://github.com/yedf/dtm) - 🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages.
+- [yedf/dtm](https://github.com/yedf/dtm) - 🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages.  跨语言分布式事务管理器
 - [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable, production-grade WebRTC video conferencing. SDKs for web & mobile.
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.
 - [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
@@ -532,7 +532,7 @@
 - [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
 - [liujunren93/share](https://github.com/liujunren93/share) - 一个简单轻量的golang微服务框架
 - [feixiao/Distributed-Systems](https://github.com/feixiao/Distributed-Systems) - MIT课程《Distributed Systems 》学习和翻译
-- [Xhofe/alist](https://github.com/Xhofe/alist) - 一个目录列表程序
+- [Xhofe/alist](https://github.com/Xhofe/alist) - A file list program that supports multiple storage, powered by gin and React.
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [netxfly/sec-dev-in-action-src](https://github.com/netxfly/sec-dev-in-action-src) - 《白帽子安全开发实战》配套代码
 - [n7olkachev/imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
@@ -1583,7 +1583,7 @@
 - [CesiumGS/obj2gltf](https://github.com/CesiumGS/obj2gltf) - Convert OBJ assets to glTF
 - [headllines/github-daily](https://github.com/headllines/github-daily) - GitHub daily top 10 repos
 - [ml5js/ml5-library](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web! 🤖
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of github repos www.star-history.com
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos www.star-history.com
 - [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
 - [fritx/vue-threejs](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js
 - [ckddbs/three-fbx-loader](https://github.com/ckddbs/three-fbx-loader) - 
@@ -1885,7 +1885,7 @@
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [zamhown/wear-a-mask](https://github.com/zamhown/wear-a-mask) - 😷 An SPA that uses only the front-end to perform deep-learning-based facial landmark detection on images and automatically adds breathing mask stickers.
 - [IBM/report-toolkit](https://github.com/IBM/report-toolkit) - A toolkit for consumers of Node.js diagnostic Reports
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [uber/manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning
@@ -2754,6 +2754,8 @@
 
 ## Others 
 
+- [zeke/kid-chores](https://github.com/zeke/kid-chores) - A bespoke open-source monospaced emoji chore list for kids
+- [KhronosGroup/glTF-Generator-Registry](https://github.com/KhronosGroup/glTF-Generator-Registry) - An open registry of tools that create glTF assets.
 - [WalterInSH/risk-management-note](https://github.com/WalterInSH/risk-management-note) - 🧯风险控制笔记，适用于互联网企业
 - [microsoft/NUWA](https://github.com/microsoft/NUWA) - A unified 3D Transformer Pipeline for visual synthesis
 - [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
@@ -2842,7 +2844,6 @@
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [MingchaoZhu/InterpretableMLBook](https://github.com/MingchaoZhu/InterpretableMLBook) - 《可解释的机器学习--黑盒模型可解释性理解指南》，该书为《Interpretable Machine Learning》中文版
 - [draftdev/startup-marketing-checklist](https://github.com/draftdev/startup-marketing-checklist) - A checklist of tactics for marketing your startup.
-- [yuanguangxin/421pdf](https://github.com/yuanguangxin/421pdf) - 421页PDF 八卦汇总  824瓜
 - [huggingface/awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentation materials from Hugging Face's internal science day
 - [gustavoguanabara/git-github](https://github.com/gustavoguanabara/git-github) - Material do Curso de Git e GitHub
 - [xiazeyu/live2d-widget-models](https://github.com/xiazeyu/live2d-widget-models) - The model library for live2d-widget.js
@@ -2994,7 +2995,6 @@
 - [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [nodejs/mentorship](https://github.com/nodejs/mentorship) - Node.js Mentorship Program Initiative
 - [gopherchina/conference](https://github.com/gopherchina/conference) - 
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  我个人曾经做过的技术分享...
 - [xiaobei666/weixin-xiaochengxu666-info](https://github.com/xiaobei666/weixin-xiaochengxu666-info) - 微信小程序开发框架、资源-干货汇总
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
@@ -4001,7 +4001,7 @@
 - [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's cutting edge React Native project boilerplate, along with a CLI, component/model generators, and more!
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
-- [Yoctol/messaging-apis](https://github.com/Yoctol/messaging-apis) - Messaging APIs for multi-platform
+- [bottenderjs/messaging-apis](https://github.com/bottenderjs/messaging-apis) - Messaging APIs for multi-platform
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [alibaba/GGEditor](https://github.com/alibaba/GGEditor) - A visual graph editor based on G6 and React
 - [nestjsx/crud](https://github.com/nestjsx/crud) - NestJs CRUD for RESTful APIs
@@ -4150,6 +4150,7 @@
 - [iawia002/Zoe](https://github.com/iawia002/Zoe) - 快捷上传文件到七牛云 for macOS
 - [znck/vuepack](https://github.com/znck/vuepack) - Publish .vue files in NPM packages
 - [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
