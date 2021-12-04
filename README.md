@@ -497,7 +497,7 @@
 - [deepfabric/busybee](https://github.com/deepfabric/busybee) - 营销流程引擎
 - [yellowFarLu/Boss-System](https://github.com/yellowFarLu/Boss-System) - BOSS系统是一个数字化运营平台。该系统实现了公司销售人员、渠道代理人员、超级管理员的基本工作，可以维护渠道商机等商业数据，把商业机会数字化，客户跟踪历史记录，批量导入客户信息，多条件筛选，提高工作人员的协作能力，实现总公司、代理、销售三位一体运营,实现数字化运营
 - [yudeyong/pyromid](https://github.com/yudeyong/pyromid) - 分级营销积分体系
-- [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，生产环境稳如老狗
+- [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗
 - [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用、cron 定时任务 等等。
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [zeromicro/goctl-go-compact](https://github.com/zeromicro/goctl-go-compact) - 
@@ -1086,7 +1086,7 @@
 - [go-gomail/gomail](https://github.com/go-gomail/gomail) - The best way to send emails in Go.
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [gocarina/gocsv](https://github.com/gocarina/gocsv) - The GoCSV package aims to provide easy CSV serialization and deserialization to the golang programming language
-- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
+- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [octokit/go-octokit](https://github.com/octokit/go-octokit) - Simple Go wrapper for the GitHub API
 - [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers.
 - [rakyll/autopprof](https://github.com/rakyll/autopprof) - Pprof made easy at development time for Go
@@ -1193,7 +1193,7 @@
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
 - [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [senghoo/golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记
 - [khlieng/dispatch](https://github.com/khlieng/dispatch) - Web-based IRC client in Go.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
@@ -1560,6 +1560,7 @@
 
 ## JavaScript 
 
+- [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
 - [MozillaReality/gltf-bundle](https://github.com/MozillaReality/gltf-bundle) - 
 - [pissang/clay-viewer](https://github.com/pissang/clay-viewer) - 3D model viewer with high quality rendering and glTF2.0/GLB export
 - [kovacsv/Online3DViewer](https://github.com/kovacsv/Online3DViewer) - A free and open source web solution to visualize and explore 3D models right in your browser.
@@ -3014,7 +3015,7 @@
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [the-road-to-learn-react/the-road-to-learn-react-chinese](https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese) - 《React 学习之道》The Road to learn React (简体中文版) | 最简单，且最实用的 React 实战教程。
-- [byoungd/English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) - 可能是让你受益匪浅的英语进阶指南
+- [byoungd/English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) - An advanced guide to learn English that might benefit you a lot  可能是让你受益匪浅的英语进阶指南。
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
 - [tesseract-ocr/tessdata](https://github.com/tesseract-ocr/tessdata) - Trained models with support for legacy and LSTM OCR engine
@@ -3258,7 +3259,7 @@
 - [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Next-gen framework for backtesting, algorithmic trading, and research. Blazingly fast. Super accurate. Pandas friendly.
 - [kotartemiy/newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
 - [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见 Python中文网 http://www.zglg.work
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [google-research/albert](https://github.com/google-research/albert) - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
 - [Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement](https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement) - 2019CCF-BDCI大赛 最佳创新探索奖获得者 基于OCR身份证要素提取赛题冠军 天晨破晓团队 赛题源码
