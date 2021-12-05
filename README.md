@@ -372,7 +372,7 @@
 
 ## Erlang 
 
-- [dgiot/dgiot](https://github.com/dgiot/dgiot) - Open source platform for IoT,1,000,000 of long connection and carrier level stability; Zero code for Object model - Rule Engine - Data Channel - Configuration Page; Fully open source, Multi industrial protocols are compatible.物联网开源平台，轻量级快速部署，千万级长连接承载、电信级稳定性。物模型-规则引擎-数据通道-组态页面全流程零代码开发、前后端完全开源、多行业工业协议兼容。
+- [dgiot/dgiot](https://github.com/dgiot/dgiot) - Open source platform for IoT,30 min Quick Deployment,10M-level device connection,Carrier level Stability; Zero code for Object model-Rule Engine-Data Channel-Configuration Page; Fully open source, Multi industrial protocols are compatible.物联网开源平台，轻量级快速部署，千万级长连接承载、电信级稳定性。物模型-规则引擎-数据通道-组态页面全流程零代码开发、前后端完全开源、多行业工业协议兼容。
 
 ## FreeMarker 
 
@@ -1584,7 +1584,7 @@
 - [CesiumGS/obj2gltf](https://github.com/CesiumGS/obj2gltf) - Convert OBJ assets to glTF
 - [headllines/github-daily](https://github.com/headllines/github-daily) - GitHub daily top 10 repos
 - [ml5js/ml5-library](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web! 🤖
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos www.star-history.com
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos. Visit https://star-history.com.
 - [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
 - [fritx/vue-threejs](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js
 - [ckddbs/three-fbx-loader](https://github.com/ckddbs/three-fbx-loader) - 
@@ -2693,6 +2693,7 @@
 
 ## Makefile 
 
+- [richfelker/musl-cross-make](https://github.com/richfelker/musl-cross-make) - Simple makefile-based build for musl cross compiler
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
 ## Markdown 
@@ -3425,6 +3426,7 @@
 
 ## Ruby 
 
+- [FiloSottile/homebrew-musl-cross](https://github.com/FiloSottile/homebrew-musl-cross) - Homebrew Formula for static-friendly musl-based GCC macOS-to-Linux cross-compilers
 - [bendbro/SketchupExportTo3ds](https://github.com/bendbro/SketchupExportTo3ds) - Plugin to Export SketchUp Models To 3ds on Free Version
 - [SamuelTS/SketchUp-Universal-Importer-Plugin](https://github.com/SamuelTS/SketchUp-Universal-Importer-Plugin) - Open-source importing extension for SketchUp 2017 or newer.
 - [YulioTech/SketchUp-glTF-Importer-Ruby](https://github.com/YulioTech/SketchUp-glTF-Importer-Ruby) - Ruby based SketchUp glTF Importer
