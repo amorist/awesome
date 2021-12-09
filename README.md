@@ -533,7 +533,7 @@
 - [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
 - [liujunren93/share](https://github.com/liujunren93/share) - 一个简单轻量的golang微服务框架
 - [feixiao/Distributed-Systems](https://github.com/feixiao/Distributed-Systems) - MIT课程《Distributed Systems 》学习和翻译
-- [Xhofe/alist](https://github.com/Xhofe/alist) - A file list program that supports multiple storage, powered by gin and React.
+- [Xhofe/alist](https://github.com/Xhofe/alist) - 🗂️Another file list program that supports multiple storage, powered by Gin and React.
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [netxfly/sec-dev-in-action-src](https://github.com/netxfly/sec-dev-in-action-src) - 《白帽子安全开发实战》配套代码
 - [n7olkachev/imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
@@ -1615,7 +1615,7 @@
 - [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 - [mue/mue](https://github.com/mue/mue) - Fast, open and free-to-use new tab page for modern browsers
 - [mauricius/vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) - Vue2 Component for draggable and resizable elements.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1350 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine) - HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.
 - [react-visual-design/react-visual-design](https://github.com/react-visual-design/react-visual-design) - react 可视化搭建平台,移动端可视化编辑平台,低代码设计平台,组件复用  低代码 无代码
 - [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
@@ -1679,7 +1679,7 @@
 - [12zan/miniapp](https://github.com/12zan/miniapp) - 十二赞团队投放了数百万人民币，开发了本套小程序系统 。后端代码主要是php构成，有少量的java\python\golang.前端全部是微信小程序原生，自定义装修部分也是全原生实现。  十二赞小程序 全部版本。功能齐全，架构可扩展，支持千万级访问毫无压力。 接下来，我会把十二赞旗下的全部小程序的源代码整理、开放出来。陆陆续续整理中。 有时候因为要删掉一些敏感信息，保障现在十二赞的客户的信息安全，所以进展会慢一点，请大家耐心等待。也有可能删的内容影响到了现有小程序的运行，需要自己修改一下，请多多理解。 目前十二赞已经实现了一些有意思的东西，比如代码自动集成、docker自动发布、服务发现、服务器扩容， 这里的开放源码已经包含了后端的一些工具库、运维平台等等。 大家有问题可以加我微信或QQ:55547082 ,有空的话我会回复一些问题，但是可能杂事繁多，无法一一回复，请见谅。
 - [HalfMouse/weiit-saas](https://github.com/HalfMouse/weiit-saas) - weiit-saas是一款Java开源项目，属于weiit团队自研产品，意在通过技术封装，让企业无需代码开发，帮助企业一键生成小程序、公众号，让企业拥有独立品牌的自营商城。产品竞争对手《有赞》、《微盟》。
 - [zkqiang/wechat-mdeditor](https://github.com/zkqiang/wechat-mdeditor) - 微信公众号 Markdown 在线编辑器
-- [JasonBoy/wechat-jssdk](https://github.com/JasonBoy/wechat-jssdk) - 🐧WeChat JS-SDK integration with NodeJS
+- [JasonBoy/wechat-jssdk](https://github.com/JasonBoy/wechat-jssdk) - 🐧WeChat JS-SDK integration with NodeJS & Web
 - [antvis/wx-f2](https://github.com/antvis/wx-f2) - F2 的微信小程序
 - [qi19901212/Awesome-Miniprogram](https://github.com/qi19901212/Awesome-Miniprogram) - 收藏可供借鉴的开源小程序项目
 - [LinusLing/WeChatMediaPlatformAutomation](https://github.com/LinusLing/WeChatMediaPlatformAutomation) - 一款在微信公众号( https://mp.weixin.qq.com )自动预览/发布文章的命令行工具。
@@ -1814,7 +1814,7 @@
 - [wuYin/k8s-in-action](https://github.com/wuYin/k8s-in-action) - 《Kubernetes in Action 中文版》
 - [PanJiaChen/tinymce-all-in-one](https://github.com/PanJiaChen/tinymce-all-in-one) - Build all tinymce plugins into one js
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
-- [popperjs/react-popper](https://github.com/popperjs/react-popper) - 🍿⚛Official React library to use Popper, the positioning library
+- [floating-ui/react-popper](https://github.com/floating-ui/react-popper) - 🍿⚛Official React library to use Popper, the positioning library
 - [jspreadsheet/ce](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software.
 - [json-editor/json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
 - [diego3g/electron-typescript-react](https://github.com/diego3g/electron-typescript-react) - :electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.
@@ -3684,6 +3684,7 @@
 
 ## TypeScript 
 
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [pixiv/three-vrm](https://github.com/pixiv/three-vrm) - Use VRM on Three.js
 - [redis/node-redis](https://github.com/redis/node-redis) - A high-performance Node.js Redis client.
 - [najadojo/gltf-import-export](https://github.com/najadojo/gltf-import-export) - Convert between GLB and GLTF files.
@@ -3855,7 +3856,7 @@
 - [acccco/zebra-editor-core](https://github.com/acccco/zebra-editor-core) - 一款强大、现代的可视化编辑器。
 - [typestack/class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
 - [drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
 - [cds-snc/covid-alert-app](https://github.com/cds-snc/covid-alert-app) - Exposure notification client application / Application client de notification d'exposition
 - [scastiel/3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
@@ -3880,7 +3881,7 @@
 - [lmammino/financial](https://github.com/lmammino/financial) - A Zero-dependency TypeScript/JavaScript financial library (based on numpy-financial) for Node.js, Deno and the browser
 - [tinymce/tinymce-vue](https://github.com/tinymce/tinymce-vue) - Official TinyMCE Vue component
 - [nuxt-community/auth-module](https://github.com/nuxt-community/auth-module) - 
-- [nuxt-community/strapi-module](https://github.com/nuxt-community/strapi-module) - Strapi Module for NuxtJS
+- [nuxt-community/strapi-module](https://github.com/nuxt-community/strapi-module) - Strapi Module for Nuxt 3
 - [grid-js/gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable particles animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.
@@ -3898,7 +3899,7 @@
 - [Hopding/pdf-lib](https://github.com/Hopding/pdf-lib) - Create and modify PDF documents in any JavaScript environment
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
-- [alibaba/hooks](https://github.com/alibaba/hooks) - React Hooks Library
+- [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.
 - [teambit/bit](https://github.com/teambit/bit) - A tool for component-driven application development.
 - [qiuxiang/react-native-amap3d](https://github.com/qiuxiang/react-native-amap3d) - react-native 高德地图组件，使用最新 3D SDK，支持 Android + iOS
 - [ssshooter/mind-elixir-core](https://github.com/ssshooter/mind-elixir-core) - Mind-elixir is a framework agnostic mind map core
@@ -3933,7 +3934,7 @@
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
-- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
+- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [sugarshin/required-labels-action](https://github.com/sugarshin/required-labels-action) - A GitHub Actions that automated label checking for pull requests
 - [prevwong/craft.js](https://github.com/prevwong/craft.js) - 🚀 A React Framework for building extensible drag and drop page editors
 - [Azure/azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - The source for REST API specifications for Microsoft Azure.
@@ -4060,7 +4061,7 @@
 - [Raathigesh/fabulous](https://github.com/Raathigesh/fabulous) - 🎨 CSS properties sidebar for VS Code
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [ascoders/gaea-editor](https://github.com/ascoders/gaea-editor) - Design websites in your browser. A smart web editor!
-- [Axosoft/vscode-gitlens](https://github.com/Axosoft/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
+- [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 - [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [GoogleChromeLabs/proxx](https://github.com/GoogleChromeLabs/proxx) - A game of proximity
 - [MMF-FE/svgicon](https://github.com/MMF-FE/svgicon) - SVG icon components and tool set
