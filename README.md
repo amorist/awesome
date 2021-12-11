@@ -675,7 +675,7 @@
 - [henson/proxypool](https://github.com/henson/proxypool) - Golang实现的IP代理池
 - [github/go-fault](https://github.com/github/go-fault) - Fault injection library in Go using standard http middleware
 - [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
-- [facebookincubator/ntp](https://github.com/facebookincubator/ntp) - Facebook's NTP libraries
+- [facebookincubator/time](https://github.com/facebookincubator/time) - Facebook's NTP libraries
 - [buger/jsonparser](https://github.com/buger/jsonparser) - One of the fastest alternative JSON parser for Go that does not require schema
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
