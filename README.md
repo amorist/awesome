@@ -422,7 +422,6 @@
 - [changkun/urlstat](https://github.com/changkun/urlstat) - 📈 URL access statistic service
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Inspired by Google's Zanzibar paper, SpiceDB is a database system for managing security-critical application permissions.
 - [openscrm/api-server](https://github.com/openscrm/api-server) - OpenSCRM是一套基于Go和React的超高质量企业微信私域流量管理系统 。遵守Apache2.0协议，全网唯一免费商用。企业微信、私域流量、SCRM。
-- [ihexxa/quickshare](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices, built with Go, React and Typescript.
 - [fogleman/ln](https://github.com/fogleman/ln) - 3D line art engine.
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open-source vector database for embedding similarity search and AI applications.
@@ -1563,6 +1562,7 @@
 
 ## JavaScript 
 
+- [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [steel1990/tga2png](https://github.com/steel1990/tga2png) - A pure Node.js tga image to png module.
 - [inexorabletash/polyfill](https://github.com/inexorabletash/polyfill) - JavaScript Polyfills, Shims and More
 - [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
@@ -1808,7 +1808,7 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Automattic/juice](https://github.com/Automattic/juice) - Juice inlines CSS stylesheets into your HTML source.
 - [mdnice/markdown-resume](https://github.com/mdnice/markdown-resume) - :necktie:支持 Markdown 和富文本的在线简历排版工具
-- [onblog/BlogHelper](https://github.com/onblog/BlogHelper) - 帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）
+- [onblog/BlogHelper](https://github.com/onblog/BlogHelper) - 帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）欢迎Star，禁止Fork
 - [mdnice/markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 Markdown 编辑器，让排版变 Nice
 - [LeonidasEsteban/rick-and-morty-react](https://github.com/LeonidasEsteban/rick-and-morty-react) - 
 - [wuYin/k8s-in-action](https://github.com/wuYin/k8s-in-action) - 《Kubernetes in Action 中文版》
@@ -3281,7 +3281,6 @@
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [modin-project/modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code
-- [PaddlePaddle/models](https://github.com/PaddlePaddle/models) - Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）
 - [iGhibli/iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport) - This repository holds the device support files for the iOS, and I will update it regularly.
 - [lancopku/pkuseg-python](https://github.com/lancopku/pkuseg-python) - pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation
 - [Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB) - 💎1MB lightweight face detection model  (1MB轻量级人脸检测模型)
@@ -3543,6 +3542,7 @@
 - [electron/build-images](https://github.com/electron/build-images) - Base docker image used to build Electron on CI
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 - [ljharb/rebase](https://github.com/ljharb/rebase) - GitHub Action to automatically rebase PRs
+- [PaddlePaddle/models](https://github.com/PaddlePaddle/models) - Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）
 - [real-dev/stacks](https://github.com/real-dev/stacks) - Various tech "stacks" for Real Dev tasks
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [repo-sync/github-sync](https://github.com/repo-sync/github-sync) - ⤵️ A GitHub Action for syncing current repository with remote
@@ -3685,6 +3685,7 @@
 
 ## TypeScript 
 
+- [segmentio/analytics-next](https://github.com/segmentio/analytics-next) - The next version of AJS
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [pixiv/three-vrm](https://github.com/pixiv/three-vrm) - Use VRM on Three.js
 - [redis/node-redis](https://github.com/redis/node-redis) - A high-performance Node.js Redis client.
@@ -3700,7 +3701,7 @@
 - [maartenbreddels/ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
 - [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice) - Immersive virtual office built with Phaser, React, Redux, PeerJS, and Colyseus.
-- [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics solver for Mediapipe/Tensorflow.js face, eyes, pose, and hand tracking models.
+- [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.
 - [zenghongtu/PPet](https://github.com/zenghongtu/PPet) - 👻在你的桌面放一个萌妹子，多一点趣味😏~（支持Mac、Win和Linux）
 - [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 Open-source notification infrastructure for products
 - [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker) - A library to display an interactive editor for any graph-like data.
@@ -3732,6 +3733,7 @@
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars.
+- [ihexxa/quickshare](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices, built with Go, React and Typescript.
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 - [shadcn/next-mdx](https://github.com/shadcn/next-mdx) - next-mdx provides a set of helper functions for fetching and rendering local MDX files. It handles relational data, supports custom components, is TypeScript ready and really fast.
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
