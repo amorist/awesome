@@ -1566,6 +1566,7 @@
 
 ## JavaScript 
 
+- [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [steel1990/tga2png](https://github.com/steel1990/tga2png) - A pure Node.js tga image to png module.
 - [inexorabletash/polyfill](https://github.com/inexorabletash/polyfill) - JavaScript Polyfills, Shims and More
@@ -3276,7 +3277,7 @@
 - [Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement](https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement) - 2019CCF-BDCI大赛 最佳创新探索奖获得者 基于OCR身份证要素提取赛题冠军 天晨破晓团队 赛题源码
 - [faustomorales/keras-ocr](https://github.com/faustomorales/keras-ocr) - A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
-- [yoshiko2/AV_Data_Capture](https://github.com/yoshiko2/AV_Data_Capture) - 本地电影刮削与整理一体化解决方案
+- [yoshiko2/Movie_Data_Capture](https://github.com/yoshiko2/Movie_Data_Capture) - 本地电影刮削与整理一体化解决方案
 - [observerss/textfilter](https://github.com/observerss/textfilter) - 敏感词过滤的几种实现+某1w词敏感词库
 - [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
 - [luka1199/geo-heatmap](https://github.com/luka1199/geo-heatmap) - :world_map: Generate an interactive geo heatmap from your Google location data
@@ -3709,7 +3710,7 @@
 - [chowa/ejyy](https://github.com/chowa/ejyy) - 「e家宜业」是一整套开源、无加密、无阉割的智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等主要业务。
 - [splitbee/react-notion](https://github.com/splitbee/react-notion) - A fast React renderer for Notion pages
 - [maartenbreddels/ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
-- [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
+- [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice) - Immersive virtual office built with Phaser, React, Redux, PeerJS, and Colyseus.
 - [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.
 - [zenghongtu/PPet](https://github.com/zenghongtu/PPet) - 👻在你的桌面放一个萌妹子，多一点趣味😏~（支持Mac、Win和Linux）
@@ -3808,7 +3809,7 @@
 - [woopen/nplayer](https://github.com/woopen/nplayer) - 🚀 支持移动端、支持 SSR、支持直播，可以接入任何流媒体。高性能的弹幕系统。高度可定制，所有图标、主题色等都可以替换，并且提供了内置组件方便二次开发。无第三方运行时依赖。
 - [yocontra/react-responsive](https://github.com/yocontra/react-responsive) - CSS media queries in react - for responsive design, and more.
 - [vueComponent/pro-layout](https://github.com/vueComponent/pro-layout) - easy use `Ant Design Vue` layout
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code development platform.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code development platform. Drag-and-drop blocks to build internal tools, CRM, ERP in minutes.
 - [didi/LogicFlow](https://github.com/didi/LogicFlow) - A front-end framework for process visualization.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [phodal/ledge](https://github.com/phodal/ledge) - Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。
@@ -3873,7 +3874,7 @@
 - [cds-snc/covid-alert-app](https://github.com/cds-snc/covid-alert-app) - Exposure notification client application / Application client de notification d'exposition
 - [scastiel/3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
 - [pavittarx/editorjs-html](https://github.com/pavittarx/editorjs-html) - A javascript library to parse editorjs clean data to html. It is adaptable and usable in all kind of projects.
-- [nrwl/nx](https://github.com/nrwl/nx) - Smart, Extensible Build Framework
+- [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [benawad/fullstack-graphql-airbnb-clone](https://github.com/benawad/fullstack-graphql-airbnb-clone) - A Fullstack GraphQL Airbnb Clone with React and React Native
 - [karanpratapsingh/fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit) - GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
 - [iamvucms/react-native-instagram-clone](https://github.com/iamvucms/react-native-instagram-clone) - A React Native app - Clone Instagram mobile app
