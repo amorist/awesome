@@ -84,7 +84,7 @@
 ## C 
 
 - [go-gl/gl](https://github.com/go-gl/gl) - Go bindings for OpenGL (generated via glow)
-- [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image” format for fast, lossless image compression
+- [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [recp/AssetKit](https://github.com/recp/AssetKit) - 🎨 Modern 2D/3D - Importer • Exporter • Util - Library, also  known as (AssetIO)
@@ -343,6 +343,7 @@
 
 ## Dockerfile 
 
+- [mochat-cloud/mochat-docker](https://github.com/mochat-cloud/mochat-docker) - 🐳 The docker image offered by MoChat.
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [actions/container-action](https://github.com/actions/container-action) - 
 - [cnych/kubernetes-learning](https://github.com/cnych/kubernetes-learning) - 《从Docker到Kubernetes进阶课程》在线文档
@@ -1129,7 +1130,7 @@
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [Knetic/govaluate](https://github.com/Knetic/govaluate) - Arbitrary expression evaluation for golang
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 🎄
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [globalsign/mgo](https://github.com/globalsign/mgo) - The MongoDB driver for Go
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
@@ -2230,7 +2231,6 @@
 - [schollz/rwtxt](https://github.com/schollz/rwtxt) - A cms for absolute minimalists.
 - [brave/browser-laptop](https://github.com/brave/browser-laptop) - [DEPRECATED] Please see https://github.com/brave/brave-browser for the current version of Brave
 - [galnetwen/Live2D](https://github.com/galnetwen/Live2D) - 在 Web 上展示 Live2D 吧！
-- [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
 - [muan/emojilib](https://github.com/muan/emojilib) - Emoji keyword library.
 - [MrChuckomo/poddycast](https://github.com/MrChuckomo/poddycast) - Podcast app made with Electron, lots of ❤️ and ☕️
@@ -3694,7 +3694,7 @@
 
 ## TypeScript 
 
-- [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 Serverless Stack (SST) is a framework that makes it easy to build serverless apps. Set breakpoints and test your functions locally.
+- [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com
 - [donmccurdy/glTF-Transform](https://github.com/donmccurdy/glTF-Transform) - glTF 2.0 SDK for JavaScript, TypeScript, and Node.js.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - An Open-Source framework designed for best possible time to interactive, by focusing on resumability of server-side-rendering of HTML, and fine-grained lazy-loading of code.
@@ -3873,7 +3873,7 @@
 - [acccco/zebra-editor-core](https://github.com/acccco/zebra-editor-core) - 一款强大、现代的可视化编辑器。
 - [typestack/class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Connect to 15+ database integrations.
 - [drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
 - [cds-snc/covid-alert-app](https://github.com/cds-snc/covid-alert-app) - Exposure notification client application / Application client de notification d'exposition
 - [scastiel/3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
@@ -4149,6 +4149,7 @@
 - [djyde/markbox](https://github.com/djyde/markbox) - Parse your code in markdown into CodeSandbox.
 - [wexond/browser-base](https://github.com/wexond/browser-base) - Modern and feature-rich web browser base based on Electron
 - [microsoft/reactxp](https://github.com/microsoft/reactxp) - Library for cross-platform app development.
+- [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [reduxjs/react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
@@ -4244,6 +4245,8 @@
 
 ## Vue 
 
+- [leadream/wedding-invitation-for-programmers](https://github.com/leadream/wedding-invitation-for-programmers) - 程序猿的婚礼邀请函。
+- [creativetimofficial/vue-argon-design-system](https://github.com/creativetimofficial/vue-argon-design-system) - Vue Argon Design System
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
 - [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) - 低代码平台，H5商城可视化搭建平台
 - [snapshot-labs/snapshot](https://github.com/snapshot-labs/snapshot) - Off-chain gasless multi-governance client. Join us on Discord https://discord.snapshot.org
