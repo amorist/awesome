@@ -452,7 +452,7 @@
 - [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
 - [odpf/optimus](https://github.com/odpf/optimus) - Optimus is an easy-to-use, reliable, and performant workflow orchestrator for data transformation, data modeling, pipelines, and data quality management.
-- [casbin/casnode](https://github.com/casbin/casnode) - Next-generation forum software based on React + Golang, QQ group: 555019739, online demo: https://forum.casbin.com
+- [casbin/casnode](https://github.com/casbin/casnode) - An open-source forum (BBS) software developed by Go and React, QQ group: 555019739
 - [q191201771/naza](https://github.com/q191201771/naza) - 🔥 Go basic library. || Go语言基础库
 - [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, efficient spring animation library 🎼
@@ -512,7 +512,7 @@
 - [deepfabric/busybee](https://github.com/deepfabric/busybee) - 营销流程引擎
 - [yellowFarLu/Boss-System](https://github.com/yellowFarLu/Boss-System) - BOSS系统是一个数字化运营平台。该系统实现了公司销售人员、渠道代理人员、超级管理员的基本工作，可以维护渠道商机等商业数据，把商业机会数字化，客户跟踪历史记录，批量导入客户信息，多条件筛选，提高工作人员的协作能力，实现总公司、代理、销售三位一体运营,实现数字化运营
 - [yudeyong/pyromid](https://github.com/yudeyong/pyromid) - 分级营销积分体系
-- [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗
+- [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用kubernetes，3min装完，500M，100年证书，版本不要太全，生产环境稳如老狗
 - [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用、cron 定时任务 等等。
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [zeromicro/goctl-go-compact](https://github.com/zeromicro/goctl-go-compact) - 
@@ -1497,6 +1497,7 @@
 
 ## Java 
 
+- [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 - [Joolun/JooLun-wx](https://github.com/Joolun/JooLun-wx) - JooLun微信商城，Java + SpringBoot + Maven + Swagger + Mybatis Plus + Redis + Vue + elementUI，微信公众号开发、小程序商城、微信支付、订单管理；商业版还有微服务、多租户Sass、Uniapp商城、小程序直播、多规格SKU、拼团、砍价、商户管理、 秒杀、优惠券、积分、多店铺、商城拖拽装修、服务商收款等功能
@@ -1614,7 +1615,7 @@
 - [yamahigashi/FBXLoaderJS](https://github.com/yamahigashi/FBXLoaderJS) - *This repo  gone inactive* FBX loader written in Javascript without autodesk's FBX SDK ( for ThreeJS)
 - [hiloteam/Hilo3d](https://github.com/hiloteam/Hilo3d) - 🎮 A 3D WebGL Rendering Engine developed by Alibaba Group
 - [vimaec/au2019-forge-revit-to-fbx](https://github.com/vimaec/au2019-forge-revit-to-fbx) - Demonstrates using the Forge Design Automation API for 3ds Max to convert Revit files to FBX using Node.JS
-- [actuallyakash/spacers](https://github.com/actuallyakash/spacers) - 🔳 when you need more __space__
+- [actuallyakash/spacers](https://github.com/actuallyakash/spacers) - 🔳 when you need more __space__ for your no-code tools.
 - [saltcorn/saltcorn](https://github.com/saltcorn/saltcorn) - Free and open source no-code application builder
 - [grouparoo/grouparoo](https://github.com/grouparoo/grouparoo) - 🦘 The Grouparoo Monorepo - open source customer data sync framework
 - [ovineio/ovine](https://github.com/ovineio/ovine) - Build entirety admin system ui blazing fast with json.
@@ -2782,6 +2783,7 @@
 
 ## Others 
 
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
 - [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
 - [zeke/kid-chores](https://github.com/zeke/kid-chores) - A bespoke open-source monospaced emoji chore list for kids
 - [KhronosGroup/glTF-Generator-Registry](https://github.com/KhronosGroup/glTF-Generator-Registry) - An open registry of tools that create glTF assets.
