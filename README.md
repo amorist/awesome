@@ -78,7 +78,6 @@
 
 ## Assembly 
 
-- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [cwgavin/CatBreeds](https://github.com/cwgavin/CatBreeds) - A Xamarin app that recognizes the breeds of cats in the photos.
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 
@@ -469,6 +468,7 @@
 - [silenceper/gowatch](https://github.com/silenceper/gowatch) - 🚀 gowatch is a command line tool that builds and (re)starts your go project everytime you save a Go or template file.
 - [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - 👄 The most accurate natural language detection library in the Go ecosystem, suitable for long and short text alike
 - [2637309949/dolphin](https://github.com/2637309949/dolphin) - Automated code tool for Golang
+- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [wxbool/video-srt](https://github.com/wxbool/video-srt) - 这是一个可以识别视频语音自动生成字幕SRT文件的开源命令行工具。
 - [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
 - [hajimehoshi/go-mp3](https://github.com/hajimehoshi/go-mp3) - An MP3 decoder in pure Go
@@ -503,7 +503,7 @@
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [gookit/event](https://github.com/gookit/event) - 📢 Lightweight event manager and dispatcher implements by Go. Go实现的轻量级的事件管理、调度程序库, 支持设置监听器的优先级, 支持根据事件名称来进行一组事件的监听
 - [angelbarrera92/basic-auth-reverse-proxy](https://github.com/angelbarrera92/basic-auth-reverse-proxy) - Basic Auth Reverse Proxy
-- [shenghui0779/yiigo](https://github.com/shenghui0779/yiigo) - 🔥 一个好用的 Go 轻量级开发通用库 🚀🚀🚀
+- [shenghui0779/yiigo](https://github.com/shenghui0779/yiigo) - 🔥 一个好用的轻量级 Go 开发通用库 🚀🚀🚀
 - [BattlesnakeOfficial/rules](https://github.com/BattlesnakeOfficial/rules) - Battlesnake Game Rules and Logic
 - [hantmac/fuckdb](https://github.com/hantmac/fuckdb) - From database generate go struct,help you fuck db fields
 - [bilibili/gengine](https://github.com/bilibili/gengine) - 
@@ -571,7 +571,7 @@
 - [docker/compose-cli](https://github.com/docker/compose-cli) - Easily run your Compose application to the cloud with compose-cli
 - [docker/cli](https://github.com/docker/cli) - The Docker CLI
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
-- [caarlos0/env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven workflow automation framework
 - [timescale/promscale](https://github.com/timescale/promscale) - The open-source observability backend for metrics and traces powered by SQL 🚀
@@ -589,7 +589,7 @@
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [google/triage-party](https://github.com/google/triage-party) - 🎉 Triage Party: massively multi-player GitHub triage 🎉
-- [meloalright/guora](https://github.com/meloalright/guora) - 🖖🏻 A self-hosted Quora like web application written in Go  基于 Golang 类似知乎的私有部署问答应用 包含问答、评论、点赞、管理后台等功能
+- [argoodies/guora](https://github.com/argoodies/guora) - 🖖🏻 A self-hosted Quora like web application written in Go  基于 Golang 类似知乎的私有部署问答应用 包含问答、评论、点赞、管理后台等功能
 - [google/google-ctf](https://github.com/google/google-ctf) - Google CTF
 - [knownsec/ksubdomain](https://github.com/knownsec/ksubdomain) - 无状态子域名爆破工具
 - [sashabaranov/go-gpt3](https://github.com/sashabaranov/go-gpt3) - OpenAI GPT-3 API wrapper for Go
@@ -3740,7 +3740,7 @@
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [craftzdog/react-native-animated-todo](https://github.com/craftzdog/react-native-animated-todo) - Animated ToDo app built with React Native and Reanimated v2
 - [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - Protocol and application framework for decentralized NFT minting, storefronts, and sales.
-- [chowa/ejyy](https://github.com/chowa/ejyy) - 「e家宜业」是一整套开源、无加密、无阉割的智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等主要业务。
+- [chowa/ejyy](https://github.com/chowa/ejyy) - 「e家宜业」是一整套开源智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等主要业务。
 - [splitbee/react-notion](https://github.com/splitbee/react-notion) - A fast React renderer for Notion pages
 - [maartenbreddels/ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
@@ -3805,7 +3805,7 @@
 - [bennyxguo/face-ai](https://github.com/bennyxguo/face-ai) - Detects faces with AI.
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [golang/vscode-go](https://github.com/golang/vscode-go) - Go extension for Visual Studio Code
-- [anncwb/vben-admin-thin-next](https://github.com/anncwb/vben-admin-thin-next) - vue-vben-admin-2.0 mini template.vue3,vite,typescript
+- [vbenjs/vben-admin-thin-next](https://github.com/vbenjs/vben-admin-thin-next) - vue-vben-admin-2.0 mini template.vue3,vite,typescript
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [zenozeng/fonts.css](https://github.com/zenozeng/fonts.css) - 跨平台 CSS 中文字体解决方案
@@ -4317,7 +4317,7 @@
 - [zwpro/redCover](https://github.com/zwpro/redCover) - 微信红包封面领取，用户观看视频广告或者邀请用户可获取微信红包序列号
 - [zwpro/coupons](https://github.com/zwpro/coupons) - 美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
-- [anncwb/vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
+- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [prismicio/vue-essential-slices](https://github.com/prismicio/vue-essential-slices) - A set of professionally made, accessible Vue components, linked to a (Prismic) backend
 - [GavinZhuLei/vue-form-making](https://github.com/GavinZhuLei/vue-form-making) - A visual form designer/generator base on Vue.js, make form development simple and efficient.（基于Vue的可视化表单设计器，让表单开发简单而高效。）
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
@@ -4363,7 +4363,7 @@
 - [ymm-tech/gods-pen](https://github.com/ymm-tech/gods-pen) - 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink.
 - [saberland/saber-theme-template](https://github.com/saberland/saber-theme-template) - A template for creating Saber theme.
 - [HongqingCao/GitDataV](https://github.com/HongqingCao/GitDataV) - 基于Vue框架构建的github数据可视化平台
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 🛸 Open source API development ecosystem https://hoppscotch.io
 - [open-source-labs/OverVue](https://github.com/open-source-labs/OverVue) - Prototyping Tool For Vue Devs 适用于Vue的原型工具
 - [padarom/vuepress-plugin-code-switcher](https://github.com/padarom/vuepress-plugin-code-switcher) - :arrows_clockwise: Component that adds synchronized multi-language code blocks to your Vuepress sites
 - [FEMessage/el-data-table](https://github.com/FEMessage/el-data-table) - 🥘Base on element-ui, makes crud easily
