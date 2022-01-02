@@ -3553,6 +3553,7 @@
 
 ## Shell 
 
+- [mochat-cloud/docker-compose](https://github.com/mochat-cloud/docker-compose) - 🐳 The docker compose offered by MoChat.
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [makc/assimp2json](https://github.com/makc/assimp2json) - half-assed attempt at emscriptening assimp2json (half of models do not work - HELP 😱)
 - [lcorbasson/docker-skp2dae](https://github.com/lcorbasson/docker-skp2dae) - SketchUp (SKP) to DAE converter using Docker, WINE and ugly glue
@@ -4208,7 +4209,7 @@
 - [iawia002/Zoe](https://github.com/iawia002/Zoe) - 快捷上传文件到七牛云 for macOS
 - [znck/vuepack](https://github.com/znck/vuepack) - Publish .vue files in NPM packages
 - [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
@@ -4277,7 +4278,7 @@
 - [creativetimofficial/vue-argon-design-system](https://github.com/creativetimofficial/vue-argon-design-system) - Vue Argon Design System
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
 - [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) - 低代码平台，H5商城可视化搭建平台
-- [snapshot-labs/snapshot](https://github.com/snapshot-labs/snapshot) - Off-chain gasless multi-governance client. Join us on Discord https://discord.snapshot.org
+- [snapshot-labs/snapshot](https://github.com/snapshot-labs/snapshot) - Off-chain gasless multi-governance client. Join us on Discord https://discord.gg/snapshot
 - [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [antonreshetov/image-optimizer](https://github.com/antonreshetov/image-optimizer) - A free and open source tool for optimizing images and vector graphics.
 - [creativetimofficial/vue-black-dashboard](https://github.com/creativetimofficial/vue-black-dashboard) - Vue Black Dashboard
