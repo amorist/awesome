@@ -395,6 +395,7 @@
 
 ## Go 
 
+- [summerblue/gohub](https://github.com/summerblue/gohub) - Gohub，以论坛 API 为主题，设计的初衷是将其打造为高性能、功能齐全的 API 框架。基于 gin, cobra, viper, zap, gorm, redis, mysql, sqlite, email, jwt
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - A UI-first centralized authentication / Single-Sign-On (SSO) platform supporting OAuth 2.0 / OIDC and SAML, QQ group: 645200447
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [smallnest/rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱!
@@ -476,7 +477,7 @@
 - [upper/db](https://github.com/upper/db) - Data access layer for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features.
 - [SmartKeyerror/Psyduck](https://github.com/SmartKeyerror/Psyduck) - Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计
 - [silenceper/gowatch](https://github.com/silenceper/gowatch) - 🚀 gowatch is a command line tool that builds and (re)starts your go project everytime you save a Go or template file.
-- [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - 👄 The most accurate natural language detection library in the Go ecosystem, suitable for long and short text alike
+- [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - 👄 The most accurate natural language detection library for Go, suitable for long and short text alike
 - [2637309949/dolphin](https://github.com/2637309949/dolphin) - Automated code tool for Golang
 - [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [wxbool/video-srt](https://github.com/wxbool/video-srt) - 这是一个可以识别视频语音自动生成字幕SRT文件的开源命令行工具。
@@ -663,7 +664,7 @@
 - [reddit/baseplate.go](https://github.com/reddit/baseplate.go) - Reddit's Service Framework in Go
 - [BTBurke/svg-embed-font](https://github.com/BTBurke/svg-embed-font) - A tool to embed font files in SVG so they will render properly across all devices
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
-- [jaegertracing/jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go) - 🛑 This library is being deprecated!
+- [jaegertracing/jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go) - 🛑 This library is DEPRECATED!
 - [seata/seata-go-server](https://github.com/seata/seata-go-server) - Seata compatible high availability server
 - [emersion/go-imap](https://github.com/emersion/go-imap) - :inbox_tray: An IMAP library for clients and servers
 - [felixge/fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
@@ -1508,6 +1509,8 @@
 
 ## Java 
 
+- [hamibot/hamibot](https://github.com/hamibot/hamibot) - Android 平台 JavaScript 自动化工具，无需 root。
+- [kekingcn/kkFileView](https://github.com/kekingcn/kkFileView) - spring-boot打造文件文档在线预览项目
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
@@ -1589,6 +1592,7 @@
 
 ## JavaScript 
 
+- [Marak/colors.js](https://github.com/Marak/colors.js) - get colors in your node.js console
 - [ShangHaiMiaoXiang/ShadowEditor](https://github.com/ShangHaiMiaoXiang/ShadowEditor) - 模型转换前后端代码
 - [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages
 - [shufflewzc/faker2](https://github.com/shufflewzc/faker2) - 不知名大佬备份
@@ -3179,6 +3183,8 @@
 
 ## Python 
 
+- [Robert-N7/abmatt](https://github.com/Robert-N7/abmatt) - ANoob's Brres Material Tool for Mario Kart Wii
+- [dimatura/seeing3d](https://github.com/dimatura/seeing3d) - 
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [teslamotors/light-show](https://github.com/teslamotors/light-show) - Tesla Light Show
 - [DavidBuchanan314/ambiguous-png-packer](https://github.com/DavidBuchanan314/ambiguous-png-packer) - Craft PNG files that appear completely different in Apple software
@@ -3475,6 +3481,7 @@
 
 ## Ruby 
 
+- [SketchUp/testup-2](https://github.com/SketchUp/testup-2) - TestUp 2 for SketchUp - A GUI wrapper for running Minitest in SketchUp
 - [FiloSottile/homebrew-musl-cross](https://github.com/FiloSottile/homebrew-musl-cross) - Homebrew Formula for static-friendly musl-based GCC macOS-to-Linux cross-compilers
 - [bendbro/SketchupExportTo3ds](https://github.com/bendbro/SketchupExportTo3ds) - Plugin to Export SketchUp Models To 3ds on Free Version
 - [SamuelTS/SketchUp-Universal-Importer-Plugin](https://github.com/SamuelTS/SketchUp-Universal-Importer-Plugin) - Open-source importing extension for SketchUp 2017 or newer.
@@ -3805,7 +3812,7 @@
 - [gorhom/react-navigation-scrollable-modal](https://github.com/gorhom/react-navigation-scrollable-modal) - This is a POC to replicate the native interaction behavior of iOS modal presentation with React Navigation.
 - [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone.
 - [edp963/davinci](https://github.com/edp963/davinci) - Davinci is a DVsaaS (Data Visualization as a Service) Platform
-- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - A modern, lightweight, performant, accessible and  extensible drag & drop toolkit for React.
+- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
 - [sparrow-js/sparrow](https://github.com/sparrow-js/sparrow) - 🎉场景化低代码（LowCode）搭建工作台，实时输出源代码
