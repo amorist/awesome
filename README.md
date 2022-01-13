@@ -354,6 +354,7 @@
 
 ## Dockerfile 
 
+- [adelton/sketchup-container](https://github.com/adelton/sketchup-container) - Running SketchUp Make in a container
 - [mochat-cloud/mochat-docker](https://github.com/mochat-cloud/mochat-docker) - 🐳 The docker image offered by MoChat.
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [actions/container-action](https://github.com/actions/container-action) - 
@@ -396,6 +397,8 @@
 
 ## Go 
 
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on MacOS with minimal setup
+- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
 - [summerblue/gohub](https://github.com/summerblue/gohub) - Gohub，以论坛 API 为主题，设计的初衷是将其打造为高性能、功能齐全的 API 框架。基于 gin, cobra, viper, zap, gorm, redis, mysql, sqlite, email, jwt
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - A UI-first centralized authentication / Single-Sign-On (SSO) platform supporting OAuth 2.0 / OIDC and SAML, QQ group: 645200447
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
@@ -1593,6 +1596,8 @@
 
 ## JavaScript 
 
+- [vitozyf/lucky-draw](https://github.com/vitozyf/lucky-draw) - 年会抽奖程序
+- [fouber/lottery](https://github.com/fouber/lottery) - 年会抽奖程序
 - [Marak/colors.js](https://github.com/Marak/colors.js) - get colors in your node.js console
 - [ShangHaiMiaoXiang/ShadowEditor](https://github.com/ShangHaiMiaoXiang/ShadowEditor) - 模型转换前后端代码
 - [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages
@@ -1621,7 +1626,7 @@
 - [tensorspace-team/tensorspace](https://github.com/tensorspace-team/tensorspace) - Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
 - [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
-- [SamuelTS/SketchUp-PBR-Plugin](https://github.com/SamuelTS/SketchUp-PBR-Plugin) - Open-source Physically-Based Rendering extension for SketchUp 2017 or newer.
+- [SamuelTallet/SketchUp-PBR-Plugin](https://github.com/SamuelTallet/SketchUp-PBR-Plugin) - Open-source Physically-Based Rendering extension for SketchUp 2017 or newer.
 - [CesiumGS/gltf-pipeline](https://github.com/CesiumGS/gltf-pipeline) - Content pipeline tools for optimizing glTF assets. :globe_with_meridians:
 - [CesiumGS/obj2gltf](https://github.com/CesiumGS/obj2gltf) - Convert OBJ assets to glTF
 - [headllines/github-daily](https://github.com/headllines/github-daily) - GitHub daily top 10 repos
@@ -2801,6 +2806,7 @@
 
 ## Others 
 
+- [ljinkai/weekly](https://github.com/ljinkai/weekly) - 独立开发产品变现周刊，每周五发布。
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 创刊于 2015 年，坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。
 - [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
 - [zeke/kid-chores](https://github.com/zeke/kid-chores) - A bespoke open-source monospaced emoji chore list for kids
@@ -3184,6 +3190,7 @@
 
 ## Python 
 
+- [arindam-m/pyslapi](https://github.com/arindam-m/pyslapi) - Python bindings for the official Sketchup API
 - [Robert-N7/abmatt](https://github.com/Robert-N7/abmatt) - ANoob's Brres Material Tool for Mario Kart Wii
 - [dimatura/seeing3d](https://github.com/dimatura/seeing3d) - 
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
@@ -3485,7 +3492,7 @@
 - [SketchUp/testup-2](https://github.com/SketchUp/testup-2) - TestUp 2 for SketchUp - A GUI wrapper for running Minitest in SketchUp
 - [FiloSottile/homebrew-musl-cross](https://github.com/FiloSottile/homebrew-musl-cross) - Homebrew Formula for static-friendly musl-based GCC macOS-to-Linux cross-compilers
 - [bendbro/SketchupExportTo3ds](https://github.com/bendbro/SketchupExportTo3ds) - Plugin to Export SketchUp Models To 3ds on Free Version
-- [SamuelTS/SketchUp-Universal-Importer-Plugin](https://github.com/SamuelTS/SketchUp-Universal-Importer-Plugin) - Open-source importing extension for SketchUp 2017 or newer.
+- [SamuelTallet/SketchUp-Universal-Importer-Plugin](https://github.com/SamuelTallet/SketchUp-Universal-Importer-Plugin) - Open-source importing extension for SketchUp 2017 or newer.
 - [YulioTech/SketchUp-glTF-Importer-Ruby](https://github.com/YulioTech/SketchUp-glTF-Importer-Ruby) - Ruby based SketchUp glTF Importer
 - [YulioTech/SketchUp-glTF-Exporter-Ruby](https://github.com/YulioTech/SketchUp-glTF-Exporter-Ruby) - Ruby based SketchUp glTF Exporter
 - [github/octobox](https://github.com/github/octobox) - 📮Untangle your GitHub Notifications
