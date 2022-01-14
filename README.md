@@ -397,7 +397,7 @@
 
 ## Go 
 
-- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on MacOS with minimal setup
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
 - [summerblue/gohub](https://github.com/summerblue/gohub) - Gohub，以论坛 API 为主题，设计的初衷是将其打造为高性能、功能齐全的 API 框架。基于 gin, cobra, viper, zap, gorm, redis, mysql, sqlite, email, jwt
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - A UI-first centralized authentication / Single-Sign-On (SSO) platform supporting OAuth 2.0 / OIDC and SAML, QQ group: 645200447
@@ -457,6 +457,7 @@
 - [zeromicro/zero-examples](https://github.com/zeromicro/zero-examples) - go-zero examples
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
+- [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
 - [cespare/reflex](https://github.com/cespare/reflex) - Run a command when files change
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
 - [happy888888/WeiboTask](https://github.com/happy888888/WeiboTask) - 🔔WeiboTask⏰  微博超话app每日签到，评论转发，积分获取。微博app每日签到
@@ -1293,7 +1294,7 @@
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON
-- [iawia002/annie](https://github.com/iawia002/annie) - 👾 Fast and simple video download library and CLI tool written in Go
+- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [shadowsocks/shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go) - go port of shadowsocks (Deprecated)
@@ -1538,7 +1539,7 @@
 - [caisl/activity-platform](https://github.com/caisl/activity-platform) - 营销活动平台，提供平台组件化，活动管理，规则引擎等功能，支撑多种营销活动，方便扩展
 - [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🚀 零代码、热更新、全自动 ORM 库，后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
 - [fuzhengwei/itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design) - :art: 《重学Java设计模式》是一本互联网真实案例实践书籍。以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。欢迎关注小傅哥，微信(fustack)，公众号：bugstack虫洞栈，博客：https://bugstack.cn
-- [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Enterprise Single Sign On for all earthlings and beyond.
+- [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
 - [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
 - [jeecgboot/jeecg-boot](https://github.com/jeecgboot/jeecg-boot) - 「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding-&gt;代码生成-&gt;手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
@@ -2223,7 +2224,6 @@
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [jasondu/wxa-plugin-canvas](https://github.com/jasondu/wxa-plugin-canvas) - 小程序海报组件-生成朋友圈分享海报并生成图片
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, hygen, hardhat, AWS Amplify, GitHub Actions Toolkit, @airbnb/nimbus, and many others! Please follow Enquirer's author: https://github.com/jonschlinkert
-- [vercel/now-desktop](https://github.com/vercel/now-desktop) - An example of building a desktop application using the Now API
 - [Jackliu007888/stock-helper](https://github.com/Jackliu007888/stock-helper) - a chrome extension for Chinese stock
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [RubyLouvre/anu](https://github.com/RubyLouvre/anu) - the React16-compat library with hooks
@@ -2828,7 +2828,6 @@
 - [amorist/free-saas-for-business](https://github.com/amorist/free-saas-for-business) - 免费SaaS帮助企业快速增长
 - [qianguyihao/Mac](https://github.com/qianguyihao/Mac) - Mac系统、Mac软件的操作和使用技巧整理，正在不断完善中。努力做到最全。
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
-- [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
 - [guevara/read-it-later](https://github.com/guevara/read-it-later) - read it later
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 - [hyqyoung/computer-vision-in-action](https://github.com/hyqyoung/computer-vision-in-action) - 《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（更新中，可以先 star）
@@ -2837,7 +2836,6 @@
 - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [ixaxaar/awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
-- [vercel/art](https://github.com/vercel/art) - Public branding assets for ZEIT's products
 - [cg0101/awesome-free-saas](https://github.com/cg0101/awesome-free-saas) - an awesome list of  free SaaS (software as a service) for you. 一份很棒的免费SaaS（软件即服务）清单。
 - [dvgodoy/dl-visuals](https://github.com/dvgodoy/dl-visuals) - Over 200 figures and diagrams of the most popular deep learning architectures and layers FREE TO USE in your blog posts, slides, presentations, or papers.
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
@@ -3499,7 +3497,7 @@
 - [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
 - [faker-ruby/faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot Updates
 - [sferik/t](https://github.com/sferik/t) - A command-line power tool for Twitter.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
@@ -3653,7 +3651,7 @@
 
 ## Swift 
 
-- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts
+- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - All-in-One menu bar app, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [apple/swift-nio](https://github.com/apple/swift-nio) - Event-driven network application framework for high performance protocol servers & clients, non-blocking.
 - [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
 - [zhxnlai/ZLSwipeableViewSwift](https://github.com/zhxnlai/ZLSwipeableViewSwift) - A simple view for building card like interface inspired by Tinder and Potluck.
@@ -4061,7 +4059,7 @@
 - [alibaba/BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React.
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [electron/electron-osx-sign](https://github.com/electron/electron-osx-sign) - Codesign Electron macOS apps
-- [vercel/swr](https://github.com/vercel/swr) - React Hooks for data fetching
+- [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [remaxjs/remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建跨平台小程序
 - [azu/github-funding-yml-updater](https://github.com/azu/github-funding-yml-updater) - Update multiple repositories's `.github/FUNDING.yml` via GitHub API
 - [SaturnTeam/saturn-datepicker](https://github.com/SaturnTeam/saturn-datepicker) - Angular Material Datepicker with range selection
