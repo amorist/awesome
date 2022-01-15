@@ -36,6 +36,7 @@
   - [Kotlin](#kotlin)
   - [Less](#less)
   - [Lua](#lua)
+  - [MAXScript](#maxscript)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
   - [Mathematica](#mathematica)
@@ -84,6 +85,7 @@
 
 ## C 
 
+- [moethu/SketchUpNET](https://github.com/moethu/SketchUpNET) - SketchUp C# API
 - [julfla/skp2tri](https://github.com/julfla/skp2tri) - Parse Sketchup skp files into a homemade format
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [go-gl/gl](https://github.com/go-gl/gl) - Go bindings for OpenGL (generated via glow)
@@ -136,6 +138,7 @@
 
 ## C# # 
 
+- [mcneel/compute.rhino3d](https://github.com/mcneel/compute.rhino3d) - REST geometry server based on RhinoCommon and headless Rhino
 - [IamMRM/3D-Image-Extraction](https://github.com/IamMRM/3D-Image-Extraction) - Script to extract images from .fbx, .dae (Collada), .3ds, .dxf, .obj, and .skp files
 - [sketchfab/UnityGLTF](https://github.com/sketchfab/UnityGLTF) - Runtime GLTF Loader for Unity3D
 - [Unity-Technologies/com.autodesk.fbx](https://github.com/Unity-Technologies/com.autodesk.fbx) - FBX SDK C# bindings
@@ -472,7 +475,7 @@
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, efficient spring animation library 🎼
 - [golang-design/history](https://github.com/golang-design/history) - 📝  Go: A Documentary | https://golang.design/history
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - 🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages.  跨语言分布式事务管理器
-- [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable, production-grade WebRTC infrastructure. SDKs in JS, React, Flutter, Swift, Kotlin, Go and Node.
+- [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable, high-performance WebRTC SFU. SDKs in JS, React, Flutter, Swift, Kotlin, Go and Node.
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.
 - [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
 - [easychen/wecomchan](https://github.com/easychen/wecomchan) - 通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。可以看成Server酱的开源替代方案之一。
@@ -848,7 +851,7 @@
 - [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
-- [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka 0.8, and up.
+- [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka.
 - [census-instrumentation/opencensus-go](https://github.com/census-instrumentation/opencensus-go) - A stats collection and distributed tracing framework
 - [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
 - [muhammadmuzzammil1998/jsonc](https://github.com/muhammadmuzzammil1998/jsonc) - JSON with comments for Go!
@@ -2735,6 +2738,10 @@
 - [alexazhou/VeryNginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
 - [aceimnorstuvwxz/chatbot-zh-torch7](https://github.com/aceimnorstuvwxz/chatbot-zh-torch7) - 中文Neural conversational model in Torch
 
+## MAXScript 
+
+- [christopwner/autodesk-file-converter](https://github.com/christopwner/autodesk-file-converter) - Script for automatically converting a large set of files supported by Autodesk 3ds Max.
+
 ## Makefile 
 
 - [richfelker/musl-cross-make](https://github.com/richfelker/musl-cross-make) - Simple makefile-based build for musl cross compiler
@@ -2806,6 +2813,7 @@
 
 ## Others 
 
+- [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
 - [ljinkai/weekly](https://github.com/ljinkai/weekly) - 独立开发产品变现周刊，每周五发布。
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 创刊于 2015 年，坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。
 - [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
@@ -3188,6 +3196,15 @@
 
 ## Python 
 
+- [p3rfilov/3ds-Max-Converter](https://github.com/p3rfilov/3ds-Max-Converter) - Converts *.max files to a version of your choice.
+- [a1studmuffin/SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script to procedurally generate 3D spaceships
+- [dhimanak/ADFormatExporter](https://github.com/dhimanak/ADFormatExporter) - 3D format converter utility. This program takes in most of the renowned  3D formats(.obj, .dae,  .3ds, .max, .fbx)  and convert it to Threejs(ready for web)
+- [jesterKing/import_3dm](https://github.com/jesterKing/import_3dm) - Blender importer script for Rhinoceros 3D files
+- [njanakiev/blender-scripting](https://github.com/njanakiev/blender-scripting) - Introduction to blender scripting
+- [sketchfab/blender-plugin](https://github.com/sketchfab/blender-plugin) - 
+- [animate1978/MB-Lab](https://github.com/animate1978/MB-Lab) - MB-Lab is a character creation tool for Blender 2.80+, based off ManuelBastioniLAB
+- [jmplonka/Importer3D](https://github.com/jmplonka/Importer3D) - FreeCAD Addon to import several 3D files 3D Studio Max (*.3ds, *.max), LightWave Object (*.lwo), Autodesk binary Maya (*.md) or GSkin-Mesh (*.gsm)
+- [nytimes/rd-blender-docker](https://github.com/nytimes/rd-blender-docker) - A collection of Docker containers for running Blender headless or distributed ✨
 - [arindam-m/pyslapi](https://github.com/arindam-m/pyslapi) - Python bindings for the official Sketchup API
 - [Robert-N7/abmatt](https://github.com/Robert-N7/abmatt) - ANoob's Brres Material Tool for Mario Kart Wii
 - [dimatura/seeing3d](https://github.com/dimatura/seeing3d) - 
@@ -3551,7 +3568,7 @@
 - [denoland/cargo_gn](https://github.com/denoland/cargo_gn) - Cargo GN integration
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
@@ -3580,6 +3597,7 @@
 
 ## Shell 
 
+- [haysclark/docker-backburner](https://github.com/haysclark/docker-backburner) - Unofficial Autodesk® Backburner™ Docker container
 - [mochat-cloud/docker-compose](https://github.com/mochat-cloud/docker-compose) - 🐳 The docker compose offered by MoChat.
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [makc/assimp2json](https://github.com/makc/assimp2json) - half-assed attempt at emscriptening assimp2json (half of models do not work - HELP 😱)
@@ -3755,7 +3773,7 @@
 - [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com
 - [donmccurdy/glTF-Transform](https://github.com/donmccurdy/glTF-Transform) - glTF 2.0 SDK for JavaScript, TypeScript, and Node.js.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - An Open-Source framework designed for best possible time to interactive, by focusing on resumability of server-side-rendering of HTML, and fine-grained lazy-loading of code.
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Initialize apps of any size with &lt; 1kb JS
 - [exiled-apes/candy-machine-mint](https://github.com/exiled-apes/candy-machine-mint) - Fork, config, customize and ship your own candy machine mint app on your own domain, ultra fast.
 - [JamieMason/ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Make optimisation of images part of your automated build process
 - [segmentio/analytics-next](https://github.com/segmentio/analytics-next) - The next version of AJS
