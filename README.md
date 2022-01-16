@@ -415,6 +415,7 @@
 - [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
 - [pixiv/go-libjpeg](https://github.com/pixiv/go-libjpeg) - An implementation of Go binding for libjpeg (or libjpeg-turbo).
 - [pixiv/go-thumber](https://github.com/pixiv/go-thumber) - dynamic JPEG thumbnailing proxy written in Golang
+- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [RH12503/triangula](https://github.com/RH12503/triangula) - Generate high-quality triangulated and polygonal art from images.
 - [goplus/tutorial](https://github.com/goplus/tutorial) - Tutorials for GoPlus (The Go+ Language)
 - [elliotchance/c2go](https://github.com/elliotchance/c2go) - ⚖️ A tool for transpiling C to Go.
@@ -542,7 +543,7 @@
 - [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go
 - [zeromicro/go-queue](https://github.com/zeromicro/go-queue) - Kafka, Beanstalkd Pub/Sub framework.
-- [gookit/goutil](https://github.com/gookit/goutil) - 💪 Helper Utils For The Go: int, string, array/slice, map, dump, format, CLI, ENV, filesystem, test and more. Go 的一些工具函数，格式化，特殊处理，常用信息获取等等
+- [gookit/goutil](https://github.com/gookit/goutil) - 💪 Helper Utils For The Go: int, string, array/slice, map, dump, convert/format, web/http, cli, OS/ENV, filesystem, system, test and more. Go 的一些工具函数，格式化，特殊处理，常用信息获取等等
 - [TeaWeb/build](https://github.com/TeaWeb/build) - TeaWeb-可视化的Web代理服务。DEMO: http://teaos.cn:7777
 - [Narasimha1997/fake-sms](https://github.com/Narasimha1997/fake-sms) - A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
@@ -732,7 +733,7 @@
 - [jbowens/codenames](https://github.com/jbowens/codenames) - Play codenames online
 - [pion/ion](https://github.com/pion/ion) - Real-Distributed  RTC System by pure Go and Flutter
 - [didi/nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System.  Prometheus enterprise UI
-- [microhq/protoc-gen-micro](https://github.com/microhq/protoc-gen-micro) - Protobuf code generation for Micro. Moved to go-micro/cmd/protoc-gen-micro.
+- [go-microdev/protoc-gen-micro](https://github.com/go-microdev/protoc-gen-micro) - Protobuf code generation
 - [rancher/cli](https://github.com/rancher/cli) - Rancher CLI
 - [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) - Kubernetes Native Serverless Framework
 - [danderson/netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting
@@ -857,7 +858,7 @@
 - [muhammadmuzzammil1998/jsonc](https://github.com/muhammadmuzzammil1998/jsonc) - JSON with comments for Go!
 - [godoctor/godoctor](https://github.com/godoctor/godoctor) - Go Doctor - The Golang Refactoring Engine
 - [mvdan/github-actions-golang](https://github.com/mvdan/github-actions-golang) - GitHub Actions as CI for Go
-- [microhq/go-plugins](https://github.com/microhq/go-plugins) - Go Micro Plugins. Moved to go-micro/plugins.
+- [go-microdev/plugins](https://github.com/go-microdev/plugins) - Go Micro Plugins
 - [open-falcon/falcon-plus](https://github.com/open-falcon/falcon-plus) - An open-source and enterprise-level monitoring system.
 - [bitly/go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
@@ -4328,7 +4329,6 @@
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
 - [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) - 低代码平台，H5商城可视化搭建平台
 - [snapshot-labs/snapshot](https://github.com/snapshot-labs/snapshot) - Off-chain gasless multi-governance client. Join us on Discord https://discord.gg/snapshot
-- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [creativetimofficial/vue-black-dashboard](https://github.com/creativetimofficial/vue-black-dashboard) - Vue Black Dashboard
 - [shengxinjing/geektime-vue-course](https://github.com/shengxinjing/geektime-vue-course) - 极客时间代码
 - [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - 基于Vue3 + Element Plus 的后台管理系统解决方案
