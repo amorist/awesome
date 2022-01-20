@@ -467,7 +467,7 @@
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
 - [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
 - [cespare/reflex](https://github.com/cespare/reflex) - Run a command when files change
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [happy888888/WeiboTask](https://github.com/happy888888/WeiboTask) - 🔔WeiboTask⏰  微博超话app每日签到，评论转发，积分获取。微博app每日签到
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
@@ -480,7 +480,7 @@
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, efficient spring animation library 🎼
 - [golang-design/history](https://github.com/golang-design/history) - 📝  Go: A Documentary | https://golang.design/history
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - 🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages.  跨语言分布式事务管理器
-- [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable, high-performance WebRTC SFU. SDKs in JS, React, Flutter, Swift, Kotlin, Go and Node.
+- [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable, high-performance WebRTC SFU. SDKs in JS, React, Flutter, Swift, Kotlin, Go, Ruby and Node.
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.
 - [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
 - [easychen/wecomchan](https://github.com/easychen/wecomchan) - 通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。可以看成Server酱的开源替代方案之一。
@@ -1699,7 +1699,7 @@
 - [jscottsmith/react-scroll-parallax](https://github.com/jscottsmith/react-scroll-parallax) - 🔮  React components to create parallax scroll effects for banners, images or any other DOM elements
 - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives
 - [alitajs/alita](https://github.com/alitajs/alita) - A mobile React framework based on umi.
-- [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys) - Lightweight full-featured typescript/javascript WhatsApp Web API
+- [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys) - Lightweight full-featured WhatsApp Web + Multi-Device API
 - [zgh0711/vue-template-mobile](https://github.com/zgh0711/vue-template-mobile) - Vue 移动端新项目模板，封装了 H5 项目开发中一些比较常用的功能，比如：微信授权及分享、axios 封装、移动端 vw 适配、UI 组件库等等。使用时只需把项目 clone 下来，按照文档稍作修改即可直接进行业务开发。
 - [annshuMei/vue-h5](https://github.com/annshuMei/vue-h5) - 开发适配手机、平板电脑H5项目模板 vue-cli4.0+（eslin、prettier）使用指南+VantUi+sass+rem+axios封装+vue-router+vuex模块化  文档指导开发适配手机、平板电脑方案  swiper 动态导航 二级镶嵌封装
 - [clipisode/puppeteer-recorder](https://github.com/clipisode/puppeteer-recorder) - Record animations using puppeteer. Based on electron-recorder.
@@ -2319,6 +2319,7 @@
 - [wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger) - 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
 - [react-static/react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
 - [vuejs/cn.vuejs.org](https://github.com/vuejs/cn.vuejs.org) - 🇨🇳 Chinese translation for vuejs.org
+- [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
 - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
@@ -3432,7 +3433,6 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [magenta/magenta](https://github.com/magenta/magenta) - Magenta: Music and Art Generation with Machine Intelligence
 - [mukund109/word-mesh](https://github.com/mukund109/word-mesh) - A context-preserving word cloud generator
-- [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [danmacnish/cartoonify](https://github.com/danmacnish/cartoonify) - python app to turn a photograph into a cartoon
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -4343,7 +4343,7 @@
 - [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - 基于Vue3 + Element Plus 的后台管理系统解决方案
 - [hujiulong/vue-3d-model](https://github.com/hujiulong/vue-3d-model) - 📷 vue.js 3D model viewer component
 - [dongsuo/vue-data-board](https://github.com/dongsuo/vue-data-board) - A Data Analysis Board in Vue.
-- [vuejs/create-vue](https://github.com/vuejs/create-vue) - 🛠️ Quickly scaffold a Vue project with `npm init vue`
+- [vuejs/create-vue](https://github.com/vuejs/create-vue) - 🛠️ Quickly scaffold a Vue project with `npm init vue@3`
 - [uasoft-indonesia/badaso](https://github.com/uasoft-indonesia/badaso) - The API & platform builder, build your apps 10x faster even more, it's open source & 100% free !
 - [yangyuji/h5-factory](https://github.com/yangyuji/h5-factory) - h5制作，移动端专题活动页面可视化编辑
 - [gs-shop/vue-slick-carousel](https://github.com/gs-shop/vue-slick-carousel) - 🚥Vue Slick Carousel with True SSR Written for ⚡Faster Luxstay
