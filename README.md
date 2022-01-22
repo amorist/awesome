@@ -1604,6 +1604,7 @@
 
 ## JavaScript 
 
+- [fireship-io/web3-nft-dapp-tutorial](https://github.com/fireship-io/web3-nft-dapp-tutorial) - A simple web3 app for minting NFTs
 - [sindresorhus/normalize-url](https://github.com/sindresorhus/normalize-url) - Normalize a URL
 - [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
 - [NotLuksus/nft-art-generator](https://github.com/NotLuksus/nft-art-generator) - A tool to generate generative NFT art projects.
