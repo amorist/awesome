@@ -409,6 +409,8 @@
 
 ## Go 
 
+- [temporalio/samples-go](https://github.com/temporalio/samples-go) - Temporal Go SDK samples
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [BishopFox/sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework
 - [umbracle/go-web3](https://github.com/umbracle/go-web3) - Ethereum Golang API
 - [IBAX-io/go-ibax](https://github.com/IBAX-io/go-ibax) - An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc.
@@ -743,7 +745,7 @@
 - [goodcan/go-lottery](https://github.com/goodcan/go-lottery) - Golang 实现各式各样的抽奖逻辑后台
 - [jbowens/codenames](https://github.com/jbowens/codenames) - Play codenames online
 - [pion/ion](https://github.com/pion/ion) - Real-Distributed  RTC System by pure Go and Flutter
-- [didi/nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System.  Prometheus enterprise UI
+- [didi/nightingale](https://github.com/didi/nightingale) - An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and management.
 - [go-microdev/protoc-gen-micro](https://github.com/go-microdev/protoc-gen-micro) - Protobuf code generation
 - [rancher/cli](https://github.com/rancher/cli) - Rancher CLI
 - [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) - Kubernetes Native Serverless Framework
@@ -1224,7 +1226,7 @@
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [jhvst/vertigo](https://github.com/jhvst/vertigo) - Blog engine in Go (golang)
 - [azer-oss/strict-request](https://github.com/azer-oss/strict-request) - Send strict HTTP Requests with Go
-- [micro/micro](https://github.com/micro/micro) - A distributed cloud platform
+- [micro/micro](https://github.com/micro/micro) - A distributed cloud operating system
 - [jdkato/prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [Jeiwan/blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [josephyzhou/github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
@@ -1528,6 +1530,7 @@
 
 ## Java 
 
+- [spring-projects/spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) - The Spring Authorization Server project is focused on delivering OAuth 2.1 Authorization Server support to the Spring community.
 - [hamibot/hamibot](https://github.com/hamibot/hamibot) - Android 平台 JavaScript 自动化工具，无需 root。
 - [kekingcn/kkFileView](https://github.com/kekingcn/kkFileView) - spring-boot打造文件文档在线预览项目
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
@@ -1611,6 +1614,7 @@
 
 ## JavaScript 
 
+- [rom1504/dalle-service](https://github.com/rom1504/dalle-service) - Dalle service
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
 - [arcxingye/EatKano](https://github.com/arcxingye/EatKano) - 小游戏：吃掉小鹿乃
 - [fireship-io/web3-nft-dapp-tutorial](https://github.com/fireship-io/web3-nft-dapp-tutorial) - A simple web3 app for minting NFTs
@@ -1722,7 +1726,7 @@
 - [ant-design/ant-motion](https://github.com/ant-design/ant-motion) - :bicyclist: Animate specification and components of Ant Design
 - [ant-motion/ant-design-3.x-landing-page](https://github.com/ant-motion/ant-design-3.x-landing-page) - ant design 3.x landing page
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
-- [LuckDraw/mini-luck-draw](https://github.com/LuckDraw/mini-luck-draw) - 🚧 该库已迁移到 https://github.com/LuckDraw/lucky-canvas
+- [buuing/creep-cube](https://github.com/buuing/creep-cube) - 
 - [purplebamboo/font-carrier](https://github.com/purplebamboo/font-carrier) - font-carrier是一个功能强大的字体操作库，使用它你可以随心所欲的操作字体。让你可以在svg的维度改造字体的展现形状。
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
@@ -3212,6 +3216,8 @@
 
 ## Python 
 
+- [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch) - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch
+- [openai/DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [RedHaloStudio/Sketchup_Importer](https://github.com/RedHaloStudio/Sketchup_Importer) - Python bindings for the official Sketchup API
 - [ethereum/web3.py](https://github.com/ethereum/web3.py) - A python interface for interacting with the Ethereum blockchain and ecosystem.
@@ -3780,6 +3786,7 @@
 
 ## TypeScript 
 
+- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [imcuttle/mometa](https://github.com/imcuttle/mometa) - 🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具
 - [hannahcode/wordle](https://github.com/hannahcode/wordle) - A clone of the popular game Wordle made using React, Typescript, and Tailwind
 - [AppsusUK/NFT-Art-Generator](https://github.com/AppsusUK/NFT-Art-Generator) - Easy to use NFT art generator app for windows/linux/mac
@@ -4294,7 +4301,7 @@
 - [midwayjs/pandora](https://github.com/midwayjs/pandora) - A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
 - [electron/i18n](https://github.com/electron/i18n) - 🌍 The home of Electron's translated documentation
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
-- [cam-inc/viron](https://github.com/cam-inc/viron) - ☕️ Automated Design-based Management Console.
+- [cam-inc/viron](https://github.com/cam-inc/viron) - OAS-driven Frondend-NoCode Administration Console
 - [alibaba/ice](https://github.com/alibaba/ice) - 🚀 The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
