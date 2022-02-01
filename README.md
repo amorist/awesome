@@ -425,7 +425,7 @@
 - [disintegration/imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go
 - [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
 - [projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh) - An OOB interaction gathering server and client library
-- [cshum/imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server written in Go and libvips, with Thumbor URL syntax
+- [cshum/imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server written in Go
 - [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
 - [pixiv/go-libjpeg](https://github.com/pixiv/go-libjpeg) - An implementation of Go binding for libjpeg (or libjpeg-turbo).
 - [pixiv/go-thumber](https://github.com/pixiv/go-thumber) - dynamic JPEG thumbnailing proxy written in Golang
@@ -2307,7 +2307,7 @@
 - [drcmda/mauerwerk](https://github.com/drcmda/mauerwerk) - ⚒  A react-spring driven masonry-like grid with enter/exit and shared element transitions
 - [upash/peco](https://github.com/upash/peco) - nothing here, move on..
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
-- [mozilla/serviceworker-cookbook](https://github.com/mozilla/serviceworker-cookbook) - It's online. It's offline. It's a Service Worker!
+- [mdn/serviceworker-cookbook](https://github.com/mdn/serviceworker-cookbook) - It's online. It's offline. It's a Service Worker!
 - [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [imbrn/v8n](https://github.com/imbrn/v8n) - ☑️ JavaScript fluent validation library
 - [vaneenige/unswitch](https://github.com/vaneenige/unswitch) - 🕹 A tiny event handler for Switch controllers!
@@ -2415,7 +2415,6 @@
 - [jaredreich/notie](https://github.com/jaredreich/notie) - 🔔 a clean and simple notification, input, and selection suite for javascript, with no dependencies
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [yue/wey](https://github.com/yue/wey) - Fast open source Slack desktop app
-- [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [tensorflow/tfjs-examples](https://github.com/tensorflow/tfjs-examples) - Examples built with TensorFlow.js
 - [xoxco/jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) - Magically convert a simple text input into a cool tag list with this jQuery plugin.
 - [nodejs/security-wg](https://github.com/nodejs/security-wg) - Node.js Ecosystem Security Working Group
@@ -3859,7 +3858,7 @@
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
 - [gorhom/react-navigation-scrollable-modal](https://github.com/gorhom/react-navigation-scrollable-modal) - This is a POC to replicate the native interaction behavior of iOS modal presentation with React Navigation.
-- [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [edp963/davinci](https://github.com/edp963/davinci) - Davinci is a DVsaaS (Data Visualization as a Service) Platform
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
@@ -3954,7 +3953,7 @@
 - [vercel/static-fun](https://github.com/vercel/static-fun) - A fun demo for wildcard domains
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [oznu/homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x) - The Homebridge UI. Monitor, configure and backup Homebridge from a browser.
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕜 Modern Timeline component for React
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕜 Modern Timeline Component for React
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
@@ -4470,6 +4469,7 @@
 - [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) - 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
 - [amorist/VuePressNext](https://github.com/amorist/VuePressNext) - blog based vuepress
 - [Yubisaki/vuepress-theme-yubisaki](https://github.com/Yubisaki/vuepress-theme-yubisaki) - :sparkles: A blog theme for vuepress
+- [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [iview/iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [PhilippLgh/electron-toolkit](https://github.com/PhilippLgh/electron-toolkit) - Tools to make launching Electron apps easier
