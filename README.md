@@ -140,6 +140,7 @@
 
 ## C# # 
 
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
 - [mcneel/compute.rhino3d](https://github.com/mcneel/compute.rhino3d) - REST geometry server based on RhinoCommon and headless Rhino
 - [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages
 - [IamMRM/3D-Image-Extraction](https://github.com/IamMRM/3D-Image-Extraction) - Script to extract images from .fbx, .dae (Collada), .3ds, .dxf, .obj, and .skp files
@@ -409,6 +410,7 @@
 
 ## Go 
 
+- [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms implemented in Go for beginners, following best practices.
 - [temporalio/samples-go](https://github.com/temporalio/samples-go) - Temporal Go SDK samples
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [BishopFox/sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework
@@ -3786,7 +3788,7 @@
 
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [imcuttle/mometa](https://github.com/imcuttle/mometa) - 🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具
-- [hannahcode/wordle](https://github.com/hannahcode/wordle) - A clone of the popular game Wordle made using React, Typescript, and Tailwind
+- [hannahcode/word-guessing-game](https://github.com/hannahcode/word-guessing-game) - A word guessing game made using React, Typescript, and Tailwind
 - [AppsusUK/NFT-Art-Generator](https://github.com/AppsusUK/NFT-Art-Generator) - Easy to use NFT art generator app for windows/linux/mac
 - [alibaba/kiwi](https://github.com/alibaba/kiwi) - 🐤 Kiwi-国际化翻译全流程解决方案
 - [nikersify/pico](https://github.com/nikersify/pico) - Take browser screenshots in Javascript  📸
