@@ -126,7 +126,6 @@
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror). This repository is a pure mirror and contributions are currently not accepted via pull-requests, please submit your contributions via https://developer.apple.com/bug-reporting/
-- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [nicolasff/webdis](https://github.com/nicolasff/webdis) - A Redis HTTP interface with JSON output
 - [session-replay-tools/tcpcopy](https://github.com/session-replay-tools/tcpcopy) - An online request replication tool, also a tcp stream replay tool, fit for real testing, performance testing, stability testing, stress testing, load testing, smoke testing, etc
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
@@ -1282,6 +1281,7 @@
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [go-ego/gse](https://github.com/go-ego/gse) - Go efficient multilingual NLP and text segmentation; support english, chinese, japanese and other. Go 高性能多语言 NLP 和分词
+- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [francoispqt/gojay](https://github.com/francoispqt/gojay) - fastest JSON encoder/decoder with powerful stream API for Golang
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [nsqio/go-nsq](https://github.com/nsqio/go-nsq) - The official Go package for NSQ
@@ -4030,7 +4030,7 @@
 - [prismicio/slice-machine](https://github.com/prismicio/slice-machine) - A series of tools for developing and deploying website sections with Prismic
 - [twilio/twilio-video-app-react](https://github.com/twilio/twilio-video-app-react) - A collaboration application built with the twilio-video.js SDK and React.js
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
-- [egoist-wip/tailwind-nextjs-saas-template](https://github.com/egoist-wip/tailwind-nextjs-saas-template) - A TailwindCSS + Next.js template for your next SaaS product.
+- [egoist-labs/tailwind-nextjs-saas-template](https://github.com/egoist-labs/tailwind-nextjs-saas-template) - A TailwindCSS + Next.js template for your next SaaS product.
 - [surmon-china/vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
