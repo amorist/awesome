@@ -785,7 +785,7 @@
 - [derekcollison/nats-http](https://github.com/derekcollison/nats-http) - Using HTTP Request and Response with NATS
 - [houqp/sqlvet](https://github.com/houqp/sqlvet) - Go fearless SQL. Sqlvet performs static analysis on raw SQL queries in your Go code base.
 - [rakyll/govalidate](https://github.com/rakyll/govalidate) - Validates your Go installation and dependencies.
-- [go-kratos/kratos](https://github.com/go-kratos/kratos) - A modular-designed and easy-to-use microservices framework in Go.
+- [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [Golangltd/codeclass](https://github.com/Golangltd/codeclass) - Golang语言社区--腾讯课堂、网易云课堂、B站课程PPT及代码
 - [docker/go-plugins-helpers](https://github.com/docker/go-plugins-helpers) - Go helper packages to extend the Docker Engine
 - [jbirms/ok-zoomer](https://github.com/jbirms/ok-zoomer) - A Go program that takes an image, uses pigo to detect a face, and creates a gif that zooms in on the face
@@ -1601,7 +1601,6 @@
 - [MiEcosystem/NewXmPluginSDK](https://github.com/MiEcosystem/NewXmPluginSDK) - xiaomi smarthome app plugin sdk
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [coodyer/coody-icop](https://github.com/coodyer/coody-icop) - cglib轻量化mvc框架(ioc+aop+mvc+orm+切面级事物)
-- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [Curzibn/Luban](https://github.com/Curzibn/Luban) - Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法
 - [AbrahamCaiJin/CommonUtilLibrary](https://github.com/AbrahamCaiJin/CommonUtilLibrary) - 快速开发工具类收集，史上最全的开发工具类，欢迎Follow、Fork、Star
@@ -3087,11 +3086,12 @@
 - [nswbmw/node-in-debugging](https://github.com/nswbmw/node-in-debugging) - 《Node.js 调试指南》
 - [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
 - [llSourcell/Learn_Machine_Learning_in_3_Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months) - This is the code for "Learn Machine Learning in 3 Months" by Siraj Raval on Youtube
+- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [fmzquant/strategies](https://github.com/fmzquant/strategies) - quantitative trading with Javascript, Python, C++, Blockly, MyLanguage(麦语言)
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [the-road-to-learn-react/the-road-to-learn-react-chinese](https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese) - 《React 学习之道》The Road to learn React (简体中文版) | 最简单，且最实用的 React 实战教程。
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English that might benefit you a lot  可能是让你受益匪浅的英语进阶指南。
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English that might benefit you a lot 🎉 . 可能是让你受益匪浅的英语进阶指南。
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
 - [tesseract-ocr/tessdata](https://github.com/tesseract-ocr/tessdata) - Trained models with support for legacy and LSTM OCR engine
@@ -3788,7 +3788,7 @@
 
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [imcuttle/mometa](https://github.com/imcuttle/mometa) - 🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具
-- [hannahcode/word-guessing-game](https://github.com/hannahcode/word-guessing-game) - A word guessing game made using React, Typescript, and Tailwind
+- [cwackerfuss/word-guessing-game](https://github.com/cwackerfuss/word-guessing-game) - A word guessing game made using React, Typescript, and Tailwind
 - [AppsusUK/NFT-Art-Generator](https://github.com/AppsusUK/NFT-Art-Generator) - Easy to use NFT art generator app for windows/linux/mac
 - [alibaba/kiwi](https://github.com/alibaba/kiwi) - 🐤 Kiwi-国际化翻译全流程解决方案
 - [nikersify/pico](https://github.com/nikersify/pico) - Take browser screenshots in Javascript  📸
@@ -3972,7 +3972,7 @@
 - [egoist/feedbackok-react](https://github.com/egoist/feedbackok-react) - React component for Feedback OK.
 - [egoist/feedbackok-js](https://github.com/egoist/feedbackok-js) - Collecting feedback with ease.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most advanced NodeJS WhatsApp library for chatbots with advanced features. Be sure to 🌟 this repository for updates!
+- [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable WhatsApp tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [acccco/zebra-editor-core](https://github.com/acccco/zebra-editor-core) - 一款强大、现代的可视化编辑器。
 - [typestack/class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
@@ -4230,7 +4230,7 @@
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
-- [denopkg/denopkg.com](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
+- [egoist-labs/denopkg.com](https://github.com/egoist-labs/denopkg.com) - An easier way to use code from GitHub in your Deno project.
 - [itgalaxy/favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
