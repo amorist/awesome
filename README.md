@@ -409,6 +409,7 @@
 
 ## Go 
 
+- [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms implemented in Go for beginners, following best practices.
 - [temporalio/samples-go](https://github.com/temporalio/samples-go) - Temporal Go SDK samples
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
@@ -623,7 +624,7 @@
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [google/triage-party](https://github.com/google/triage-party) - 🎉 Triage Party: massively multi-player GitHub triage 🎉
-- [argoodies/guora](https://github.com/argoodies/guora) - 🖖🏻 A self-hosted Quora like web application written in Go  基于 Golang 类似知乎的私有部署问答应用 包含问答、评论、点赞、管理后台等功能
+- [shatsiu/guora](https://github.com/shatsiu/guora) - 🖖🏻 A self-hosted Quora like web application written in Go  基于 Golang 类似知乎的私有部署问答应用 包含问答、评论、点赞、管理后台等功能
 - [google/google-ctf](https://github.com/google/google-ctf) - Google CTF
 - [knownsec/ksubdomain](https://github.com/knownsec/ksubdomain) - 无状态子域名爆破工具
 - [sashabaranov/go-gpt3](https://github.com/sashabaranov/go-gpt3) - OpenAI GPT-3 API wrapper for Go
@@ -2380,7 +2381,7 @@
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [egoist/vue-timeago](https://github.com/egoist/vue-timeago) - A timeago component for Vue.
 - [yardnsm/ink-text-animation](https://github.com/yardnsm/ink-text-animation) - A text animation component for Ink
-- [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [jayqizone/homebridge-mi-heatercooler](https://github.com/jayqizone/homebridge-mi-heatercooler) - Mi / Aqara AC partner plugin for Homebridge
 - [sindresorhus/sindresorhus-cli](https://github.com/sindresorhus/sindresorhus-cli) - The Sindre Sorhus CLI
 - [node-schedule/node-schedule](https://github.com/node-schedule/node-schedule) - A cron-like and not-cron-like job scheduler for Node.
@@ -3559,7 +3560,7 @@
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [AleoHQ/snarkOS](https://github.com/AleoHQ/snarkOS) - A Decentralized Operating System for Zero-Knowledge Applications
 - [jkvargas/russimp](https://github.com/jkvargas/russimp) - Assimp bindings for Rust
-- [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
 - [graphql-rust/juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
 - [1Password/electron-hardener](https://github.com/1Password/electron-hardener) - A fast and small Rust library to make Electron apps more secure.
@@ -3786,9 +3787,10 @@
 
 ## TypeScript 
 
+- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [imcuttle/mometa](https://github.com/imcuttle/mometa) - 🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具
-- [cwackerfuss/word-guessing-game](https://github.com/cwackerfuss/word-guessing-game) - A word guessing game made using React, Typescript, and Tailwind
+- [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle) - A fun Wordle clone made using React, Typescript, and Tailwind
 - [AppsusUK/NFT-Art-Generator](https://github.com/AppsusUK/NFT-Art-Generator) - Easy to use NFT art generator app for windows/linux/mac
 - [alibaba/kiwi](https://github.com/alibaba/kiwi) - 🐤 Kiwi-国际化翻译全流程解决方案
 - [nikersify/pico](https://github.com/nikersify/pico) - Take browser screenshots in Javascript  📸
@@ -4087,7 +4089,7 @@
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a powerful, lightspeed collaborative workspace for developer teams. Forum (New!): https://github.com/BoostIO/BoostNote-App/discussions
 - [jeffrafter/sign-action](https://github.com/jeffrafter/sign-action) - A GitHub Action which allows users to reply to an issue with a comment to sign a petition.
 - [expo/expo-cli](https://github.com/expo/expo-cli) - Tools for creating, running, and deploying universal Expo and React Native apps
-- [mui-org/material-ui-pickers](https://github.com/mui-org/material-ui-pickers) - Date & Time pickers, built with ❤️ for @material-ui/core
+- [mui/material-ui-pickers](https://github.com/mui/material-ui-pickers) - Date & Time pickers, built with ❤️ for @material-ui/core
 - [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
 - [yinxin630/fiora](https://github.com/yinxin630/fiora) - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
 - [ganlvtech/phaser-catch-the-cat](https://github.com/ganlvtech/phaser-catch-the-cat) - An HTML5 game 'Catch The Cat' powered by Phaser 3
