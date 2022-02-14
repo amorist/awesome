@@ -1303,7 +1303,7 @@
 - [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) - Gopher Artwork by Ashley McNamara
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [ysrc/yulong-hids-archived](https://github.com/ysrc/yulong-hids-archived) - [archived] 一款实验性质的主机入侵检测系统
-- [floyernick/Data-Structures-and-Algorithms](https://github.com/floyernick/Data-Structures-and-Algorithms) - Data Structures and Algorithms implementation in Go
+- [paliimx/Data-Structures-and-Algorithms](https://github.com/paliimx/Data-Structures-and-Algorithms) - Data Structures and Algorithms implementation in Go
 - [anaskhan96/soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
 - [philopon/go-toposort](https://github.com/philopon/go-toposort) - deterministic topological sort implementation for golang
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go
