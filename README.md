@@ -492,7 +492,7 @@
 - [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, efficient spring animation library 🎼
 - [golang-design/history](https://github.com/golang-design/history) - 📝  Go: A Documentary | https://golang.design/history
-- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - 🔥A cross-language distributed transaction solution. Support saga, tcc, xa, 2 phases messages.  跨语言分布式事务管理器
+- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - 🔥A cross-language distributed transaction solution. Support saga, tcc, xa, 2 phases messages.
 - [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable, high-performance WebRTC SFU. SDKs in JS, React, Flutter, Swift, Kotlin, Go, Ruby and Node.
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.
 - [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
