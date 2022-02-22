@@ -409,6 +409,7 @@
 
 ## Go 
 
+- [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) - 
 - [Mikaelemmmm/go-zero-looklook](https://github.com/Mikaelemmmm/go-zero-looklook) - 🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。 go-zero项目地址: https://github.com/zeromicro/go-zero
 - [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms implemented in Go for beginners, following best practices.
@@ -1266,7 +1267,7 @@
 - [nfnt/resize](https://github.com/nfnt/resize) - Pure golang image resizing
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
-- [usetania/tania-core](https://github.com/usetania/tania-core) - Tania is a farm management software to help farmers manage their farm operations.
+- [usetania/tania-core](https://github.com/usetania/tania-core) - Tania is a farm management software for the hobbyist and smallholder farmer.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [TruthHun/DocHub](https://github.com/TruthHun/DocHub) - 参考百度文库，使用Beego（Golang）开发的开源文库系统
@@ -2849,7 +2850,6 @@
 - [outofambit/friends-and-lovers-license](https://github.com/outofambit/friends-and-lovers-license) - what if code i wrote was only for the people i love?
 - [0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming) - 音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。
 - [r0eXpeR/supplier](https://github.com/r0eXpeR/supplier) - 主流供应商的一些攻击性漏洞汇总
-- [Video-Hub/douyin-live](https://github.com/Video-Hub/douyin-live) - 联系微信（1764328791）、抖音数据、抖音直播数据、抖音直播Api、抖音视频Api、抖音爬虫、抖音去水印、抖音视频下载、抖音视频解析、抖音直播监控、抖音数据采集
 - [zhaoolee/pi](https://github.com/zhaoolee/pi) - 树莓派防吃灰小分队，让树莓派不再吃灰~
 - [steedos/awesome-low-code](https://github.com/steedos/awesome-low-code) - Awesome Low-Code Application Platforms | 全球低代码平台开发资源大全
 - [mingdaocom/pd](https://github.com/mingdaocom/pd) - 明道云私有部署版 - 快速部署可免费使用的零代码企业应用平台（APaaS）
@@ -3793,6 +3793,9 @@
 
 ## TypeScript 
 
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus, and more
+- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀 Boilerplate and Starter for Next.js 12+, Tailwind CSS 3 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netlify + PostCSS + Tailwind CSS
+- [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
