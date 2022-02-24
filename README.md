@@ -472,6 +472,7 @@
 - [changkun/urlstat](https://github.com/changkun/urlstat) - 📈 URL access statistic service
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Inspired by Google's Zanzibar paper, SpiceDB is a database system for managing security-critical application permissions.
 - [openscrm/api-server](https://github.com/openscrm/api-server) - OpenSCRM是一套基于Go和React的超高质量企业微信私域流量管理系统 。遵守Apache2.0协议，全网唯一免费商用。企业微信、私域流量、SCRM。
+- [ihexxa/quickshare](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices, built with Go, React and Typescript.
 - [fogleman/ln](https://github.com/fogleman/ln) - 3D line art engine.
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open-source vector database for scalable similarity search and AI applications.
@@ -493,7 +494,7 @@
 - [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, efficient spring animation library 🎼
 - [golang-design/history](https://github.com/golang-design/history) - 📝  Go: A Documentary | https://golang.design/history
-- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction solution that supports saga, tcc, xa, 2-phase message strategies, supports multiple languages.
+- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message strategies.
 - [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable, high-performance WebRTC SFU. SDKs in JS, React, Flutter, Swift, Kotlin, Go, Ruby and Node.
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.
 - [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
@@ -750,7 +751,7 @@
 - [jbowens/codenames](https://github.com/jbowens/codenames) - Play codenames online
 - [pion/ion](https://github.com/pion/ion) - Real-Distributed  RTC System by pure Go and Flutter
 - [didi/nightingale](https://github.com/didi/nightingale) - An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and management.
-- [go-microdev/protoc-gen-micro](https://github.com/go-microdev/protoc-gen-micro) - Protobuf code generation
+- [go-micro-dev/protoc-gen-micro](https://github.com/go-micro-dev/protoc-gen-micro) - Protobuf code generation
 - [rancher/cli](https://github.com/rancher/cli) - Rancher CLI
 - [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) - Kubernetes Native Serverless Framework
 - [danderson/netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting
@@ -875,7 +876,7 @@
 - [muhammadmuzzammil1998/jsonc](https://github.com/muhammadmuzzammil1998/jsonc) - JSON with comments for Go!
 - [godoctor/godoctor](https://github.com/godoctor/godoctor) - Go Doctor - The Golang Refactoring Engine
 - [mvdan/github-actions-golang](https://github.com/mvdan/github-actions-golang) - GitHub Actions as CI for Go
-- [go-microdev/plugins](https://github.com/go-microdev/plugins) - Go Micro Plugins
+- [go-micro-dev/plugins](https://github.com/go-micro-dev/plugins) - Go Micro Plugins
 - [open-falcon/falcon-plus](https://github.com/open-falcon/falcon-plus) - An open-source and enterprise-level monitoring system.
 - [bitly/go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
@@ -1419,7 +1420,6 @@
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 - [Saas-Starter-Kit/SAAS-Starter-Kit-Pro](https://github.com/Saas-Starter-Kit/SAAS-Starter-Kit-Pro) - 🚀A boilerplate for building Software-as-Service (SAAS) apps with Reactjs, and Nodejs
 - [holtzy/D3-graph-gallery](https://github.com/holtzy/D3-graph-gallery) - A collection of simple graphics made with D3.js
 - [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
@@ -3610,6 +3610,7 @@
 ## SCSS 
 
 - [creativetimofficial/vue-argon-dashboard](https://github.com/creativetimofficial/vue-argon-dashboard) - Vue Argon Dashboard
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
@@ -3864,7 +3865,6 @@
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars.
-- [ihexxa/quickshare](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices, built with Go, React and Typescript.
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 - [shadcn/next-mdx](https://github.com/shadcn/next-mdx) - next-mdx provides a set of helper functions for fetching and rendering local MDX files. It handles relational data, supports custom components, is TypeScript ready and really fast.
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, software architecture, design patterns, best practices etc. with code examples
