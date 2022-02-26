@@ -627,7 +627,7 @@
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [google/triage-party](https://github.com/google/triage-party) - 🎉 Triage Party: massively multi-player GitHub triage 🎉
-- [rustq/guora](https://github.com/rustq/guora) - 🖖🏻 A self-hosted Quora like web application written in Go  基于 Golang 类似知乎的私有部署问答应用 包含问答、评论、点赞、管理后台等功能
+- [meloalright/guora](https://github.com/meloalright/guora) - 🖖🏻 A self-hosted Quora like web application written in Go  基于 Golang 类似知乎的私有部署问答应用 包含问答、评论、点赞、管理后台等功能
 - [google/google-ctf](https://github.com/google/google-ctf) - Google CTF
 - [knownsec/ksubdomain](https://github.com/knownsec/ksubdomain) - 无状态子域名爆破工具
 - [sashabaranov/go-gpt3](https://github.com/sashabaranov/go-gpt3) - OpenAI GPT-3 API wrapper for Go
@@ -1284,7 +1284,7 @@
 - [linclin/gopub](https://github.com/linclin/gopub) - vue.js(element框架)+golang(beego框架)开发的运维发布系统,支持git,jenkins版本发布,go ssh,BT两种文件传输方式选择,支持部署前准备任务和部署后任务钩子函数
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
-- [go-ego/gse](https://github.com/go-ego/gse) - Go efficient multilingual NLP and text segmentation; support english, chinese, japanese and other. Go 高性能多语言 NLP 和分词
+- [go-ego/gse](https://github.com/go-ego/gse) - Go efficient multilingual NLP and text segmentation; support english, chinese, japanese and other.
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [francoispqt/gojay](https://github.com/francoispqt/gojay) - fastest JSON encoder/decoder with powerful stream API for Golang
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
@@ -1415,6 +1415,7 @@
 ## HTML 
 
 - [OCA/stock-logistics-workflow](https://github.com/OCA/stock-logistics-workflow) - Odoo Stock, Workflow and Organization
+- [Tencent/tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next) - A Vue3.x UI components lib for TDesign.
 - [OCA/sale-workflow](https://github.com/OCA/sale-workflow) - Odoo Sales, Workflow and Organization
 - [evmn/Paul-Graham](https://github.com/evmn/Paul-Graham) - Paul Graham's Essays, Kindle version, set several sections for easy navigation
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
@@ -3805,7 +3806,6 @@
 - [AppsusUK/NFT-Art-Generator](https://github.com/AppsusUK/NFT-Art-Generator) - Easy to use NFT art generator app for windows/linux/mac
 - [alibaba/kiwi](https://github.com/alibaba/kiwi) - 🐤 Kiwi-国际化翻译全流程解决方案
 - [nikersify/pico](https://github.com/nikersify/pico) - Take browser screenshots in Javascript  📸
-- [Tencent/tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next) - A Vue3.x UI components lib for TDesign.
 - [Tencent/tdesign-vue](https://github.com/Tencent/tdesign-vue) - A Vue.js UI components lib for TDesign.
 - [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit) - Next Generation Visual Programming Platform
 - [buuing/lucky-canvas](https://github.com/buuing/lucky-canvas) - 🎖🎖🎖 基于 TS + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等，🎨 奖品 / 文字 / 图片 / 颜色 / 按钮均可配置，支持同步 / 异步抽奖，🎯 概率前 / 后端可控，🚀 自动根据 dpr 调整清晰度适配移动端
@@ -3833,7 +3833,7 @@
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice) - Immersive virtual office built with Phaser, React, Redux, PeerJS, and Colyseus.
 - [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.
-- [zenghongtu/PPet](https://github.com/zenghongtu/PPet) - 👻在你的桌面放一个萌妹子，多一点趣味😏~（支持Mac、Win和Linux）
+- [zenghongtu/PPet](https://github.com/zenghongtu/PPet) - 👻在你的桌面放一个萌妹子，多一点乐趣😏~（支持Mac、Win和Linux）
 - [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 Open-source notification infrastructure for products
 - [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker) - A library to display an interactive editor for any graph-like data.
 - [arco-design/arco-design-vue](https://github.com/arco-design/arco-design-vue) - A Vue.js 3 UI Library based on Arco Design
@@ -3916,7 +3916,7 @@
 - [egoist/usermatters](https://github.com/egoist/usermatters) - User Matters helps you collect customer feedbacks effortlessly.
 - [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.
 - [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
-- [aidenybai/million](https://github.com/aidenybai/million) - 🦁 &lt;1kb compiler-augmented virtual DOM. It's fast!
+- [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! 💥🦁✨
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 - [dfinity/cancan](https://github.com/dfinity/cancan) - A scalable video sharing service.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
@@ -4056,7 +4056,7 @@
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [MichalLytek/type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 - [ream/ream](https://github.com/ream/ream) - A Vue 3 framework, powered by Vite.
-- [fregante/github-url-detection](https://github.com/fregante/github-url-detection) - Which GitHub page are you on? Is it an issue? Is it a list? Perfect for your WebExtension or userscript.
+- [refined-github/github-url-detection](https://github.com/refined-github/github-url-detection) - Which GitHub page are you on? Is it an issue? Is it a list? Perfect for your WebExtension or userscript.
 - [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
 - [cteamx/Thief-Book-VSCode](https://github.com/cteamx/Thief-Book-VSCode) - VScode 上一款真正的摸鱼插件
 - [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript's largest type utility library
