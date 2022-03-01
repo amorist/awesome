@@ -1427,6 +1427,7 @@
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for Raspberry Pi or any Linux distro for running self-hosted apps
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [bruceyanwee/text4photo](https://github.com/bruceyanwee/text4photo) - 
@@ -2061,7 +2062,7 @@
 - [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - 
 - [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub
 - [xiandanin/magnetW](https://github.com/xiandanin/magnetW) - 磁力链接聚合搜索
-- [iantheearl/mc.js](https://github.com/iantheearl/mc.js) - Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS.
+- [shaoruu/mc.js](https://github.com/shaoruu/mc.js) - Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS.
 - [ricklamers/gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
 - [Wscats/piano](https://github.com/Wscats/piano) - 🎹用键盘8个键演奏一首蒲公英的约定送给自己或月亮代表我的心送给她
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
@@ -3635,7 +3636,6 @@
 - [makc/assimp2json](https://github.com/makc/assimp2json) - half-assed attempt at emscriptening assimp2json (half of models do not work - HELP 😱)
 - [lcorbasson/docker-skp2dae](https://github.com/lcorbasson/docker-skp2dae) - SketchUp (SKP) to DAE converter using Docker, WINE and ugly glue
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for Raspberry Pi or any Linux distro for running self-hosted apps
 - [saleor/saleor-platform](https://github.com/saleor/saleor-platform) - All Saleor services started from a single repository with docker-compose.
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
