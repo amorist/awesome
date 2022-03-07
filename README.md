@@ -882,7 +882,7 @@
 - [bitly/go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache
-- [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、PayPal 的Go版本SDK。【极简、易用的聚合支付SDK】
+- [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
 - [goinaction/code](https://github.com/goinaction/code) - Source Code for Go In Action examples
 - [tophubs/TopList](https://github.com/tophubs/TopList) - 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
