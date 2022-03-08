@@ -1620,6 +1620,7 @@
 
 ## JavaScript 
 
+- [jasondu/wxa-plugin-canvas](https://github.com/jasondu/wxa-plugin-canvas) - 小程序海报组件-生成朋友圈分享海报并生成图片
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese).
 - [rom1504/dalle-service](https://github.com/rom1504/dalle-service) - Dalle service
@@ -1824,7 +1825,6 @@
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [creativetimofficial/notus-nextjs](https://github.com/creativetimofficial/notus-nextjs) - Notus NextJS: Free Tailwind CSS UI Kit and Admin
 - [haruiz/RiggingJs](https://github.com/haruiz/RiggingJs) - Tensorflow.js and Three.js skeletal animation tool
-- [vercel/vrs](https://github.com/vercel/vrs) - A serverless virtual reality e-commerce experience powered by Vercel
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [tj/node-delegates](https://github.com/tj/node-delegates) - Nodejs method and accessor delegation utility
 - [sunoj/jjb](https://github.com/sunoj/jjb) - 一个帮助你自动申请京东价格保护的chrome拓展
@@ -2248,7 +2248,6 @@
 - [kevinsawicki/tray-example](https://github.com/kevinsawicki/tray-example) - Electron Tray Mac OS X Example App
 - [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
-- [jasondu/wxa-plugin-canvas](https://github.com/jasondu/wxa-plugin-canvas) - 小程序海报组件-生成朋友圈分享海报并生成图片
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, hygen, hardhat, AWS Amplify, GitHub Actions Toolkit, @airbnb/nimbus, and many others! Please follow Enquirer's author: https://github.com/jonschlinkert
 - [Jackliu007888/stock-helper](https://github.com/Jackliu007888/stock-helper) - a chrome extension for Chinese stock
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
@@ -3242,7 +3241,7 @@
 - [dimatura/seeing3d](https://github.com/dimatura/seeing3d) - 
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [teslamotors/light-show](https://github.com/teslamotors/light-show) - Tesla Light Show
-- [DavidBuchanan314/ambiguous-png-packer](https://github.com/DavidBuchanan314/ambiguous-png-packer) - Craft PNG files that appear completely different in Apple software
+- [DavidBuchanan314/ambiguous-png-packer](https://github.com/DavidBuchanan314/ambiguous-png-packer) - Craft PNG files that appear completely different in Apple software [NOW PATCHED]
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [MenghaoGuo/Awesome-Vision-Attentions](https://github.com/MenghaoGuo/Awesome-Vision-Attentions) - Summary of related papers on visual attention. Related code will be released based on Jittor gradually.
 - [yihong0618/iBeats](https://github.com/yihong0618/iBeats) - Apple Watch 心率数据采集 - Your Soul, Your Beats!
@@ -3966,6 +3965,7 @@
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [scniro/react-codemirror2](https://github.com/scniro/react-codemirror2) - Codemirror integrated components for React
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
+- [vercel/vrs](https://github.com/vercel/vrs) - A serverless virtual reality e-commerce experience powered by Vercel
 - [vercel/static-fun](https://github.com/vercel/static-fun) - A fun demo for wildcard domains
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [oznu/homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x) - The Homebridge UI. Monitor, configure and backup Homebridge from a browser.
