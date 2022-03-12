@@ -409,6 +409,7 @@
 
 ## Go 
 
+- [bytedance/godlp](https://github.com/bytedance/godlp) - sensitive information protection toolkit
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [YaoApp/yao](https://github.com/YaoApp/yao) - Yao A low code engine to create web services and dashboard.
 - [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) - 
@@ -440,7 +441,7 @@
 - [goplus/tutorial](https://github.com/goplus/tutorial) - Tutorials for GoPlus (The Go+ Language)
 - [elliotchance/c2go](https://github.com/elliotchance/c2go) - ⚖️ A tool for transpiling C to Go.
 - [qmuntal/draco-go](https://github.com/qmuntal/draco-go) - google/draco bindings for Go
-- [qmuntal/gltf](https://github.com/qmuntal/gltf) - :eyeglasses: Go library for [d]encoding glTF 2.0 files
+- [qmuntal/gltf](https://github.com/qmuntal/gltf) - :eyeglasses: Go library for encoding glTF 2.0 files
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [go-eagle/eagle](https://github.com/go-eagle/eagle) - 🦅一款小巧的基于Go构建的开发框架，可以快速构建API服务或者Web网站进行业务开发，遵循SOLID设计原则
 - [ycd/dstp](https://github.com/ycd/dstp) - 🧪 Run common networking tests against your site.
@@ -1677,7 +1678,7 @@
 - [saltcorn/saltcorn](https://github.com/saltcorn/saltcorn) - Free and open source no-code application builder
 - [grouparoo/grouparoo](https://github.com/grouparoo/grouparoo) - 🦘 The Grouparoo Monorepo - open source customer data sync framework
 - [ovineio/ovine](https://github.com/ovineio/ovine) - Build entirety admin system ui blazing fast with json.
-- [steedos/steedos-platform](https://github.com/steedos/steedos-platform) - 华炎魔方是 Salesforce Developer Experience (DX) 的开源替代方案，将低代码技术与 DevOps 工具结合，实现敏捷开发的新高度。
+- [steedos/steedos-platform](https://github.com/steedos/steedos-platform) - Open source alterative to Salesforce Developer Experience (DX). Develop and manage enterprise apps with low-code across their entire life cycle.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [bxm0927/canvas-special](https://github.com/bxm0927/canvas-special) - :octocat::alien::star2:超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等。
@@ -2839,6 +2840,7 @@
 
 ## Others 
 
+- [darbra/sperm](https://github.com/darbra/sperm) - 浏览过的精彩逆向文章汇总，值得一看
 - [iCharlesZ/vscode-live2d-models](https://github.com/iCharlesZ/vscode-live2d-models) - VSCode看板娘模型库
 - [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.
 - [playcanvas/editor](https://github.com/playcanvas/editor) - Issue tracker for the PlayCanvas Editor
@@ -3283,7 +3285,7 @@
 - [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
 - [Thmen/EGVSR](https://github.com/Thmen/EGVSR) - Efficient & Generic Video Super-Resolution
 - [lepture/authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
-- [psoho/fast-poster](https://github.com/psoho/fast-poster) - fastposter海报生成器，电商级别海报生成器，一分钟完成海报开发，快速生成海报，完成海报制作。支持Java,Python,PHP,Go,JS，小程序等多种语言。演示地址：https://poster.prodapi.cn/
+- [psoho/fast-poster](https://github.com/psoho/fast-poster) - fastposter海报生成器，电商海报生成器，一分钟完成海报开发，快速生成海报，完成海报制作。支持Java,Python,PHP,Go,JS，小程序等多种语言。演示地址：https://poster.prodapi.cn/
 - [ackerr/Algorithms](https://github.com/ackerr/Algorithms) - (๑• . •๑)
 - [alibaba/AliceMind](https://github.com/alibaba/AliceMind) - ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab
 - [claffin/cloudproxy](https://github.com/claffin/cloudproxy) - Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
