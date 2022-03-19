@@ -409,6 +409,9 @@
 
 ## Go 
 
+- [go-laoji/wecom-go-app-demo](https://github.com/go-laoji/wecom-go-app-demo) - 使用go-zero框架编写的企业微信应用消息、事件接收样例程序
+- [go-laoji/wecom-go-3rd-app-demo](https://github.com/go-laoji/wecom-go-3rd-app-demo) - 企业微信第三方开发应用数据、指令回调样例
+- [go-laoji/wecom-go-sdk](https://github.com/go-laoji/wecom-go-sdk) - 企业微信第三方应用|自建代开发 sdk golang版
 - [robertkrimen/godocdown](https://github.com/robertkrimen/godocdown) - Format package documentation (godoc) as GitHub friendly Markdown
 - [bytedance/go-tagexpr](https://github.com/bytedance/go-tagexpr) - An interesting go struct tag expression syntax for field validation, etc.
 - [hisyntax/auth](https://github.com/hisyntax/auth) - Easy way to get an authentication system up and running in your application with Go
@@ -1628,6 +1631,8 @@
 
 ## JavaScript 
 
+- [tlikai/hwamei](https://github.com/tlikai/hwamei) - 企业微信webhook，企业微信群机器人webhook，支持Github、Gitlab、Sentry等Webhook
+- [WecomTeam/AuthSample](https://github.com/WecomTeam/AuthSample) - 企业微信扫码授权登录代码示例
 - [doramart/Pandora](https://github.com/doramart/Pandora) - DoraCMS for SQL
 - [bojue/BaseMap](https://github.com/bojue/BaseMap) - IDC管理2.5D底图绘制工具(Vue)
 - [Dreamer-Paul/Pio](https://github.com/Dreamer-Paul/Pio) - 🎃 一个支持更换 Live2D 模型的 JS 插件
@@ -1731,7 +1736,7 @@
 - [jschr/textillate](https://github.com/jschr/textillate) - A jquery plugin for CSS3 text animations.
 - [SortableJS/vue.draggable.next](https://github.com/SortableJS/vue.draggable.next) - Vue 3 compatible drag-and-drop component based on Sortable.js
 - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives
-- [alitajs/alita](https://github.com/alitajs/alita) - A mobile React framework based on umi.
+- [alitajs/alita](https://github.com/alitajs/alita) - A React framework based on umi.
 - [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys) - Lightweight full-featured WhatsApp Web + Multi-Device API
 - [zgh0711/vue-template-mobile](https://github.com/zgh0711/vue-template-mobile) - Vue 移动端新项目模板，封装了 H5 项目开发中一些比较常用的功能，比如：微信授权及分享、axios 封装、移动端 vw 适配、UI 组件库等等。使用时只需把项目 clone 下来，按照文档稍作修改即可直接进行业务开发。
 - [annshuMei/vue-h5](https://github.com/annshuMei/vue-h5) - 开发适配手机、平板电脑H5项目模板 vue-cli4.0+（eslin、prettier）使用指南+VantUi+sass+rem+axios封装+vue-router+vuex模块化  文档指导开发适配手机、平板电脑方案  swiper 动态导航 二级镶嵌封装
@@ -2031,7 +2036,7 @@
 - [repo-analytics/repo-analytics.github.io](https://github.com/repo-analytics/repo-analytics.github.io) - Thorough analytics for your GitHub repos
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Open-Source Backend Server for Web, Mobile & Flutter Developers 🚀
 - [RuntimeTools/appmetrics-dash](https://github.com/RuntimeTools/appmetrics-dash) - A data visualizer that uses " Node Application Metrics" (appmetrics) to monitor and display Node.js application data as a html web application.
 - [RuntimeTools/appmetrics](https://github.com/RuntimeTools/appmetrics) - Node Application Metrics provides a foundational infrastructure for collecting resource and performance monitoring data for Node.js-based applications.
 - [ashtuchkin/iconv-lite](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings in pure javascript.
@@ -2939,7 +2944,7 @@
 - [Sophia-11/Machine-Learning-Notes](https://github.com/Sophia-11/Machine-Learning-Notes) - 周志华《机器学习》手推笔记
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [KeiKinn/ShadowsocksBio](https://github.com/KeiKinn/ShadowsocksBio) - 记录一下Shadowsocks的前世今生，以及一个简单的教程总结
-- [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book ，配套视频教程：https://www.bilibili.com/video/BV1Mh411e7VU
+- [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式推导解析
 - [nodejs/package-maintenance](https://github.com/nodejs/package-maintenance) - Repository for work for discussion of helping with maintenance of key packages in the ecosystem.
 - [fat-garage/how-to-get-rich-without-getting-lucky](https://github.com/fat-garage/how-to-get-rich-without-getting-lucky) - 
 - [editor-js/awesome-editorjs](https://github.com/editor-js/awesome-editorjs) - 🤩 A curated list of awesome Editor.js tools, libraries and resources.
@@ -3375,7 +3380,7 @@
 - [Treeki/CylindricalEarth](https://github.com/Treeki/CylindricalEarth) - research into the internals of Animal Crossing: New Horizons
 - [senguptaumd/Background-Matting](https://github.com/senguptaumd/Background-Matting) - Background Matting: The World is Your Green Screen
 - [natewong1313/bird-bot](https://github.com/natewong1313/bird-bot) - A Nintendo Switch checkout bot. Currently supports Walmart and Best buy
-- [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
+- [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [akfamily/akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
@@ -3813,6 +3818,8 @@
 
 ## TypeScript 
 
+- [Javen205/TNWX](https://github.com/Javen205/TNWX) - TNWX: TypeScript + Node.js + WeiXin 微信系开发脚手架，支持微信公众号、微信支付、微信小游戏、微信小程序、企业微信/企业号。最最最重要的是能快速的集成至任何 Node.js 框架(Express、Nest、Egg、Koa 等)
+- [tenbot/tenbot](https://github.com/tenbot/tenbot) - :robot: Create your Wechat Work Bot - 创建你的企业微信机器人
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus, and more
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀 Boilerplate and Starter for Next.js 12+, Tailwind CSS 3 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netlify + PostCSS + Tailwind CSS
@@ -4387,6 +4394,8 @@
 
 ## Vue 
 
+- [WecomTeam/CodeSameples](https://github.com/WecomTeam/CodeSameples) - 企业微信开发者中心 Api 代码示例。
+- [WecomTeam/RobotSample](https://github.com/WecomTeam/RobotSample) - 企业微信群机器人示例代码。
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
 - [moshuying/project-3-crm](https://github.com/moshuying/project-3-crm) - ⭐crm 客户关系管理系统模板⭐一个不错的后台管理种子项目，拥有自由设置角色自由分配权限🔑的权限管理功能，三员管理多员管理均可，前端antd vue admin后端spring-boot-api-seedling 拥有完善的功能。文档包含需求文档，设计文档和测试文档等。同时配置了travis，拥有集成测试和自动构建的功能。
 - [leadream/wedding-invitation-for-programmers](https://github.com/leadream/wedding-invitation-for-programmers) - 程序猿的婚礼邀请函。
