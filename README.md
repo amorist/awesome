@@ -141,7 +141,7 @@
 
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
 - [mcneel/compute.rhino3d](https://github.com/mcneel/compute.rhino3d) - REST geometry server based on RhinoCommon and headless Rhino
-- [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages
+- [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic-computer-games/
 - [IamMRM/3D-Image-Extraction](https://github.com/IamMRM/3D-Image-Extraction) - Script to extract images from .fbx, .dae (Collada), .3ds, .dxf, .obj, and .skp files
 - [sketchfab/UnityGLTF](https://github.com/sketchfab/UnityGLTF) - Runtime GLTF Loader for Unity3D
 - [Unity-Technologies/com.autodesk.fbx](https://github.com/Unity-Technologies/com.autodesk.fbx) - FBX SDK C# bindings
@@ -1932,6 +1932,7 @@
 - [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API
 - [probot/settings](https://github.com/probot/settings) - Pull Requests for GitHub repository settings
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
+- [surmon-china/vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [nuxt/content](https://github.com/nuxt/content) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
 - [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
@@ -2928,7 +2929,7 @@
 - [alcoholwang/e-invoicing](https://github.com/alcoholwang/e-invoicing) - 上海地区中小企业电子发票申请及解决方案
 - [nodejs/tooling](https://github.com/nodejs/tooling) - Advancing Node.js as a framework for writing great tools
 - [1Password/1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
-- [vue3/vue3-News](https://github.com/vue3/vue3-News) - 🔥 Find the latest breaking Vue3、Vue CLI 3+ & Vite  News. (2021)
+- [vue3/vue3-News](https://github.com/vue3/vue3-News) - 🔥 Find the latest breaking Vue3、Vue CLI 3+ & Vite  News. (2021/2022)
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [github/rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
 - [nodejs/web-server-frameworks](https://github.com/nodejs/web-server-frameworks) - A place for Node.js Web-Server Framework authors and users to collaborate
@@ -4073,7 +4074,6 @@
 - [twilio/twilio-video-app-react](https://github.com/twilio/twilio-video-app-react) - A collaboration application built with the twilio-video.js SDK and React.js
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [egoist-labs/tailwind-nextjs-saas-template](https://github.com/egoist-labs/tailwind-nextjs-saas-template) - A TailwindCSS + Next.js template for your next SaaS product.
-- [surmon-china/vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [antvis/g](https://github.com/antvis/g) - A powerful rendering engine implemented with Canvas2D / SVG / WebGL / WebGPU.
