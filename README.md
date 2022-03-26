@@ -413,6 +413,11 @@
 
 ## Go 
 
+- [sbzhu/weworkapi_golang](https://github.com/sbzhu/weworkapi_golang) - official wework api demo for golang
+- [wenerme/go-wecom](https://github.com/wenerme/go-wecom) - Wechat Work/Wecom/企业微信 Golang SDK
+- [fastwego/ministore](https://github.com/fastwego/ministore) - [微信小商店] A fast wechat ministore development sdk written in Golang
+- [fastwego/wxwork](https://github.com/fastwego/wxwork) - [企业微信] A fast wxwork development sdk written in Golang
+- [3xxx/engineercms](https://github.com/3xxx/engineercms) - 工程师知识管理系统：基于golang go语言（beego框架）。每个行业都有自己的知识管理系统，engineercms旨在为土木工程师们打造一款适用的基于web的知识管理系统。它既可以用于管理个人的项目资料，也可以用于管理项目团队资料；它既可以运行于个人电脑，也可以放到服务器上。支持提取码分享文件，onlyoffice实时文档协作，直接在线编辑dwg文件、office文档，在线利用mindoc创作你的书籍，阅览PDF文件。通用的业务流程设置。手机端配套小程序，微信搜索“珠三角设代”或“青少儿书画”即可呼出小程序。
 - [go-laoji/wecom-go-app-demo](https://github.com/go-laoji/wecom-go-app-demo) - 使用go-zero框架编写的企业微信应用消息、事件接收样例程序
 - [go-laoji/wecom-go-3rd-app-demo](https://github.com/go-laoji/wecom-go-3rd-app-demo) - 企业微信第三方开发应用数据、指令回调样例
 - [go-laoji/wecom-go-sdk](https://github.com/go-laoji/wecom-go-sdk) - 企业微信第三方应用|自建代开发 sdk golang版
@@ -826,7 +831,7 @@
 - [golang/tour](https://github.com/golang/tour) - [mirror] A Tour of Go
 - [Go-zh/tour](https://github.com/Go-zh/tour) - Go 语言官方教程中文版
 - [drone-plugins/drone-plugin-lib](https://github.com/drone-plugins/drone-plugin-lib) - Helpers for creating plugins for Drone in Go
-- [goodrain/rainbond](https://github.com/goodrain/rainbond) - Cloud-native and easy-to-use application management platform | 云原生且易用的应用管理平台
+- [goodrain/rainbond](https://github.com/goodrain/rainbond) - Cloud native multi cloud application management platform | 云原生多云应用管理平台
 - [gsamokovarov/jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
 - [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 
 - [google/seesaw](https://github.com/google/seesaw) - Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.
@@ -1429,6 +1434,7 @@
 
 ## HTML 
 
+- [HiddenStrawberry/Crawler_Illegal_Cases_In_China](https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China) - Collection of China illegal cases about web crawler 本项目用来整理所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线。 [AD]中文知识图谱门户
 - [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [OCA/stock-logistics-workflow](https://github.com/OCA/stock-logistics-workflow) - Odoo Stock, Workflow and Organization
 - [OCA/sale-workflow](https://github.com/OCA/sale-workflow) - Odoo Sales, Workflow and Organization
@@ -1551,6 +1557,7 @@
 
 ## Java 
 
+- [zhuchangwu/lawyer-lover-cloud-backend](https://github.com/zhuchangwu/lawyer-lover-cloud-backend) - 一款基于SVM算法的分布式法律助手的后端代码
 - [spring-projects/spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) - The Spring Authorization Server project is focused on delivering OAuth 2.1 Authorization Server support to the Spring community.
 - [hamibot/hamibot](https://github.com/hamibot/hamibot) - Android 平台 JavaScript 自动化工具，无需 root。
 - [kekingcn/kkFileView](https://github.com/kekingcn/kkFileView) - spring-boot打造文件文档在线预览项目
@@ -1634,6 +1641,9 @@
 
 ## JavaScript 
 
+- [imuncle/live2d](https://github.com/imuncle/live2d) - live2d模型收集+展示，可直接用于静态网站
+- [GACHAIN/go-gachain-mvp](https://github.com/GACHAIN/go-gachain-mvp) - 基于区块链的电子政务系统，是一个可用于政府部门、组织机构、公共社区以及社会活动的区块链平台，平台中的所有事务均由智能律法和智能合约驱动。| 该版本为 v1 版，我们在2017年底对整个架构进行了重建，现已过渡为 v2 版本，v1版停止更新。
+- [Quorafind/Obsidian-Memos](https://github.com/Quorafind/Obsidian-Memos) - A quick capture plugin for Obsidian, all data from your daily notes.
 - [tlikai/hwamei](https://github.com/tlikai/hwamei) - 企业微信webhook，企业微信群机器人webhook，支持Github、Gitlab、Sentry等Webhook
 - [WecomTeam/AuthSample](https://github.com/WecomTeam/AuthSample) - 企业微信扫码授权登录代码示例
 - [doramart/Pandora](https://github.com/doramart/Pandora) - DoraCMS for SQL
@@ -2858,6 +2868,7 @@
 
 ## Others 
 
+- [ImCa0/just-laws](https://github.com/ImCa0/just-laws) - 一个简洁、便捷的中国法律文库 | A Simple and Convenient Laws Library of PRC.
 - [osxfuse/osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [darbra/sperm](https://github.com/darbra/sperm) - 浏览过的精彩逆向文章汇总，值得一看
@@ -3250,6 +3261,11 @@
 
 ## Python 
 
+- [Oreomeow/Law-Book](https://github.com/Oreomeow/Law-Book) - 中国常用法律查询手册 | Law-Book
+- [FanhuaandLuomu/ParseLawDocuments](https://github.com/FanhuaandLuomu/ParseLawDocuments) - 对收集的法律文档进行一系列分析，包括根据规范自动切分、案件相似度计算、案件聚类、法律条文推荐等（试验目前基于婚姻类案件，可扩展至其它领域）。
+- [zhang17173/Event-Extraction](https://github.com/zhang17173/Event-Extraction) - 基于法律裁判文书的事件抽取及其应用，包括数据的分词、词性标注、命名实体识别、事件要素抽取和判决结果预测等内容
+- [liuhuanyong/CrimeKgAssitant](https://github.com/liuhuanyong/CrimeKgAssitant) - Crime assistant including crime type prediction and crime consult service based on nlp methods and crime kg,罪名法务智能项目,内容包括856项罪名知识图谱, 基于280万罪名训练库的罪名预测,基于20W法务问答对的13类问题分类与法律资讯问答功能.
+- [FanhuaandLuomu/BiLstm_CNN_CRF_CWS](https://github.com/FanhuaandLuomu/BiLstm_CNN_CRF_CWS) - BiLstm+CNN+CRF  法律文档（合同类案件）领域分词（100篇标注样本）
 - [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch) - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch
 - [openai/DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
@@ -3823,6 +3839,8 @@
 
 ## TypeScript 
 
+- [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
+- [alibaba/lowcode-engine-ext](https://github.com/alibaba/lowcode-engine-ext) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop page builder and CMS for React, Vue, Angular, and more
 - [Javen205/TNWX](https://github.com/Javen205/TNWX) - TNWX: TypeScript + Node.js + WeiXin 微信系开发脚手架，支持微信公众号、微信支付、微信小游戏、微信小程序、企业微信/企业号。最最最重要的是能快速的集成至任何 Node.js 框架(Express、Nest、Egg、Koa 等)
@@ -3944,7 +3962,7 @@
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [google/gts](https://github.com/google/gts) - ☂️ TypeScript style guide, formatter, and linter.
 - [cozmo/jsQR](https://github.com/cozmo/jsQR) - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
-- [buuing/creep-cube](https://github.com/buuing/creep-cube) - 使用 Three.js 开发的一个魔方小游戏....开发中
+- [buuing/creep-cube](https://github.com/buuing/creep-cube) - 使用 Three.js 开发的一个魔方小游戏....自娱项目
 - [tal-tech/electron-playground](https://github.com/tal-tech/electron-playground) - This is a project to quickly experiment and learn electron related APIs
 - [nefe/number-precision](https://github.com/nefe/number-precision) - 🚀1K tiny & fast lib for doing addition, subtraction, multiplication and division operations precisely
 - [egoist/usermatters](https://github.com/egoist/usermatters) - User Matters helps you collect customer feedbacks effortlessly.
