@@ -1485,6 +1485,7 @@
 
 ## HTML 
 
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - 
 - [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 - FREE for commercial use
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources) - A list of FREE resources to make Web3 accessible to everyone.
@@ -1705,6 +1706,8 @@
 
 ## JavaScript 
 
+- [frappe/gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - An open-source, self-hosted, low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with YAML or JSON.
 - [jerosoler/Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
 - [ritaswc/wechat_app_template](https://github.com/ritaswc/wechat_app_template) - 微信小程序源码，模板
@@ -2058,7 +2061,6 @@
 - [probot/settings](https://github.com/probot/settings) - Pull Requests for GitHub repository settings
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [surmon-china/vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
-- [nuxt/content](https://github.com/nuxt/content) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
 - [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
 - [adobe-webplatform/Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
@@ -3226,7 +3228,7 @@
 - [line-stickers/LineStickersEditor](https://github.com/line-stickers/LineStickersEditor) - 
 - [nodejs/Release](https://github.com/nodejs/Release) - Node.js Release Working Group
 - [microsoft/monaco-editor-samples](https://github.com/microsoft/monaco-editor-samples) - Moved to https://github.com/microsoft/monaco-editor
-- [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
 - [chrisvfritz/7-secret-patterns](https://github.com/chrisvfritz/7-secret-patterns) - 
 - [davideuler/architecture.wechat-tencent](https://github.com/davideuler/architecture.wechat-tencent) - 互联网公司架构: 微信技术架构， 腾讯技术架构
@@ -3379,6 +3381,8 @@
 
 ## Python 
 
+- [apple/ml-cvnets](https://github.com/apple/ml-cvnets) - CVNets: A library for training computer vision networks
+- [dataabc/weiboSpider](https://github.com/dataabc/weiboSpider) - 新浪微博爬虫，用python爬取新浪微博数据
 - [ShenDezhou/CAIL](https://github.com/ShenDezhou/CAIL) - 中国法研杯-司法人工智能挑战赛(CAIL2018-2020)
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
@@ -4267,6 +4271,7 @@
 - [twilio/twilio-video-app-react](https://github.com/twilio/twilio-video-app-react) - A collaboration application built with the twilio-video.js SDK and React.js
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [egoist-labs/tailwind-nextjs-saas-template](https://github.com/egoist-labs/tailwind-nextjs-saas-template) - A TailwindCSS + Next.js template for your next SaaS product.
+- [nuxt/content](https://github.com/nuxt/content) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
 - [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [antvis/g](https://github.com/antvis/g) - A powerful rendering engine implemented with Canvas2D / SVG / WebGL / WebGPU.
