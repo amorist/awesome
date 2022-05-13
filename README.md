@@ -644,6 +644,7 @@
 - [thinkeridea/go-extend](https://github.com/thinkeridea/go-extend) - go语言扩展包，收集一些常用的操作函数，辅助更快的完成开发工作，并减少重复代码
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [zhenorzz/goploy](https://github.com/zhenorzz/goploy) - Devops项目代码部署发布平台，Deploy, CI/CD, Terminal, Sftp, Server monitor, Crontab Manager.
 - [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
@@ -684,7 +685,7 @@
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven workflow automation framework
-- [timescale/promscale](https://github.com/timescale/promscale) - The open-source observability backend for metrics and traces powered by SQL 🚀
+- [timescale/promscale](https://github.com/timescale/promscale) - Unified observability backend for metrics and traces powered by SQL and built on PostgreSQL and TimescaleDB 🚀
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -1710,7 +1711,7 @@
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - An open-source, self-hosted, low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with YAML or JSON.
 - [jerosoler/Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
 - [ritaswc/wechat_app_template](https://github.com/ritaswc/wechat_app_template) - 微信小程序源码，模板
-- [JimHans/live2d-kanban-desktop](https://github.com/JimHans/live2d-kanban-desktop) - 基于Electron的桌面看板娘，支持日程提醒、小窗模式、文字对话、网页搜索、本地模型加载与独立设置界面  | An AI Based live2d Kanban for Desktop Users Using Electron
+- [JimHans/live2d-kanban-desktop](https://github.com/JimHans/live2d-kanban-desktop) - 基于Electron的桌面看板娘，支持日程提醒、小窗模式、文字对话、网页搜索、本地moc模型加载与独立设置界面  | An AI Based live2d Kanban for Desktop Users Using Electron
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 - [locomotivemtl/locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll) - 🛤 Detection of elements in viewport & smooth scrolling with parallax.
 - [uber/baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
@@ -2086,7 +2087,7 @@
 - [gr2m/twitter-together](https://github.com/gr2m/twitter-together) - :bird: A GitHub action to tweet from a repository
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
-- [Jannchie/Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js) - 这是一个数据可视化项目，能够将历史数据排名转化为动态柱状图图表
+- [Jannchie/Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js) - [Deprecated!] This is a data visualization project that converts historical data rankings into dynamic bar charts.
 - [sindresorhus/electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Context menu for your Electron app
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [rancher/ui](https://github.com/rancher/ui) - Rancher UI
@@ -3754,7 +3755,7 @@
 - [graphql-rust/juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
 - [1Password/electron-hardener](https://github.com/1Password/electron-hardener) - A fast and small Rust library to make Electron apps more secure.
 - [sgbasaraner/yeelight-cli](https://github.com/sgbasaraner/yeelight-cli) - a low level, cross-platform command line client for Yeelight
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone!
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
 - [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
@@ -4161,7 +4162,7 @@
 - [yocontra/react-responsive](https://github.com/yocontra/react-responsive) - CSS media queries in react - for responsive design, and more.
 - [vueComponent/pro-components](https://github.com/vueComponent/pro-components) - easy use `Ant Design Vue` layout
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code development platform. | 极易扩展的无代码和低代码开发平台
-- [didi/LogicFlow](https://github.com/didi/LogicFlow) - A front-end framework for process visualization.
+- [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
 - [phodal/ledge](https://github.com/phodal/ledge) - Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
@@ -4649,7 +4650,6 @@
 - [gupei2015/marketing-management-web](https://github.com/gupei2015/marketing-management-web) - 优惠券营销后台管理前端工程
 - [vkcyan/activity-YD](https://github.com/vkcyan/activity-YD) - 易动 - H5营销页面弱代码搭建系统 支持动画、第三方接口接入🔥🔥
 - [newbee-ltd/newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - 🔥 🎉Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城 Vue3 版本，技术栈为 Vue 3.0 + Vue-Router 4.0 + Vuex 4.0 + Vant 3.0。
-- [zhenorzz/goploy](https://github.com/zhenorzz/goploy) - Devops项目代码部署发布平台，Deploy, CI/CD, Terminal, Sftp, Server monitor, Crontab Manager.
 - [x2rr/funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
 - [zwpro/redCover](https://github.com/zwpro/redCover) - 微信红包封面领取，用户观看视频广告或者邀请用户可获取微信红包序列号
 - [zwpro/coupons](https://github.com/zwpro/coupons) - 美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。
