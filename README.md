@@ -507,7 +507,7 @@
 - [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and ot
 - [projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh) - An OOB interaction gathering server and client library
 - [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
-- [cshum/imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server written in Go
+- [cshum/imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server in Go and libvips
 - [pixiv/go-libjpeg](https://github.com/pixiv/go-libjpeg) - An implementation of Go binding for libjpeg (or libjpeg-turbo).
 - [pixiv/go-thumber](https://github.com/pixiv/go-thumber) - dynamic JPEG thumbnailing proxy written in Golang
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
@@ -2886,7 +2886,7 @@
 
 ## Kotlin 
 
-- [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element
+- [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。🚫请不要fork，点star就好❗️
 - [godtoy/wework-hook-example](https://github.com/godtoy/wework-hook-example) - 企业微信xposed-hook，企业微信Hook，消息收发，自动爆粉
 - [JakeWharton/adb-event-mirror](https://github.com/JakeWharton/adb-event-mirror) - Mirror the touch/key/button events of one device onto one or more other devices in real-time
 - [SumiMakito/AwesomeQRCode](https://github.com/SumiMakito/AwesomeQRCode) - An awesome QR code generator for Android.
