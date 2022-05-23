@@ -1713,6 +1713,7 @@
 
 ## JavaScript 
 
+- [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
 - [kromitgmbh/titra](https://github.com/kromitgmbh/titra) - titra - modern open source project time tracking for freelancers and small teams
 - [appium/appium-desktop](https://github.com/appium/appium-desktop) - Appium Server in Desktop GUIs for Mac, Windows, and Linux
 - [timdream/wordcloud2.js](https://github.com/timdream/wordcloud2.js) - Tag cloud/Wordle presentation on 2D canvas or HTML
@@ -1754,7 +1755,6 @@
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 - [wooorm/wooorm.github.io](https://github.com/wooorm/wooorm.github.io) - 🐛 personal website
-- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [gooking/wxapi](https://github.com/gooking/wxapi) - 微信小程序接口工具包，无需服务器，无需开发后台，开箱即用，轻松开发小程序
 - [gooking/apifm-wxapi](https://github.com/gooking/apifm-wxapi) - 微信小程序云开发工具包，借此工具包，你将无需投入服务器、无需接口编程、无需开发后台，将传统开发小程序效率提升百倍
 - [maqi1520/mdx-editor](https://github.com/maqi1520/mdx-editor) - 微信排版编辑器，使用MDX，可自定义组件、样式、生成二维码、代码 diff 高亮，可导出 markdown 和 PDF
@@ -3458,7 +3458,7 @@
 - [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
 - [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
-- [shibing624/pycorrector](https://github.com/shibing624/pycorrector) - pycorrector is a toolkit for text error correction. 文本纠错，Kenlm，Seq2Seq_Attention，BERT，MacBERT，ELECTRA，ERNIE，Transformer等模型实现，开箱即用。
+- [shibing624/pycorrector](https://github.com/shibing624/pycorrector) - pycorrector is a toolkit for text error correction. 文本纠错，Kenlm，ConvSeq2Seq，BERT，MacBERT，ELECTRA，ERNIE，Transformer等模型实现，开箱即用。
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
@@ -4041,6 +4041,7 @@
 - [meeluo-shop/meeluo-server](https://github.com/meeluo-shop/meeluo-server) - 谜鹿云店是一套基于微信公众号的多功能SAAS系统，包含线下门店点餐、会员系统、线上商城、赢奖小游戏等功能。支持商家独立运营，也支持使用代理商公众号给商家运营。
 - [LeoEatle/git-webhook-wework-robot](https://github.com/LeoEatle/git-webhook-wework-robot) - 企业微信github/gitlab机器人
 - [web3ui/web3uikit](https://github.com/web3ui/web3uikit) - Lightweight reusable Web3 UI components for dapps.
+- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [Mayandev/ikea-low-price](https://github.com/Mayandev/ikea-low-price) - 🧾 Showcasing IKEA's low-priced items ｜ 宜家折扣价商品｜宜家低价好物
 - [XAMPPRocky/deploy-mdbook](https://github.com/XAMPPRocky/deploy-mdbook) - A GitHub Action to automatically build and deploy your mdbook project.
 - [YaoApp/xgen-next](https://github.com/YaoApp/xgen-next) - The rebuilted & next version of xgen.
@@ -4629,6 +4630,7 @@
 
 ## Vue 
 
+- [fluidd-core/fluidd](https://github.com/fluidd-core/fluidd) - Fluidd, the klipper UI.
 - [go-admin-team/go-admin-ui](https://github.com/go-admin-team/go-admin-ui) - 基于Gin + Vue + Element UI的前后端分离权限管理系统的前端模块
 - [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。
 - [liyupi/sql-generator](https://github.com/liyupi/sql-generator) - 🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 + TypeScript + Vite + Ant Design + MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~
