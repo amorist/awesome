@@ -245,7 +245,7 @@
 
 ## CSS 
 
-- [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) - 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired mag
+- [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) - 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
 - [Code-Pop/Intro-to-Vue-3](https://github.com/Code-Pop/Intro-to-Vue-3) - Code for Vue Mastery's Intro to Vue 3 course:
 - [marvelapp/devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
 - [QiShaoXuan/css_tricks](https://github.com/QiShaoXuan/css_tricks) - Some CSS tricks,一些 CSS 常用样式
@@ -1713,6 +1713,8 @@
 
 ## JavaScript 
 
+- [junedomingo/react-native-rename](https://github.com/junedomingo/react-native-rename) - Rename react-native app with just one command
+- [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
 - [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
 - [kromitgmbh/titra](https://github.com/kromitgmbh/titra) - titra - modern open source project time tracking for freelancers and small teams
 - [appium/appium-desktop](https://github.com/appium/appium-desktop) - Appium Server in Desktop GUIs for Mac, Windows, and Linux
@@ -3324,7 +3326,7 @@
 - [LingyuCoder/toybox](https://github.com/LingyuCoder/toybox) - 各种玩具的列表
 - [ty4z2008/Qix](https://github.com/ty4z2008/Qix) - Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang
 - [jobbole/awesome-design-cn](https://github.com/jobbole/awesome-design-cn) - 设计师资源大全，包含：ICON图标、Logo设计、PhotoShop插件、交互设计工具、流程图、线框图/原型图、设计博客等
-- [DavidCai1993/nodejs-api-doc](https://github.com/DavidCai1993/nodejs-api-doc) - :notebook:Node.js API doc in Chinese
+- [DavidCai1111/nodejs-api-doc](https://github.com/DavidCai1111/nodejs-api-doc) - :notebook:Node.js API doc in Chinese
 - [jobbole/awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等。由「开源前哨」和「前端大全」微信公号团队维护更新。
 - [Pana/node-books](https://github.com/Pana/node-books) - For those who love Node.js
 - [CocoaChina-editors/Welcome-to-Swift](https://github.com/CocoaChina-editors/Welcome-to-Swift) - Swift中文文档
@@ -4000,6 +4002,8 @@
 
 ## TypeScript 
 
+- [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
 - [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。
 - [404-novel-project/novel-downloader](https://github.com/404-novel-project/novel-downloader) - 一个可扩展的通用型小说下载器。
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
