@@ -138,6 +138,7 @@
 
 ## C# # 
 
+- [he55/DreamScene2](https://github.com/he55/DreamScene2) - 一个小而快并且功能强大的 Windows 动态桌面软件
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
 - [mcneel/compute.rhino3d](https://github.com/mcneel/compute.rhino3d) - REST geometry server based on RhinoCommon and headless Rhino
 - [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic
@@ -636,7 +637,7 @@
 - [deepfabric/busybee](https://github.com/deepfabric/busybee) - 营销流程引擎
 - [yellowFarLu/Boss-System](https://github.com/yellowFarLu/Boss-System) - BOSS系统是一个数字化运营平台。该系统实现了公司销售人员、渠道代理人员、超级管理员的基本工作，可以维护渠道商机等商业数据，把商业机会数字化，客户跟踪历史记录，批量导入客户信息，多条件筛选，提高工作人员的协作能力，实现总公司、代理、销售三位一体运营,实现数字化运营
 - [yudeyong/pyromid](https://github.com/yudeyong/pyromid) - 分级营销积分体系
-- [labring/sealos](https://github.com/labring/sealos) - kubernetes-kernel-based cloud os distribution! Let's sealos run kubernetes:v1.24.0
+- [labring/sealos](https://github.com/labring/sealos) - kubernetes-kernel-based Cloud OS! Let's sealos run kubernetes:v1.24.0
 - [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gR
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [zeromicro/goctl-go-compact](https://github.com/zeromicro/goctl-go-compact) - 
@@ -1718,6 +1719,7 @@
 
 ## JavaScript 
 
+- [binance/binance-connector-node](https://github.com/binance/binance-connector-node) - A simple connector to Binance Public API
 - [shuding/nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
 - [timqian/sideproject.guide](https://github.com/timqian/sideproject.guide) - 🔨 Notes on how to build side projects
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -3399,6 +3401,8 @@
 
 ## Python 
 
+- [binance/binance-connector-python](https://github.com/binance/binance-connector-python) - a simple connector to Binance Public API
+- [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 方舟像素字体 - 开源的泛中日韩像素字体 / Ark pixel font - Open source Pan-CJK pixel font
 - [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
 - [atticus-lv/super_io](https://github.com/atticus-lv/super_io) - blender addon for copy paste import / export
 - [acgnhiki/blrec](https://github.com/acgnhiki/blrec) - Bilibili Live Streaming Recorder  哔哩哔哩直播录制
@@ -4046,6 +4050,7 @@
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Self-hostable doodle poll alternative. Find the best date for a meeting with your colleagues or friends without the back and forth emails.
 - [miao-lang/miao-lang](https://github.com/miao-lang/miao-lang) - 喵语翻译：将人类语言翻译为喵语言。
 - [unjs/nitro](https://github.com/unjs/nitro) - ⚗️ Build and deploy universal JavaScript servers
+- [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [Web3Modal/web3modal](https://github.com/Web3Modal/web3modal) - A single Web3 / Ethereum provider solution for all Wallets
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [ammarahm-ed/react-native-actions-sheet](https://github.com/ammarahm-ed/react-native-actions-sheet) - A Cross Platform(Android & iOS) ActionSheet with a flexible api, native performance and zero dependency code for react native. Create anything you want inside ActionSheet.
@@ -4658,7 +4663,6 @@
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [seeksdream/relation-graph](https://github.com/seeksdream/relation-graph) - Vue 关联关系图谱组件，可以展示如组织机构图谱、股权架构图谱、集团关系图谱等知识图谱，可提供多种图谱布局，包括树状布局、中心布局、力学布局自动布局等。Vue component for relationship graph , which can display knowledge graphs, such as organization graph, equity structure grap
 - [one-tab-group/bookmark.style](https://github.com/one-tab-group/bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
-- [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [jeecgboot/jeecgboot-vue3](https://github.com/jeecgboot/jeecgboot-vue3) - 采用 Vue3.0、Vite、 Ant-Design-Vue、TypeScript 等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是在 Vben-Admin 基础上研发的，适合于JeecgBoot的新版前端VUE3框架。
 - [zernonia/madewithsupabase](https://github.com/zernonia/madewithsupabase) - A collection of projects made with Supabase – Websites, Mobile Apps, SaaS, Plugins and more!
 - [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站
