@@ -418,7 +418,7 @@
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API
 - [bitleak/lmstfy](https://github.com/bitleak/lmstfy) - A task queue with REST API
 - [satori/go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
-- [dtm-labs/rockscache](https://github.com/dtm-labs/rockscache) - 首个确保最终一致、强一致的 Redis 缓存库
+- [dtm-labs/rockscache](https://github.com/dtm-labs/rockscache) - The First Redis Cache Library To Ensure Eventual Consistency And Strong Consistency With DB.
 - [spf13/cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go
 - [zeromicro/zero-contrib](https://github.com/zeromicro/zero-contrib) - A collection of extensions and tools for go-zero.
 - [supabase-community/postgrest-go](https://github.com/supabase-community/postgrest-go) - Isomorphic Go client for PostgREST.
@@ -1320,7 +1320,7 @@
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [jhvst/vertigo](https://github.com/jhvst/vertigo) - Blog engine in Go (golang)
 - [azer-oss/strict-request](https://github.com/azer-oss/strict-request) - Send strict HTTP Requests with Go
-- [micro/micro](https://github.com/micro/micro) - API first development platform
+- [micro/micro](https://github.com/micro/micro) - An API first development platform
 - [jdkato/prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [Jeiwan/blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
