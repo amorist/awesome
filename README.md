@@ -1585,6 +1585,7 @@
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
 - [myvin/Characters_of_the_Three_Kingdoms](https://github.com/myvin/Characters_of_the_Three_Kingdoms) - :three: Characters of the Three Kingdoms - 三国人物结构化数据
+- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [naro143/hugo-coder-portfolio](https://github.com/naro143/hugo-coder-portfolio) - It is a theme to have you know yourself than developed based on "hugo-coder".
 - [takahirox/MMDLoader-app](https://github.com/takahirox/MMDLoader-app) - sample applications for THREE.MMDLoader
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
@@ -1923,7 +1924,7 @@
 - [qor/admin](https://github.com/qor/admin) - Qor Admin - Instantly create a beautiful, cross platform, configurable Admin Interface and API for managing your data in minutes.
 - [songbug1024/co-wxwork-api](https://github.com/songbug1024/co-wxwork-api) - 企业微信API（ES6版本）
 - [12zan/miniapp](https://github.com/12zan/miniapp) - 十二赞团队投放了数百万人民币，开发了本套小程序系统 。后端代码主要是php构成，有少量的java\python\golang.前端全部是微信小程序原生，自定义装修部分也是全原生实现。  十二赞小程序 全部版本。功能齐全，架构可扩展，支持千万级访问毫无压力。 接下来，我会把十二赞旗下的全部小程序的源代码整理、开放出来。陆陆续续整理中。 有时候因为要删掉一些敏感信息，保障现在十二赞的客户的信息安全，所
-- [HalfMouse/weiit-saas](https://github.com/HalfMouse/weiit-saas) - weiit-saas是一款Java开源项目，属于weiit团队自研产品，意在通过技术封装，让企业无需代码开发，帮助企业一键生成小程序、公众号，让企业拥有独立品牌的自营商城。产品竞争对手《有赞》、《微盟》。
+- [HalfMouse/weiit-saas](https://github.com/HalfMouse/weiit-saas) - weiit-saas是一款Java开源项目，属于weiit团队自研产品，意在通过技术封装，让企业无需代码开发，帮助企业一键生成小程序、公众号，让企业拥有独立品牌的自营商城。
 - [zkqiang/wechat-mdeditor](https://github.com/zkqiang/wechat-mdeditor) - 微信公众号 Markdown 在线编辑器
 - [JasonBoy/wechat-jssdk](https://github.com/JasonBoy/wechat-jssdk) - 🐧WeChat JS-SDK integration with NodeJS & Web
 - [antvis/wx-f2](https://github.com/antvis/wx-f2) - F2 的微信小程序
@@ -3221,7 +3222,6 @@
 - [WICG/virtual-scroller](https://github.com/WICG/virtual-scroller) - 
 - [jobbole/awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 - [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
-- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [mateusz-brainhub/awesome-cto-resources](https://github.com/mateusz-brainhub/awesome-cto-resources) - :bulb: A community-curated list of awesome resources to help you grow as a CTO
 - [unknwon/wuwen.org](https://github.com/unknwon/wuwen.org) - 我的中文博客。
 - [amorist/amorist-website](https://github.com/amorist/amorist-website) - amorist.io
@@ -3831,6 +3831,7 @@
 
 ## SCSS 
 
+- [Color-UI/MP-CU](https://github.com/Color-UI/MP-CU) - MP-CU, colorui3.x 微信小程序原生版
 - [eddiesigner/liebling](https://github.com/eddiesigner/liebling) - Beautiful and clean Ghost theme that is easy and comfortable to use. To get the latest version please head over the releases page 👉🏼
 - [creativetimofficial/vue-argon-dashboard](https://github.com/creativetimofficial/vue-argon-dashboard) - Vue Argon Dashboard
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
@@ -4216,7 +4217,7 @@
 - [woopen/nplayer](https://github.com/woopen/nplayer) - 🚀 支持移动端、支持 SSR、支持直播，可以接入任何流媒体。高性能的弹幕系统。高度可定制，所有图标、主题色等都可以替换，并且提供了内置组件方便二次开发。无第三方运行时依赖。
 - [yocontra/react-responsive](https://github.com/yocontra/react-responsive) - CSS media queries in react - for responsive design, and more.
 - [vueComponent/pro-components](https://github.com/vueComponent/pro-components) - easy use `Ant Design Vue` layout
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code development platform.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
 - [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
 - [phodal/ledge](https://github.com/phodal/ledge) - Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
