@@ -490,7 +490,7 @@
 - [3xxx/engineercms](https://github.com/3xxx/engineercms) - 工程师知识管理系统：基于golang go语言（beego框架）。每个行业都有自己的知识管理系统，engineercms旨在为土木工程师们打造一款适用的基于web的知识管理系统。它既可以用于管理个人的项目资料，也可以用于管理项目团队资料；它既可以运行于个人电脑，也可以放到服务器上。支持提取码分享文件，onlyoffice实时文档协作，直接在线编辑dwg文件、office文档，在线利用mindoc创
 - [go-laoji/wecom-go-app-demo](https://github.com/go-laoji/wecom-go-app-demo) - 使用go-zero框架编写的企业微信应用消息、事件接收样例程序
 - [go-laoji/wecom-go-3rd-app-demo](https://github.com/go-laoji/wecom-go-3rd-app-demo) - 企业微信第三方开发应用数据、指令回调样例
-- [go-laoji/wecom-go-sdk](https://github.com/go-laoji/wecom-go-sdk) - 企业微信第三方应用|自建代开发|自建应用 三合一 sdk golang版
+- [go-laoji/wecom-go-sdk](https://github.com/go-laoji/wecom-go-sdk) - 企业微信第三方应用|自建代开发|自建应用 三合一 sdk golang版;支持服务商应用运营体系
 - [robertkrimen/godocdown](https://github.com/robertkrimen/godocdown) - Format package documentation (godoc) as GitHub friendly Markdown
 - [bytedance/go-tagexpr](https://github.com/bytedance/go-tagexpr) - An interesting go struct tag expression syntax for field validation, etc.
 - [hisyntax/auth](https://github.com/hisyntax/auth) - Easy way to get an authentication system up and running in your application with Go
