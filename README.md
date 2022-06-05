@@ -427,7 +427,7 @@
 - [appwrite/sdk-for-go](https://github.com/appwrite/sdk-for-go) - [READ-ONLY] Official Appwrite GO SDK
 - [maliaga-pantoja/golang-appwrite-demo](https://github.com/maliaga-pantoja/golang-appwrite-demo) - golang demo using appwrite
 - [idoubi/gonews](https://github.com/idoubi/gonews) - golang每日新闻检索平台
-- [newpanjing/gofound](https://github.com/newpanjing/gofound) - GoFound GoLang Full text search go语言全文检索引擎 基于平衡二叉树+正排索引、倒排索引实现 可支持亿级数据，毫秒级查询。 使用简单，使用http接口，任何系统都可以使用。
+- [newpanjing/gofound](https://github.com/newpanjing/gofound) - GoFound GoLang Full text search go语言全文检索引擎，毫秒级查询。 使用使用http接口调用，集成Admin管理界面，任何系统都可以使用。
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡
 - [wangkechun/go-by-example](https://github.com/wangkechun/go-by-example) - 
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
@@ -1744,7 +1744,7 @@
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - An open-source, self-hosted, low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with YAML or JSON.
 - [jerosoler/Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
 - [ritaswc/wechat_app_template](https://github.com/ritaswc/wechat_app_template) - 微信小程序源码，模板
-- [JimHans/live2d-kanban-desktop](https://github.com/JimHans/live2d-kanban-desktop) - 基于Electron的桌面看板娘，支持日程提醒、小窗模式、文字对话、网页搜索、本地moc模型加载与独立设置界面  | An AI Based live2d Kanban for Desktop Users Using Electron
+- [JimHans/live2d-kanban-desktop](https://github.com/JimHans/live2d-kanban-desktop) - 基于Electron制作的桌面看板娘，支持日程提醒、小窗模式、文字对话、网页搜索、本地moc模型加载与独立设置界面等  | An AI Based live2d Kanban for Desktop Users Using Electron
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 - [locomotivemtl/locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll) - 🛤 Detection of elements in viewport & smooth scrolling with parallax.
 - [uber/baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
@@ -2076,7 +2076,7 @@
 - [node-webot/wechat-api](https://github.com/node-webot/wechat-api) - Wechat API / 主动调用 API
 - [lay-zhou/youdidao-unmanned-shop](https://github.com/lay-zhou/youdidao-unmanned-shop) - youdidao-unmanned-shop
 - [methodofaction/Method-Draw](https://github.com/methodofaction/Method-Draw) - Method Draw, the SVG Editor for Method of Action
-- [tobspr/shapez.io](https://github.com/tobspr/shapez.io) - shapez.io is an open source base building game inspired by factorio! Available on web & steam.
+- [tobspr/shapez.io](https://github.com/tobspr/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
 - [zthxxx/kugimiya-rainbow-fart](https://github.com/zthxxx/kugimiya-rainbow-fart) - 傲 娇 钉 宫，鞭 写 鞭 骂  -  钉宫理惠 vscode-rainbow-fart 扩展语音包
 - [SaekiRaku/vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) - 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
 - [carbon-design-system/carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) - React components for the Carbon Design System
