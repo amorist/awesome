@@ -417,6 +417,7 @@
 
 ## Go 
 
+- [cunnie/sslip.io](https://github.com/cunnie/sslip.io) - Golang-based DNS server which maps DNS records with embedded IP addresses to those addresses.
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
 - [snowlyg/iris-admin](https://github.com/snowlyg/iris-admin) - Web admin  for iris-go framwork
 - [honghuangdc/soybean-admin-go](https://github.com/honghuangdc/soybean-admin-go) - soybean-admin的后端服务go版
@@ -441,7 +442,7 @@
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡
 - [wangkechun/go-by-example](https://github.com/wangkechun/go-by-example) - 
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-- [polarsignals/arcticdb](https://github.com/polarsignals/arcticdb) - ❄️ Coolest database around 🧊 Embeddable column database written in Go.
+- [polarsignals/frostdb](https://github.com/polarsignals/frostdb) - ❄️ Coolest database around 🧊 Embeddable column database written in Go.
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
@@ -808,7 +809,7 @@
 - [googleapis/google-api-go-client](https://github.com/googleapis/google-api-go-client) - Auto-generated Google APIs for Go.
 - [mosn/mosn](https://github.com/mosn/mosn) - The Cloud-Native Network Proxy Platform
 - [alibaba/sentinel-golang](https://github.com/alibaba/sentinel-golang) - Sentinel Go version (Reliability & Resilience)
-- [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/凹语言)
+- [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST)
 - [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go) - Nacos client in Golang
 - [apolloconfig/agollo](https://github.com/apolloconfig/agollo) - 🚀Go client for ctrip/apollo (https://github.com/ctripcorp/apollo)
 - [xinjiayu/ms-weather](https://github.com/xinjiayu/ms-weather) - 天气预报API数据代理服务
@@ -1730,6 +1731,7 @@
 
 ## JavaScript 
 
+- [paulrberg/create-eth-app](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered apps with one command
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using DALL-E Mini and based on OpenAI's DALL-E https://openai.com/blog/dall-e/
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [binance/binance-connector-node](https://github.com/binance/binance-connector-node) - A simple connector to Binance Public API
@@ -2969,6 +2971,7 @@
 
 ## NSIS 
 
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [electron-userland/electron-builder-binaries](https://github.com/electron-userland/electron-builder-binaries) - 
 
 ## Nunjucks 
@@ -3014,6 +3017,7 @@
 
 ## Others 
 
+- [csteinmetz1/ai-audio-startups](https://github.com/csteinmetz1/ai-audio-startups) - Community list of startups working with AI in audio and music technology
 - [KRALYN/PositronV3](https://github.com/KRALYN/PositronV3) - A upside-down, fast, portable, and compact 3D printer
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [zenitysec/awesome-low-code](https://github.com/zenitysec/awesome-low-code) - Awesome Low Code platforms, vendors, tools and resources
@@ -4035,6 +4039,7 @@
 
 ## TypeScript 
 
+- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Mage is an open-source data management platform that helps you clean data and prepare it for training AI/ML models.
 - [fantasticit/think](https://github.com/fantasticit/think) - 云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。
 - [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance TypeScript framework for enterprise applications.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
@@ -4144,7 +4149,7 @@
 - [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
 - [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js) - The meta-framework suite designed from scratch for frontend-focused modern web development.
-- [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - A modern, comprehensive, flexible design system and React UI library
+- [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,300+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any De
 - [troisjs/trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
 - [BabylonJS/Editor](https://github.com/BabylonJS/Editor) - Community managed visual editor for Babylon.js
 - [vercel/virtual-event-starter-kit](https://github.com/vercel/virtual-event-starter-kit) - Open source demo that Next.js developers can clone, deploy, and fully customize for events.
@@ -4212,13 +4217,13 @@
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [google/gts](https://github.com/google/gts) - ☂️ TypeScript style guide, formatter, and linter.
 - [cozmo/jsQR](https://github.com/cozmo/jsQR) - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
-- [buuing/creep-cube](https://github.com/buuing/creep-cube) - 使用 Three.js 开发的一个魔方小游戏....自娱项目
+- [buuing/Rubiks-Cube](https://github.com/buuing/Rubiks-Cube) - 使用 Three.js 开发的一个魔方小游戏....自娱项目
 - [tal-tech/electron-playground](https://github.com/tal-tech/electron-playground) - This is a project to quickly experiment and learn electron related APIs
 - [nefe/number-precision](https://github.com/nefe/number-precision) - 🚀1K tiny & fast lib for doing addition, subtraction, multiplication and division operations precisely
 - [egoist/usermatters](https://github.com/egoist/usermatters) - User Matters helps you collect customer feedbacks effortlessly.
 - [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 - [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
-- [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! 💥🦁✨
+- [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! ✨🦁🚀✨
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 - [dfinity/cancan](https://github.com/dfinity/cancan) - A scalable video sharing service.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
@@ -4280,7 +4285,7 @@
 - [electron/remote](https://github.com/electron/remote) - Bridge JavaScript objects from the main process to the renderer process in Electron.
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://githu
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. Roadmap https://github.com/orgs/siyuan-note/projects/1
 - [grpc/grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
@@ -4628,7 +4633,6 @@
 - [alibaba/ice](https://github.com/alibaba/ice) - 🚀 The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
@@ -4676,12 +4680,13 @@
 
 ## Vue 
 
+- [Nasinet/live-web](https://github.com/Nasinet/live-web) - VUE开发的直播系统web版，接入腾讯云直播，腾讯im，dp播放器，游戏直播系统，高并发，低延迟，直播系统源码。
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [fluidd-core/fluidd](https://github.com/fluidd-core/fluidd) - Fluidd, the klipper UI.
 - [go-admin-team/go-admin-ui](https://github.com/go-admin-team/go-admin-ui) - 基于Gin + Vue + Element UI的前后端分离权限管理系统的前端模块
 - [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。
 - [liyupi/sql-generator](https://github.com/liyupi/sql-generator) - 🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 + TypeScript + Vite + Ant Design + MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~
-- [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ vue3 admin template, vue3 后台管理模板, 基于 vite、够轻、够新、够用
+- [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ A vue3 minimal admin template, based on 'vite'. 一个基于 vite 的 vue3 最小后台管理模板
 - [m0ngr31/DailyNotes](https://github.com/m0ngr31/DailyNotes) - App for taking notes and tracking tasks on a daily basis
 - [macrozheng/mall-admin-web](https://github.com/macrozheng/mall-admin-web) - mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。
 - [Idered/chalk.ist](https://github.com/Idered/chalk.ist) - 📷 Create beautiful images of your source code
