@@ -1117,7 +1117,7 @@
 - [coder/sshcode](https://github.com/coder/sshcode) - Run VS Code on any server over SSH.
 - [ahl5esoft/golang-underscore](https://github.com/ahl5esoft/golang-underscore) - Helpfully Functional Go like underscore.js
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
-- [henrylee2cn/faygo](https://github.com/henrylee2cn/faygo) - Faygo is a fast and concise Go Web framework that can be used to develop high-performance web app(especially API) with fewer codes. Just define a struct handler, faygo will automatically bind/verify t
+- [andeya/faygo](https://github.com/andeya/faygo) - Faygo is a fast and concise Go Web framework that can be used to develop high-performance web app(especially API) with fewer codes. Just define a struct handler, faygo will automatically bind/verify t
 - [go-macaron/macaron](https://github.com/go-macaron/macaron) - Package macaron is a high productive and modular web framework in Go.
 - [uber-go/dig](https://github.com/uber-go/dig) - A reflection based dependency injection toolkit for Go.
 - [printfcoder/stack-rpc-tutorials](https://github.com/printfcoder/stack-rpc-tutorials) - Stack-RPC 中文示例、教程、资料，源码解读
@@ -2873,6 +2873,7 @@
 
 ## Jupyter Notebook 
 
+- [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - A Human-in-the-Loop workflow for creating HD images from text
 - [FinMind/FinMind](https://github.com/FinMind/FinMind) - Open Data, more than 50 financial data. 提供超過 50 個金融資料(台股為主)，每天更新 https://finmind.github.io/
 - [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) - 
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
@@ -3419,7 +3420,6 @@
 ## Python 
 
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
-- [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - A Human-in-the-Loop workflow for creating HD images from text
 - [bigbrother666sh/shezhangbujianle](https://github.com/bigbrother666sh/shezhangbujianle) - 借助世界上最大的单体中文NLP大模型，我们做出了一个可以跟人类玩“剧本杀”的AI……
 - [bigbrother666sh/Awada](https://github.com/bigbrother666sh/Awada) - 虚拟人“灵魂”系统（主题域对话解决方案），可应用于各类虚拟人、虚拟演员、智能陪护与教育场景，亦可与目标域对话结合，从而为政务服务、客服等应用带来更好的体验。
 - [alibaba/EasyNLP](https://github.com/alibaba/EasyNLP) - EasyNLP: A Comprehensive and Easy-to-use NLP Toolkit
