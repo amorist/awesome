@@ -377,7 +377,7 @@
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [actions/container-action](https://github.com/actions/container-action) - 
 - [cnych/kubernetes-learning](https://github.com/cnych/kubernetes-learning) - 《从Docker到Kubernetes进阶课程》在线文档
-- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes
+- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes 🇺🇦
 - [ianwalter/puppeteer-container](https://github.com/ianwalter/puppeteer-container) - A GitHub Action / Docker image for   Puppeteer, the Headless Chrome Node API
 - [microsoft/vscode-remote-try-go](https://github.com/microsoft/vscode-remote-try-go) - Go sample project for trying out the 'VS Code Remote - Containers' extension
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -3417,7 +3417,6 @@
 
 ## Python 
 
-- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Mage is an open-source data management platform that helps you clean data and prepare it for training AI/ML models.
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [bigbrother666sh/shezhangbujianle](https://github.com/bigbrother666sh/shezhangbujianle) - 借助世界上最大的单体中文NLP大模型，我们做出了一个可以跟人类玩“剧本杀”的AI……
 - [bigbrother666sh/Awada](https://github.com/bigbrother666sh/Awada) - 虚拟人“灵魂”系统（主题域对话解决方案），可应用于各类虚拟人、虚拟演员、智能陪护与教育场景，亦可与目标域对话结合，从而为政务服务、客服等应用带来更好的体验。
@@ -4041,6 +4040,7 @@
 ## TypeScript 
 
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
+- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Mage is an open-source data management platform that helps you clean data and prepare it for training AI/ML models.
 - [fantasticit/think](https://github.com/fantasticit/think) - 云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。
 - [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance TypeScript framework for enterprise applications.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
@@ -4552,7 +4552,7 @@
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
-- [umijs/umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
+- [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
