@@ -2099,7 +2099,7 @@
 - [o2team/wxapp-market](https://github.com/o2team/wxapp-market) - 小程序营销组件，Marketing components for WeChatApp
 - [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API
-- [probot/settings](https://github.com/probot/settings) - Pull Requests for GitHub repository settings
+- [repository-settings/app](https://github.com/repository-settings/app) - Pull Requests for GitHub repository settings
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [surmon-china/vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
@@ -3420,7 +3420,7 @@
 
 ## Python 
 
-- [WhaleFell/SMSBoom](https://github.com/WhaleFell/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
+- [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [bigbrother666sh/shezhangbujianle](https://github.com/bigbrother666sh/shezhangbujianle) - 借助世界上最大的单体中文NLP大模型，我们做出了一个可以跟人类玩“剧本杀”的AI……
 - [alibaba/EasyNLP](https://github.com/alibaba/EasyNLP) - EasyNLP: A Comprehensive and Easy-to-use NLP Toolkit
@@ -4771,7 +4771,7 @@
 - [coderwhy/HYMall](https://github.com/coderwhy/HYMall) - A vue.js mall application.
 - [topfullstack/node-vue-moba](https://github.com/topfullstack/node-vue-moba) - Node.js (Express.js) + Vue.js (Element UI) 全栈开发王者荣耀手机端官网和管理后台
 - [F-loat/mpvue-wxParse](https://github.com/F-loat/mpvue-wxParse) - 📰适用于 Mpvue 的微信小程序富文本解析自定义组件
-- [infinityu/mina-wear-mask](https://github.com/infinityu/mina-wear-mask) - 头像加口罩小程序 - 基于uniapp使用vue快速实现，广告月收入4k+
+- [infinityu/mina-wear-mask](https://github.com/infinityu/mina-wear-mask) - A mini-program used by 100k users that enhances personalization by decorating avatar.
 - [strapi/strapi-starter-nuxt-blog](https://github.com/strapi/strapi-starter-nuxt-blog) - Strapi Starter Nuxt Blog
 - [dcloudio/uni-ui](https://github.com/dcloudio/uni-ui) - 基于uni-app的ui框架
 - [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3 🤘
@@ -4810,7 +4810,7 @@
 - [jolaleye/cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [weilanwl/ColorUI](https://github.com/weilanwl/ColorUI) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
 - [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
-- [michaelfitzhavey/vue-json-tree-view](https://github.com/michaelfitzhavey/vue-json-tree-view) - A JSON Tree View Component for Vue.js
+- [michaelhaveyfitz/vue-json-tree-view](https://github.com/michaelhaveyfitz/vue-json-tree-view) - A JSON Tree View Component for Vue.js
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
