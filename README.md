@@ -652,7 +652,7 @@
 - [deepfabric/busybee](https://github.com/deepfabric/busybee) - 营销流程引擎
 - [yellowFarLu/Boss-System](https://github.com/yellowFarLu/Boss-System) - BOSS系统是一个数字化运营平台。该系统实现了公司销售人员、渠道代理人员、超级管理员的基本工作，可以维护渠道商机等商业数据，把商业机会数字化，客户跟踪历史记录，批量导入客户信息，多条件筛选，提高工作人员的协作能力，实现总公司、代理、销售三位一体运营,实现数字化运营
 - [yudeyong/pyromid](https://github.com/yudeyong/pyromid) - 分级营销积分体系
-- [labring/sealos](https://github.com/labring/sealos) - kubernetes-kernel-based cloud os! Let's sealos run kubernetes and applications.
+- [labring/sealos](https://github.com/labring/sealos) - kubernetes-kernel-based cloud os! Let's sealos run kubernetes:v1.24.2!
 - [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gR
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [zeromicro/goctl-go-compact](https://github.com/zeromicro/goctl-go-compact) - 
@@ -1797,7 +1797,6 @@
 - [talebook/talebook](https://github.com/talebook/talebook) - A simple books website. 一个简单的在线版个人书库。
 - [Mayandev/hacker-feeds-cli](https://github.com/Mayandev/hacker-feeds-cli) - 📰 A command line tool for Hacker News、 Product Hunt、 GitHub Trending 、Reddit and V2EX feeds.
 - [feross/simple-peer](https://github.com/feross/simple-peer) - 📡 Simple WebRTC video, voice, and data channels
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js
 - [MatrixAges/picpic](https://github.com/MatrixAges/picpic) - A awesome image host service driven by github pages and github actions.
 - [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 - [wtfaremyinitials/osa-imessage](https://github.com/wtfaremyinitials/osa-imessage) - Send and receive iMessages with nodejs
@@ -1839,7 +1838,6 @@
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
 - [Beg-in/vue-babylonjs](https://github.com/Beg-in/vue-babylonjs) - A ready-to-go 3d environment for Vue.js using Babylon.js
 - [spite/THREE.MeshLine](https://github.com/spite/THREE.MeshLine) - Mesh replacement for THREE.Line
-- [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
 - [douyu/juno](https://github.com/douyu/juno) - Juno 译名朱诺。这个名字来源于古罗马神话中的众神之母。它是斗鱼的微服务管理系统， 如同众神之母一样守护着所有微服务的系统。
 - [giantswarm/install-binary-action](https://github.com/giantswarm/install-binary-action) - GitHub action installing a binary from a tarball behind URL
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
@@ -4096,6 +4094,7 @@
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [Mayandev/ikea-low-price](https://github.com/Mayandev/ikea-low-price) - 🧾 Showcasing IKEA's low-priced items ｜ 宜家折扣价商品｜宜家低价好物
 - [XAMPPRocky/deploy-mdbook](https://github.com/XAMPPRocky/deploy-mdbook) - A GitHub Action to automatically build and deploy your mdbook project.
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js
 - [YaoApp/xgen-next](https://github.com/YaoApp/xgen-next) - The rebuilted & next version of xgen.
 - [alibaba/lowcode-materials](https://github.com/alibaba/lowcode-materials) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
@@ -4139,6 +4138,7 @@
 - [craftzdog/react-native-animated-todo](https://github.com/craftzdog/react-native-animated-todo) - Animated ToDo app built with React Native and Reanimated v2
 - [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - Protocol and application framework for decentralized NFT minting, storefronts, and sales.
 - [chowa/ejyy](https://github.com/chowa/ejyy) - 「e家宜业」是一整套开源智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等主要业务。
+- [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
 - [splitbee/react-notion](https://github.com/splitbee/react-notion) - A fast React renderer for Notion pages
 - [widgetti/ipyvolume](https://github.com/widgetti/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
@@ -4572,7 +4572,7 @@
 - [cacjs/cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 - [electron/trop](https://github.com/electron/trop) - automate the backporting process
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-- [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
+- [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [vuese/vuese](https://github.com/vuese/vuese) - 🤗 One-stop solution for vue component documentation. Original org: https://github.com/vuese
