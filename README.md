@@ -1384,7 +1384,7 @@
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [smartwalle/alipay](https://github.com/smartwalle/alipay) - 支付宝 AliPay SDK for Go, 集成简单，功能完善，持续更新，支持公钥证书和普通公钥进行签名和验签。
 - [linclin/gopub](https://github.com/linclin/gopub) - vue.js(element框架)+golang(beego框架)开发的运维发布系统,支持git,jenkins版本发布,go ssh,BT两种文件传输方式选择,支持部署前准备任务和部署后任务钩子函数
-- [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL
+- [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [go-ego/gse](https://github.com/go-ego/gse) - Go efficient multilingual NLP and text segmentation; support English, Chinese, Japanese and others.
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
