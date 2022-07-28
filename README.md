@@ -528,7 +528,7 @@
 - [summerblue/gohub](https://github.com/summerblue/gohub) - Gohub，以论坛 API 为主题，设计的初衷是将其打造为高性能、功能齐全的 API 框架。基于 gin, cobra, viper, zap, gorm, redis, mysql, sqlite, email, jwt
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
-- [smallnest/rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for clound!
+- [smallnest/rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud!
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats
 - [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
 - [disintegration/imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go
@@ -1649,7 +1649,7 @@
 - [JackyFuu/SSM-Maven-Heima](https://github.com/JackyFuu/SSM-Maven-Heima) - 基于SSM(Spring+Springmvc+Mybatis)框架的电商小项目，使用Maven构建项目，MySQL为数据库系统，Redis的缓存服务器（并不是用的很多）。商城分为后台人员管理界面和前台处理服务器两个方面。实现了登录，邮件注册，redis缓存机制，cookie的历史记录浏览，分页浏览商品，加入购物车，提交订单等等功能。最精彩的是，如果你刚刚学完基础的SSM框架，那么你就可以跟着视频一
 - [liutaojava/litemall](https://github.com/liutaojava/litemall) - 商城后台管理系统+H5端+小程序端+api后端接口（vue、java、springboot、mysql）
 - [alibaba/fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库
-- [15005935651/Guns-Medical](https://github.com/15005935651/Guns-Medical) - 基于SpringBoot的guns社区养老医疗服务综合平台管理系统
+- [Poco-z/Guns-Medical](https://github.com/Poco-z/Guns-Medical) - 基于SpringBoot的guns社区养老医疗服务综合平台管理系统
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
@@ -3219,7 +3219,7 @@
 - [dvassallo/bootstrapping-calculator](https://github.com/dvassallo/bootstrapping-calculator) - Do you have enough savings to fund your business?
 - [Micropoor/Micro8](https://github.com/Micropoor/Micro8) - Gitbook
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
-- [fritx/awesome-yuan](https://github.com/fritx/awesome-yuan) - 猿* 新词系列，如 "开猿节流"
+- [we-fun/awesome-yuan](https://github.com/we-fun/awesome-yuan) - 猿* 新词系列，如 "开猿节流"
 - [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 - [portabletext/portabletext](https://github.com/portabletext/portabletext) - Portable Text is a JSON based rich text specification for modern content editing platforms.
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
@@ -3383,7 +3383,7 @@
 - [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源式站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
 - [zeromicro/goctl-swagger](https://github.com/zeromicro/goctl-swagger) - 
 - [asundust/wechat-work-push](https://github.com/asundust/wechat-work-push) - 利用企业微信应用消息向微信发送通知(无需公众号，不需要安装企业微信客户端，低成本推送消息解决方案)
-- [iluminar/goodwork](https://github.com/iluminar/goodwork) - Self hosted project management and collaboration tool powered by TALL stack
+- [Hasnayeen/goodwork](https://github.com/Hasnayeen/goodwork) - Self hosted project management and collaboration tool powered by TALL stack
 - [nxez/pi-dashboard](https://github.com/nxez/pi-dashboard) - A WebUI dashboard for IoT devices likes raspberry pi.
 - [mochat-cloud/mochat](https://github.com/mochat-cloud/mochat) - 基于企业微信的开源SCRM应用开发框架&引擎，也是一套通用的企业私域流量管理系统!
 - [chaituan/fanqie_shop](https://github.com/chaituan/fanqie_shop) - 番茄社区多门店是一款帮助多商家线上盈利的工具，可做社区门店，也可以做社区团购，还可以做自营连锁店，内含小程序和公众号两个端，同一个后台管理。
@@ -3881,7 +3881,6 @@
 - [haysclark/docker-backburner](https://github.com/haysclark/docker-backburner) - Unofficial Autodesk® Backburner™ Docker container
 - [mochat-cloud/docker-compose](https://github.com/mochat-cloud/docker-compose) - 🐳 The docker compose offered by MoChat.
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
-- [makc/assimp2json](https://github.com/makc/assimp2json) - half-assed attempt at emscriptening assimp2json (half of models do not work - HELP 😱)
 - [lcorbasson/docker-skp2dae](https://github.com/lcorbasson/docker-skp2dae) - SketchUp (SKP) to DAE converter using Docker, WINE and ugly glue
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.
@@ -4051,7 +4050,7 @@
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [CRED-CLUB/neopop-web](https://github.com/CRED-CLUB/neopop-web) - NeoPOP components library based on CRED's design system
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
-- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Mage is an open-source code editor for transforming data and building ML pipelines.
+- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Mage is an open-source notebook for building & deploying ETL pipelines.
 - [fantasticit/think](https://github.com/fantasticit/think) - 云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。
 - [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance TypeScript framework for enterprise applications.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
@@ -4785,7 +4784,7 @@
 - [F-loat/mpvue-wxParse](https://github.com/F-loat/mpvue-wxParse) - 📰适用于 Mpvue 的微信小程序富文本解析自定义组件
 - [infinityu/mina-wear-mask](https://github.com/infinityu/mina-wear-mask) - A mini-program used by 100k users that enhances personalization by decorating avatar.
 - [strapi/strapi-starter-nuxt-blog](https://github.com/strapi/strapi-starter-nuxt-blog) - Strapi Starter Nuxt Blog
-- [dcloudio/uni-ui](https://github.com/dcloudio/uni-ui) - 基于uni-app的ui框架
+- [dcloudio/uni-ui](https://github.com/dcloudio/uni-ui) - 基于uni-app的、全端兼容的、高性能UI框架
 - [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3 🤘
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
