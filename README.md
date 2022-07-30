@@ -415,6 +415,7 @@
 
 ## Go 
 
+- [hakluke/hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
 - [lcvvvv/kscan](https://github.com/lcvvvv/kscan) - Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure
@@ -850,7 +851,7 @@
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。
 - [shomali11/go-interview](https://github.com/shomali11/go-interview) - Collection of Technical Interview Questions solved with Go
 - [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
-- [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev   Demo： https://www.go-admin.dev Antd beta版本：https://preview.go-ad
+- [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev   Demo： https://www.go-admin.dev Antd 订阅版：https://preview.go-admin
 - [Jrohy/trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
 - [goodcan/go-lottery](https://github.com/goodcan/go-lottery) - Golang 实现各式各样的抽奖逻辑后台
 - [jbowens/codenames](https://github.com/jbowens/codenames) - Play codenames online
@@ -1865,7 +1866,7 @@
 - [saltcorn/saltcorn](https://github.com/saltcorn/saltcorn) - Free and open source no-code application builder
 - [grouparoo/grouparoo](https://github.com/grouparoo/grouparoo) - 🦘 The Grouparoo Monorepo - open source customer data sync framework
 - [ovineio/ovine](https://github.com/ovineio/ovine) - Build entirety admin system ui blazing fast with json.
-- [steedos/steedos-platform](https://github.com/steedos/steedos-platform) - Salesforce Platform 企业低代码平台开源替代方案，模型驱动 + 可视化开发 + amis 微页面 + 元数据同步 +  DevOps / Enterprise Low Code DevOps Platform, Open source alterative to Salesforce Platform.
+- [steedos/steedos-platform](https://github.com/steedos/steedos-platform) - Salesforce Platform 企业低代码平台开源替代方案，全新支持 amis 微页面 /  Open source alterative to Salesforce DX Enterprise Low Code Platform.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [bxm0927/canvas-special](https://github.com/bxm0927/canvas-special) - :octocat::alien::star2:超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等。
@@ -3074,7 +3075,7 @@
 - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [ixaxaar/awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
-- [cg0101/awesome-free-saas](https://github.com/cg0101/awesome-free-saas) - an awesome list of  free SaaS (software as a service) for you. 一份很棒的免费SaaS（软件即服务）清单。
+- [tzhangchi/awesome-free-saas](https://github.com/tzhangchi/awesome-free-saas) - an awesome list of  free SaaS (software as a service) for you.
 - [dvgodoy/dl-visuals](https://github.com/dvgodoy/dl-visuals) - Over 200 figures and diagrams of the most popular deep learning architectures and layers FREE TO USE in your blog posts, slides, presentations, or papers.
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
 - [imarvinle/awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
@@ -3119,7 +3120,7 @@
 - [twitter-archive/snowflake](https://github.com/twitter-archive/snowflake) - Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
 - [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [luspr/awesome-ml-courses](https://github.com/luspr/awesome-ml-courses) - Awesome free machine learning and AI courses with video lectures.
-- [fritx/awesome-wechat](https://github.com/fritx/awesome-wechat) - 微信个人号/公众号相关项目整理 (wechat/weixin/wx)
+- [we-list/awesome-wechat](https://github.com/we-list/awesome-wechat) - 微信个人号/公众号相关项目整理 (wechat/weixin/wx)
 - [MasterStudio/MasterWechatApp](https://github.com/MasterStudio/MasterWechatApp) - 『微信小程序』优秀教程、轮子、开源项目 资源汇总
 - [github/renaming](https://github.com/github/renaming) - Guidance for changing the default branch name for GitHub repositories
 - [sindresorhus/css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
@@ -3220,7 +3221,7 @@
 - [dvassallo/bootstrapping-calculator](https://github.com/dvassallo/bootstrapping-calculator) - Do you have enough savings to fund your business?
 - [Micropoor/Micro8](https://github.com/Micropoor/Micro8) - Gitbook
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
-- [we-fun/awesome-yuan](https://github.com/we-fun/awesome-yuan) - 猿* 新词系列，如 "开猿节流"
+- [we-list/awesome-yuan](https://github.com/we-list/awesome-yuan) - 猿* 新词系列，如 "开猿节流"
 - [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 - [portabletext/portabletext](https://github.com/portabletext/portabletext) - Portable Text is a JSON based rich text specification for modern content editing platforms.
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
@@ -3788,7 +3789,7 @@
 - [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
 - [faker-ruby/faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation. For product feedback see: https://github.com/github/feedback/discussions/categories/dependabot-feedback
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation. For product feedback see: https://github.com/community/community/discussions/categories/code-security
 - [sferik/t](https://github.com/sferik/t) - A command-line power tool for Twitter.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
@@ -4045,6 +4046,7 @@
 
 ## TypeScript 
 
+- [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [labring/laf](https://github.com/labring/laf) - laf 是一个 serverless 框架，集成云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
