@@ -2966,6 +2966,7 @@
 - [cyrillef/FBX-glTF](https://github.com/cyrillef/FBX-glTF) - FBX glTF importer/exporter plug-in and converter.
 - [BabylonJS/Exporters](https://github.com/BabylonJS/Exporters) - Exporters for Babylon.js and gltf file formats
 - [Eikanya/Live2d-model](https://github.com/Eikanya/Live2d-model) - Live2d model collection
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 
 ## Mercury 
 
@@ -3722,7 +3723,6 @@
 - [s0md3v/huepy](https://github.com/s0md3v/huepy) - Print awesomely in terminals.
 - [BedirT/ACM-ICPC-Preparation](https://github.com/BedirT/ACM-ICPC-Preparation) - ACM-ICPC Preparation Guide
 - [chiphuyen/stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [foolcage/fooltrader](https://github.com/foolcage/fooltrader) - quant framework for stock
 - [Jack-Cherish/python-spider](https://github.com/Jack-Cherish/python-spider) - :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等
 - [rsm-gh/akbl](https://github.com/rsm-gh/akbl) - Control the lights of Alienware computers under GNU/Linux systems.
