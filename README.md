@@ -822,7 +822,7 @@
 - [alibaba/sentinel-golang](https://github.com/alibaba/sentinel-golang) - Sentinel Go version (Reliability & Resilience)
 - [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST)
 - [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go) - Nacos client in Golang
-- [apolloconfig/agollo](https://github.com/apolloconfig/agollo) - 🚀Go client for ctrip/apollo (https://github.com/ctripcorp/apollo)
+- [apolloconfig/agollo](https://github.com/apolloconfig/agollo) - 🚀Go client for ctrip/apollo (https://github.com/apolloconfig/apollo)
 - [xinjiayu/ms-weather](https://github.com/xinjiayu/ms-weather) - 天气预报API数据代理服务
 - [golang/appengine](https://github.com/golang/appengine) - Go App Engine packages
 - [mbertschler/dragon-iss-docking-autopilot](https://github.com/mbertschler/dragon-iss-docking-autopilot) - Autopilot in Go for docking the SpaceX Dragon capsule in the simulator
