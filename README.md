@@ -1275,7 +1275,7 @@
 - [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [google/renameio](https://github.com/google/renameio) - Package renameio provides a way to atomically create or replace a file or symbolic link.
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Excel (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [bcicen/grmon](https://github.com/bcicen/grmon) - Command line monitoring for goroutines
 - [gosuri/uiprogress](https://github.com/gosuri/uiprogress) - A go library to render progress bars in terminal applications
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
@@ -1745,6 +1745,7 @@
 
 ## JavaScript 
 
+- [itorr/eva-title](https://github.com/itorr/eva-title) - 🐧「福音战士标题生成器」 Evangelion Title Card Generator
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [UxxHans/Rainbow-Cats-Personal-WeChat-MiniProgram](https://github.com/UxxHans/Rainbow-Cats-Personal-WeChat-MiniProgram) - 给女朋友做的微信小程序！情侣自己的任务和商城系统！
 - [VideoTogether/VideoTogether](https://github.com/VideoTogether/VideoTogether) - Watch video together on any platform / 一起看视频，兼容所有平台
@@ -2208,7 +2209,6 @@
 - [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
 - [dev-mastery/comments-api](https://github.com/dev-mastery/comments-api) - 
-- [muhammed/vue-interactive-paycard](https://github.com/muhammed/vue-interactive-paycard) - Credit card form with smooth and sweet micro-interactions
 - [artf/grapesjs-typed](https://github.com/artf/grapesjs-typed) - GrapesJS Typed component made by wrapping Typed.js library
 - [Wicklets/wick-editor](https://github.com/Wicklets/wick-editor) - A free and open-source tool for creating games, animations and everything in-between!
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -3433,6 +3433,8 @@
 
 ## Python 
 
+- [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
+- [jina-ai/discoart](https://github.com/jina-ai/discoart) - Create Disco Diffusion artworks in one line
 - [secretflow/secretflow](https://github.com/secretflow/secretflow) - A unified framework for privacy-preserving data analysis and machine learning
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
@@ -4053,6 +4055,7 @@
 
 ## TypeScript 
 
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
 - [labring/laf](https://github.com/labring/laf) - laf 是一个 serverless 框架，集成云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！
@@ -4106,7 +4109,6 @@
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 - [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor —— 开源 Web 富文本编辑器
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
-- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [meeluo-shop/meeluo-server](https://github.com/meeluo-shop/meeluo-server) - 谜鹿云店是一套基于微信公众号的多功能SAAS系统，包含线下门店点餐、会员系统、线上商城、赢奖小游戏等功能。支持商家独立运营，也支持使用代理商公众号给商家运营。
 - [LeoEatle/git-webhook-wework-robot](https://github.com/LeoEatle/git-webhook-wework-robot) - 企业微信github/gitlab机器人
 - [web3ui/web3uikit](https://github.com/web3ui/web3uikit) - Lightweight reusable Web3 UI components for dapps.
@@ -4371,7 +4373,7 @@
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [qiuxiang/react-native-amap3d](https://github.com/qiuxiang/react-native-amap3d) - react-native 高德地图组件，使用最新 3D SDK，支持 Android + iOS
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
-- [erxes/erxes](https://github.com/erxes/erxes) - An open-source Hubspot/Qualtrics alternative enables SaaS providers and digital marketing agencies/developers to create unique experiences for their entire business.
+- [erxes/erxes](https://github.com/erxes/erxes) - The open-source Hubspot alternative enables SaaS providers and digital marketing agencies/developers to create unique experiences for their entire business.
 - [wcandillon/can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native) - ⚛️ 📺 Projects from the “Can it be done in React Native?” YouTube series
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [prismicio/slice-machine](https://github.com/prismicio/slice-machine) - A series of tools for developing and deploying website sections with Prismic
@@ -4727,6 +4729,7 @@
 - [one-tab-group/bookmark.style](https://github.com/one-tab-group/bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
 - [jeecgboot/jeecgboot-vue3](https://github.com/jeecgboot/jeecgboot-vue3) - 「企业级低代码平台」新版UI，采用 Vue3.0+TypeScript+Vite+AntDesignVue等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是在 Vben-Admin 基础上研发的，适合于JeecgBoot的新版前端VUE3框架。
 - [honghuangdc/soybean-admin](https://github.com/honghuangdc/soybean-admin) - A fresh and elegant admin template, based on Vue3、Vite3、TypeScript、NaiveUI and UnoCSS. 一个基于Vue3、Vite3、TypeScript、NaiveUI and UnoCSS的清新优雅的中后台模版。
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [zernonia/madewithsupabase](https://github.com/zernonia/madewithsupabase) - A collection of projects made with Supabase – Websites, Mobile Apps, SaaS, Plugins and more!
 - [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站
 - [inoutcode/ethereum_book](https://github.com/inoutcode/ethereum_book) - 精通以太坊 （中文版）
