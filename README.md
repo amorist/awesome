@@ -293,7 +293,6 @@
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [sharecuts/website](https://github.com/sharecuts/website) - A public repository of shortcuts for the Shortcuts app
 - [drawcall/clock-shop](https://github.com/drawcall/clock-shop) - 🕙⏰🕰 Clock Shop is a website that collects beautiful clock codes
-- [nodejs/nodejs-zh-CN](https://github.com/nodejs/nodejs-zh-CN) - node.js 中文化 & 中文社区
 - [nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🪺 A simple, clean, flexible Hugo theme
 - [apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh) - :book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】
 - [DMQ/mvvm](https://github.com/DMQ/mvvm) - 剖析vue实现原理，自己动手实现mvvm
@@ -333,6 +332,7 @@
 
 ## CoffeeScript 
 
+- [meltingice/psd.js](https://github.com/meltingice/psd.js) - A Photoshop PSD file parser for NodeJS and browsers
 - [Pagedraw/pagedraw](https://github.com/Pagedraw/pagedraw) - a UI builder for React web apps
 - [ichord/At.js](https://github.com/ichord/At.js) - Add Github like mentions autocomplete to your application.
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
@@ -2530,7 +2530,7 @@
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger) - 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
 - [react-static/react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
-- [vuejs/v2.cn.vuejs.org](https://github.com/vuejs/v2.cn.vuejs.org) - 🇨🇳 Chinese translation for vuejs.org
+- [vuejs/v2.cn.vuejs.org](https://github.com/vuejs/v2.cn.vuejs.org) - 🇨🇳 Chinese translation for v2.vuejs.org
 - [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
 - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
@@ -3437,7 +3437,6 @@
 
 ## Python 
 
-- [q164749/weixin](https://github.com/q164749/weixin) - 微信公众号推送模板消息
 - [HackAppSign/douyin-sign](https://github.com/HackAppSign/douyin-sign) - :seedling:抖音 as, cp, mas 签名算法+API协议
 - [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - Create Disco Diffusion artworks in one line
@@ -3881,6 +3880,7 @@
 - [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
+- [nodejs/nodejs-zh-CN](https://github.com/nodejs/nodejs-zh-CN) - node.js 中文化 & 中文社区
 - [BraveUX/for-the-badge](https://github.com/BraveUX/for-the-badge) - Badges for badges' sake.
 - [zutrinken/bleak](https://github.com/zutrinken/bleak) - Ghost Theme
 
@@ -4107,7 +4107,6 @@
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Self-hostable doodle poll alternative. Find the best date for a meeting with your colleagues or friends without the back and forth emails.
 - [miao-lang/miao-lang](https://github.com/miao-lang/miao-lang) - 喵语翻译：将人类语言翻译为喵语言。
 - [unjs/nitro](https://github.com/unjs/nitro) - ⚗️ Build and deploy universal JavaScript servers
-- [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [WalletConnect/web3modal](https://github.com/WalletConnect/web3modal) - A single Web3 / Ethereum provider solution for all Wallets
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [ammarahm-ed/react-native-actions-sheet](https://github.com/ammarahm-ed/react-native-actions-sheet) - A Cross Platform(Android & iOS) ActionSheet with a flexible api, native performance and zero dependency code for react native. Create anything you want inside ActionSheet.
@@ -4734,6 +4733,7 @@
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [seeksdream/relation-graph](https://github.com/seeksdream/relation-graph) - Vue 关联关系图谱组件，可以展示如组织机构图谱、股权架构图谱、集团关系图谱等知识图谱，可提供多种图谱布局，包括树状布局、中心布局、力学布局自动布局等。Vue component for relationship graph , which can display knowledge graphs, such as organization graph, equity structure grap
 - [one-tab-group/bookmark.style](https://github.com/one-tab-group/bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
+- [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [jeecgboot/jeecgboot-vue3](https://github.com/jeecgboot/jeecgboot-vue3) - 「企业级低代码平台」新版UI，采用 Vue3.0+TypeScript+Vite+AntDesignVue等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是在 Vben-Admin 基础上研发的，适合于JeecgBoot的新版前端VUE3框架。
 - [honghuangdc/soybean-admin](https://github.com/honghuangdc/soybean-admin) - A fresh and elegant admin template, based on Vue3、Vite3、TypeScript、NaiveUI and UnoCSS. 一个基于Vue3、Vite3、TypeScript、NaiveUI and UnoCSS的清新优雅的中后台模版。
 - [zernonia/madewithsupabase](https://github.com/zernonia/madewithsupabase) - A collection of projects made with Supabase – Websites, Mobile Apps, SaaS, Plugins and more!
