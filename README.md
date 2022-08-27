@@ -452,7 +452,6 @@
 - [dtm-labs/rockscache](https://github.com/dtm-labs/rockscache) - The First Redis Cache Library To Ensure Eventual Consistency And Strong Consistency With DB.
 - [spf13/cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go
 - [zeromicro/zero-contrib](https://github.com/zeromicro/zero-contrib) - A collection of extensions and tools for go-zero.
-- [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [supabase-community/postgrest-go](https://github.com/supabase-community/postgrest-go) - Isomorphic Go client for PostgREST. (Now Updating)
 - [feihua/zero-admin](https://github.com/feihua/zero-admin) - 基于go-zero +Ant Design Pro的前后端分离微服务管理系统后端模块
 - [qifengzhang007/GinSkeleton](https://github.com/qifengzhang007/GinSkeleton) - 基于go语言gin框架封装的web项目骨架
@@ -1346,7 +1345,7 @@
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [jhvst/vertigo](https://github.com/jhvst/vertigo) - Blog engine in Go (golang)
 - [azer-oss/strict-request](https://github.com/azer-oss/strict-request) - Send strict HTTP Requests with Go
-- [micro/micro](https://github.com/micro/micro) - API first services platform
+- [micro/micro](https://github.com/micro/micro) - API first development platform
 - [jdkato/prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [Jeiwan/blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
@@ -1669,7 +1668,7 @@
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
 - [zhuchangwu/lawyer-lover-cloud-backend](https://github.com/zhuchangwu/lawyer-lover-cloud-backend) - 一款基于SVM算法的分布式法律助手的后端代码
 - [spring-projects/spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) - Spring Authorization Server
-- [hamibot/hamibot](https://github.com/hamibot/hamibot) - Android 平台 JavaScript 自动化工具，无需 root。
+- [hamibot/hamibot](https://github.com/hamibot/hamibot) - 安卓平台自动化工具，无需 root。
 - [kekingcn/kkFileView](https://github.com/kekingcn/kkFileView) - 基于 Spring Boot 的文件在线预览项目
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
@@ -1771,6 +1770,7 @@
 - [kromitgmbh/titra](https://github.com/kromitgmbh/titra) - titra - modern open source project time tracking for freelancers and small teams
 - [appium/appium-desktop](https://github.com/appium/appium-desktop) - Appium Server in Desktop GUIs for Mac, Windows, and Linux
 - [timdream/wordcloud2.js](https://github.com/timdream/wordcloud2.js) - Tag cloud/Wordle presentation on 2D canvas or HTML
+- [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [kkoomen/pointless](https://github.com/kkoomen/pointless) - An endless drawing canvas desktop app made with Tauri (Rust) and React 🎨 ✍️
 - [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
@@ -2894,7 +2894,6 @@
 ## Jupyter Notebook 
 
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
-- [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - A Human-in-the-Loop workflow for creating HD images from text
 - [FinMind/FinMind](https://github.com/FinMind/FinMind) - Open Data, more than 50 financial data. 提供超過 50 個金融資料(台股為主)，每天更新 https://finmind.github.io/
 - [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) - 
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
@@ -3447,6 +3446,7 @@
 - [secretflow/secretflow](https://github.com/secretflow/secretflow) - A unified framework for privacy-preserving data analysis and machine learning
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
+- [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - A Human-in-the-Loop workflow for creating HD images from text
 - [bigbrother666sh/shezhangbujianle](https://github.com/bigbrother666sh/shezhangbujianle) - 借助世界上最大的单体中文NLP大模型，我们做出了一个可以跟人类玩“剧本杀”的AI……
 - [alibaba/EasyNLP](https://github.com/alibaba/EasyNLP) - EasyNLP: A Comprehensive and Easy-to-use NLP Toolkit
 - [Shawn-Inspur/Yuan-1.0](https://github.com/Shawn-Inspur/Yuan-1.0) - Yuan 1.0 Large pretrained LM
@@ -4073,7 +4073,7 @@
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [CRED-CLUB/neopop-web](https://github.com/CRED-CLUB/neopop-web) - NeoPOP components library based on CRED's design system
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
-- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Mage is an open-source tool for building & deploying data pipelines.
+- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Mage is an open-source tool for building and running data pipelines that transform your data.
 - [fantasticit/think](https://github.com/fantasticit/think) - 云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。
 - [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance TypeScript framework for enterprise applications.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
@@ -4103,7 +4103,7 @@
 - [YaoApp/xgen](https://github.com/YaoApp/xgen) - The next generation dashboard by low-code of Yao.
 - [uber/baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 - [Tencent/tmagic-editor](https://github.com/Tencent/tmagic-editor) - 
-- [jsonhero-io/jsonhero-web](https://github.com/jsonhero-io/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
+- [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet) - A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets
 - [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - RedisInsight
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -4724,6 +4724,8 @@
 
 ## Vue 
 
+- [jdf2e/nutui-bingo](https://github.com/jdf2e/nutui-bingo) - Bingo - 基于 NutUI 的抽奖类组件
+- [jdf2e/nutui-cat](https://github.com/jdf2e/nutui-cat) - 大促组件库
 - [gz-yami/mall4cloud](https://github.com/gz-yami/mall4cloud) - ⭐️⭐️⭐️    Springcloud商城 O2O商城 小程序商城 PC商城 H5商城 APP商城 Java商城 分销商城 多用户商城 uniapp商城 微服务商城
 - [buqiyuan/vue3-antd-admin](https://github.com/buqiyuan/vue3-antd-admin) - 基于vue-cli5.x/vite2.x + vue3.x + ant-design-vue3.x + typescript hooks 的基础后台管理系统模板  RBAC的权限系统, JSON Schema动态表单,动态表格,漂亮锁屏界面
 - [jdf2e/nutui](https://github.com/jdf2e/nutui) - 京东风格的移动端 Vue2、Vue3 组件库 、支持多端小程序(A Vue.js UI Toolkit for Mobile Web)
