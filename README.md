@@ -1748,6 +1748,7 @@
 
 ## JavaScript 
 
+- [itorr/sakana](https://github.com/itorr/sakana) - 🐟「Sakana!」石蒜虚拟器
 - [paulgreg/thermomix-recipes](https://github.com/paulgreg/thermomix-recipes) - A simple jQuery mobile cookbook (dedicated for the thermomix or bimby kitchen robot)
 - [itorr/eva-title](https://github.com/itorr/eva-title) - 🐧「福音战士标题生成器」 Evangelion Title Card Generator
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
@@ -2033,7 +2034,6 @@
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [tj/node-delegates](https://github.com/tj/node-delegates) - Nodejs method and accessor delegation utility
 - [sunoj/jjb](https://github.com/sunoj/jjb) - 一个帮助你自动申请京东价格保护的chrome拓展
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook) - 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
 - [headllines/hackernews-daily](https://github.com/headllines/hackernews-daily) - Hacker News daily top 10 posts
 - [maptime-ams/geojson-3d](https://github.com/maptime-ams/geojson-3d) - GeoJSON & TopoJSON in 3D, with Three.js
@@ -3438,6 +3438,7 @@
 
 ## Python 
 
+- [t3l3machus/hoaxshell](https://github.com/t3l3machus/hoaxshell) - An unconventional Windows reverse shell, currently undetected by Microsoft Defender and various other AV solutions, solely based on http(s) traffic.
 - [rxrw/daily_morning](https://github.com/rxrw/daily_morning) - 给别人家的女朋友发早安
 - [miu200521358/3d-pose-baseline-vmd](https://github.com/miu200521358/3d-pose-baseline-vmd) - Openposeの2D人間骨格データから3D関節データを生成し、その関節データを出力します。
 - [HackAppSign/douyin-sign](https://github.com/HackAppSign/douyin-sign) - :seedling:抖音 as, cp, mas 签名算法+API协议
@@ -4065,6 +4066,9 @@
 
 ## TypeScript 
 
+- [liyupi/yuindex](https://github.com/liyupi/yuindex) - ✨ 新项目 - 极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统
+- [soketi/soketi](https://github.com/soketi/soketi) - Just another simple, fast, and resilient open-source WebSockets server. 📣
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
@@ -4320,6 +4324,7 @@
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [electron/remote](https://github.com/electron/remote) - Bridge JavaScript objects from the main process to the renderer process in Electron.
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
