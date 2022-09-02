@@ -510,7 +510,7 @@
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io
 - [why444216978/gin-api](https://github.com/why444216978/gin-api) - Go 微服务框架，同时支持 gRPC 和 HTTP，封装各种常用组件，开箱即用，专注业务。
 - [admpub/nging](https://github.com/admpub/nging) - 漂亮的Go语言通用后台管理系统，包含：计划任务 / MySQL管理 / Redis管理 / FTP管理 / SSH管理 / 服务器管理 / Caddy配置 / DDNS / FRP可视化配置 / 云存储管理 等功能。可运行于 Windows / Linux / MacOS 等主流系统平台和 树莓派 / 路由器 等ARM设备
-- [YaoApp/gou](https://github.com/YaoApp/gou) - The base framework of yao.
+- [YaoApp/gou](https://github.com/YaoApp/gou) - App engine framework
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 - [italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) - A list of remote-friendly or full-remote companies that targets Italian talents.
 - [lqqyt2423/go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy) - mitmproxy implemented with golang. 用 Golang 实现的中间人攻击（Man-in-the-middle），解析、监测、篡改 HTTP/HTTPS 流量。
@@ -4507,7 +4507,7 @@
 - [iCrawl/discord-vscode](https://github.com/iCrawl/discord-vscode) - 🖋️ Update your discord status with a rich presence
 - [vuejs/composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
-- [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's cutting edge React Native project boilerplate, along with a CLI, component/model generators, and more!
+- [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
 - [bottenderjs/messaging-apis](https://github.com/bottenderjs/messaging-apis) - Messaging APIs for multi-platform
