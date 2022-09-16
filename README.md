@@ -1476,7 +1476,7 @@
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [idubinskiy/schematyper](https://github.com/idubinskiy/schematyper) - Generates Go types based on JSON Schemas
 - [tidwall/chanx](https://github.com/tidwall/chanx) - A simple interface wrapper around a Go channel.
-- [asim/go-micro](https://github.com/asim/go-micro) - A Go microservices framework
+- [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [AplaProject/go-apla](https://github.com/AplaProject/go-apla) - A blockchain platform with a simplified programming language
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
@@ -1766,6 +1766,8 @@
 
 ## JavaScript 
 
+- [djerryz/Sheep_Sheep_Ni](https://github.com/djerryz/Sheep_Sheep_Ni) - 羊了个羊- 前端源码与接口分析
+- [george-jiang-wow/yanglegeyang](https://github.com/george-jiang-wow/yanglegeyang) - 羊了个羊在线版
 - [WTFAcademy/WTFEthers](https://github.com/WTFAcademy/WTFEthers) - 我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [bobiscool/wxDraw](https://github.com/bobiscool/wxDraw) - A lightweight canvas library which providing 2d draw for weapp  微信小程序2d动画库 😎  🐼
@@ -1861,7 +1863,7 @@
 - [arcxingye/EatKano](https://github.com/arcxingye/EatKano) - H5 Games
 - [fireship-io/web3-nft-dapp-tutorial](https://github.com/fireship-io/web3-nft-dapp-tutorial) - A simple web3 app for minting NFTs
 - [sindresorhus/normalize-url](https://github.com/sindresorhus/normalize-url) - Normalize a URL
-- [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
+- [web3/web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API
 - [NotLuksus/nft-art-generator](https://github.com/NotLuksus/nft-art-generator) - A tool to generate generative NFT art projects.
 - [vitozyf/lucky-draw](https://github.com/vitozyf/lucky-draw) - 年会抽奖程序
 - [fouber/lottery](https://github.com/fouber/lottery) - 年会抽奖程序
@@ -2573,7 +2575,7 @@
 - [creotip/vue-particles](https://github.com/creotip/vue-particles) - Vue.js component for particles backgrounds ✨
 - [GeekyAnts/vue-native-core](https://github.com/GeekyAnts/vue-native-core) - Vue Native is a framework to build cross platform native mobile apps using JavaScript
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake & DB2
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake, Oracle DB & Db2 IBM i
 - [HcySunYang/vue-design](https://github.com/HcySunYang/vue-design) - 📖 master分支：《渲染器》
 - [zhuowenli/MicroHub](https://github.com/zhuowenli/MicroHub) - 🖼 Microsoft + Github = MicroHub
 - [egoist/babel-preset-minimal](https://github.com/egoist/babel-preset-minimal) - A babel preset that produces smallest possible code.
@@ -3969,7 +3971,6 @@
 - [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [jessfraz/branch-cleanup-action](https://github.com/jessfraz/branch-cleanup-action) - A GitHub action to automatically delete the branch after a pull request has been merged.
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-- [KeKe-Li/kubernetes-tutorial](https://github.com/KeKe-Li/kubernetes-tutorial) - Running Kubernetes cluster Locally tutorial
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [electron/debian-sysroot-image-creator](https://github.com/electron/debian-sysroot-image-creator) - Scripts to create debian sysroot image for building electron
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
