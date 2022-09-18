@@ -384,6 +384,7 @@
 
 ## Dockerfile 
 
+- [BoringCat/docker-WXWork](https://github.com/BoringCat/docker-WXWork) - 用docker跑企业微信
 - [docker-library/ghost](https://github.com/docker-library/ghost) - Docker Official Image packaging for Ghost
 - [adelton/sketchup-container](https://github.com/adelton/sketchup-container) - Running SketchUp Make in a container
 - [mochat-cloud/mochat-docker](https://github.com/mochat-cloud/mochat-docker) - 🐳 The docker image offered by MoChat.
@@ -2169,7 +2170,7 @@
 - [onmyway133/IconGenerator](https://github.com/onmyway133/IconGenerator) - 🍱 A macOS app to generate app icons
 - [noble/noble](https://github.com/noble/noble) - A Node.js BLE (Bluetooth Low Energy) central module
 - [aalhaimi/electron-web-bluetooth](https://github.com/aalhaimi/electron-web-bluetooth) - 
-- [gr2m/twitter-together](https://github.com/gr2m/twitter-together) - :bird: A GitHub action to tweet from a repository
+- [twitter-together/action](https://github.com/twitter-together/action) - :bird: A GitHub action to tweet from a repository
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 - [Jannchie/Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js) - [Deprecated!] This is a data visualization project that converts historical data rankings into dynamic bar charts.
@@ -2192,7 +2193,7 @@
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [uber/manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning
 - [wendux/fly](https://github.com/wendux/fly) - :rocket: Supporting request forwarding and Promise based HTTP client for all JavaScript runtimes.
-- [vant-ui/vant-weapp](https://github.com/vant-ui/vant-weapp) - 轻量、可靠的小程序 UI 组件库
+- [youzan/vant-weapp](https://github.com/youzan/vant-weapp) - 轻量、可靠的小程序 UI 组件库
 - [dyq086/wepy-mall](https://github.com/dyq086/wepy-mall) - 微信小程序--基于wepy 商城(微店)微信小程序 欢迎学习交流
 - [jasscia/ChristmasHat](https://github.com/jasscia/ChristmasHat) - 我要圣诞帽 微信小程序
 - [http-party/node-http-proxy](https://github.com/http-party/node-http-proxy) - A full-featured http proxy for node.js
@@ -2625,7 +2626,6 @@
 - [imsun/gitment](https://github.com/imsun/gitment) - A comment system based on GitHub Issues.
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [cnodejs/egg-cnode](https://github.com/cnodejs/egg-cnode) - CNode 社区 Egg 版本
-- [substack/stream-handbook](https://github.com/substack/stream-handbook) - how to write node programs with streams
 - [electron-userland/electron-installer-dmg](https://github.com/electron-userland/electron-installer-dmg) - Create DMG installers for your electron apps using appdmg.
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [mntnr/name-your-contributors](https://github.com/mntnr/name-your-contributors) - Name your GitHub contributors; get commits, issues, and comments
@@ -3927,6 +3927,7 @@
 
 ## Shell 
 
+- [huan/docker-wxwork](https://github.com/huan/docker-wxwork) - DoWork is a Dockerized WeChat Work (盒装企业微信) PC Windows Client for Linux
 - [nivin-studio/gonivinck](https://github.com/nivin-studio/gonivinck) - 一个基于docker的go-zero运行环境。
 - [oracle/docker-images](https://github.com/oracle/docker-images) - Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -4705,7 +4706,7 @@
 - [intelligo-mn/intelligo](https://github.com/intelligo-mn/intelligo) - 🤖 Chatbot Framework for Node.js.
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [propelml/propel](https://github.com/propelml/propel) - Differential Programming in JavaScript.
-- [vant-ui/vant](https://github.com/vant-ui/vant) - Lightweight Mobile UI Components built on Vue
+- [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 - [getsentry/sentry-electron](https://github.com/getsentry/sentry-electron) - The official Sentry SDK for Electron
 - [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
