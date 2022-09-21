@@ -1769,7 +1769,7 @@
 
 ## JavaScript 
 
-- [djerryz/Sheep_Sheep_Ni](https://github.com/djerryz/Sheep_Sheep_Ni) - 羊了个羊- 前端源码与接口分析
+- [djerryz/Sheep_Sheep_Ni](https://github.com/djerryz/Sheep_Sheep_Ni) - 羊了个羊v2 crack - 前端源码与接口分析
 - [george-jiang-wow/yanglegeyang](https://github.com/george-jiang-wow/yanglegeyang) - 羊了个羊在线版
 - [WTFAcademy/WTFEthers](https://github.com/WTFAcademy/WTFEthers) - 我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
@@ -2247,7 +2247,6 @@
 - [repo-analytics/repo-analytics.github.io](https://github.com/repo-analytics/repo-analytics.github.io) - Thorough analytics for your GitHub repos
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [RuntimeTools/appmetrics-dash](https://github.com/RuntimeTools/appmetrics-dash) - A data visualizer that uses " Node Application Metrics" (appmetrics) to monitor and display Node.js application data as a html web application.
 - [RuntimeTools/appmetrics](https://github.com/RuntimeTools/appmetrics) - Node Application Metrics provides a foundational infrastructure for collecting resource and performance monitoring data for Node.js-based applications.
 - [ashtuchkin/iconv-lite](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings in pure javascript.
@@ -3470,6 +3469,11 @@
 
 ## Python 
 
+- [Liang-yc/ssq](https://github.com/Liang-yc/ssq) - 该项目用于预测双色球。（This project is dedicated to forecasting the result of welfare lottery named Union Lotto in China.）
+- [zepen/predict_Lottery_ticket](https://github.com/zepen/predict_Lottery_ticket) - 双色球彩票号码预测
+- [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to the Blender shader editor
+- [ThereforeGames/txt2mask](https://github.com/ThereforeGames/txt2mask) - Automatically create masks for Stable Diffusion inpainting using natural language.
+- [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -4529,6 +4533,7 @@
 - [github/time-elements](https://github.com/github/time-elements) - Web component extensions to the standard &lt;time&gt; element.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A headless CMS for Markdown
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [microsoft/dts-gen](https://github.com/microsoft/dts-gen) - dts-gen creates starter TypeScript definition files for any module or library.
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [ahkohd/switch-desktop](https://github.com/ahkohd/switch-desktop) - ⚡️ Keyboard-driven commands to navigate your apps faster
