@@ -750,7 +750,7 @@
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven workflow automation framework
+- [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven automation framework
 - [timescale/promscale](https://github.com/timescale/promscale) - Promscale is a unified metric and trace observability backend for Prometheus, Jaeger and OpenTelemetry built on PostgreSQL and TimescaleDB.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -1517,7 +1517,7 @@
 - [esimov/triangle](https://github.com/esimov/triangle) - Convert images to computer generated art using delaunay triangulation.
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [revel/revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
@@ -1925,7 +1925,7 @@
 - [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 - [mue/mue](https://github.com/mue/mue) - Fast, open and free-to-use new tab page for modern browsers
 - [mauricius/vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) - Vue2 Component for draggable and resizable elements.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine) - HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.
 - [react-visual-design/react-visual-design](https://github.com/react-visual-design/react-visual-design) - react 可视化搭建平台,移动端可视化编辑平台,低代码设计平台,组件复用  低代码 无代码
 - [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
@@ -3096,6 +3096,7 @@
 - [microsoft/NUWA](https://github.com/microsoft/NUWA) - A unified 3D Transformer Pipeline for visual synthesis
 - [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
 - [shadowcz007/awesome-metaverse](https://github.com/shadowcz007/awesome-metaverse) - Useful resources for creating Meta-verse
+- [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - A directory of what the Metaplex Foundation works on!
 - [outofambit/friends-and-lovers-license](https://github.com/outofambit/friends-and-lovers-license) - what if code i wrote was only for the people i love?
 - [0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming) - 音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。
@@ -3945,10 +3946,9 @@
 - [scottyhardy/docker-wine](https://github.com/scottyhardy/docker-wine) - Docker image that includes Wine and Winetricks for running Windows applications on Linux and macOS
 - [haysclark/docker-backburner](https://github.com/haysclark/docker-backburner) - Unofficial Autodesk® Backburner™ Docker container
 - [mochat-cloud/docker-compose](https://github.com/mochat-cloud/docker-compose) - 🐳 The docker compose offered by MoChat.
-- [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [lcorbasson/docker-skp2dae](https://github.com/lcorbasson/docker-skp2dae) - SketchUp (SKP) to DAE converter using Docker, WINE and ugly glue
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4, Ubuntu/Debian homeserver, or a VPS.
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker) - Dockerfile for Apache Kafka
