@@ -1504,7 +1504,7 @@
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [adtac/commento](https://github.com/adtac/commento) - A fast, bloat-free comments platform (Github mirror)
 - [marcusolsson/tui-go](https://github.com/marcusolsson/tui-go) - A UI library for terminal applications.
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 |
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #golang
 - [gomatcha/matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go.
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [tinrab/go-realtime-collaborative-drawing-app](https://github.com/tinrab/go-realtime-collaborative-drawing-app) - A simple real-time collaborative drawing app built with Go
@@ -1769,6 +1769,8 @@
 
 ## JavaScript 
 
+- [NervJS/taro-sample-weapp](https://github.com/NervJS/taro-sample-weapp) - 与小程序原生融合的示例
+- [TigerHee/taro-request](https://github.com/TigerHee/taro-request) - 对Taro.request进行封装
 - [djerryz/Sheep_Sheep_Ni](https://github.com/djerryz/Sheep_Sheep_Ni) - 羊了个羊v2 crack - 前端源码与接口分析
 - [george-jiang-wow/yanglegeyang](https://github.com/george-jiang-wow/yanglegeyang) - 羊了个羊在线版
 - [WTFAcademy/WTFEthers](https://github.com/WTFAcademy/WTFEthers) - 我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。
@@ -3917,7 +3919,7 @@
 - [Color-UI/MP-CU](https://github.com/Color-UI/MP-CU) - MP-CU, colorui3.x 微信小程序原生版
 - [eddiesigner/liebling](https://github.com/eddiesigner/liebling) - Beautiful and clean Ghost theme that is easy and comfortable to use. To get the latest version please head over the releases page 👉🏼
 - [creativetimofficial/vue-argon-dashboard](https://github.com/creativetimofficial/vue-argon-dashboard) - Vue Argon Dashboard
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, easily build with widgets! 创建在线课程，学术简历或初创网站。#OpenScience
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
@@ -4106,6 +4108,8 @@
 
 ## TypeScript 
 
+- [NervJS/taro-plugin-platform-weapp-qy](https://github.com/NervJS/taro-plugin-platform-weapp-qy) - 企业微信插件
+- [bozaigao/BusinessCard](https://github.com/bozaigao/BusinessCard) - 使用京东Taro开发的名片系统小程序
 - [Uniswap/web3-react](https://github.com/Uniswap/web3-react) - A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - Quickest way to start a new web app with full stack typesafety
 - [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
@@ -4780,6 +4784,8 @@
 
 ## Vue 
 
+- [Yill625/Taro3-Vue3-Demo](https://github.com/Yill625/Taro3-Vue3-Demo) - Taro3 使用 Vue3 进行开发
+- [b2nil/taro-ui-vue3-demo](https://github.com/b2nil/taro-ui-vue3-demo) - A demo showcase of taro-ui-vue3
 - [jdf2e/nutui-bingo](https://github.com/jdf2e/nutui-bingo) - Bingo - 基于 NutUI 的抽奖类组件
 - [jdf2e/nutui-cat](https://github.com/jdf2e/nutui-cat) - 大促组件库
 - [gz-yami/mall4cloud](https://github.com/gz-yami/mall4cloud) - ⭐️⭐️⭐️    Springcloud商城 O2O商城 小程序商城 PC商城 H5商城 APP商城 Java商城 分销商城 多用户商城 uniapp商城 微服务商城
