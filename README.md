@@ -429,6 +429,7 @@
 
 ## Go 
 
+- [a1phaboy/FastjsonScan](https://github.com/a1phaboy/FastjsonScan) - Fastjson扫描器，可识别版本、依赖库、autoType状态等。A tool to distinguish fastjson ,version and dependency
 - [kataras/rewrite](https://github.com/kataras/rewrite) - The rewrite middleware for Go. Perfect for SEO
 - [wgpsec/ENScan_GO](https://github.com/wgpsec/ENScan_GO) - 一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。
 - [lwch/natpass](https://github.com/lwch/natpass) - 🔥居家办公，远程开发神器
@@ -1769,6 +1770,7 @@
 
 ## JavaScript 
 
+- [YaoApp/demo-widget](https://github.com/YaoApp/demo-widget) - YAO Widget DEMO
 - [tobe-fe-dalao/fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3) - Vue3+Vite+Ts+Pinia+...一个快速开发vue3的模板框架
 - [NervJS/taro-sample-weapp](https://github.com/NervJS/taro-sample-weapp) - 与小程序原生融合的示例
 - [TigerHee/taro-request](https://github.com/TigerHee/taro-request) - 对Taro.request进行封装
