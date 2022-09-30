@@ -8,7 +8,6 @@
 - [AppleScript](#applescript)
 - [Assembly](#assembly)
 - [Batchfile](#batchfile)
-- [Bicep](#bicep)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -91,10 +90,6 @@
 ## Batchfile 
 
 - [chen1880/superbox](https://github.com/chen1880/superbox) - 智能快递柜，是一种联网的储物系统，该产品是由储物终端与平台管理系统组成，具备智能存件、智能取件、远程监控、信息管理、信息发布等功能，将快递公司、收件方、管理方等相关各方无缝对接，实现集中存取，指定地点存取，24小时存取，信息发布等功能，存取全程监控有效防止纠纷，快件信息得到保护，存取快件更安全，便捷。
-
-## Bicep 
-
-- [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
 
 ## C 
 
@@ -865,7 +860,7 @@
 - [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
 - [facebook/time](https://github.com/facebook/time) - Meta's Time libraries
 - [buger/jsonparser](https://github.com/buger/jsonparser) - One of the fastest alternative JSON parser for Go that does not require schema
-- [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+- [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 - [github/certstore](https://github.com/github/certstore) - Go library for using system certificate stores on macOS/Windows
@@ -3461,6 +3456,7 @@
 
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [gtworek/PSBits](https://github.com/gtworek/PSBits) - Simple (relatively) things allowing you to dig a bit deeper than usual.
+- [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
 - [AliyunContainerService/k8s-for-docker-desktop](https://github.com/AliyunContainerService/k8s-for-docker-desktop) - 为Docker Desktop for Mac/Windows开启Kubernetes和Istio。
 - [hotvulcan/Thanos.sh](https://github.com/hotvulcan/Thanos.sh) - if you are Thanos(root), this command could delete half your files randomly
 - [denoland/deno_install](https://github.com/denoland/deno_install) - Deno Binary Installer
@@ -3484,7 +3480,7 @@
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [crowsonkb/k-diffusion](https://github.com/crowsonkb/k-diffusion) - Karras et al. (2022) diffusion models for PyTorch
-- [joeyballentine/chaiNNer](https://github.com/joeyballentine/chaiNNer) - A flowchart/node-based image processing GUI aimed at making chaining image processing tasks (especially upscaling done by neural networks) easy, intuitive, and customizable.
+- [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - A flowchart/node-based image processing GUI aimed at making chaining image processing tasks (especially upscaling done by neural networks) easy, intuitive, and customizable.
 - [t3l3machus/hoaxshell](https://github.com/t3l3machus/hoaxshell) - An unconventional Windows reverse shell, currently undetected by Microsoft Defender and various other AV solutions, solely based on http(s) traffic.
 - [miu200521358/3d-pose-baseline-vmd](https://github.com/miu200521358/3d-pose-baseline-vmd) - Openposeの2D人間骨格データから3D関節データを生成し、その関節データを出力します。
 - [HackAppSign/douyin-sign](https://github.com/HackAppSign/douyin-sign) - :seedling:抖音 as, cp, mas 签名算法+API协议
