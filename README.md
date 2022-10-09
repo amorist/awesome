@@ -523,7 +523,7 @@
 - [hellojukay/dl-talebook](https://github.com/hellojukay/dl-talebook) - Downloading books from talebook server。从 talebook 服务器下载电子书。
 - [megaease/easeprobe](https://github.com/megaease/easeprobe) - A simple, standalone, and lightweight tool that can do health/status checking, written in Go.
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io
-- [why444216978/gin-api](https://github.com/why444216978/gin-api) - Go 微服务框架，同时支持 gRPC 和 HTTP，封装各种常用组件，开箱即用，专注业务。
+- [why444216978/gin-api](https://github.com/why444216978/gin-api) - Go 微服务框架，Router 基于 Gin，同时支持 gRPC 和 HTTP，封装各种常用组件，开箱即用，专注业务。
 - [admpub/nging](https://github.com/admpub/nging) - 漂亮的Go语言通用后台管理系统，包含：计划任务 / MySQL管理 / Redis管理 / FTP管理 / SSH管理 / 服务器管理 / Caddy配置 / DDNS / FRP可视化配置 / 云存储管理 等功能。可运行于 Windows / Linux / MacOS 等主流系统平台和 树莓派 / 路由器 等ARM设备
 - [YaoApp/gou](https://github.com/YaoApp/gou) - App engine framework
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
@@ -561,7 +561,7 @@
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
 - [summerblue/gohub](https://github.com/summerblue/gohub) - Gohub，以论坛 API 为主题，设计的初衷是将其打造为高性能、功能齐全的 API 框架。基于 gin, cobra, viper, zap, gorm, redis, mysql, sqlite, email, jwt
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [smallnest/rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud!
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats
@@ -1680,6 +1680,7 @@
 
 ## Java 
 
+- [iminto/hideImage](https://github.com/iminto/hideImage) - 图片隐写，应用场景看你了
 - [Fridayfive/flutter-presentation](https://github.com/Fridayfive/flutter-presentation) - 一个支持 Android端的双屏插件，开发者在双屏场景中使用flutter开发双屏的UI
 - [JackyFuu/SSM-Maven-Heima](https://github.com/JackyFuu/SSM-Maven-Heima) - 基于SSM(Spring+Springmvc+Mybatis)框架的电商小项目，使用Maven构建项目，MySQL为数据库系统，Redis的缓存服务器（并不是用的很多）。商城分为后台人员管理界面和前台处理服务器两个方面。实现了登录，邮件注册，redis缓存机制，cookie的历史记录浏览，分页浏览商品，加入购物车，提交订单等等功能。最精彩的是，如果你刚刚学完基础的SSM框架，那么你就可以跟着视频一
 - [liutaojava/litemall](https://github.com/liutaojava/litemall) - 商城后台管理系统+H5端+小程序端+api后端接口（vue、java、springboot、mysql）
@@ -2581,7 +2582,7 @@
 - [creotip/vue-particles](https://github.com/creotip/vue-particles) - Vue.js component for particles backgrounds ✨
 - [GeekyAnts/vue-native-core](https://github.com/GeekyAnts/vue-native-core) - Vue Native is a framework to build cross platform native mobile apps using JavaScript
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake, Oracle DB (v6) & Db2 for IBM i
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Typescript and Javascript, it supports PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [HcySunYang/vue-design](https://github.com/HcySunYang/vue-design) - 📖 master分支：《渲染器》
 - [zhuowenli/MicroHub](https://github.com/zhuowenli/MicroHub) - 🖼 Microsoft + Github = MicroHub
 - [egoist/babel-preset-minimal](https://github.com/egoist/babel-preset-minimal) - A babel preset that produces smallest possible code.
@@ -4696,7 +4697,7 @@
 - [electron-userland/electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [sunface/datav](https://github.com/sunface/datav) - 📊https://datav.io is a modern APM, provide observability for your business, application and infrastructure. It's also a lightweight alternative to Grafana.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [kactus-io/kactus](https://github.com/kactus-io/kactus) - :cactus: A true version control tool for designers
@@ -4744,7 +4745,7 @@
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
 - [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js) - Official Elasticsearch client library for Node.js
