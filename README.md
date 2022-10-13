@@ -598,7 +598,7 @@
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM
 - [nakagami/firebirdsql](https://github.com/nakagami/firebirdsql) - Firebird RDBMS sql driver for Go (golang)
 - [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - Hyperconverged cloud-edge native database
-- [weaveworks/weave-gitops](https://github.com/weaveworks/weave-gitops) - Weave GitOps core
+- [weaveworks/weave-gitops](https://github.com/weaveworks/weave-gitops) - Weave GitOps OSS
 - [xssed/owlcache](https://github.com/xssed/owlcache) - 🦉owlcache is a lightweight, high-performance, non-centralized, distributed Key/Value in-memory Cache written in Go. keyword : golang cache、go cache、golang nosql
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [github/smimesign](https://github.com/github/smimesign) - An S/MIME signing utility for use with Git
@@ -3196,6 +3196,7 @@
 - [xiaoski/live2d_models_collection](https://github.com/xiaoski/live2d_models_collection) - Collections of live2d models
 - [zhoubolei/introRL](https://github.com/zhoubolei/introRL) - Intro to Reinforcement Learning (强化学习纲要）
 - [SSHeRun/CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
+- [Azure/azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - The source for REST API specifications for Microsoft Azure.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
 - [fpereiro/backendlore](https://github.com/fpereiro/backendlore) - How I write backends
@@ -3877,7 +3878,7 @@
 
 ## Rust 
 
-- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍
+- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -4259,7 +4260,7 @@
 - [pankod/refine](https://github.com/pankod/refine) - Build your React-based CRUD applications, without constraints.
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
-- [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework.
+- [nuxt/framework](https://github.com/nuxt/framework) - The Intuitive Vue(3) Framework.
 - [ProjectOpenSea/opensea-js](https://github.com/ProjectOpenSea/opensea-js) - JavaScript SDK for the OpenSea marketplace. Let your users buy or sell cryptogoods on your own site!
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [wsdo/taro-kit](https://github.com/wsdo/taro-kit) - 🏆✌️taro 小程序脚手架。 特性： 封装api、redux优雅集成、生成海报类，异常日志上报。 如果能帮到你，就给个 star😊
@@ -4490,7 +4491,6 @@
 - [sugarshin/required-labels-action](https://github.com/sugarshin/required-labels-action) - A GitHub Actions that automated label checking for pull requests
 - [prevwong/craft.js](https://github.com/prevwong/craft.js) - 🚀 A React Framework for building extensible drag and drop page editors
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
-- [Azure/azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - The source for REST API specifications for Microsoft Azure.
 - [igoogolx/shadowsocks-global](https://github.com/igoogolx/shadowsocks-global) - A VPN or proxy client for Windows
 - [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
 - [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open-Source Business Management Platform (ERP/CRM/HRM)
