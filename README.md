@@ -4697,7 +4697,7 @@
 - [djyde/serlina](https://github.com/djyde/serlina) - A progressive React serverside-rendering framework.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [MoeFE/GoogleTranslate](https://github.com/MoeFE/GoogleTranslate) - 🌐 Google 翻译 Mac 客户端
-- [electron-userland/electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
+- [electron-userland/electron-forge](https://github.com/electron-userland/electron-forge) - :electron: A complete tool for building and publishing Electron applications
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [sunface/datav](https://github.com/sunface/datav) - 📊https://datav.io is a modern APM, provide observability for your business, application and infrastructure. It's also a lightweight alternative to Grafana.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
