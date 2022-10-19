@@ -4800,7 +4800,7 @@
 - [jdf2e/nutui-demo](https://github.com/jdf2e/nutui-demo) - nutui demo (vite 、vue/cli、cdn、ts)多种模式使用示例
 - [Yill625/Taro3-Vue3-Demo](https://github.com/Yill625/Taro3-Vue3-Demo) - Taro3 使用 Vue3 进行开发
 - [b2nil/taro-ui-vue3-demo](https://github.com/b2nil/taro-ui-vue3-demo) - A demo showcase of taro-ui-vue3
-- [jdf2e/nutui-bingo](https://github.com/jdf2e/nutui-bingo) - Bingo - 基于 NutUI 的抽奖类组件
+- [jdf2e/nutui-bingo](https://github.com/jdf2e/nutui-bingo) - Bingo - 基于 NutUI 的抽奖组件
 - [jdf2e/nutui-cat](https://github.com/jdf2e/nutui-cat) - 大促组件库
 - [gz-yami/mall4cloud](https://github.com/gz-yami/mall4cloud) - ⭐️⭐️⭐️    Springcloud商城 O2O商城 小程序商城 PC商城 H5商城 APP商城 Java商城 分销商城 多用户商城 uniapp商城 微服务商城
 - [buqiyuan/vue3-antd-admin](https://github.com/buqiyuan/vue3-antd-admin) - 基于vue-cli5.x/vite2.x + vue3.x + ant-design-vue3.x + typescript hooks 的基础后台管理系统模板  RBAC的权限系统, JSON Schema动态表单,动态表格,漂亮锁屏界面
