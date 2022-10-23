@@ -4799,6 +4799,7 @@
 
 ## Vue 
 
+- [nuxt/movies](https://github.com/nuxt/movies) - 🍿 A TMDB client built with Nuxt 3
 - [nihaojob/vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 基于fabric.js和Vue的图片编辑器，可自定义字体、素材、设计模板。
 - [jdf2e/nutui-demo](https://github.com/jdf2e/nutui-demo) - nutui demo (vite 、vue/cli、cdn、ts)多种模式使用示例
 - [Yill625/Taro3-Vue3-Demo](https://github.com/Yill625/Taro3-Vue3-Demo) - Taro3 使用 Vue3 进行开发
