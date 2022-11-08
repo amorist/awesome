@@ -337,7 +337,6 @@
 - [meltingice/psd.js](https://github.com/meltingice/psd.js) - A Photoshop PSD file parser for NodeJS and browsers
 - [Pagedraw/pagedraw](https://github.com/Pagedraw/pagedraw) - a UI builder for React web apps
 - [ichord/At.js](https://github.com/ichord/At.js) - Add Github like mentions autocomplete to your application.
-- [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [Teamwork/node-auto-launch](https://github.com/Teamwork/node-auto-launch) - Launch applications or executables at login (Mac, Windows, and Linux)
 - [electron/asar-require](https://github.com/electron/asar-require) - Enable "require" scripts in asar archives
 - [electron/mini-breakpad-server](https://github.com/electron/mini-breakpad-server) - Minimum breakpad crash reports collecting server
@@ -2518,6 +2517,7 @@
 - [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
 - [ruanyf/chrome-extension-demo](https://github.com/ruanyf/chrome-extension-demo) - how to create a Chrome extension
 - [cute/SketchI18N](https://github.com/cute/SketchI18N) - Sketch Internationalization Plugin
+- [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [egoist/docute](https://github.com/egoist/docute) - 📚 Effortless documentation, done right.
 - [Tencent/westore](https://github.com/Tencent/westore) - 更好的小程序项目架构
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
