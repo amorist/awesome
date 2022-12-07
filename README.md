@@ -4027,7 +4027,6 @@
 - [electron/debian-sysroot-image-creator](https://github.com/electron/debian-sysroot-image-creator) - Scripts to create debian sysroot image for building electron
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [gyuho/learn](https://github.com/gyuho/learn) - learn
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [RichardLitt/node-i18n-audit](https://github.com/RichardLitt/node-i18n-audit) - Nodejs i18n audit
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
@@ -4327,7 +4326,7 @@
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [sparrow-js/sparrow](https://github.com/sparrow-js/sparrow) - 🎉场景化低代码（LowCode）搭建工作台，实时输出源代码
-- [whyour/qinglong](https://github.com/whyour/qinglong) - 支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）
+- [whyour/qinglong](https://github.com/whyour/qinglong) - 支持python3、javaScript、shell、typescript 的定时任务管理软件（Timed task management software with python3, javaScript, shell, typescript support）
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [vakinge/jeesuite-passport](https://github.com/vakinge/jeesuite-passport) - Jeesuite-passport是面向企业级单点登录、统一认证的一站式解决方案。支持微信、企业微信、主流开放平台OAuth、Oauth2.0，JWT、SAML2.0多种认证集成模式。
 - [vueuse/motion](https://github.com/vueuse/motion) - 🤹 Vue Composables putting your components in motion
@@ -4764,6 +4763,7 @@
 - [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
 - [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
