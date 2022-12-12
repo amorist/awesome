@@ -2110,7 +2110,7 @@
 - [cassidoo/next-prismic-starter](https://github.com/cassidoo/next-prismic-starter) - 
 - [poki/three-ui](https://github.com/poki/three-ui) - UI solution for Three.js
 - [depcheck/depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies
-- [pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus) - PT 助手 Plus，为 Google Chrome 和 Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
+- [pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus) - PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
 - [ntfstool/ntfstool](https://github.com/ntfstool/ntfstool) - A ntfs tool for mac
 - [KartikChugh/Otto](https://github.com/KartikChugh/Otto) - Otto makes machine learning an intuitive, natural language experience. 🏆  Facebook AI Hackathon winner ⭐️ #1 Trending on MadeWithML.com ⭐️ #4 Trending JavaScript Project on GitHub ⭐️ #15 Trending (All
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
@@ -3139,7 +3139,7 @@
 - [xatkit-bot-platform/xatkit](https://github.com/xatkit-bot-platform/xatkit) - The simplest way to build all types of smart chatbots and digital assistants
 - [emilebosch/awesome-fediverse](https://github.com/emilebosch/awesome-fediverse) - A curated, collaborative list of awesome Fediverse resources
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
-- [amorist/free-saas-for-business](https://github.com/amorist/free-saas-for-business) - 免费SaaS帮助企业快速增长
+- [amorist/free-saas-for-business](https://github.com/amorist/free-saas-for-business) - 免费SaaS 助力企业快速增长
 - [qianguyihao/Mac-list](https://github.com/qianguyihao/Mac-list) - Mac软件清单、Mac使用技巧整理，正在不断完善中。努力做到最全。
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [guevara/read-it-later](https://github.com/guevara/read-it-later) - read it later
@@ -4227,7 +4227,7 @@
 - [Mayandev/ikea-low-price](https://github.com/Mayandev/ikea-low-price) - 🧾 Showcasing IKEA's low-priced items ｜ 宜家折扣价商品｜宜家低价好物
 - [XAMPPRocky/deploy-mdbook](https://github.com/XAMPPRocky/deploy-mdbook) - A GitHub Action to automatically build and deploy your mdbook project.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
-- [YaoApp/xgen](https://github.com/YaoApp/xgen) - The next generation low-code dashboard driven by Yao.
+- [YaoApp/xgen](https://github.com/YaoApp/xgen) - The next generation low-code dashboard of Yao.
 - [alibaba/lowcode-materials](https://github.com/alibaba/lowcode-materials) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [alibaba/lowcode-engine-ext](https://github.com/alibaba/lowcode-engine-ext) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
