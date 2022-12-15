@@ -1789,6 +1789,7 @@
 
 ## JavaScript 
 
+- [needle-tools/needle-engine-support](https://github.com/needle-tools/needle-engine-support) - Needle Engine is a web-based runtime for 3D apps. It runs on your machine for development, and can be deployed anywhere. It is flexible, extensible, and collaboration and XR come naturally. Documentat
 - [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS，支持扩展任意 APP
 - [lpbird/xcx-single-shop](https://github.com/lpbird/xcx-single-shop) - 全栈点餐小程序(单店版，包含支付，后台)
 - [ShaoGongBra/taro-design](https://github.com/ShaoGongBra/taro-design) - 基于Taro的跨端页面设计器，支持小程序、RN、h5。做到了运行时和编辑时分离。可以自定义组件用于编辑和使用。
@@ -1913,7 +1914,6 @@
 - [kovacsv/Online3DViewer](https://github.com/kovacsv/Online3DViewer) - A solution to visualize and explore 3D models in your browser.
 - [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
 - [panshak/accountill](https://github.com/panshak/accountill) - Fullstack open source Invoicing application made with MongoDB, Express, React & Nodejs (MERN)
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
 - [Beg-in/vue-babylonjs](https://github.com/Beg-in/vue-babylonjs) - A ready-to-go 3d environment for Vue.js using Babylon.js
 - [spite/THREE.MeshLine](https://github.com/spite/THREE.MeshLine) - Mesh replacement for THREE.Line
 - [douyu/juno](https://github.com/douyu/juno) - Juno 译名朱诺。这个名字来源于古罗马神话中的众神之母。它是斗鱼的微服务管理系统， 如同众神之母一样守护着所有微服务的系统。
@@ -2275,7 +2275,7 @@
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [github/relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard &lt;time&gt; element.
 - [repo-analytics/repo-analytics.github.io](https://github.com/repo-analytics/repo-analytics.github.io) - Thorough analytics for your GitHub repos
-- [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
+- [uber-archive/react-vis](https://github.com/uber-archive/react-vis) - Data Visualization Components
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [RuntimeTools/appmetrics-dash](https://github.com/RuntimeTools/appmetrics-dash) - A data visualizer that uses " Node Application Metrics" (appmetrics) to monitor and display Node.js application data as a html web application.
 - [RuntimeTools/appmetrics](https://github.com/RuntimeTools/appmetrics) - Node Application Metrics provides a foundational infrastructure for collecting resource and performance monitoring data for Node.js-based applications.
@@ -3092,6 +3092,7 @@
 
 ## Others 
 
+- [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [fighting41love/zhvoice](https://github.com/fighting41love/zhvoice) - Chinese voice corpus. 中文语音语料，语音更加清晰自然，包含8个开源数据集，3200个说话人，900小时语音，1300万字。
 - [TachibanaYoshino/AnimeGANv3](https://github.com/TachibanaYoshino/AnimeGANv3) - Use AnimeGANv3 to make your own animation works, including turning photos or videos into anime.
 - [Authing/Authing](https://github.com/Authing/Authing) - 🔥Authing - IDaaS/IAM solution that can Auth to web and mobile applications.
@@ -3660,6 +3661,7 @@
 - [munki/macadmin-scripts](https://github.com/munki/macadmin-scripts) - Scripts of possible interest to macOS admins
 - [lucasrangit/twitter-winner](https://github.com/lucasrangit/twitter-winner) - Twitter Winner
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
+- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源
 - [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) - [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
@@ -4147,7 +4149,8 @@
 
 ## TypeScript 
 
-- [shinework/photoshot](https://github.com/shinework/photoshot) - 
+- [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools.
+- [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [illacloud/illa-design](https://github.com/illacloud/illa-design) - A fully responsive UI Library for React.
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - An open-source low-code Platform for Developers.
@@ -4270,6 +4273,7 @@
 - [inkandswitch/peritext](https://github.com/inkandswitch/peritext) - A CRDT for asynchronous rich-text collaboration, where authors can work independently and then merge their changes.
 - [actions-cool/release-helper](https://github.com/actions-cool/release-helper) - 🤖 A GitHub Action that help you publish release.
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [craftzdog/react-native-animated-todo](https://github.com/craftzdog/react-native-animated-todo) - Animated ToDo app built with React Native and Reanimated v2
 - [chowa/ejyy](https://github.com/chowa/ejyy) - 「e家宜业」是一整套开源智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等主要业务。
@@ -4428,7 +4432,6 @@
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [electron/remote](https://github.com/electron/remote) - Bridge JavaScript objects from the main process to the renderer process in Electron.
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
-- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden
