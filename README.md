@@ -694,7 +694,7 @@
 - [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) - 
 - [SMerrony/aghast](https://github.com/SMerrony/aghast) - AGHAST is A Go Home Automation SysTem closely coupled with MQTT.
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated service health dashboard
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [name5566/leaf](https://github.com/name5566/leaf) - A game server framework in Go (golang)
 - [tencentyun/cos-go-sdk-v5](https://github.com/tencentyun/cos-go-sdk-v5) - 腾讯云 COS GO SDK（XML API）
 - [didi/gendry](https://github.com/didi/gendry) - a golang library for sql builder
@@ -1967,7 +1967,7 @@
 - [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 - [mue/mue](https://github.com/mue/mue) - Fast, open and free-to-use new tab page for modern browsers
 - [mauricius/vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) - Vue2 Component for draggable and resizable elements.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine) - HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.
 - [react-visual-design/react-visual-design](https://github.com/react-visual-design/react-visual-design) - react 可视化搭建平台,移动端可视化编辑平台,低代码设计平台,组件复用  低代码 无代码
 - [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
@@ -2270,7 +2270,7 @@
 - [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 - [karaggeorge/mac-screen-capture-permissions](https://github.com/karaggeorge/mac-screen-capture-permissions) - Check and request permission to capture the screen
 - [huangwei9527/quark-h5](https://github.com/huangwei9527/quark-h5) - 基于vue2 + koa2的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀、百度H5等H5制作、建站工具
-- [strapi/gatsby-source-strapi](https://github.com/strapi/gatsby-source-strapi) - Gatsby source plugin for building websites using Strapi as a data source
+- [gatsby-uc/gatsby-source-strapi](https://github.com/gatsby-uc/gatsby-source-strapi) - Gatsby source plugin for building websites using Strapi as a data source
 - [hezzze/strapi-provider-upload-oss](https://github.com/hezzze/strapi-provider-upload-oss) - A provider for strapi server to upload file to Aliyun OSS
 - [overtrue/share.js](https://github.com/overtrue/share.js) - 一键分享到微博、QQ空间、QQ好友、微信、腾讯微博、豆瓣、Facebook、Twitter、Linkedin、Google+、点点等
 - [vadimdemedes/cat-facts](https://github.com/vadimdemedes/cat-facts) - Interesting cat facts
@@ -2609,7 +2609,7 @@
 - [whoan/blog-posts](https://github.com/whoan/blog-posts) - Posts for my personal blog
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
 - [vinta/pangu.js](https://github.com/vinta/pangu.js) - Paranoid text spacing in JavaScript
-- [dntzhang/cax](https://github.com/dntzhang/cax) - Canvas 渲染引擎，兼容了小程序、小游戏和 Web
+- [dntzhang/cax](https://github.com/dntzhang/cax) - Canvas 渲染引擎，支持 SVG，兼容了小程序、小游戏和 Web
 - [salihciftci/liman](https://github.com/salihciftci/liman) - Self-hosted web application for monitoring docker.
 - [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - :computer: 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成)
 - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
@@ -3100,6 +3100,7 @@
 
 ## Others 
 
+- [aben1188/awesome-uni-app](https://github.com/aben1188/awesome-uni-app) - Awesome for uni-app！ 基于Vue.js的跨平台多端应用前端框架uni-app一站式开发资源汇总
 - [xiaolai/time-as-a-friend](https://github.com/xiaolai/time-as-a-friend) - 《把时间当作朋友》
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
@@ -5018,7 +5019,7 @@
 - [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [johnleider/vue-materials](https://github.com/johnleider/vue-materials) - Vue 2.0 and Materialize.css Components
-- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js
+- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
 
 
 ## License
