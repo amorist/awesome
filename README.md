@@ -390,7 +390,6 @@
 - [cnych/kubernetes-learning](https://github.com/cnych/kubernetes-learning) - 《从Docker到Kubernetes进阶课程》在线文档
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes 🇺🇦
 - [ianwalter/puppeteer-container](https://github.com/ianwalter/puppeteer-container) - A GitHub Action / Docker image for   Puppeteer, the Headless Chrome Node API
-- [microsoft/vscode-remote-try-go](https://github.com/microsoft/vscode-remote-try-go) - Go sample project for trying out Dev Containers
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [nodejs/code-and-learn](https://github.com/nodejs/code-and-learn) - A series of workshop sprints for Node.js.
 - [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
@@ -1138,6 +1137,7 @@
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [raviqqe/muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
 - [yuya-matsushima/go-sitemap](https://github.com/yuya-matsushima/go-sitemap) - Get sitemap.xml (or sitemapindex.xml) from URL and Generate Sitemap object.
+- [microsoft/vscode-remote-try-go](https://github.com/microsoft/vscode-remote-try-go) - Go sample project for trying out Dev Containers
 - [reugn/go-streams](https://github.com/reugn/go-streams) - A lightweight stream processing library for Go
 - [wiatingpub/MTBSystem](https://github.com/wiatingpub/MTBSystem) - 使用go-micro微服务实现的在线电影院订票系统
 - [PacktPublishing/Mastering-Go](https://github.com/PacktPublishing/Mastering-Go) - Mastering Go, published by Packt
@@ -2285,7 +2285,7 @@
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [github/relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard &lt;time&gt; element.
 - [repo-analytics/repo-analytics.github.io](https://github.com/repo-analytics/repo-analytics.github.io) - Thorough analytics for your GitHub repos
-- [uber-archive/react-vis](https://github.com/uber-archive/react-vis) - Data Visualization Components
+- [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [RuntimeTools/appmetrics-dash](https://github.com/RuntimeTools/appmetrics-dash) - A data visualizer that uses " Node Application Metrics" (appmetrics) to monitor and display Node.js application data as a html web application.
 - [RuntimeTools/appmetrics](https://github.com/RuntimeTools/appmetrics) - Node Application Metrics provides a foundational infrastructure for collecting resource and performance monitoring data for Node.js-based applications.
@@ -4249,7 +4249,7 @@
 - [Mayandev/ikea-low-price](https://github.com/Mayandev/ikea-low-price) - 🧾 Showcasing IKEA's low-priced items ｜ 宜家折扣价商品｜宜家低价好物
 - [XAMPPRocky/deploy-mdbook](https://github.com/XAMPPRocky/deploy-mdbook) - A GitHub Action to automatically build and deploy your mdbook project.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
-- [YaoApp/xgen](https://github.com/YaoApp/xgen) - The next generation low-code dashboard of Yao.
+- [YaoApp/xgen](https://github.com/YaoApp/xgen) - 10x productive low-code dashboard of Yao.
 - [alibaba/lowcode-materials](https://github.com/alibaba/lowcode-materials) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [alibaba/lowcode-engine-ext](https://github.com/alibaba/lowcode-engine-ext) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
