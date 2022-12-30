@@ -294,7 +294,6 @@
 - [apachecn/ds-ipynb-zh](https://github.com/apachecn/ds-ipynb-zh) - :book:  [译] 数据科学 IPython 笔记本
 - [egoist/logo-maker](https://github.com/egoist/logo-maker) - create a simple logo..
 - [djyde/koy](https://github.com/djyde/koy) - Markdown previewer
-- [unknwon/unknwon.io](https://github.com/unknwon/unknwon.io) - 
 - [deeplearning-ai/machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) - Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [sharecuts/website](https://github.com/sharecuts/website) - A public repository of shortcuts for the Shortcuts app
@@ -3333,7 +3332,6 @@
 - [jobbole/awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 - [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
 - [mateusz-brainhub/awesome-cto-resources](https://github.com/mateusz-brainhub/awesome-cto-resources) - :bulb: A community-curated list of awesome resources to help you grow as a CTO
-- [unknwon/wuwen.org](https://github.com/unknwon/wuwen.org) - 我的中文博客。
 - [amorist/amorist-website](https://github.com/amorist/amorist-website) - amorist.io
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [nodejs/evangelism](https://github.com/nodejs/evangelism) - Letting the world know how awesome Node.js is and how to get involved!
@@ -4171,7 +4169,7 @@
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [illacloud/illa-design](https://github.com/illacloud/illa-design) - A fully responsive UI Library for React.
-- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - An open-source low-code Platform for Developers.
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀Retool open-source alternative, with low-code UI components and support for multiple data resources.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 - [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer
 - [pocketbase/js-sdk](https://github.com/pocketbase/js-sdk) - PocketBase JavaScript SDK
