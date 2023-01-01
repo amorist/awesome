@@ -424,6 +424,8 @@
 
 ## Go 
 
+- [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
+- [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
 - [mylxsw/heimdall](https://github.com/mylxsw/heimdall) - Heimdall is a database tools specially designed for MySQL. Using it, you can directly import xlsx or csv file to database or export SQL query results to various file formats. Currently, it supports JS
 - [suyuan32/simple-admin-tools](https://github.com/suyuan32/simple-admin-tools) - A cloud-native Go microservices framework with cli tool for productivity.
