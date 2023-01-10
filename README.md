@@ -2557,7 +2557,6 @@
 - [egoist/docute](https://github.com/egoist/docute) - 📚 Effortless documentation, done right.
 - [Tencent/westore](https://github.com/Tencent/westore) - 小程序项目分层架构
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
-- [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [Algram/ytdl-webserver](https://github.com/Algram/ytdl-webserver) - 📻 Webserver for downloading youtube videos. Ready for docker.
 - [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
@@ -4181,6 +4180,7 @@
 
 ## TypeScript 
 
+- [transitive-bullshit/yt-semantic-search](https://github.com/transitive-bullshit/yt-semantic-search) - OpenAI-powered semantic search for any YouTube playlist – featuring the All-In Podcast. 💪
 - [Codennnn/Green-Wall](https://github.com/Codennnn/Green-Wall) - :white_large_square: 🟩 GitHub Contributions Graph Generator.  :octocat:
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. [WIP]
 - [chuyun/taro-plugin-canvas](https://github.com/chuyun/taro-plugin-canvas) - 基于 Taro 框架的微信小程序 canvas 绘图组件，封装了常用的操作，通过配置的方式生成分享图片
@@ -4767,6 +4767,7 @@
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [djyde/markbox](https://github.com/djyde/markbox) - Parse your code in markdown into CodeSandbox.
+- [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [wexond/browser-base](https://github.com/wexond/browser-base) - Modern and feature-rich web browser base based on Electron
 - [microsoft/reactxp](https://github.com/microsoft/reactxp) - Library for cross-platform app development.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
