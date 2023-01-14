@@ -417,7 +417,7 @@
 
 ## Erlang 
 
-- [dgiot/dgiot](https://github.com/dgiot/dgiot) - Open source platform for IoT,30 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,30分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page
+- [dgiot/dgiot](https://github.com/dgiot/dgiot) - Open source platform for iot , 30 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,30分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Pa
 
 ## FreeMarker 
 
@@ -476,7 +476,7 @@
 - [heiyeluren/xmm](https://github.com/heiyeluren/xmm) - XMM is a high performance third party memory manager for Go environments that is not affected by Gc and guarantees high performance.  XMM是一个在Go语言环境中完全自主实现的第三方内存管理库，不依赖于Go本身的任何内存管理能力，纯自主实现能够应对各种场景下大小内存
 - [nivin-studio/go-zero-mall](https://github.com/nivin-studio/go-zero-mall) - go-zero实战：让微服务Go起来
 - [disksing/sao-gen-gen](https://github.com/disksing/sao-gen-gen) - 骚话生成器生成器
-- [yangcheng-web/go-shop-b2c](https://github.com/yangcheng-web/go-shop-b2c) - 一个用Go语言写的B2C商城
+- [YangCheng0121/go-shop-b2c](https://github.com/YangCheng0121/go-shop-b2c) - 一个用Go语言写的B2C商城
 - [elazarl/goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
 - [eclipse/paho.golang](https://github.com/eclipse/paho.golang) - Go libraries
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -577,7 +577,7 @@
 - [go-laoji/wecom-go-sdk](https://github.com/go-laoji/wecom-go-sdk) - 企业微信第三方应用|自建代开发|自建应用 三合一 sdk golang版;支持服务商应用运营体系
 - [robertkrimen/godocdown](https://github.com/robertkrimen/godocdown) - Format package documentation (godoc) as GitHub friendly Markdown
 - [bytedance/go-tagexpr](https://github.com/bytedance/go-tagexpr) - An interesting go struct tag expression syntax for field validation, etc.
-- [hisyntax/auth](https://github.com/hisyntax/auth) - Easy way to get an authentication system up and running in your application with Go
+- [iqquee/auth](https://github.com/iqquee/auth) - Easy way to get an authentication system up and running in your application with Go
 - [tidwall/pretty](https://github.com/tidwall/pretty) - Efficient JSON beautifier and compactor for Go
 - [bytedance/godlp](https://github.com/bytedance/godlp) - sensitive information protection toolkit
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
@@ -950,6 +950,7 @@
 - [labstack/gommon](https://github.com/labstack/gommon) - Common packages for Go
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [anshumanbh/git-all-secrets](https://github.com/anshumanbh/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
+- [coyove/iis](https://github.com/coyove/iis) - 开源微博平台 Open source cloud powered microblog
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [golang-design/under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | Go 语言原本 | https://golang.design/under-the-hood
@@ -1622,6 +1623,7 @@
 - [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具
 - [TurboWay/big_screen](https://github.com/TurboWay/big_screen) - 数据大屏可视化
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
 - [shenailing/weChatSvg](https://github.com/shenailing/weChatSvg) - 微信文章推广使用的一些SVG动画
 - [shrekuu/svg-for-wechat-articles](https://github.com/shrekuu/svg-for-wechat-articles) - 微信图文 SVG 交互与动画
@@ -2123,7 +2125,6 @@
 - [actions/container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using https://github.com/actions/toolkit/
 - [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
 - [techreagan/youtube-clone-nodejs-api](https://github.com/techreagan/youtube-clone-nodejs-api) - VueTube is a YouTube clone built with nodejs, expressjs & mongodb. This is the RESTful API repository.
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [matchai/sponsor-verifier](https://github.com/matchai/sponsor-verifier) - Sponsor verification for stickers being sent 💌
 - [afeifeifei/douyin](https://github.com/afeifeifei/douyin) - 抖音上面的源码全在这里了！
@@ -2242,7 +2243,6 @@
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [zamhown/wear-a-mask](https://github.com/zamhown/wear-a-mask) - 😷 An SPA that uses only the front-end to perform deep-learning-based facial landmark detection on images and automatically adds breathing mask stickers.
 - [IBM/report-toolkit](https://github.com/IBM/report-toolkit) - A toolkit for consumers of Node.js diagnostic Reports
-- [coyove/iis](https://github.com/coyove/iis) - 开源微博平台 Open source cloud powered microblog
 - [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [uber/manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning
