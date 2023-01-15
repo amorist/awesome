@@ -66,7 +66,6 @@
 - [SCSS](#scss)
 - [Scala](#scala)
 - [Shell](#shell)
-- [Solidity](#solidity)
 - [Standard ML](#standard-ml)
 - [Stylus](#stylus)
 - [Svelte](#svelte)
@@ -266,6 +265,7 @@
 
 - [ayusharma/birthday](https://github.com/ayusharma/birthday) - A Happy Birthday animation design in CSS3, HTML5
 - [cidermitaina/yukari_birthday](https://github.com/cidermitaina/yukari_birthday) - よしださん、お誕生日おめでとう！
+- [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources) - A list of FREE resources to make Web3 accessible to everyone.
 - [Code-Pop/Intro-to-Vue-3](https://github.com/Code-Pop/Intro-to-Vue-3) - Code for Vue Mastery's Intro to Vue 3 course:
 - [marvelapp/devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
 - [QiShaoXuan/css_tricks](https://github.com/QiShaoXuan/css_tricks) - Some CSS tricks - 一些 CSS 常用样式
@@ -497,7 +497,7 @@
 - [honghuangdc/soybean-admin-go](https://github.com/honghuangdc/soybean-admin-go) - soybean-admin的后端服务go版
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
-- [casbin/gorm-adapter](https://github.com/casbin/gorm-adapter) - Gorm adapter for Casbin
+- [casbin/gorm-adapter](https://github.com/casbin/gorm-adapter) - GORM adapter for Casbin, see extended version of GORM Adapter Ex at: https://github.com/casbin/gorm-adapter-ex
 - [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API
@@ -597,7 +597,7 @@
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [smallnest/rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud!
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - Tool, language and decoders for working with binary data
 - [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
 - [disintegration/imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go
 - [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and ot
@@ -940,7 +940,7 @@
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React or Vue in seconds 🎲
 - [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [Allenxuxu/microservices](https://github.com/Allenxuxu/microservices) - micro 微服务实例教程，包含JWT鉴权、熔断、监控、链路追踪、健康检查、跨域等
@@ -3533,7 +3533,7 @@
 - [openai/tiktoken](https://github.com/openai/tiktoken) - 
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [kuangdd/ttskit](https://github.com/kuangdd/ttskit) - text to speech toolkit. 好用的中文语音合成工具箱，包含语音编码器、语音合成器、声码器和可视化模块。
-- [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth
+- [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [loadchange/amemv-crawler](https://github.com/loadchange/amemv-crawler) - 🙌Easily download all the videos from TikTok(amemv).下载指定的 抖音（Douyin） 号的视频,抖音爬虫
 - [Liang-yc/ssq](https://github.com/Liang-yc/ssq) - 该项目用于预测双色球。（This project is dedicated to forecasting the result of welfare lottery named Union Lotto in China.）
 - [zepen/predict_Lottery_ticket](https://github.com/zepen/predict_Lottery_ticket) - 双色球+大乐透彩票AI预测
@@ -4067,10 +4067,6 @@
 - [obihann/archey-osx](https://github.com/obihann/archey-osx) - An archey script clone for OS X
 - [viljoviitanen/setup-simple-pptp-vpn](https://github.com/viljoviitanen/setup-simple-pptp-vpn) - This is a very old repo, and a script that used to work years ago. Please find a newer vpn setup.
 
-## Solidity 
-
-- [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources) - A list of FREE resources to make Web3 accessible to everyone.
-
 ## Standard ML 
 
 - [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
@@ -4426,7 +4422,7 @@
 - [phodal/ledge](https://github.com/phodal/ledge) - Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
-- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 Golang 自托管评论系统 | A Selfhosted Comment System
+- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 Golang 自托管评论系统 | Your self-hosted comment system
 - [octokit/auth-oauth-device.js](https://github.com/octokit/auth-oauth-device.js) - GitHub OAuth Device authentication strategy for JavaScript
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
