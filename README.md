@@ -101,6 +101,7 @@
 
 ## C 
 
+- [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [hkrn/nanoem](https://github.com/hkrn/nanoem) - nanoem is an MMD (MikuMikuDance) compatible implementation and its like cross-platform application mainly built for macOS.
 - [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) - 开发内功修炼
 - [moethu/SketchUpNET](https://github.com/moethu/SketchUpNET) - SketchUp C# API - A C++/CLI API Wrapper for the Trimble(R) SketchUp(R) C API
@@ -729,6 +730,7 @@
 - [mattn/go-generics-example](https://github.com/mattn/go-generics-example) - Example code for Go generics
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
+- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 Golang 自托管评论系统 | Your self-hosted comment system
 - [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) - Prisma Client Go is an auto-generated and fully type-safe database client
 - [mattn/go-prisma-example](https://github.com/mattn/go-prisma-example) - 
 - [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
@@ -1580,6 +1582,7 @@
 
 ## HTML 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 - [fromann/heart](https://github.com/fromann/heart) - 点燃我温暖你李洵同款爱心代码，爱心跳动代码，爱心代码
 - [Kirilllive/ASCII_Art_Paint](https://github.com/Kirilllive/ASCII_Art_Paint) - The editor for ASCII-graphics, combining a graphical editor and an image to text converter. Decorate your text and surprise your readers with an original social media post or blog post using ASCII gra
@@ -2259,7 +2262,6 @@
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [muicss/sentineljs](https://github.com/muicss/sentineljs) - Detect new DOM nodes using CSS selectors (650 bytes)
-- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework
 - [concentjs/concent](https://github.com/concentjs/concent) - State management that tailored for react, it is simple, predictable, progressive and efficient.
 - [npm/ci-detect](https://github.com/npm/ci-detect) - Detect what kind of CI environment the program is in
 - [matchai/waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
@@ -3112,6 +3114,7 @@
 
 ## Others 
 
+- [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。怎么让它听你的话。
 - [aben1188/awesome-uni-app](https://github.com/aben1188/awesome-uni-app) - Awesome for uni-app！ 基于Vue.js的跨平台多端应用前端框架uni-app一站式开发资源汇总
 - [xiaolai/time-as-a-friend](https://github.com/xiaolai/time-as-a-friend) - 《把时间当作朋友》
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
@@ -3164,6 +3167,7 @@
 - [steedos/awesome-low-code](https://github.com/steedos/awesome-low-code) - Awesome Low-Code Application Platforms | 全球低代码平台开发资源大全
 - [mingdaocom/pd](https://github.com/mingdaocom/pd) - 明道云私有部署版 - 快速部署可免费使用的零代码企业应用平台（APaaS）
 - [xatkit-bot-platform/xatkit](https://github.com/xatkit-bot-platform/xatkit) - The simplest way to build all types of smart chatbots and digital assistants
+- [nuxt/framework](https://github.com/nuxt/framework) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
 - [emilebosch/awesome-fediverse](https://github.com/emilebosch/awesome-fediverse) - A curated, collaborative list of awesome Fediverse resources
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [amorist/free-saas-for-business](https://github.com/amorist/free-saas-for-business) - 免费SaaS 助力企业快速增长
@@ -3527,6 +3531,7 @@
 
 ## Python 
 
+- [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [DSP-8192/HuoZiYinShua](https://github.com/DSP-8192/HuoZiYinShua) - （鬼畜用）活字印刷生成器
 - [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings
@@ -4337,7 +4342,6 @@
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
-- [nuxt/framework](https://github.com/nuxt/framework) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
 - [ProjectOpenSea/opensea-js](https://github.com/ProjectOpenSea/opensea-js) - JavaScript SDK for the OpenSea marketplace. Let your users buy or sell cryptogoods on your own site!
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [wsdo/taro-kit](https://github.com/wsdo/taro-kit) - 🏆✌️taro 小程序脚手架。 特性： 封装api、redux优雅集成、生成海报类，异常日志上报。 如果能帮到你，就给个 star😊
@@ -4425,7 +4429,6 @@
 - [phodal/ledge](https://github.com/phodal/ledge) - Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
-- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 Golang 自托管评论系统 | Your self-hosted comment system
 - [octokit/auth-oauth-device.js](https://github.com/octokit/auth-oauth-device.js) - GitHub OAuth Device authentication strategy for JavaScript
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
@@ -4594,6 +4597,7 @@
 - [uetchy/namae](https://github.com/uetchy/namae) - ☕️ Grab a slick name for your new project
 - [crawlab-team/artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor #StandWithUkraine
 - [axetroy/deno_storage](https://github.com/axetroy/deno_storage) - implementation of localStorage and sessionStorage for Deno
 - [stack-labs/XConf](https://github.com/stack-labs/XConf) - 分布式配置中心
