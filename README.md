@@ -1815,6 +1815,7 @@
 
 ## JavaScript 
 
+- [pdparchitect/ChatGPT-Assistant](https://github.com/pdparchitect/ChatGPT-Assistant) - 
 - [dromara/electron-egg](https://github.com/dromara/electron-egg) - A simple, cross platform, enterprise desktop software development framework
 - [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generat
 - [YaoApp/yao-admin](https://github.com/YaoApp/yao-admin) - 真零代码，使用 Yao-Admin 连接数据库，你就有了一个管理后台。
@@ -3967,7 +3968,7 @@
 - [redox-os/orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit.
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -4209,7 +4210,7 @@
 - [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
 - [liyupi/yulegeyu](https://github.com/liyupi/yulegeyu) - 羊了个羊纯前端实现版【鱼了个鱼】，自定义关卡+图案+无限道具，可在线玩：https://yulegeyu.cn
 - [microsoft/react-native-dualscreen](https://github.com/microsoft/react-native-dualscreen) - React Native Dual screen module
-- [meienberger/runtipi](https://github.com/meienberger/runtipi) - ⛺️ Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
+- [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [eamesh/free-nutui](https://github.com/eamesh/free-nutui) - 基于free-core实现的Nutui跨端微页面编辑
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [MakinoharaShoko/WebGAL](https://github.com/MakinoharaShoko/WebGAL) - 全新的网页端视觉小说引擎 | A brand new web Visual Novel engine.
@@ -4589,7 +4590,7 @@
 - [RocketChat/Rocket.Chat.GitHub.Action.Notification](https://github.com/RocketChat/Rocket.Chat.GitHub.Action.Notification) - Rocket.Chat Notification for GitHub Actions :bell: :rocket:
 - [machinelearnjs/machinelearnjs](https://github.com/machinelearnjs/machinelearnjs) - Machine Learning library for the web and Node.
 - [rhysd/electron-in-page-search](https://github.com/rhysd/electron-in-page-search) - Module to introduce Electron's native in-page search avoiding pitfalls
-- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [auth0/express-jwt](https://github.com/auth0/express-jwt) - connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes
 - [umijs/umi-next](https://github.com/umijs/umi-next) - The next version of umi. (under development)
 - [alibaba/formily](https://github.com/alibaba/formily) - 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
