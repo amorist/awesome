@@ -644,7 +644,7 @@
 - [kevwan/chatbot](https://github.com/kevwan/chatbot) - A fast responsive, machine learning, conversational dialog engine for creating chat bots, written in Go.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [changkun/urlstat](https://github.com/changkun/urlstat) - 📈 URL access statistic service
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Zanzibar-Inspired Fine-Grained Permissions Database
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-Inspired Fine-Grained Permissions Database
 - [openscrm/api-server](https://github.com/openscrm/api-server) - OpenSCRM是一套基于Go和React的高质量企业微信私域流量管理系统 。遵守Apache2.0协议，全网唯一免费商用。企业微信、私域流量、SCRM。
 - [ihexxa/quickshare](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices, built with Go, React and Typescript.
 - [fogleman/ln](https://github.com/fogleman/ln) - 3D line art engine.
@@ -1526,7 +1526,6 @@
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 - [cyfdecyf/cow](https://github.com/cyfdecyf/cow) - HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
 - [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
-- [FlashBoys/go-finance](https://github.com/FlashBoys/go-finance) - :warning: Deprecrated in favor of https://github.com/piquette/finance-go
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
 - [faceair/youjumpijump](https://github.com/faceair/youjumpijump) - ⚠️⚠️⚠️ DEPRECATED
@@ -1608,7 +1607,7 @@
 - [holtzy/D3-graph-gallery](https://github.com/holtzy/D3-graph-gallery) - A collection of simple graphics made with D3.js
 - [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [bruceyanwee/text4photo](https://github.com/bruceyanwee/text4photo) - 
@@ -1819,7 +1818,7 @@
 - [dromara/electron-egg](https://github.com/dromara/electron-egg) - A simple, cross platform, enterprise desktop software development framework
 - [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generat
 - [YaoApp/yao-admin](https://github.com/YaoApp/yao-admin) - 真零代码，使用 Yao-Admin 连接数据库，你就有了一个管理后台。
-- [needle-tools/needle-engine-support](https://github.com/needle-tools/needle-engine-support) - Needle Engine is a web-based runtime for 3D apps. It runs on your machine for development, and can be deployed anywhere. It is flexible, extensible, and collaboration and XR come naturally. Documentat
+- [needle-tools/needle-engine-support](https://github.com/needle-tools/needle-engine-support) - Needle Engine is a web-based runtime for 3D apps. It runs on your machine for development, and can be deployed anywhere. It is flexible, extensible and includes networking and XR - across platforms. D
 - [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS，支持扩展任意 APP
 - [lpbird/xcx-single-shop](https://github.com/lpbird/xcx-single-shop) - 全栈点餐小程序(单店版，包含支付，后台)
 - [ShaoGongBra/taro-design](https://github.com/ShaoGongBra/taro-design) - 基于Taro的跨端页面设计器，支持小程序、RN、h5。做到了运行时和编辑时分离。可以自定义组件用于编辑和使用。
@@ -3116,6 +3115,8 @@
 
 ## Others 
 
+- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for my AI studies, writing, and product brainstorming
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - :octopus: Guide and resources for prompt engineering
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。怎么让它听你的话。
 - [aben1188/awesome-uni-app](https://github.com/aben1188/awesome-uni-app) - Awesome for uni-app！ 基于Vue.js的跨平台多端应用前端框架uni-app一站式开发资源汇总
 - [xiaolai/time-as-a-friend](https://github.com/xiaolai/time-as-a-friend) - 《把时间当作朋友》
@@ -3169,7 +3170,7 @@
 - [steedos/awesome-low-code](https://github.com/steedos/awesome-low-code) - Awesome Low-Code Application Platforms | 全球低代码平台开发资源大全
 - [mingdaocom/pd](https://github.com/mingdaocom/pd) - 明道云私有部署版 - 快速部署可免费使用的零代码企业应用平台（APaaS）
 - [xatkit-bot-platform/xatkit](https://github.com/xatkit-bot-platform/xatkit) - The simplest way to build all types of smart chatbots and digital assistants
-- [nuxt/framework](https://github.com/nuxt/framework) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
+- [nuxt/framework](https://github.com/nuxt/framework) - Old repo of Nuxt 3 framework, now on nuxt/nuxt
 - [emilebosch/awesome-fediverse](https://github.com/emilebosch/awesome-fediverse) - A curated, collaborative list of awesome Fediverse resources
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [amorist/free-saas-for-business](https://github.com/amorist/free-saas-for-business) - 免费SaaS 助力企业快速增长
@@ -3489,7 +3490,6 @@
 - [kuaifan/dootask](https://github.com/kuaifan/dootask) - DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
 - [pagekit/pagekit](https://github.com/pagekit/pagekit) - Pagekit CMS
 - [lxerxa/actionview](https://github.com/lxerxa/actionview) - An issue tracking tool based on laravel+reactjs for small and medium-sized enterprises, open-source and free, similar to Jira.
-- [uasoft-indonesia/badaso](https://github.com/uasoft-indonesia/badaso) - Laravel Vue headless CMS / admin panel / dashboard / builder / API CRUD generator, anything !
 - [zhanghuanchong/icon-workshop](https://github.com/zhanghuanchong/icon-workshop) - 图标工场 - 移动应用图标生成工具，一键生成所有尺寸的应用图标和启动图
 - [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
 - [zeromicro/goctl-swagger](https://github.com/zeromicro/goctl-swagger) - 
@@ -4184,6 +4184,8 @@
 
 ## TypeScript 
 
+- [domeccleston/dalle-2](https://github.com/domeccleston/dalle-2) - Dall-E 2 frontend using Upstash for message queue + Redis
+- [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with OpenAI and Vercel Edge Functions.
 - [transitive-bullshit/yt-semantic-search](https://github.com/transitive-bullshit/yt-semantic-search) - OpenAI-powered semantic search for any YouTube playlist – featuring the All-In Podcast. 💪
 - [Codennnn/Green-Wall](https://github.com/Codennnn/Green-Wall) - :white_large_square: 🟩 GitHub Contributions Graph Generator.  :octocat:
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. [WIP]
@@ -4929,6 +4931,7 @@
 - [hujiulong/vue-3d-model](https://github.com/hujiulong/vue-3d-model) - 📷 vue.js 3D model viewer component
 - [dongsuo/vue-data-board](https://github.com/dongsuo/vue-data-board) - A Data Analysis Board in Vue.
 - [vuejs/create-vue](https://github.com/vuejs/create-vue) - 🛠️ The recommended way to start a Vite-powered Vue project
+- [uasoft-indonesia/badaso](https://github.com/uasoft-indonesia/badaso) - Laravel Vue headless CMS / admin panel / dashboard / builder / API CRUD generator, anything !
 - [yangyuji/h5-factory](https://github.com/yangyuji/h5-factory) - h5制作，移动端专题活动页面可视化编辑
 - [gs-shop/vue-slick-carousel](https://github.com/gs-shop/vue-slick-carousel) - 🚥Vue Slick Carousel with True SSR Written for ⚡Faster Luxstay
 - [slidevjs/docs](https://github.com/slidevjs/docs) - Documentation for Slidev
