@@ -700,7 +700,6 @@
 - [brentnd/go-snowboy](https://github.com/brentnd/go-snowboy) - Go wrapper for Kitt-AI's snowboy audio detection library.
 - [xxjwxc/public](https://github.com/xxjwxc/public) - util toolkit for go.golang 通用函数包
 - [harranali/authority](https://github.com/harranali/authority) - Role Based Access Control (RBAC) with database persistence
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [marmotedu/iam](https://github.com/marmotedu/iam) - 企业级的 Go 语言实战项目：认证和授权系统（带配套课程）
 - [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [naiba/nezha](https://github.com/naiba/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
@@ -1614,6 +1613,7 @@
 - [bruceyanwee/text4photo](https://github.com/bruceyanwee/text4photo) - 
 - [mhaecal/skilline-landing-page](https://github.com/mhaecal/skilline-landing-page) - Free landing page template built on top of Tailwind CSS
 - [michelegera/tailwindcss-open-template](https://github.com/michelegera/tailwindcss-open-template) - 🛬 An implementation of the “Open” landing page template using Tailwind CSS Boilerplate.
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [ganlanyuan/tiny-slider](https://github.com/ganlanyuan/tiny-slider) - Vanilla javascript slider for all purposes.
 - [brucewar/svg-tutorial](https://github.com/brucewar/svg-tutorial) - SVG教程的翻译版 - http://brucewar.gitbooks.io/svg-tutorial
 - [jasonlong/jasonlong](https://github.com/jasonlong/jasonlong) - 
@@ -2301,7 +2301,7 @@
 - [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
 - [dev-mastery/comments-api](https://github.com/dev-mastery/comments-api) - 
-- [artf/grapesjs-typed](https://github.com/artf/grapesjs-typed) - GrapesJS Typed component made by wrapping Typed.js library
+- [GrapesJS/components-typed](https://github.com/GrapesJS/components-typed) - GrapesJS Typed component made by wrapping Typed.js library
 - [Wicklets/wick-editor](https://github.com/Wicklets/wick-editor) - A free and open-source tool for creating games, animations and everything in-between!
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [github/relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard &lt;time&gt; element.
@@ -2322,7 +2322,7 @@
 - [LinusU/node-appdmg](https://github.com/LinusU/node-appdmg) - 💾 Generate your app dmgs
 - [chrisvfritz/prerender-spa-plugin](https://github.com/chrisvfritz/prerender-spa-plugin) - Prerenders static HTML in a single-page application.
 - [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
-- [artf/grapesjs-cli](https://github.com/artf/grapesjs-cli) - GrapesJS CLI helper for the development
+- [GrapesJS/cli](https://github.com/GrapesJS/cli) - GrapesJS CLI helper for the development
 - [signmeup/signmeup](https://github.com/signmeup/signmeup) - Real-time application to sign up for and manage TA hours.
 - [nodejs/webcrypto](https://github.com/nodejs/webcrypto) - This repository has been archived. The WebCrypto API has been implemented in recent versions of Node.js and does not require additional packages.
 - [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and ca
@@ -2423,7 +2423,7 @@
 - [chvin/react-tetris](https://github.com/chvin/react-tetris) - Use React, Redux, Immutable to code Tetris. 🎮
 - [mikolajdobrucki/ikonate](https://github.com/mikolajdobrucki/ikonate) - Fully customisable & accessible vector icons
 - [mattdesl/canvas-sketch](https://github.com/mattdesl/canvas-sketch) - [beta] A framework for making generative artwork in JavaScript and the browser.
-- [artf/grapesjs-plugin-ckeditor](https://github.com/artf/grapesjs-plugin-ckeditor) - This plugin replaces the default Rich Text Editor with the one from CKEditor
+- [GrapesJS/ckeditor](https://github.com/GrapesJS/ckeditor) - This plugin replaces the default Rich Text Editor with the one from CKEditor
 - [estools/escodegen](https://github.com/estools/escodegen) - ECMAScript code generator
 - [mykolaharmash/hyntax](https://github.com/mykolaharmash/hyntax) - Straightforward HTML parser for JavaScript
 - [andrejewski/himalaya](https://github.com/andrejewski/himalaya) - JavaScript HTML to JSON Parser
@@ -4777,7 +4777,7 @@
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [djyde/markbox](https://github.com/djyde/markbox) - Parse your code in markdown into CodeSandbox.
-- [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
+- [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [wexond/browser-base](https://github.com/wexond/browser-base) - Modern and feature-rich web browser base based on Electron
 - [microsoft/reactxp](https://github.com/microsoft/reactxp) - Library for cross-platform app development.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
