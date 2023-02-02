@@ -4957,7 +4957,7 @@
 - [Leo-lin214/marketing-components](https://github.com/Leo-lin214/marketing-components) - 营销组件的积累和学习
 - [gupei2015/marketing-management-web](https://github.com/gupei2015/marketing-management-web) - 优惠券营销后台管理前端工程
 - [vkcyan/activity-YD](https://github.com/vkcyan/activity-YD) - 该版本停止维护，有兴趣的朋友请访问易动v3版本
-- [newbee-ltd/newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - 🔥 🎉Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城 Vue3 版本，技术栈为 Vue3 + Vue-Router4 + Vuex4 + Vant3。
+- [newbee-ltd/newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - 🔥 🎉Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城 Vue3.2 版本，技术栈为 Vue3.2 + Vue-Router4.x + Pinia + Vant4.x。
 - [zhenorzz/goploy](https://github.com/zhenorzz/goploy) - Devops项目代码部署发布平台，Deploy, CI/CD, Terminal, Sftp, Server monitor, Crontab Manager.
 - [x2rr/funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
 - [zwpro/redCover](https://github.com/zwpro/redCover) - 微信红包封面领取，用户观看视频广告或者邀请用户可获取微信红包序列号
