@@ -730,7 +730,7 @@
 - [mattn/go-generics-example](https://github.com/mattn/go-generics-example) - Example code for Go generics
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
-- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 Golang 自托管评论系统 | Your self-hosted comment system
+- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 自托管评论系统 | Your self-hosted comment system
 - [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) - Prisma Client Go is an auto-generated and fully type-safe database client
 - [mattn/go-prisma-example](https://github.com/mattn/go-prisma-example) - 
 - [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
@@ -977,7 +977,7 @@
 - [bfenetworks/bfe](https://github.com/bfenetworks/bfe) - A modern layer 7 load balancer from baidu
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [golang/mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
-- [plh2/leetcode](https://github.com/plh2/leetcode) - ✍
+- [plh97/leetcode](https://github.com/plh97/leetcode) - ✍
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [tj/staticgen](https://github.com/tj/staticgen) - Static website generator that lets you use HTTP servers and frameworks you already know
 - [golang/tour](https://github.com/golang/tour) - [mirror] A Tour of Go
@@ -4340,7 +4340,7 @@
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
 - [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
-- [modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js) - The meta-framework suite designed from scratch for frontend-focused modern web development.
+- [modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js) - The meta-framework designed for modern web development.
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,300+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any De
 - [troisjs/trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
 - [BabylonJS/Editor](https://github.com/BabylonJS/Editor) - Community managed visual editor for Babylon.js
@@ -4827,7 +4827,7 @@
 - [intelligo-mn/intelligo](https://github.com/intelligo-mn/intelligo) - 🤖 Chatbot Framework for Node.js.
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [propelml/propel](https://github.com/propelml/propel) - Differential Programming in JavaScript.
-- [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
+- [youzan/vant](https://github.com/youzan/vant) - A lightweight, customizable Vue UI library for mobile web apps.
 - [getsentry/sentry-electron](https://github.com/getsentry/sentry-electron) - The official Sentry SDK for Electron
 - [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
