@@ -276,6 +276,7 @@
 - [developedbyed/glass-website](https://github.com/developedbyed/glass-website) - 
 - [ymm-tech/gods-pen-admin](https://github.com/ymm-tech/gods-pen-admin) - 码良管理后台项目
 - [elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) - Replacement icons for popular apps in the style of macOS Big Sur
+- [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
 - [elitistsnob/typora-cobalt-theme](https://github.com/elitistsnob/typora-cobalt-theme) - A dark theme for Typora with enhanced UI
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
@@ -442,7 +443,7 @@
 - [mylxsw/heimdall](https://github.com/mylxsw/heimdall) - Heimdall is a tool to perform import, export, direct SQL query and format conversion on excel files. Currently supports json, yaml, markdown, csv, xlsx, html, sql ...
 - [suyuan32/simple-admin-tools](https://github.com/suyuan32/simple-admin-tools) - A tool based on go zero with more features for quick developmemt. 一个基于Go zero优化的工具，提供完善的ent支持和前后端代码生成。
 - [octo-cli/octo-cli](https://github.com/octo-cli/octo-cli) - A command line client covering 100% of GitHub's restful APIs.
-- [otiai10/openaigo](https://github.com/otiai10/openaigo) - OpenAI GPT-3 API Client for Go
+- [otiai10/openaigo](https://github.com/otiai10/openaigo) - OpenAI GPT-3 API Client for Go || chatgpt go library
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [go-gorm/datatypes](https://github.com/go-gorm/datatypes) - GORM Customized Data Types Collection
 - [newbee-ltd/newbee-mall-api-go](https://github.com/newbee-ltd/newbee-mall-api-go) - 本项目为新蜂商城的 go 语言版本，技术栈为 Go + Gin，主要面向服务端开发人员。
@@ -1624,7 +1625,6 @@
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具
 - [TurboWay/big_screen](https://github.com/TurboWay/big_screen) - 数据大屏可视化
-- [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
 - [shenailing/weChatSvg](https://github.com/shenailing/weChatSvg) - 微信文章推广使用的一些SVG动画
@@ -1716,7 +1716,7 @@
 
 ## Java 
 
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift 等语言。
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。
 - [newbee-ltd/newbee-mall-cloud](https://github.com/newbee-ltd/newbee-mall-cloud) - 🔥 🎉newbee-mall-cloud 项目是新蜂商城 newbee-mall 项目的微服务版本，一款基于 Spring Cloud Alibaba + Nacos + Sentinel + Seata + Spring Cloud Gateway + OpenFeign 等技术的大型微服务实战项目。
 - [xenv/S-mall-ssm](https://github.com/xenv/S-mall-ssm) - 小小商城系统，JavaWEB项目，基于SSM，仿天猫页面，功能齐全，实现了自动处理关联查询的通用Mapper、抽象 BaseService 类、注解鉴权、参数注解校验等
 - [codingtalk/tacomall](https://github.com/codingtalk/tacomall) - 🌮塔可商城, 一个基于springboot+uniapp+vue3技术栈开发的开源跨平台小程序、管理后台，后端服务的项目，它内置提供了会员分销， 区域代理， 商品零售等功能的新零售电商系统。
