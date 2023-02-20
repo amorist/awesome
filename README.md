@@ -1740,7 +1740,6 @@
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 - [Joolun/JooLun-wx](https://github.com/Joolun/JooLun-wx) - JooLun微信商城，Java + SpringBoot + Maven + Swagger + Mybatis Plus + Redis + Vue + elementUI，微信公众号开发、小程序商城、微信支付、订单管理；商业版还有微服务、多租户Sass、Uniapp商城、小程序直播、多规格SKU、拼团、砍价、商户管理、 秒杀、优惠券、积分、多店铺、商城拖拽装修、服务商收款等功能
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
 - [apache/rocketmq](https://github.com/apache/rocketmq) - Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
@@ -1815,6 +1814,7 @@
 
 ## JavaScript 
 
+- [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A ChatGPT implementation with support for Bing's GPT-4 version of ChatGPT, plus the official ChatGPT model via OpenAI's API. Available as a Node.js module, REST API server, and CLI app.
 - [memochou1993/gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 - [tundeph/rev-mobile-app](https://github.com/tundeph/rev-mobile-app) - Tasks mobile apps with React Native
 - [TheAppleTucker/backend-GPT](https://github.com/TheAppleTucker/backend-GPT) - 
@@ -1856,6 +1856,7 @@
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [maintainers/invite-automation](https://github.com/maintainers/invite-automation) - Instructions repo to join the Maintainers Organization
 - [PaulRBerg/create-eth-app](https://github.com/PaulRBerg/create-eth-app) - Create Ethereum-powered apps with one command
+- [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [binance/binance-connector-node](https://github.com/binance/binance-connector-node) - A simple connector to Binance Public API
 - [timqian/sideproject.guide](https://github.com/timqian/sideproject.guide) - Notes on how to build side projects
@@ -2979,7 +2980,6 @@
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [carefree0910/carefree-creator](https://github.com/carefree0910/carefree-creator) - AI magics meet Infinite draw board.
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
-- [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
 - [FinMind/FinMind](https://github.com/FinMind/FinMind) - Open Data, more than 50 financial data. 提供超過 50 個金融資料(台股為主)，每天更新 https://finmind.github.io/
 - [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) - 
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
@@ -3120,6 +3120,7 @@
 
 ## Others 
 
+- [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
 - [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书
 - [apachecn/ai-books-part1](https://github.com/apachecn/ai-books-part1) - :books: AI 电子书（一）
 - [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for lspace.swyx.io writing, and product brainstorming, but has cleaned up canonical references under the /R
@@ -3644,6 +3645,7 @@
 - [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [obsei/obsei](https://github.com/obsei/obsei) - Obsei is a low code AI powered automation tool. It can be used in various business flows like social listening, AI based alerting, brand image analysis, comparative study and more .
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
 - [jeffknupp/sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database. No code required!
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
@@ -4193,6 +4195,7 @@
 
 ## TypeScript 
 
+- [cfortuner/promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀
 - [openai/openai-node](https://github.com/openai/openai-node) - Node.js library for the OpenAI API
 - [shengxinjing/email-helper](https://github.com/shengxinjing/email-helper) - Generate your business emails in seconds (by OpenAI)
 - [forrestchang/readpilot](https://github.com/forrestchang/readpilot) - Read Pilot analyzes online articles and generate Q&A cards for you. Powered by OpenAI & Next.js.
@@ -4338,7 +4341,7 @@
 - [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice) - Immersive virtual office built with Phaser, React, Redux, PeerJS, and Colyseus.
 - [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.
 - [zenghongtu/PPet](https://github.com/zenghongtu/PPet) - 👻在你的桌面放一个萌妹子，多一点乐趣😏~（支持Mac、Win和Linux）
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker) - A library to display an interactive editor for any graph-like data.
 - [arco-design/arco-design-vue](https://github.com/arco-design/arco-design-vue) - A Vue.js 3 UI Library based on Arco Design
 - [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library based on Arco Design
@@ -4962,7 +4965,7 @@
 - [Summer-Lin/vue-wechat-menu](https://github.com/Summer-Lin/vue-wechat-menu) - 微信公众号菜单配置
 - [Leo-lin214/marketing-components](https://github.com/Leo-lin214/marketing-components) - 营销组件的积累和学习
 - [gupei2015/marketing-management-web](https://github.com/gupei2015/marketing-management-web) - 优惠券营销后台管理前端工程
-- [bluedancers/activity-YD](https://github.com/bluedancers/activity-YD) - 该版本停止维护，有兴趣的朋友请访问易动v3版本
+- [BlueDancers/activity-YD](https://github.com/BlueDancers/activity-YD) - 该版本停止维护，有兴趣的朋友请访问易动v3版本
 - [newbee-ltd/newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - 🔥 🎉Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城 Vue3.2 版本，技术栈为 Vue3.2 + Vue-Router4.x + Pinia + Vant4.x。
 - [zhenorzz/goploy](https://github.com/zhenorzz/goploy) - Devops项目代码部署发布平台，Deploy, CI/CD, Terminal, Sftp, Server monitor, Crontab Manager.
 - [x2rr/funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
