@@ -87,6 +87,7 @@
 
 ## Astro 
 
+- [egoist/website](https://github.com/egoist/website) - EGOIST's homepage.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## Batchfile 
@@ -501,7 +502,7 @@
 - [snowlyg/iris-admin](https://github.com/snowlyg/iris-admin) - Web admin  for iris-go framework
 - [honghuangdc/soybean-admin-go](https://github.com/honghuangdc/soybean-admin-go) - soybean-admin的后端服务go版
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
-- [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
+- [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥An artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
 - [casbin/gorm-adapter](https://github.com/casbin/gorm-adapter) - GORM adapter for Casbin, see extended version of GORM Adapter Ex at: https://github.com/casbin/gorm-adapter-ex
 - [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
@@ -1844,6 +1845,7 @@
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [bobiscool/wxDraw](https://github.com/bobiscool/wxDraw) - A lightweight canvas library which providing 2d draw for weapp  微信小程序2d动画库 😎  🐼
 - [pixijs/animate](https://github.com/pixijs/animate) - PixiJS runtime library for content from Adobe Animate CC
+- [MakinoharaShoko/WebGAL](https://github.com/MakinoharaShoko/WebGAL) - 全新的网页端视觉小说引擎 | A brand new web Visual Novel engine.
 - [amorist/happy-birthday](https://github.com/amorist/happy-birthday) - Wish your friend/loved-ones happy birthday in a nerdy way.
 - [AnshumanMahato/Happy-Birthday-Card](https://github.com/AnshumanMahato/Happy-Birthday-Card) - This is a web based interactive birthday card.
 - [itorr/sakana](https://github.com/itorr/sakana) - 🐟「Sakana!」石蒜模拟器
@@ -1979,7 +1981,7 @@
 - [saltcorn/saltcorn](https://github.com/saltcorn/saltcorn) - Free and open source no-code application builder
 - [grouparoo/grouparoo](https://github.com/grouparoo/grouparoo) - 🦘 The Grouparoo Monorepo - open source customer data sync framework
 - [ovineio/ovine](https://github.com/ovineio/ovine) - Build entirety admin system ui blazing fast with json.
-- [steedos/steedos-platform](https://github.com/steedos/steedos-platform) - 华炎魔方低代码平台：可视化开发 + 元数据驱动 + nodejs + amis /  Enterprise Low Code DevOps Platform, Open source alterative to Salesforce
+- [steedos/steedos-platform](https://github.com/steedos/steedos-platform) - Enterprise Low Code DevOps Platform, Open source alterative to Salesforce DX / 华炎魔方低代码平台：可视化开发 + 元数据同步 + nodejs + amis
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [bxm0927/canvas-special](https://github.com/bxm0927/canvas-special) - :octocat::alien::star2:超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等。
@@ -2977,7 +2979,7 @@
 
 ## Jupyter Notebook 
 
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - :octopus: Guides, papers, and resources for prompt engineering
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - :octopus: Guides, papers, lecture, and resources for prompt engineering
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [carefree0910/carefree-creator](https://github.com/carefree0910/carefree-creator) - AI magics meet Infinite draw board.
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
@@ -3122,7 +3124,6 @@
 ## Others 
 
 - [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
-- [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书
 - [apachecn/ai-books-part1](https://github.com/apachecn/ai-books-part1) - :books: AI 电子书（一）
 - [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for lspace.swyx.io writing, and product brainstorming, but has cleaned up canonical references under the /R
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
@@ -3959,6 +3960,7 @@
 
 ## Rust 
 
+- [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -4231,7 +4233,6 @@
 - [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [eamesh/free-nutui](https://github.com/eamesh/free-nutui) - 基于free-core实现的Nutui跨端微页面编辑
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
-- [MakinoharaShoko/WebGAL](https://github.com/MakinoharaShoko/WebGAL) - 全新的网页端视觉小说引擎 | A brand new web Visual Novel engine.
 - [liyupi/yuindex](https://github.com/liyupi/yuindex) - ✨ 新项目 - 极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统
 - [soketi/soketi](https://github.com/soketi/soketi) - Just another simple, fast, and resilient open-source WebSockets server. 📣
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
@@ -4576,7 +4577,6 @@
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [MichalLytek/type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 - [ream/ream](https://github.com/ream/ream) - A Vue 3 framework, powered by Vite.
-- [egoist/website](https://github.com/egoist/website) - EGOIST's homepage.
 - [refined-github/github-url-detection](https://github.com/refined-github/github-url-detection) - Which GitHub page are you on? Is it an issue? Is it a list? Perfect for your WebExtension or userscript.
 - [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
 - [cteamx/Thief-Book-VSCode](https://github.com/cteamx/Thief-Book-VSCode) - VScode 上一款真正的摸鱼插件
@@ -4891,7 +4891,6 @@
 - [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
-- [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 
 ## Vue 
 
