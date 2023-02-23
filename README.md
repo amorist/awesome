@@ -1845,7 +1845,6 @@
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [bobiscool/wxDraw](https://github.com/bobiscool/wxDraw) - A lightweight canvas library which providing 2d draw for weapp  微信小程序2d动画库 😎  🐼
 - [pixijs/animate](https://github.com/pixijs/animate) - PixiJS runtime library for content from Adobe Animate CC
-- [MakinoharaShoko/WebGAL](https://github.com/MakinoharaShoko/WebGAL) - 全新的网页端视觉小说引擎 | A brand new web Visual Novel engine.
 - [amorist/happy-birthday](https://github.com/amorist/happy-birthday) - Wish your friend/loved-ones happy birthday in a nerdy way.
 - [AnshumanMahato/Happy-Birthday-Card](https://github.com/AnshumanMahato/Happy-Birthday-Card) - This is a web based interactive birthday card.
 - [itorr/sakana](https://github.com/itorr/sakana) - 🐟「Sakana!」石蒜模拟器
@@ -2281,7 +2280,6 @@
 - [blocks/blocks](https://github.com/blocks/blocks) - A JSX-based page builder for creating beautiful websites without writing code
 - [cristianbote/goober](https://github.com/cristianbote/goober) - 🥜 goober, a less than 1KB 🎉  css-in-js alternative with a familiar API
 - [dfcook/vue-webpack4-template](https://github.com/dfcook/vue-webpack4-template) - VueJs template using Webpack 4
-- [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
 - [KieSun/Dream](https://github.com/KieSun/Dream) - 我是 yck，✍️ 这里是写博客以及记录学习的地方
 - [ryanseddon/react-frame-component](https://github.com/ryanseddon/react-frame-component) - Render your React app to an iFrame
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
@@ -2482,7 +2480,6 @@
 - [lexfridman/deeptraffic](https://github.com/lexfridman/deeptraffic) - DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series.
 - [denoland/registry](https://github.com/denoland/registry) - 
 - [apollographql/apollo](https://github.com/apollographql/apollo) - :rocket: Open source tools for GraphQL. Central repo for discussion.
-- [denoland/deno_std](https://github.com/denoland/deno_std) - Deno standard library
 - [dwyl/learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) - :closed_lock_with_key: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -3960,7 +3957,7 @@
 
 ## Rust 
 
-- [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书
+- [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -4233,6 +4230,7 @@
 - [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [eamesh/free-nutui](https://github.com/eamesh/free-nutui) - 基于free-core实现的Nutui跨端微页面编辑
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
+- [MakinoharaShoko/WebGAL](https://github.com/MakinoharaShoko/WebGAL) - 全新的网页端视觉小说引擎 | A brand new web Visual Novel engine.
 - [liyupi/yuindex](https://github.com/liyupi/yuindex) - ✨ 新项目 - 极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统
 - [soketi/soketi](https://github.com/soketi/soketi) - Just another simple, fast, and resilient open-source WebSockets server. 📣
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
@@ -4624,6 +4622,7 @@
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
 - [jeffrafter/sign-action](https://github.com/jeffrafter/sign-action) - A GitHub Action which allows users to reply to an issue with a comment to sign a petition.
+- [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
 - [expo/expo-cli](https://github.com/expo/expo-cli) - Tools for creating, running, and deploying universal Expo and React Native apps
 - [mui/material-ui-pickers](https://github.com/mui/material-ui-pickers) - Date & Time pickers for Material UI (support from v1 to v4)
 - [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
@@ -4764,6 +4763,7 @@
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 - [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
+- [denoland/deno_std](https://github.com/denoland/deno_std) - Deno standard library
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
@@ -4979,7 +4979,7 @@
 - [niefy/wx-client](https://github.com/niefy/wx-client) - 微信公众号接口wx-api前端示例项目，包含微信登录、微信分享、CMS文章示例功能
 - [iamdarcy/hioshop-admin](https://github.com/iamdarcy/hioshop-admin) - 海风小店,开源商城,微信小程序商城管理后台,后台管理,VUE
 - [hinesboy/mavonEditor](https://github.com/hinesboy/mavonEditor) - mavonEditor - A markdown editor based on Vue that supports a variety of personalized features
-- [crmeb/CRMEB](https://github.com/crmeb/CRMEB) - 🔥🔥🔥 CRMEB打通版v4免费开源商城系统，uni-app+thinkphp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、可视化设置，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议
+- [crmeb/CRMEB](https://github.com/crmeb/CRMEB) - 🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议
 - [niefy/wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
 - [rowanwins/vue-dropzone](https://github.com/rowanwins/vue-dropzone) - A Vue.js component for Dropzone.js - a drag’n’drop file uploads utility with image previews
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
