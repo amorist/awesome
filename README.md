@@ -263,6 +263,7 @@
 
 ## CSS 
 
+- [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - 免费 Prompt Engineering 教程
 - [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui) - Clean, modern and beautiful Tailwind CSS components.
 - [ayusharma/birthday](https://github.com/ayusharma/birthday) - A Happy Birthday animation design in CSS3, HTML5
 - [cidermitaina/yukari_birthday](https://github.com/cidermitaina/yukari_birthday) - よしださん、お誕生日おめでとう！
@@ -368,6 +369,7 @@
 
 ## Dart 
 
+- [DuanJiaNing/makeaplan_public](https://github.com/DuanJiaNing/makeaplan_public) - 【制定一个计划】是一个目标规划应用，通过最直接，最清晰的方式帮助你记录和追踪自己的计划，辅助你达成自己的目标。使用 Golang+gRPC+Flutter 开发。
 - [cfug/dio](https://github.com/cfug/dio) - A powerful HTTP package for Dart/Flutter, which supports Global settings, Interceptors, FormData, Aborting and canceling a request, Files uploading and downloading, Requests timeout, Custom adapters, 
 - [fzyzcjy/flutter_smooth](https://github.com/fzyzcjy/flutter_smooth) - Achieve ~60 FPS, no matter how heavy the tree is to build/layout
 - [Lanweijun/flutter_serial_port](https://github.com/Lanweijun/flutter_serial_port) - flutter  安卓读取串口，串口通信
@@ -3566,6 +3568,8 @@
 
 ## Python 
 
+- [hwchase17/chat-your-data](https://github.com/hwchase17/chat-your-data) - 
+- [hwchase17/chat-langchain](https://github.com/hwchase17/chat-langchain) - 
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [git-cloner/codegen](https://github.com/git-cloner/codegen) - Salesforce codegen with web server
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
@@ -3587,7 +3591,7 @@
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [DSP-8192/HuoZiYinShua](https://github.com/DSP-8192/HuoZiYinShua) - （鬼畜用）活字印刷生成器
 - [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings
-- [openai/tiktoken](https://github.com/openai/tiktoken) - 
+- [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [kuangdd/ttskit](https://github.com/kuangdd/ttskit) - text to speech toolkit. 好用的中文语音合成工具箱，包含语音编码器、语音合成器、声码器和可视化模块。
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
@@ -4234,6 +4238,9 @@
 
 ## TypeScript 
 
+- [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) - 
+- [yetone/openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+- [prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt) - ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.  ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。
 - [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) - A demo repo based on OpenAI API (gpt-3.5-turbo)
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [mckaywrigley/paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt) - AI search & chat for all of Paul Graham’s essays.
@@ -4393,7 +4400,7 @@
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
-- [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - A Progressive React Framework for modern web development.
+- [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework, a npm package solution and a documentation site solution.
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,300+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any De
 - [troisjs/trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
 - [BabylonJS/Editor](https://github.com/BabylonJS/Editor) - Community managed visual editor for Babylon.js
@@ -4470,7 +4477,7 @@
 - [egoist/usermatters](https://github.com/egoist/usermatters) - User Matters helps you collect customer feedbacks effortlessly.
 - [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 - [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
-- [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! 🔟🔼6️⃣
+- [aidenybai/million](https://github.com/aidenybai/million) - 🔟🔼6️⃣ An extremely fast virtual DOM that makes React up to 70% faster!
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 - [dfinity/cancan](https://github.com/dfinity/cancan) - A scalable video sharing service.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
