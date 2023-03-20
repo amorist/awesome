@@ -2989,7 +2989,7 @@
 - [phodal/oculus-nodejs-threejs-example](https://github.com/phodal/oculus-nodejs-threejs-example) - Oculus  + Node.js  + Three.js 打造VR世界
 - [jubolin/jubo](https://github.com/jubolin/jubo) - A data-driven and self-learning IoT gateway.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [stefanerickson/covervid](https://github.com/stefanerickson/covervid) - Make your HTML5 video behave like a background cover image with this lightweight Javascript plugin / jQuery extension
 - [cykod/Quintus](https://github.com/cykod/Quintus) - HTML5 Game Engine
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
@@ -3578,6 +3578,8 @@
 
 ## Python 
 
+- [replicate/controlnet](https://github.com/replicate/controlnet) - Let us control diffusion models
+- [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 - [pkhungurn/talking-head-anime-demo](https://github.com/pkhungurn/talking-head-anime-demo) - Demo for the "Talking Head Anime from a Single Image."
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers.
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.
@@ -4259,6 +4261,7 @@
 
 ## TypeScript 
 
+- [gannonh/gpt3.5-turbo-pgvector](https://github.com/gannonh/gpt3.5-turbo-pgvector) - ChatGTP (gpt3.5-turbo) starter app
 - [lvwzhen/teach-anything](https://github.com/lvwzhen/teach-anything) - Teach any questions in seconds (by OpenAI)
 - [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Powered by OpenAI API (gpt-3.5-turbo) and Vercel
 - [ZhUyU1997/open-pose-editor](https://github.com/ZhUyU1997/open-pose-editor) - online 3d openpose editor for stable diffusion and controlnet
@@ -4884,7 +4887,7 @@
 - [MoeFE/GoogleTranslate](https://github.com/MoeFE/GoogleTranslate) - 🌐 Google 翻译 Mac 客户端
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [ObserveAPM/observe](https://github.com/ObserveAPM/observe) - Observe apm is a lightweight observability platform that provides fully observability for your business and infrastructure. Observe UI is also an alternative to Grafana, but only target Prometheus and
+- [ObserveAPM/observe](https://github.com/ObserveAPM/observe) - Observe is a lightweight observability and APM platform that provides fully observability for your business and infrastructure. Observe UI is also an better alternative to Grafana, but only target Pro
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
