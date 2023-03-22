@@ -104,7 +104,6 @@
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [hkrn/nanoem](https://github.com/hkrn/nanoem) - nanoem is an MMD (MikuMikuDance) compatible implementation and its like cross-platform application mainly built for macOS.
 - [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) - 开发内功修炼
-- [simonbs/Runestone](https://github.com/simonbs/Runestone) - 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
 - [moethu/SketchUpNET](https://github.com/moethu/SketchUpNET) - SketchUp C# API - A C++/CLI API Wrapper for the Trimble(R) SketchUp(R) C API
 - [julfla/skp2tri](https://github.com/julfla/skp2tri) - Parse Sketchup skp files into a homemade format
 - [go-gl/gl](https://github.com/go-gl/gl) - Go bindings for OpenGL (generated via glow)
@@ -436,6 +435,7 @@
 
 ## Go 
 
+- [Leizhenpeng/feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt) - 🎒飞书  ×（GPT-3.5 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 - [avilum/llama-saas](https://github.com/avilum/llama-saas) - A client/server for LLaMA (Large Language Model Meta AI) that can run ANYWHERE.
 - [pandodao/talkee](https://github.com/pandodao/talkee) - An Open-source Web3 Commenting and Chat tool with Ethereum Login & Wallets
 - [869413421/chatgpt-web](https://github.com/869413421/chatgpt-web) - 基于ChatGPT3.5 API实现的私有化web程序
@@ -635,7 +635,7 @@
 - [cdle/sillyGirl](https://github.com/cdle/sillyGirl) - 傻妞机器人
 - [albrow/forms](https://github.com/albrow/forms) - A lightweight go library for parsing form data or json from an http.Request.
 - [raedatoui/assimp](https://github.com/raedatoui/assimp) - go wrapper of Assimp
-- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - Open Source, MongoDB-compatible document database
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [krux02/assimp](https://github.com/krux02/assimp) - go wrapper of Assimp
 - [tbogdala/gombz](https://github.com/tbogdala/gombz) - a Go language library providing a serializable data structure for 3d models and animations
@@ -4101,7 +4101,6 @@
 ## Shell 
 
 - [easychen/openai-gpt-dev-notes-for-cn-developer](https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer) - 如何快速开发一个OpenAI/GPT应用：国内开发者笔记
-- [shawwn/llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [huan/docker-wxwork](https://github.com/huan/docker-wxwork) - DoWork is a Dockerized WeChat Work (盒装企业微信) PC Windows Client for Linux
 - [nivin-studio/gonivinck](https://github.com/nivin-studio/gonivinck) - 一个基于docker的go-zero运行环境。
@@ -4176,6 +4175,7 @@
 - [johndpope/SwiftFinalProject2017](https://github.com/johndpope/SwiftFinalProject2017) - iOS Swift porgramming Final Project
 - [damus-io/damus](https://github.com/damus-io/damus) - iOS nostr client
 - [yichengchen/clashX](https://github.com/yichengchen/clashX) - 
+- [simonbs/Runestone](https://github.com/simonbs/Runestone) - 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
 - [RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook) - 中华人民共和国法律手册
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [apple/swift-nio](https://github.com/apple/swift-nio) - Event-driven network application framework for high performance protocol servers & clients, non-blocking.
