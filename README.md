@@ -1909,7 +1909,7 @@
 - [jerosoler/Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
 - [seeksdream/relation-graph](https://github.com/seeksdream/relation-graph) - 支持Vue和React的 关联关系图谱组件，可以展示如组织机构图谱、股权架构图谱、集团关系图谱等知识图谱，可提供多种图谱布局，包括树状布局、中心布局、力学布局自动布局等。Supports Vue and React's relationship graph components, which can display knowledge graphs such as organizational g
 - [ritaswc/wechat_app_template](https://github.com/ritaswc/wechat_app_template) - 微信小程序源码，模板
-- [JimHans/live2d-kanban-desktop](https://github.com/JimHans/live2d-kanban-desktop) - 基于Electron制作的桌面看板娘，支持日程提醒、小窗模式、文字对话、网页搜索、本地moc模型加载与独立设置界面等  | An AI Based live2d Kanban for Desktop Users Using Electron
+- [JimHans/live2d-kanban-desktop](https://github.com/JimHans/live2d-kanban-desktop) - 基于Electron制作的桌面看板娘，支持日程提醒、小窗模式、ChatGPT集成、网页搜索、本地moc模型加载与独立设置界面等  | An AI Based live2d Kanban for Desktop Users Using Electron
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 - [locomotivemtl/locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll) - 🛤 Detection of elements in viewport & smooth scrolling with parallax.
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
@@ -3590,7 +3590,7 @@
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [cvlab-columbia/zero123](https://github.com/cvlab-columbia/zero123) - Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/
 - [Winfredy/SadTalker](https://github.com/Winfredy/SadTalker) - （CVPR 2023）SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation
-- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - 
+- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
 - [pittcsc/Summer2023-Internships](https://github.com/pittcsc/Summer2023-Internships) - Collection of Summer 2023 tech internships!
 - [microsoft/MM-REACT](https://github.com/microsoft/MM-REACT) - Official repo for MM-REACT
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
@@ -3887,7 +3887,7 @@
 - [NVlabs/stylegan](https://github.com/NVlabs/stylegan) - StyleGAN - Official TensorFlow Implementation
 - [momosecurity/aswan](https://github.com/momosecurity/aswan) - 陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
 - [NVIDIA/apex](https://github.com/NVIDIA/apex) - A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch
-- [wzpan/wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT对话能力，还可能是首个支持脑机交互的开源智能音箱项目。
+- [wzpan/wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。
 - [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat) - 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [google/youtube-8m](https://github.com/google/youtube-8m) - Starter code for working with the YouTube-8M dataset.
@@ -4436,7 +4436,7 @@
 - [exiled-apes/candy-machine-mint](https://github.com/exiled-apes/candy-machine-mint) - Fork, config, customize and ship your own candy machine mint app on your own domain, ultra fast.
 - [JamieMason/ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Make optimisation of images part of your automated build process
 - [segmentio/analytics-next](https://github.com/segmentio/analytics-next) - Segment Analytics.js 2.0
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [pixiv/three-vrm](https://github.com/pixiv/three-vrm) - Use VRM on Three.js
 - [antonreshetov/image-optimizer](https://github.com/antonreshetov/image-optimizer) - A free and open source tool for optimizing images and vector graphics.
 - [redis/node-redis](https://github.com/redis/node-redis) - A high-performance Node.js Redis client.
