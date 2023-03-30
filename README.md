@@ -1834,6 +1834,7 @@
 
 ## JavaScript 
 
+- [easychen/openai-api-proxy](https://github.com/easychen/openai-api-proxy) - 一行Docker命令部署的 OpenAI/GPT API代理，支持SSE流式返回、按句子流式文本安全、腾讯云函数 。Simple proxy for OpenAi api via a one-line docker command
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 - [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js
 - [andrewwoan/abigail-bloom-portolio-bokoko33](https://github.com/andrewwoan/abigail-bloom-portolio-bokoko33) - A recreation of an Bokoko33's award-winning portfolio
@@ -3587,6 +3588,10 @@
 
 ## Python 
 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
+- [hpcaitech/CachedEmbedding](https://github.com/hpcaitech/CachedEmbedding) - A memory efficient DLRM training solution using ColossalAI
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
+- [celebv-text/CelebV-Text](https://github.com/celebv-text/CelebV-Text) - (CVPR 2023) CelebV-Text: A Large-Scale Facial Text-Video Dataset
 - [sotelo/parrot](https://github.com/sotelo/parrot) - RNN-based generative models for speech.
 - [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - 🏄 Embed/reason/rank images and sentences with CLIP models
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
@@ -3687,7 +3692,7 @@
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [Wizz1337/TikTokMassBotting](https://github.com/Wizz1337/TikTokMassBotting) - TikTok Mass View & Share Boting ~ Patched
 - [F-Society-Freaks/TikTok-Shares-Botter](https://github.com/F-Society-Freaks/TikTok-Shares-Botter) - Adds TikTok Shares for you.
-- [neuml/txtai](https://github.com/neuml/txtai) - 💡 Build AI-powered semantic search applications
+- [neuml/txtai](https://github.com/neuml/txtai) - 💡 Semantic search and workflows powered by language models
 - [LawRefBook/Laws](https://github.com/LawRefBook/Laws) - 
 - [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
 - [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
@@ -4046,6 +4051,7 @@
 
 ## Rust 
 
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, tui, and more.
 - [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -4288,6 +4294,9 @@
 
 ## TypeScript 
 
+- [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) - Automate your browser with GPT-4
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second 🤯🔫
+- [Helicone/helicone](https://github.com/Helicone/helicone) - 
 - [vincanger/coverlettergpt](https://github.com/vincanger/coverlettergpt) - Generate Cover Letters based on Job Description and your Resumé. Manage jobs and applications. Get Hired. Have fun. Be cool. Go to School.
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - No-code Business Automation Tool. An open source alternative to Zapier.
@@ -4588,7 +4597,7 @@
 - [geekape/geek-navigation](https://github.com/geekape/geek-navigation) - ❤️ 极客猿导航－独立开发者的导航站！
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 3.0.
 - [excalidraw/excalidraw-room](https://github.com/excalidraw/excalidraw-room) - 
-- [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+- [amplication/amplication](https://github.com/amplication/amplication) - Auto-generating TypeScript, GraphQL, REST API, and Node.js, accelerating your full-stack development 🚀
 - [i5ting/imove](https://github.com/i5ting/imove) - INACTIVE: Move your mouse, generate code from flow chart
 - [vue-mini/vue-mini](https://github.com/vue-mini/vue-mini) - 像写 Vue 3 一样写小程序
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
