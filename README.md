@@ -1560,7 +1560,7 @@
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [adtac/commento](https://github.com/adtac/commento) - A fast, bloat-free comments platform (Github mirror)
 - [marcusolsson/tui-go](https://github.com/marcusolsson/tui-go) - A UI library for terminal applications.
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #Go
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 - [gomatcha/matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go.
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [tinrab/go-realtime-collaborative-drawing-app](https://github.com/tinrab/go-realtime-collaborative-drawing-app) - A simple real-time collaborative drawing app built with Go
@@ -1636,7 +1636,7 @@
 - [holtzy/D3-graph-gallery](https://github.com/holtzy/D3-graph-gallery) - A collection of simple graphics made with D3.js
 - [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [bruceyanwee/text4photo](https://github.com/bruceyanwee/text4photo) - 
@@ -1970,7 +1970,7 @@
 - [doramart/Pandora](https://github.com/doramart/Pandora) - DoraCMS for SQL
 - [bojue/BaseMap](https://github.com/bojue/BaseMap) - IDC管理2.5D底图绘制工具(Vue)
 - [Dreamer-Paul/Pio](https://github.com/Dreamer-Paul/Pio) - 🎃 一个支持更换 Live2D 模型的 JS 插件
-- [zkqiang/hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide) - 2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料。
+- [zkqiang/hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide) - 杭州购房指南，根据个人购房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料。
 - [weixin/Miaow](https://github.com/weixin/Miaow) - A set of plugins for Sketch include drawing links & marks, UI Kit & Color sync, font & text replacing.
 - [jasondu/wxa-plugin-canvas](https://github.com/jasondu/wxa-plugin-canvas) - 小程序海报组件-生成朋友圈分享海报并生成图片
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
@@ -2022,7 +2022,7 @@
 - [saltcorn/saltcorn](https://github.com/saltcorn/saltcorn) - Free and open source no-code application builder
 - [grouparoo/grouparoo](https://github.com/grouparoo/grouparoo) - 🦘 The Grouparoo Monorepo - open source customer data sync framework
 - [ovineio/ovine](https://github.com/ovineio/ovine) - Build entirety admin system ui blazing fast with json.
-- [steedos/steedos-platform](https://github.com/steedos/steedos-platform) - 华炎魔方元数据驱动低代码平台，Salesforce 开源替代方案，前端amis，后端微服务。Enterprise Low Code DevOps Platform, Open source alterative to Salesforce.
+- [steedos/steedos-platform](https://github.com/steedos/steedos-platform) - 华炎魔方元数据驱动低代码平台，Salesforce 开源替代方案，前端amis，后端微服务。Enterprise Low Code DevOps Platform, Open source alterative to Salesforce DX.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [bxm0927/canvas-special](https://github.com/bxm0927/canvas-special) - :octocat::alien::star2:超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等。
@@ -2089,7 +2089,7 @@
 - [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
 - [skillnull/DeviceJs](https://github.com/skillnull/DeviceJs) - JS获取设备信息(操作系统信息、地理位置、UUID、横竖屏状态、设备类型、网络状态、浏览器信息、生成浏览器指纹、日期、周几等)
 - [sindresorhus/wallpaper](https://github.com/sindresorhus/wallpaper) - Manage the desktop wallpaper
-- [kisslove/web-monitoring](https://github.com/kisslove/web-monitoring) - 前端监控，性能监控平台。The front end monitoring platform focuses on Web end experience data monitoring. Three aspects of the health of Web pages are monitored: page opening speed (speed measurement), page stabil
+- [kisslove/web-monitoring](https://github.com/kisslove/web-monitoring) - 前端监控，性能监控平台。前端监控平台专注于Web端体验数据监控。对网页健康状况的三个方面进行监测：页面打开速度（速度测量）、页面稳定性（JS错误）和外部服务调用成功率（API）。
 - [cloudreve/frontend](https://github.com/cloudreve/frontend) - Cloudreve V3 的前端
 - [qor/admin](https://github.com/qor/admin) - Qor Admin - Instantly create a beautiful, cross platform, configurable Admin Interface and API for managing your data in minutes.
 - [songbug1024/co-wxwork-api](https://github.com/songbug1024/co-wxwork-api) - 企业微信API（ES6版本）
@@ -3166,6 +3166,7 @@
 
 ## Others 
 
+- [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
 - [open-dingtalk/pierced](https://github.com/open-dingtalk/pierced) - 钉钉内网穿透
 - [teknium1/GPTeacher](https://github.com/teknium1/GPTeacher) - A collection of modular datasets generated by GPT-4, General-Instruct - Roleplay-Instruct - Code-Instruct - and Toolformer
 - [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
@@ -3610,6 +3611,8 @@
 
 ## Python 
 
+- [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -4344,6 +4347,7 @@
 
 ## TypeScript 
 
+- [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
 - [editor-js/create-tool](https://github.com/editor-js/create-tool) - Single command Editor.js Tool generator
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
@@ -4624,7 +4628,7 @@
 - [egoist/usermatters](https://github.com/egoist/usermatters) - User Matters helps you collect customer feedbacks effortlessly.
 - [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 - [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
-- [aidenybai/million](https://github.com/aidenybai/million) - 🔟🔼6️⃣ An extremely fast virtual DOM that makes React up to 70% faster!
+- [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React (up to 7️⃣0️⃣% faster!)
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 - [dfinity/cancan](https://github.com/dfinity/cancan) - A scalable video sharing service.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
