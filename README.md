@@ -772,7 +772,7 @@
 - [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
-- [bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - protoc plugin to generate polyglot message validators
+- [bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - Protobuf validation - v2 coming soon.
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
 - [geektutu/high-performance-go](https://github.com/geektutu/high-performance-go) - high performance coding with golang（Go 语言高性能编程，Go 语言陷阱，Gotchas，Traps）
 - [kevwan/go-stash](https://github.com/kevwan/go-stash) - go-stash is a high performance, free and open source server-side data processing pipeline that ingests data from Kafka, processes it, and then sends it to ElasticSearch.
@@ -1601,6 +1601,7 @@
 
 ## HTML 
 
+- [microsoft/immersive-reader-sdk](https://github.com/microsoft/immersive-reader-sdk) - SDK for using the Immersive Reader through Cognitive Services
 - [yeemachine/kalidoface-3d](https://github.com/yeemachine/kalidoface-3d) - Face and Body Tracking for VRM 3D models on the web.
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [fguby/Electron-elf](https://github.com/fguby/Electron-elf) - 使用electron和live2D开发的类似桌面精灵的应用（A desktop application developed using electron and live2D）
@@ -1717,6 +1718,7 @@
 - [amorist/amorist.github.io](https://github.com/amorist/amorist.github.io) - 微信动效 毕业设计
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [jeromeetienne/AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
 - [oswaldoacauan/ghostium](https://github.com/oswaldoacauan/ghostium) - A Ghost theme focused on content based on Medium design/ux.
 - [Spandan-Madan/DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.
@@ -1756,7 +1758,7 @@
 - [Fridayfive/flutter-presentation](https://github.com/Fridayfive/flutter-presentation) - 一个支持 Android端的双屏插件，开发者在双屏场景中使用flutter开发双屏的UI
 - [JackyFuu/SSM-Maven-Heima](https://github.com/JackyFuu/SSM-Maven-Heima) - 基于SSM(Spring+Springmvc+Mybatis)框架的电商小项目，使用Maven构建项目，MySQL为数据库系统，Redis的缓存服务器（并不是用的很多）。商城分为后台人员管理界面和前台处理服务器两个方面。实现了登录，邮件注册，redis缓存机制，cookie的历史记录浏览，分页浏览商品，加入购物车，提交订单等等功能。最精彩的是，如果你刚刚学完基础的SSM框架，那么你就可以跟着视频一
 - [liutaojava/litemall](https://github.com/liutaojava/litemall) - 商城后台管理系统+H5端+小程序端+api后端接口（vue、java、springboot、mysql）
-- [alibaba/fastjson2](https://github.com/alibaba/fastjson2) - FASTJSON2 is a Java JSON  library with excellent performance.
+- [alibaba/fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON  library with excellent performance.
 - [Poco-z/Guns-Medical](https://github.com/Poco-z/Guns-Medical) - 基于SpringBoot的guns社区养老医疗服务综合平台管理系统
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
@@ -2094,7 +2096,7 @@
 - [12zan/miniapp](https://github.com/12zan/miniapp) - 十二赞团队投放了数百万人民币，开发了本套小程序系统 。后端代码主要是php构成，有少量的java\python\golang.前端全部是微信小程序原生，自定义装修部分也是全原生实现。  十二赞小程序 全部版本。功能齐全，架构可扩展，支持千万级访问毫无压力。 接下来，我会把十二赞旗下的全部小程序的源代码整理、开放出来。陆陆续续整理中。 有时候因为要删掉一些敏感信息，保障现在十二赞的客户的信息安全，所
 - [HalfMouse/weiit-saas](https://github.com/HalfMouse/weiit-saas) - weiit-saas是一款Java开源项目，属于weiit团队自研产品，意在通过技术封装，让企业无需代码开发，帮助企业一键生成小程序、公众号，让企业拥有独立品牌的自营商城。
 - [zkqiang/wechat-mdeditor](https://github.com/zkqiang/wechat-mdeditor) - 微信公众号 Markdown 在线编辑器
-- [JasonBoy/wechat-jssdk](https://github.com/JasonBoy/wechat-jssdk) - 🐧WeChat JS-SDK integration with NodeJS & Web
+- [JasonBoy/wechat-jssdk](https://github.com/JasonBoy/wechat-jssdk) - 🐧微信JSSDK与NodeJS及Web端集成 WeChat JSSDK integration with NodeJS & Web
 - [antvis/wx-f2](https://github.com/antvis/wx-f2) - F2 的微信小程序
 - [qi19901212/Awesome-Miniprogram](https://github.com/qi19901212/Awesome-Miniprogram) - 收藏可供借鉴的开源小程序项目
 - [LinusLing/WeChatMediaPlatformAutomation](https://github.com/LinusLing/WeChatMediaPlatformAutomation) - 一款在微信公众号( https://mp.weixin.qq.com )自动预览/发布文章的命令行工具。
@@ -2660,7 +2662,7 @@
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [deepsweet/hocs](https://github.com/deepsweet/hocs) - :bento: Higher-Order Components for React
-- [Canner/cannercms](https://github.com/Canner/cannercms) - ⚡️[NOT MAINTAINED] Content Management Framework creates custom CMS fast and easy. Support data sources such as Firebase/Firestore, GraphQL and Restful APIs.
+- [Canner/cannercms](https://github.com/Canner/cannercms) - ⚡️ Content Management Framework creates custom CMS fast and easy. Support data sources such as Firebase/Firestore, GraphQL and Restful APIs.
 - [whoan/blog-posts](https://github.com/whoan/blog-posts) - Posts for my personal blog
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
 - [vinta/pangu.js](https://github.com/vinta/pangu.js) - Paranoid text spacing in JavaScript
@@ -3610,6 +3612,7 @@
 
 ## Python 
 
+- [GuidoPaul/CAIL2019](https://github.com/GuidoPaul/CAIL2019) - 中国法研杯司法人工智能挑战赛之相似案例匹配第一名解决方案
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [run-llama/llama-lab](https://github.com/run-llama/llama-lab) - 
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - GPTCache is a library for creating semantic cache to store responses from LLM queries.
@@ -4178,7 +4181,7 @@
 - [Color-UI/MP-CU](https://github.com/Color-UI/MP-CU) - MP-CU, colorui3.x 微信小程序原生版
 - [eddiesigner/liebling](https://github.com/eddiesigner/liebling) - Beautiful and clean Ghost theme that is easy and comfortable to use. To get the latest version please head over the releases page 👉🏼
 - [creativetimofficial/vue-argon-dashboard](https://github.com/creativetimofficial/vue-argon-dashboard) - Vue Argon Dashboard
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN! 创建在线课程，学术简历或初创网站。#OpenScience
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 创建在线课程，学术简历或初创网站。#OpenScience
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [panr/hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
@@ -5093,7 +5096,6 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
