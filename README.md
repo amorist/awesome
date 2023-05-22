@@ -9,6 +9,7 @@
 - [Assembly](#assembly)
 - [Batchfile](#batchfile)
 - [Bicep](#bicep)
+- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -92,6 +93,10 @@
 ## Bicep 
 
 - [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
+
+## Blade 
+
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 
 ## C 
 
@@ -1859,6 +1864,7 @@
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [TheRamU/Fay](https://github.com/TheRamU/Fay) - Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her。 开源项目，非产品试用！！！
 - [befinal/node-tenpay](https://github.com/befinal/node-tenpay) - 微信支付 for nodejs
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [easychen/openai-api-proxy](https://github.com/easychen/openai-api-proxy) - 一行Docker命令部署的 OpenAI/GPT API代理，支持SSE流式返回、腾讯云函数 。Simple proxy for OpenAi api via a one-line docker command
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 - [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js
@@ -2292,7 +2298,6 @@
 - [aalhaimi/electron-web-bluetooth](https://github.com/aalhaimi/electron-web-bluetooth) - 
 - [twitter-together/action](https://github.com/twitter-together/action) - :bird: A GitHub action to tweet from a repository
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
-- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [Jannchie/Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js) - [Deprecated!] This is a data visualization project that converts historical data rankings into dynamic bar charts.
 - [sindresorhus/electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Context menu for your Electron app
 - [rancher/ui](https://github.com/rancher/ui) - Rancher UI
@@ -3025,6 +3030,8 @@
 
 ## Jupyter Notebook 
 
+- [serp-ai/bark-with-voice-clone](https://github.com/serp-ai/bark-with-voice-clone) - 🔊 Text-prompted Generative Audio Model - With the ability to clone voices
+- [huangwl18/language-planner](https://github.com/huangwl18/language-planner) - Official Code for "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents"
 - [datawhalechina/hugging-llm](https://github.com/datawhalechina/hugging-llm) - HuggingLLM, Hugging Future.
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The python package that returns response of Google Bard through API.
 - [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，视频地址：https://www.bilibili.com/video/BV1Bo4y1A7FU
@@ -3033,6 +3040,7 @@
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [RedisAI/vecsim-demo](https://github.com/RedisAI/vecsim-demo) - Explore vector similarity in Redis
 - [gkamradt/langchain-tutorials](https://github.com/gkamradt/langchain-tutorials) - Overview and tutorial of the LangChain Library
+- [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🧠 ChatGPT、Windows/Mac/Linux各类运行环境镜像站，cnki/core.ac.uk、国立台湾大学、国立新加坡大学、内陆院校等机构行业研究报告智库收集
 - [JohnNay/llm-lobbyist](https://github.com/JohnNay/llm-lobbyist) - Code for the paper: "Large Language Models as Corporate Lobbyists" (2023).
 - [jmpaz/promptlib](https://github.com/jmpaz/promptlib) - A collection of prompts for use with GPT-4 via ChatGPT, OpenAI API w/ Gradio frontend & notebook
 - [prompt-engineering/understand-prompt](https://github.com/prompt-engineering/understand-prompt) - 【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。
@@ -3182,6 +3190,8 @@
 
 ## Others 
 
+- [microsoft/ChatGPT-Robot-Manipulation-Prompts](https://github.com/microsoft/ChatGPT-Robot-Manipulation-Prompts) - 
+- [GT-RIPL/Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) - A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites
 - [hollobit/GenAI_LLM_timeline](https://github.com/hollobit/GenAI_LLM_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
 - [sunshineyg2018/BloombergGPT_zh](https://github.com/sunshineyg2018/BloombergGPT_zh) - 首个金融领域大模型BloombergGPT 论文的中文实现
 - [cmhungsteve/Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) - An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites
@@ -3644,6 +3654,9 @@
 
 ## Python 
 
+- [lifeiteng/vall-e](https://github.com/lifeiteng/vall-e) - PyTorch implementation of VALL-E(Zero-Shot Text-To-Speech), Reproduced Demo https://lifeiteng.github.io/valle/index.html
+- [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Interact with Massive Embedding and Text Datasets in Your Web Browser
+- [pengxiao-song/LaWGPT](https://github.com/pengxiao-song/LaWGPT) - 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
 - [enhuiz/vall-e](https://github.com/enhuiz/vall-e) - An unofficial PyTorch implementation of the audio LM VALL-E
 - [THUDM/VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B) - Chinese and English multimodal conversational language model | 多模态中英双语对话语言模型
 - [pgalko/BambooAI](https://github.com/pgalko/BambooAI) - A lightweight library that leverages Language Models (LLMs) to enable natural language interactions, allowing you to converse with your pandas DataFrames.
@@ -3731,6 +3744,7 @@
 - [VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) - A Toolkit for Text-to-Video Generation and Editing
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
 - [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音|TikTok数据爬取工具，支持API调用，在线批量解析及下载。
+- [imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) - langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答
 - [pHaeusler/micro-agent](https://github.com/pHaeusler/micro-agent) - A tiny implementation of an autonomous agent powered by LLMs (OpenAI GPT-4)
 - [teknium1/GPTeacher](https://github.com/teknium1/GPTeacher) - A collection of modular datasets generated by GPT-4, General-Instruct - Roleplay-Instruct - Code-Instruct - and Toolformer
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
@@ -3766,11 +3780,10 @@
 - [deep-diver/LLM-As-Chatbot](https://github.com/deep-diver/LLM-As-Chatbot) - LLM as a Chatbot Service
 - [socketteer/loom](https://github.com/socketteer/loom) - Multiversal tree writing interface for human-AI collaboration
 - [microsoft/PromptCraft-Robotics](https://github.com/microsoft/PromptCraft-Robotics) - Community for applying LLMs to robotics and a robot simulator with ChatGPT integration
-- [erma0/douyin](https://github.com/erma0/douyin) - 抖音爬虫，调用Aria2下载。支持采集账号主页作品、喜欢作品、音乐原声作品、搜索作品、关注列表、粉丝列表、合集作品、单个作品。
+- [erma0/douyin](https://github.com/erma0/douyin) - 抖音爬虫——采集账号主页列表、喜欢列表、音乐原声列表、搜索列表、关注列表、粉丝列表、合集列表、单个作品。
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [replicate/controlnet](https://github.com/replicate/controlnet) - Let us control diffusion models
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
-- [hoochanlon/seikaii](https://github.com/hoochanlon/seikaii) - 💾 ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
 - [pkhungurn/talking-head-anime-demo](https://github.com/pkhungurn/talking-head-anime-demo) - Demo for the "Talking Head Anime from a Single Image."
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
@@ -4518,7 +4531,6 @@
 - [GPTGenius/chatgpt-vercel](https://github.com/GPTGenius/chatgpt-vercel) - Create a private ChatGPT website with one-click for free using Vercel -- 通过 Vercel 一键免费创建私有的 ChatGPT 站点
 - [hepengwei/visualization-collection](https://github.com/hepengwei/visualization-collection) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、人工智能应用等上百个案例（持续更新）
 - [motifland/markprompt](https://github.com/motifland/markprompt) - Enterprise-grade AI chatbots for your website and docs
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second 🤯🔫
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 
 - [vincanger/coverlettergpt](https://github.com/vincanger/coverlettergpt) - Generate Cover Letters based on Job Description and your Resumé. Manage jobs and applications. Get Hired. Have fun. Be cool. Go to School.
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
@@ -5262,7 +5274,6 @@
 - [yangjian102621/chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) - 基于 OpenAI API 实现的 ChatGPT Web 应用，包括通用版和角色版。自带管理后台，采用 Go + Vue3 + element-plus 实现。
 - [yudaocode/yudao-ui-admin-vue3](https://github.com/yudaocode/yudao-ui-admin-vue3) - 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。
 - [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
-- [imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) - langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答
 - [lianginx/chatgpt-vue](https://github.com/lianginx/chatgpt-vue) - 使用 Vue3 + Typescript + Tailwind CSS 框架，调用 OpenAI 的 gpt-3.5-turbo 模型 API 实现的简单聊天对话，支持连续对话。
 - [Synaptrix/ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) - Fuel your productivity with ChatGPT-Desktop - Blazingly fast and supercharged!
 - [viandwi24/nuxt3-awesome-starter](https://github.com/viandwi24/nuxt3-awesome-starter) - a Nuxt 3 template and boilerplate with a lot of useful features. Nuxt 3 + Tailwindcss v3
