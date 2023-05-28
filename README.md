@@ -178,7 +178,7 @@
 - [FluffyFishGames/ACNHDesignPatternEditor](https://github.com/FluffyFishGames/ACNHDesignPatternEditor) - An editor for Animal Crossing: New Horizons design patterns.
 - [sambeckingham/ACPatternMaker](https://github.com/sambeckingham/ACPatternMaker) - 
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
-- [SciSharp/BotSharp](https://github.com/SciSharp/BotSharp) - The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
+- [SciSharp/BotSharp](https://github.com/SciSharp/BotSharp) - The Open Source Chatbot Framework in .NET
 - [microsoft/ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [Jessecar96/SteamBot](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with Steam Trade
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
@@ -436,6 +436,7 @@
 
 ## Go 
 
+- [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-nati
 - [daymade/tiktok-whisper](https://github.com/daymade/tiktok-whisper) - Batch convert video to text using openai's whisper or the local coreML whisper.cpp
 - [igolaizola/bulkai](https://github.com/igolaizola/bulkai) - AI image generation in bulk automatically
 - [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang!
@@ -3026,7 +3027,6 @@
 ## Jinja 
 
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
-- [easzlab/kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
 
 ## Jupyter Notebook 
 
@@ -3119,6 +3119,7 @@
 
 ## Makefile 
 
+- [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [richfelker/musl-cross-make](https://github.com/richfelker/musl-cross-make) - Simple makefile-based build for musl cross compiler
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
@@ -3301,7 +3302,7 @@
 - [aregrid/awesome-free-saas](https://github.com/aregrid/awesome-free-saas) - an awesome list of  free SaaS (software as a service) for you.
 - [dvgodoy/dl-visuals](https://github.com/dvgodoy/dl-visuals) - Over 200 figures and diagrams of the most popular deep learning architectures and layers FREE TO USE in your blog posts, slides, presentations, or papers.
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
-- [imarvinle/awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
+- [imarvinle/awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) - 🔥 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 - [hellodword/wechat-feeds](https://github.com/hellodword/wechat-feeds) - [已停止服务] 给微信公众号生成 RSS 订阅源
 - [phodal/cloud-dev](https://github.com/phodal/cloud-dev) - 云研发，是一种生于云上的闭环 + 代码化的软件开发方式。它可以让业务人员、开发人员、运营人员等在同一个云端共同协作、透明化地完成整个软件的生命周期（需求、设计、编码、构建、部署、运营），而非相互隔离，又或者是借助于多个软件才能完成工作。
 - [easychen/one-person-businesses-methodology](https://github.com/easychen/one-person-businesses-methodology) - 一人公司方法论
@@ -3596,6 +3597,7 @@
 
 ## PHP 
 
+- [gptlink/gptlink](https://github.com/gptlink/gptlink) - 10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能
 - [embedditor/embedditor](https://github.com/embedditor/embedditor) - GUI for editing LLM vector embeddings built by IngestAI.io. Upload content in any file extension, join or split chunks, edit metadata, edit embedding tokens +  remove stop-words and punctuation with o
 - [easychen/stack-roadmap](https://github.com/easychen/stack-roadmap) - 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
 - [lmhfq/easyopen](https://github.com/lmhfq/easyopen) - 一个基于Hyperf框架的简单易用的接口开放平台，平台封装了常用的参数校验、结果返回等功能，开发者只需实现业务代码即可。
@@ -3657,6 +3659,7 @@
 
 ## Python 
 
+- [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [MakiNaruto/Automatic_ticket_purchase](https://github.com/MakiNaruto/Automatic_ticket_purchase) - 大麦网抢票脚本
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
 - [steamship-packages/langchain-agent-production-starter](https://github.com/steamship-packages/langchain-agent-production-starter) - Deploy LangChain Agents and connect them to Telegram
@@ -3793,7 +3796,7 @@
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [replicate/controlnet](https://github.com/replicate/controlnet) - Let us control diffusion models
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
-- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️ChatGPT、系统程序各类镜像、重点高校及科研机构社科、经济、系统工程类学术论文知识链接库
+- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️ChatGPT、系统程序各类镜像、国立台湾大学、国立新加坡大学、中国内陆与香港重点高校及科研机构社科、经济、系统工程类学术论文知识链接库
 - [pkhungurn/talking-head-anime-demo](https://github.com/pkhungurn/talking-head-anime-demo) - Demo for the "Talking Head Anime from a Single Image."
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
@@ -4347,6 +4350,7 @@
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [repo-sync/github-sync](https://github.com/repo-sync/github-sync) - ⤵️ A GitHub Action for syncing current repository with remote
 - [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
+- [easzlab/kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
 - [istio/api](https://github.com/istio/api) - API definitions for the Istio project
 - [nakorndev/vuepress-theme-bulma](https://github.com/nakorndev/vuepress-theme-bulma) - A pure Bulma.css theme for VuePress
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
@@ -4490,6 +4494,7 @@
 
 ## TypeScript 
 
+- [vercel/nextjs-planetscale-nextauth-tailwindcss-template](https://github.com/vercel/nextjs-planetscale-nextauth-tailwindcss-template) - Admin dashboard template.
 - [strapi/nextjs-corporate-starter](https://github.com/strapi/nextjs-corporate-starter) - Strapi Demo application for Corporate Websites using Next.js
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Python LLM apps in minutes ⚡️
 - [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) - GPT Meet Zotero.
