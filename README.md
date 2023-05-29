@@ -141,7 +141,7 @@
 - [retroplasma/earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering) - Reversing Google's 3D satellite mode
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
@@ -787,7 +787,7 @@
 - [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) - A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
 - [liujunren93/share](https://github.com/liujunren93/share) - 一个简单轻量的golang微服务框架
 - [feixiao/Distributed-Systems](https://github.com/feixiao/Distributed-Systems) - MIT课程《Distributed Systems 》学习和翻译
-- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
+- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [netxfly/sec-dev-in-action-src](https://github.com/netxfly/sec-dev-in-action-src) - 《白帽子安全开发实战》配套代码
 - [n7olkachev/imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
@@ -3030,6 +3030,7 @@
 
 ## Jupyter Notebook 
 
+- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud
 - [Azure/cognitive-search-vector-pr](https://github.com/Azure/cognitive-search-vector-pr) - The official documentation and code samples for the Vector search feature (preview) in Azure Cognitive Search.
 - [artidoro/qlora](https://github.com/artidoro/qlora) - QLoRA: Efficient Finetuning of Quantized LLMs
 - [huangwl18/language-planner](https://github.com/huangwl18/language-planner) - Official Code for "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents"
@@ -3659,6 +3660,9 @@
 
 ## Python 
 
+- [MineDojo/Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models
+- [OpenGVLab/InternGPT](https://github.com/OpenGVLab/InternGPT) - InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, 
+- [Zeqiang-Lai/DragGAN](https://github.com/Zeqiang-Lai/DragGAN) - Online Demo and Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux）
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [MakiNaruto/Automatic_ticket_purchase](https://github.com/MakiNaruto/Automatic_ticket_purchase) - 大麦网抢票脚本
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
@@ -3747,7 +3751,6 @@
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [HKUNLP/instructor-embedding](https://github.com/HKUNLP/instructor-embedding) - [ACL 2023] One Embedder, Any Task: Instruction-Finetuned Text Embeddings
 - [ShreyaR/guardrails](https://github.com/ShreyaR/guardrails) - Adding guardrails to large language models.
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
@@ -3796,7 +3799,7 @@
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [replicate/controlnet](https://github.com/replicate/controlnet) - Let us control diffusion models
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
-- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️ChatGPT、系统程序各类镜像、国立台湾大学、国立新加坡大学、中国内陆与香港重点高校及科研机构社科、经济、系统工程类学术论文知识链接库
+- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️ChatGPT、软件程序各类镜像，国立台湾大学、国立新加坡大学、早稻田大学、东京大学、中国内陆与香港重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。
 - [pkhungurn/talking-head-anime-demo](https://github.com/pkhungurn/talking-head-anime-demo) - Demo for the "Talking Head Anime from a Single Image."
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
@@ -4494,6 +4497,8 @@
 
 ## TypeScript 
 
+- [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices
+- [AprilNEA/ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web) - 带有用户管理和后台管理系统的 ChatGPT WebUI
 - [vercel/nextjs-planetscale-nextauth-tailwindcss-template](https://github.com/vercel/nextjs-planetscale-nextauth-tailwindcss-template) - Admin dashboard template.
 - [strapi/nextjs-corporate-starter](https://github.com/strapi/nextjs-corporate-starter) - Strapi Demo application for Corporate Websites using Next.js
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Python LLM apps in minutes ⚡️
@@ -4543,6 +4548,7 @@
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
 - [editor-js/create-tool](https://github.com/editor-js/create-tool) - Single command Editor.js Tool generator
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
 - [alibaba/ChatUI](https://github.com/alibaba/ChatUI) - The UI design language and React library for Conversational UI
@@ -4552,7 +4558,7 @@
 - [supabase-community/partner-gallery-example](https://github.com/supabase-community/partner-gallery-example) - Supabase Partner Gallery Example
 - [AntonioErdeljac/next13-airbnb-clone](https://github.com/AntonioErdeljac/next13-airbnb-clone) - 
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
-- [psychic-api/psychic](https://github.com/psychic-api/psychic) - Universal APIs for unstructured data. Sync documents from SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
+- [psychic-api/psychic](https://github.com/psychic-api/psychic) - Universal APIs for unstructured data. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 - [dust-tt/dust](https://github.com/dust-tt/dust) - Design and Deploy Large Language Model Apps
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Your Ultimate Copilot on the Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.
 - [GPTGenius/chatgpt-vercel](https://github.com/GPTGenius/chatgpt-vercel) - Create a private ChatGPT website with one-click for free using Vercel -- 通过 Vercel 一键免费创建私有的 ChatGPT 站点
