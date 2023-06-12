@@ -666,7 +666,7 @@
 - [tbogdala/gombz](https://github.com/tbogdala/gombz) - a Go language library providing a serializable data structure for 3d models and animations
 - [andrebq/assimp](https://github.com/andrebq/assimp) - Go bindings for the Open Asset Import Library
 - [tbogdala/assimp-go](https://github.com/tbogdala/assimp-go) - a Go language utility library for the ASSIMP library
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - OpenIM instant messaging service
 - [nakagami/firebirdsql](https://github.com/nakagami/firebirdsql) - Firebird RDBMS sql driver for Go (golang)
 - [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) - Hyperconverged cloud-edge native database
 - [weaveworks/weave-gitops](https://github.com/weaveworks/weave-gitops) - Weave GitOps OSS
@@ -2732,7 +2732,6 @@
 - [egoist/vue-timeago](https://github.com/egoist/vue-timeago) - A timeago component for Vue.
 - [yardnsm/ink-text-animation](https://github.com/yardnsm/ink-text-animation) - A text animation component for Ink
 - [jayqizone/homebridge-mi-heatercooler](https://github.com/jayqizone/homebridge-mi-heatercooler) - Mi / Aqara AC partner plugin for Homebridge
-- [sindresorhus/sindresorhus-cli](https://github.com/sindresorhus/sindresorhus-cli) - The Sindre Sorhus CLI
 - [node-schedule/node-schedule](https://github.com/node-schedule/node-schedule) - A cron-like and not-cron-like job scheduler for Node.
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
@@ -3818,7 +3817,7 @@
 - [erma0/douyin](https://github.com/erma0/douyin) - 抖音爬虫——采集账号主页列表、喜欢列表、音乐原声列表、搜索列表、关注列表、粉丝列表、合集列表、单个作品。
 - [replicate/controlnet](https://github.com/replicate/controlnet) - Let us control diffusion models
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
-- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️ChatGPT、软件程序各类镜像，国立台湾大学、国立新加坡大学、早稻田大学、东京大学、中国内陆与香港重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。
+- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️ChatGPT、软件程序各类镜像，国立台湾大学、国立新加坡大学、早稻田大学、东京大学、中国与香港重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。
 - [pkhungurn/talking-head-anime-demo](https://github.com/pkhungurn/talking-head-anime-demo) - Demo for the "Talking Head Anime from a Single Image."
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
@@ -4515,6 +4514,7 @@
 
 ## TypeScript 
 
+- [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务 \ Own your own ChatGPT+Midjourney web service with one click
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
 - [AprilNEA/ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web) - 带有用户管理和后台管理系统的 ChatGPT WebUI
 - [vercel/nextjs-planetscale-nextauth-tailwindcss-template](https://github.com/vercel/nextjs-planetscale-nextauth-tailwindcss-template) - Admin dashboard template.
@@ -4577,7 +4577,7 @@
 - [supabase-community/partner-gallery-example](https://github.com/supabase-community/partner-gallery-example) - Supabase Partner Gallery Example
 - [AntonioErdeljac/next13-airbnb-clone](https://github.com/AntonioErdeljac/next13-airbnb-clone) - 
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
-- [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLms. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
+- [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 - [dust-tt/dust](https://github.com/dust-tt/dust) - Design and Deploy Large Language Model Apps
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Your Ultimate Copilot on the Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.
 - [GPTGenius/chatgpt-vercel](https://github.com/GPTGenius/chatgpt-vercel) - Create a private ChatGPT website with one-click for free using Vercel -- 通过 Vercel 一键免费创建私有的 ChatGPT 站点
@@ -5257,6 +5257,7 @@
 - [google/incremental-dom](https://github.com/google/incremental-dom) - An in-place DOM diffing library
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [sindresorhus/sindresorhus-cli](https://github.com/sindresorhus/sindresorhus-cli) - The Sindre Sorhus CLI
 - [iawia002/Zoe](https://github.com/iawia002/Zoe) - 快捷上传文件到七牛云 for macOS
 - [znck/vuepack](https://github.com/znck/vuepack) - Publish .vue files in NPM packages
 - [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
