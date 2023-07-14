@@ -133,7 +133,6 @@
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [n64decomp/sm64](https://github.com/n64decomp/sm64) - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
 - [arut/nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
-- [Tencent/TencentOS-kernel](https://github.com/Tencent/TencentOS-kernel) - 腾讯针对云的场景研发的服务器操作系统
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
 - [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
@@ -787,6 +786,7 @@
 - [thinkeridea/go-extend](https://github.com/thinkeridea/go-extend) - go语言扩展包，收集一些常用的操作函数，辅助更快的完成开发工作，并减少重复代码
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [zhenorzz/goploy](https://github.com/zhenorzz/goploy) - Devops项目代码部署发布平台，Deploy, CI/CD, Terminal, Sftp, Server monitor, Crontab Manager, Nginx Manager.
 - [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
@@ -931,7 +931,7 @@
 - [douyu/jupiter](https://github.com/douyu/jupiter) - Jupiter: Governance-oriented Microservice Framework.
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
 - [opentracing/opentracing-go](https://github.com/opentracing/opentracing-go) - OpenTracing API for Go. 🛑 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recover
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, PassKeys, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, accou
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game engine for Go
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [henson/proxypool](https://github.com/henson/proxypool) - Golang实现的IP代理池
@@ -1652,7 +1652,7 @@
 - [holtzy/D3-graph-gallery](https://github.com/holtzy/D3-graph-gallery) - A collection of simple graphics made with D3.js
 - [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [bruceyanwee/text4photo](https://github.com/bruceyanwee/text4photo) - 
@@ -3393,6 +3393,8 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
 - [fpereiro/backendlore](https://github.com/fpereiro/backendlore) - How I write backends
+- [googleapis/nodejs-recommender](https://github.com/googleapis/nodejs-recommender) - This repository is deprecated. All of its content and history has been moved to googleapis/google-cloud-node.
+- [Tencent/TencentOS-kernel](https://github.com/Tencent/TencentOS-kernel) - 腾讯针对云的场景研发的服务器操作系统
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [mpvue/awesome-mpvue](https://github.com/mpvue/awesome-mpvue) - A curated list of awesome things related to mpvue
 - [KeKe-Li/data-structures-questions](https://github.com/KeKe-Li/data-structures-questions) - golang sorting algorithm and data construction.
@@ -4578,7 +4580,7 @@
 - [uiwjs/react-login-page](https://github.com/uiwjs/react-login-page) - Some `react` login pages, which can be used quickly after installation.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
-- [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English, 中文, 日本語, and 한국어. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
+- [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - a better universal ui system
@@ -4661,7 +4663,7 @@
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [illacloud/illa-design](https://github.com/illacloud/illa-design) - A fully responsive UI Library for React.
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
-- [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer
 - [pocketbase/js-sdk](https://github.com/pocketbase/js-sdk) - PocketBase JavaScript SDK
 - [starkscan/starkscan-verifier](https://github.com/starkscan/starkscan-verifier) - Verify Cairo contracts on Starkscan in 1 minute.
@@ -5053,7 +5055,6 @@
 - [brick-design/brick-design](https://github.com/brick-design/brick-design) - 低代码框架，支持流式布局与自由布局拖拽编排，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示、自由布局支持辅助对齐、支持自动吸附、实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态
 - [benawad/destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [googleapis/nodejs-recommender](https://github.com/googleapis/nodejs-recommender) - Recommender client for Node.js
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [RocketChat/Rocket.Chat.GitHub.Action.Notification](https://github.com/RocketChat/Rocket.Chat.GitHub.Action.Notification) - Rocket.Chat Notification for GitHub Actions :bell: :rocket:
 - [machinelearnjs/machinelearnjs](https://github.com/machinelearnjs/machinelearnjs) - Machine Learning library for the web and Node.
@@ -5441,7 +5442,6 @@
 - [gupei2015/marketing-management-web](https://github.com/gupei2015/marketing-management-web) - 优惠券营销后台管理前端工程
 - [BlueDancers/activity-YD](https://github.com/BlueDancers/activity-YD) - 该版本停止维护，有兴趣的朋友请访问易动v3版本
 - [newbee-ltd/newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - 🔥 🎉Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城 Vue3.2 版本，技术栈为 Vue3.2 + Vue-Router4.x + Pinia + Vant4.x。
-- [zhenorzz/goploy](https://github.com/zhenorzz/goploy) - Devops项目代码部署发布平台，Deploy, CI/CD, Terminal, Sftp, Server monitor, Crontab Manager, Nginx Manager.
 - [x2rr/funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
 - [zwpro/redCover](https://github.com/zwpro/redCover) - 微信红包封面领取，用户观看视频广告或者邀请用户可获取微信红包序列号
 - [zwpro/coupons](https://github.com/zwpro/coupons) - 美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。
