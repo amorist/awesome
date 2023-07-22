@@ -1652,7 +1652,7 @@
 - [holtzy/D3-graph-gallery](https://github.com/holtzy/D3-graph-gallery) - A collection of simple graphics made with D3.js
 - [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [bruceyanwee/text4photo](https://github.com/bruceyanwee/text4photo) - 
@@ -1972,7 +1972,7 @@
 - [1252158112/Sky-autoplayer](https://github.com/1252158112/Sky-autoplayer) - 光遇自动演奏
 - [xuhuai66/used-book-pro](https://github.com/xuhuai66/used-book-pro) - 微信小程序云开发校园二手书商城，可在线支付提现，源码全开源
 - [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https
-- [Cay-Zhang/RSSBud](https://github.com/Cay-Zhang/RSSBud) - RSSBud 可以帮助你快速发现和订阅适用于网站或 App 内分享的 RSS 源和 RSSHub 源。已在 App Store 上架。
+- [Cay-Zhang/RSSBud](https://github.com/Cay-Zhang/RSSBud) - RSSBud can help you quickly discover and subscribe to RSS feeds from websites or apps, especially those provided by RSSHub. Available on the App Store.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [gavinr/github-csv-tools](https://github.com/gavinr/github-csv-tools) - Import and export GitHub issues via CSV
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
@@ -3046,6 +3046,7 @@
 - [serp-ai/bark-with-voice-clone](https://github.com/serp-ai/bark-with-voice-clone) - 🔊 Text-prompted Generative Audio Model - With the ability to clone voices
 - [huangwl18/language-planner](https://github.com/huangwl18/language-planner) - Official Code for "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents"
 - [datawhalechina/hugging-llm](https://github.com/datawhalechina/hugging-llm) - HuggingLLM, Hugging Future.
+- [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
 - [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
@@ -3687,6 +3688,8 @@
 
 ## Python 
 
+- [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - An experimental AI framework for automated short/video content creation. Enables creators to rapidly produce, manage, and deliver content using AI and automation.
+- [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model
 - [filip-michalsky/SalesGPT](https://github.com/filip-michalsky/SalesGPT) - Context-aware AI Sales Agent to automate sales outreach.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
@@ -3739,7 +3742,6 @@
 - [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
 - [101dotxyz/GPTeam](https://github.com/101dotxyz/GPTeam) - GPTeam: An open-source multi-agent simulation
 - [kuleshov-group/llmtune](https://github.com/kuleshov-group/llmtune) - 4-Bit Finetuning of Large Language Models on One Consumer GPU
-- [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（低价），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 - [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
@@ -3817,7 +3819,7 @@
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [shibing624/text2vec](https://github.com/shibing624/text2vec) - text2vec, text to vector. 文本向量表征工具，把文本转化为向量矩阵，实现了Word2Vec、RankBM25、Sentence-BERT、CoSENT等文本表征、文本相似度计算模型，开箱即用。
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered software that's reliable, scalable, and easy to trust
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - 🧩 A lightweight AI engineering framework for building natural language interfaces that are reliable, scalable, and easy to trust.
 - [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
 - [Picsart-AI-Research/Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero) - Text-to-Image Diffusion Models are Zero-Shot Video Generators, ICCV 2023
@@ -3849,7 +3851,7 @@
 - [replicate/controlnet](https://github.com/replicate/controlnet) - Let us control diffusion models
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 - [pkhungurn/talking-head-anime-demo](https://github.com/pkhungurn/talking-head-anime-demo) - Demo for the "Talking Head Anime from a Single Image."
-- [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复
+- [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&A experien
 - [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit) - 
@@ -3858,7 +3860,7 @@
 - [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - 基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)
 - [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) - 
 - [hwchase17/chat-your-data](https://github.com/hwchase17/chat-your-data) - 
-- [hwchase17/chat-langchain](https://github.com/hwchase17/chat-langchain) - 
+- [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [git-cloner/codegen](https://github.com/git-cloner/codegen) - Salesforce codegen with web server
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -4552,7 +4554,7 @@
 - [Sh4yy/cloudflare-email](https://github.com/Sh4yy/cloudflare-email) - This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [vercel-labs/ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs
-- [vercel-labs/ai](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, and Vue
+- [vercel-labs/ai](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🍭 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
 - [AprilNEA/ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web) - 带有用户管理和后台管理系统的 ChatGPT WebUI
