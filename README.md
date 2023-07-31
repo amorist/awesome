@@ -1764,6 +1764,7 @@
 
 ## Java 
 
+- [looooooooooooooooooooooool/UniSerialPort](https://github.com/looooooooooooooooooooooool/UniSerialPort) - uni-app的Android平台串口通信插件，支持串口号、波特率、数据位、校验位、停止位、流控等参数设置，能够控制数据的收发
 - [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
 - [aress31/burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.
 - [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
@@ -3774,7 +3775,7 @@
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [chuanqixu/anki-quick-ai](https://github.com/chuanqixu/anki-quick-ai) - Quick interaction with OpenAI in Anki.
-- [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!
+- [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot!
 - [NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 - [OpenBMB/BMTools](https://github.com/OpenBMB/BMTools) - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins
 - [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
@@ -4959,6 +4960,7 @@
 - [grpc/grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
+- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [egoist/logbox](https://github.com/egoist/logbox) - View console logs and errors on any website without opening the devtools
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [akveo/kittenTricks](https://github.com/akveo/kittenTricks) - React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
@@ -5461,7 +5463,6 @@
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [prismicio/vue-essential-slices](https://github.com/prismicio/vue-essential-slices) - A set of professionally made, accessible Vue components, linked to a (Prismic) backend
 - [GavinZhuLei/vue-form-making](https://github.com/GavinZhuLei/vue-form-making) - A visual form designer/generator base on Vue.js, make form development simple and efficient.（基于Vue的可视化表单设计器，让表单开发简单而高效。）
-- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [techreagan/vue-nodejs-youtube-clone](https://github.com/techreagan/vue-nodejs-youtube-clone) - This is the frontend (VueJS) of the Youtube clone called VueTube.
 - [niefy/wx-client](https://github.com/niefy/wx-client) - 微信公众号接口wx-api前端示例项目，包含微信登录、微信分享、CMS文章示例功能
 - [iamdarcy/hioshop-admin](https://github.com/iamdarcy/hioshop-admin) - 海风小店,开源商城,微信小程序商城管理后台,后台管理,VUE
