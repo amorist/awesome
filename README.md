@@ -253,7 +253,7 @@
 - [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) - 
 - [liuchuo/Lanqiao](https://github.com/liuchuo/Lanqiao) - 🍦 蓝桥杯竞赛练习题的题解(C/C++/Java)-努力成为萌萌的程序媛～
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
-- [charlieduong94/node-golang-native-addon-experiment](https://github.com/charlieduong94/node-golang-native-addon-experiment) - Experimenting with Go's cgo lib and Node native addons
+- [ctdio/node-golang-native-addon-experiment](https://github.com/ctdio/node-golang-native-addon-experiment) - Experimenting with Go's cgo lib and Node native addons
 - [yue/yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
@@ -2655,6 +2655,7 @@
 - [sghall/react-move](https://github.com/sghall/react-move) - React Move | Beautiful, data-driven animations for React
 - [SouthbankSoftware/dbkoda](https://github.com/SouthbankSoftware/dbkoda) - State of the art MongoDB IDE
 - [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and express
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [zeke/semantic-pull-requests](https://github.com/zeke/semantic-pull-requests) - :robot: Let the robots take care of the semantic versioning
 - [drcmda/mauerwerk](https://github.com/drcmda/mauerwerk) - ⚒  A react-spring driven masonry-like grid with enter/exit and shared element transitions
@@ -3929,7 +3930,7 @@
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [Wizz1337/TikTokMassBotting](https://github.com/Wizz1337/TikTokMassBotting) - TikTok Mass View & Share Boting ~ Patched
 - [F-Society-Freaks/TikTok-Shares-Botter](https://github.com/F-Society-Freaks/TikTok-Shares-Botter) - Adds TikTok Shares for you.
-- [neuml/txtai](https://github.com/neuml/txtai) - 💡 Semantic search and workflows powered by language models
+- [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 - [LawRefBook/Laws](https://github.com/LawRefBook/Laws) - 
 - [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
 - [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
@@ -5279,7 +5280,6 @@
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [reduxjs/react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
 - [Ovilia/moonight](https://github.com/Ovilia/moonight) - 音频手绘可视化 - 今夜月色真美
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [djyde/serlina](https://github.com/djyde/serlina) - A progressive React serverside-rendering framework.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [MoeFE/GoogleTranslate](https://github.com/MoeFE/GoogleTranslate) - 🌐 Google 翻译 Mac 客户端
