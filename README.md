@@ -1644,7 +1644,6 @@
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [HiddenStrawberry/Crawler_Illegal_Cases_In_China](https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China) - Collection of China illegal cases about web crawler 本项目用来整理所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线。 [AD]中文知识图谱门户
 - [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [OCA/stock-logistics-workflow](https://github.com/OCA/stock-logistics-workflow) - Odoo Stock, Workflow and Organization
 - [OCA/sale-workflow](https://github.com/OCA/sale-workflow) - Odoo Sales, Workflow and Organization
 - [evmn/Paul-Graham](https://github.com/evmn/Paul-Graham) - Paul Graham's Essays, Kindle version, set several sections for easy navigation
@@ -3064,7 +3063,7 @@
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) - 
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
-- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data & AI templates, organized by tools to jumpstart your projects and data products in minutes. 😎  published by the Naas community.
+- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data & AI templates, organized by tools to jumpstart your projects and data products in minutes.
 - [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) - 
 - [hyqyoung/computer-vision-in-action](https://github.com/hyqyoung/computer-vision-in-action) - 《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（更新中，可以先 star）
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
@@ -3697,7 +3696,7 @@
 - [SthPhoenix/InsightFace-REST](https://github.com/SthPhoenix/InsightFace-REST) - InsightFace REST API for easy deployment of face recognition services with TensorRT in Docker.
 - [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
 - [deforum-art/deforum-stable-diffusion](https://github.com/deforum-art/deforum-stable-diffusion) - 
-- [yeagerai/genworlds](https://github.com/yeagerai/genworlds) - The pod that creates, ensembles, and deploys agents on demand.
+- [yeagerai/genworlds](https://github.com/yeagerai/genworlds) - An open-source framework for building reliable multi-agent systems.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain
 - [stoyan-stoyanov/llmflows](https://github.com/stoyan-stoyanov/llmflows) - LLMFlows - Simple, Explicit and Transparent LLM Apps
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
@@ -3741,7 +3740,7 @@
 - [enhuiz/vall-e](https://github.com/enhuiz/vall-e) - An unofficial PyTorch implementation of the audio LM VALL-E
 - [THUDM/VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B) - Chinese and English multimodal conversational language model | 多模态中英双语对话语言模型
 - [pgalko/BambooAI](https://github.com/pgalko/BambooAI) - A lightweight library that leverages Language Models (LLMs) to enable natural language interactions, allowing you to source and converse with data.
-- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - Visual Instruction Tuning: Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [gustavz/DataChad](https://github.com/gustavz/DataChad) - Ask questions about any data source by leveraging langchains
@@ -4391,6 +4390,7 @@
 - [oracle/docker-images](https://github.com/oracle/docker-images) - Official source of container configurations, images, and examples for Oracle products and projects
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [tldr-devops/startpack](https://github.com/tldr-devops/startpack) - Selfhosted tech starter pack for development of new project or startup
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [scottyhardy/docker-wine](https://github.com/scottyhardy/docker-wine) - Docker image that includes Wine and Winetricks for running Windows applications on Linux and macOS
 - [haysclark/docker-backburner](https://github.com/haysclark/docker-backburner) - Unofficial Autodesk® Backburner™ Docker container
 - [mochat-cloud/docker-compose](https://github.com/mochat-cloud/docker-compose) - 🐳 The docker compose offered by MoChat.
@@ -4560,6 +4560,7 @@
 
 ## TypeScript 
 
+- [ill-inc/biomes-game](https://github.com/ill-inc/biomes-game) - Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly.
 - [a16z-infra/ai-town](https://github.com/a16z-infra/ai-town) - A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
 - [rajeshdavidbabu/pdf-chat-ai](https://github.com/rajeshdavidbabu/pdf-chat-ai) - An AI powered Next.js app to chat with your PDF files and get a streamed response using Langchain and PineconeDB ✨🤖💻🗃️
 - [psychic-api/rag-stack](https://github.com/psychic-api/rag-stack) - 🤖 Deploy a private ChatGPT alternative hosted within your VPC. 🔮 Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and 
