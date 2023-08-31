@@ -3709,7 +3709,7 @@
 - [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
 - [deforum-art/deforum-stable-diffusion](https://github.com/deforum-art/deforum-stable-diffusion) - 
 - [yeagerai/genworlds](https://github.com/yeagerai/genworlds) - An open-source framework for building reliable multi-agent systems.
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain. Khoj provides you with an easy way to setup the infrastructure to search and chat with your personal knowledge base, be it markdown, org, image, or PDF
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
 - [stoyan-stoyanov/llmflows](https://github.com/stoyan-stoyanov/llmflows) - LLMFlows - Simple, Explicit and Transparent LLM Apps
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for automated short/video content creation.
@@ -3760,7 +3760,7 @@
 - [guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [jaywalnut310/vits](https://github.com/jaywalnut310/vits) - VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech
 - [Paraworks/vits_with_chatgpt-gpt3](https://github.com/Paraworks/vits_with_chatgpt-gpt3) - 
-- [newreport/vtbai](https://github.com/newreport/vtbai) - ai live，ai vtb，bilibili live with chatgpt，基于chatgpt后端进行ai直播，配合obs和vts，需要图形化界面
+- [SawatsukiAmano/vtbai](https://github.com/SawatsukiAmano/vtbai) - ai live，ai vtb，bilibili live with chatgpt，基于chatgpt后端进行ai直播，配合obs和vts，需要图形化界面
 - [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
 - [101dotxyz/GPTeam](https://github.com/101dotxyz/GPTeam) - GPTeam: An open-source multi-agent simulation
 - [kuleshov-group/llmtune](https://github.com/kuleshov-group/llmtune) - 4-Bit Finetuning of Large Language Models on One Consumer GPU
@@ -3780,7 +3780,6 @@
 - [FeiiYin/SPI](https://github.com/FeiiYin/SPI) - [CVPR 2023] SPI: 3D GAN Inversion with Facial Symmetry Prior
 - [RenYurui/PIRender](https://github.com/RenYurui/PIRender) - The source code of the ICCV2021 paper "PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering"
 - [donydchen/ganimation_replicate](https://github.com/donydchen/ganimation_replicate) - An Out-of-the-Box Replication of GANimation using PyTorch, pretrained weights are available!
-- [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [OpenTalker/video-retalking](https://github.com/OpenTalker/video-retalking) - [SIGGRAPH Asia 2022] VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild
 - [EvelynFan/FaceFormer](https://github.com/EvelynFan/FaceFormer) - [CVPR 2022] FaceFormer: Speech-Driven 3D Facial Animation with Transformers
 - [FACEGOOD/FACEGOOD-Audio2Face](https://github.com/FACEGOOD/FACEGOOD-Audio2Face) - http://www.facegood.cc
@@ -4618,6 +4617,7 @@
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based question answering system built on the LLM. It offers out-of-the-box data processing and model invocation capabilities. Moreover, it allows for workflow orchestration thro
 - [different-ai/chat-gpt-powered-nextra](https://github.com/different-ai/chat-gpt-powered-nextra) - Two-clicks ChatGPT-powered QA documentation
 - [dissorial/doc-chatbot](https://github.com/dissorial/doc-chatbot) - Document chatbot — multiple files, topics, chat windows and chat history. Powered by GPT.
+- [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [webwhiz-ai/webwhiz](https://github.com/webwhiz-ai/webwhiz) - WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries.
 - [miurla/babyagi-ui](https://github.com/miurla/babyagi-ui) - BabyAGI UI is designed to make it easier to run and develop with babyagi in a web app, like a ChatGPT.
 - [fedtop/dev-go](https://github.com/fedtop/dev-go) - 🤖 一个专属于开发者的超级无敌浏览器扩展插件。(A super unbeatable browser extension plugin for developers.)💪
@@ -4846,7 +4846,7 @@
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
-- [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework, a npm package solution and a documentation site solution.
+- [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework, a npm package solution and a build tool.
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,739+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any De
 - [troisjs/trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
 - [BabylonJS/Editor](https://github.com/BabylonJS/Editor) - Community managed visual editor for Babylon.js
