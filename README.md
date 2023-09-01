@@ -3065,7 +3065,7 @@
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) - 
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
-- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data & AI Notebook templates, organized by tools to jumpstart your projects and data products in minutes.
+- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - A catalog of ready to use data & AI Notebook templates, organized by tools to jumpstart your projects and data products in minutes.
 - [benyaminahmed/nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) - 
 - [hyqyoung/computer-vision-in-action](https://github.com/hyqyoung/computer-vision-in-action) - 《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（更新中，可以先 star）
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
@@ -3825,7 +3825,7 @@
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
-- [HKUNLP/instructor-embedding](https://github.com/HKUNLP/instructor-embedding) - [ACL 2023] One Embedder, Any Task: Instruction-Finetuned Text Embeddings
+- [xlang-ai/instructor-embedding](https://github.com/xlang-ai/instructor-embedding) - [ACL 2023] One Embedder, Any Task: Instruction-Finetuned Text Embeddings
 - [ShreyaR/guardrails](https://github.com/ShreyaR/guardrails) - Adding guardrails to large language models.
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [towhee-io/towhee](https://github.com/towhee-io/towhee) - Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast.
