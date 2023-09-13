@@ -2097,7 +2097,7 @@
 - [stefanbuck/github-issue-parser](https://github.com/stefanbuck/github-issue-parser) - 
 - [MauriceConrad/iCloud-API](https://github.com/MauriceConrad/iCloud-API) - Node API for Apple's iCloud services
 - [a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端性能监控系统，也是一款埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.
-- [casbin/casibase](https://github.com/casbin/casibase) - Open-source AI vector & knowledge database with beautiful web UI. See demo at: https://ai.casbin.com
+- [casbin/casibase](https://github.com/casbin/casibase) - Open-source AI vector & knowledge database with beautiful web UI, similar to LangChain. See demo at: https://ai.casbin.com
 - [TeamStuQ/Poster](https://github.com/TeamStuQ/Poster) - 海报生成器：http://www.geekbang.org/poster
 - [FernAbby/H5-Activities](https://github.com/FernAbby/H5-Activities) - 存放部分活动页面,包含大转盘、砸金蛋、刮刮卡、摇一摇、投票、问卷、抓娃娃、砍价、优惠券投票、意见收集等活动......
 - [haoguangpu/H5](https://github.com/haoguangpu/H5) - 个人制作或收集的一些H5微信场景
@@ -3223,6 +3223,7 @@
 
 ## Others 
 
+- [litter-coder/midjourney-proxy-plus](https://github.com/litter-coder/midjourney-proxy-plus) - midjourney-proxy的先行版
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [gongminmin/awesome-aigc](https://github.com/gongminmin/awesome-aigc) - A list of awesome AIGC works
 - [span-man/ebooks](https://github.com/span-man/ebooks) - 
@@ -4582,6 +4583,7 @@
 
 ## TypeScript 
 
+- [litter-coder/midjourney-proxy-admin](https://github.com/litter-coder/midjourney-proxy-admin) - midjourney-proxy的管理后台
 - [yuque/yuque-chrome-extension](https://github.com/yuque/yuque-chrome-extension) - 🚀🚀🚀 语雀浏览器插件
 - [ykhli/cat-town](https://github.com/ykhli/cat-town) - A custom AI-town with cats. Based on https://github.com/a16z-infra/AI-town
 - [ill-inc/biomes-game](https://github.com/ill-inc/biomes-game) - Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly.
