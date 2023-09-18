@@ -7,7 +7,6 @@
 
 - [AppleScript](#applescript)
 - [Assembly](#assembly)
-- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [Bicep](#bicep)
 - [Blade](#blade)
@@ -86,10 +85,6 @@
 
 - [cwgavin/CatBreeds](https://github.com/cwgavin/CatBreeds) - A Xamarin app that recognizes the breeds of cats in the photos.
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
-
-## Astro 
-
-- [egoist/website](https://github.com/egoist/website) - EGOIST's homepage.
 
 ## Batchfile 
 
@@ -184,7 +179,7 @@
 - [FluffyFishGames/ACNHDesignPatternEditor](https://github.com/FluffyFishGames/ACNHDesignPatternEditor) - An editor for Animal Crossing: New Horizons design patterns.
 - [sambeckingham/ACPatternMaker](https://github.com/sambeckingham/ACPatternMaker) - 
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
-- [SciSharp/BotSharp](https://github.com/SciSharp/BotSharp) - The LLM Powered Chatbot Framework in .NET
+- [SciSharp/BotSharp](https://github.com/SciSharp/BotSharp) - The LLM Application Framework in .NET
 - [microsoft/ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [Jessecar96/SteamBot](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with Steam Trade
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
@@ -2694,6 +2689,7 @@
 - [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
 - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
+- [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [deepsweet/hocs](https://github.com/deepsweet/hocs) - :bento: Higher-Order Components for React
 - [CannerCMS/cannercms](https://github.com/CannerCMS/cannercms) - ⚡️ Content Management Framework creates custom CMS fast and easy. Support data sources such as Firebase/Firestore, GraphQL and Restful APIs.
@@ -3147,6 +3143,7 @@
 - [weaveworks/weave-gitops](https://github.com/weaveworks/weave-gitops) - Weave GitOps provides insights into your application deployments, and makes continuous delivery with GitOps easier to adopt and scale across your teams.
 - [kentcdodds/kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) - My personal website
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
+- [egoist/website](https://github.com/egoist/website) - EGOIST's homepage.
 - [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
@@ -5325,7 +5322,6 @@
 - [MoeFE/GoogleTranslate](https://github.com/MoeFE/GoogleTranslate) - 🌐 Google 翻译 Mac 客户端
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
-- [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [data-observe/datav](https://github.com/data-observe/datav) - :unicorn: Datav is an extremely powerful observability  platform, mainly focus on APM data visualization. You can visualize metrics, traces and logs from various datasource, and correlate them easily 
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
