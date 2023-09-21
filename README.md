@@ -1119,6 +1119,7 @@
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [golang/proposal](https://github.com/golang/proposal) - Go Project Design Documents
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [wang502/gores](https://github.com/wang502/gores) - :construction_worker: Redis-backed library for creating background jobs in Go. Placing jobs in multiple queues, and process them later asynchronously.
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
@@ -1185,7 +1186,7 @@
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 - [superhawk610/bar](https://github.com/superhawk610/bar) - Port of the node-progress package, written in Golang.
 - [klauspost/pgzip](https://github.com/klauspost/pgzip) - Go parallel gzip (de)compression
-- [google/periph](https://github.com/google/periph) - Go·Hardware·Lean
+- [google/periph](https://github.com/google/periph) - Older version of periph, see new version at https://github.com/periph
 - [coreos/etcd-operator](https://github.com/coreos/etcd-operator) - etcd operator creates/configures/manages etcd clusters atop Kubernetes
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [raviqqe/muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
@@ -1238,7 +1239,7 @@
 - [casbin/casbin-server](https://github.com/casbin/casbin-server) - Casbin as a Service (CaaS)
 - [EndlessCheng/mahjong-helper](https://github.com/EndlessCheng/mahjong-helper) - 日本麻将助手：牌效+防守+记牌（支持雀魂、天凤）
 - [glepnir/leaseapp](https://github.com/glepnir/leaseapp) - go开发的后台API
-- [antonmedv/red](https://github.com/antonmedv/red) - Terminal log analysis tools
+- [webpod/red](https://github.com/webpod/red) - Terminal log analysis tools
 - [davecheney/high-performance-go-workshop](https://github.com/davecheney/high-performance-go-workshop) - 
 - [mattn/go-runewidth](https://github.com/mattn/go-runewidth) - wcwidth for golang
 - [josharian/impl](https://github.com/josharian/impl) - impl generates method stubs for implementing an interface.
@@ -3146,7 +3147,6 @@
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
 - [egoist/website](https://github.com/egoist/website) - EGOIST's homepage.
 - [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
 ## Makefile 
 
@@ -4304,7 +4304,7 @@
 - [faker-ruby/faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
-- [sferik/t](https://github.com/sferik/t) - A command-line power tool for Twitter.
+- [sferik/t-ruby](https://github.com/sferik/t-ruby) - A command-line power tool for Twitter.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [kkuchta/css-only-chat](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using no JS whatsoever on the frontend
@@ -4388,7 +4388,6 @@
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
 - [zerostaticthemes/hugo-hero-theme](https://github.com/zerostaticthemes/hugo-hero-theme) - A multi-page Hugo theme with fullscreen hero images and fullwidth sections.
-- [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [picturepan2/devices.css](https://github.com/picturepan2/devices.css) - Devices.css - Modern devices crafted in pure CSS
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
@@ -5143,6 +5142,7 @@
 - [ganlvtech/phaser-catch-the-cat](https://github.com/ganlvtech/phaser-catch-the-cat) - An HTML5 game 'Catch The Cat' powered by Phaser 3
 - [FaridSafi/react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - 💬 The most complete chat UI for React Native
 - [szdc/tiktok-api](https://github.com/szdc/tiktok-api) - Unofficial API wrapper for TikTok
+- [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [canvg/canvg](https://github.com/canvg/canvg) - JavaScript SVG parser and renderer on Canvas
 - [szimek/signature_pad](https://github.com/szimek/signature_pad) - HTML5 canvas based smooth signature drawing
 - [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
@@ -5324,7 +5324,7 @@
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [data-observe/datav](https://github.com/data-observe/datav) - :unicorn: Datav is an extremely powerful observability  platform, mainly focus on APM data visualization. You can visualize metrics, traces and logs from various datasource, and correlate them easily 
+- [data-observe/datav](https://github.com/data-observe/datav) - A modern data visualization  platform for APM and Observability. View metrics, traces and logs in one place and  correlate them deeply.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
