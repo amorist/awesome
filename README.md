@@ -127,7 +127,6 @@
 - [dresden-elektronik/deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin) - deCONZ REST-API plugin to control ZigBee devices
 - [peng-zhihui/HDMI-PI](https://github.com/peng-zhihui/HDMI-PI) - 我设计的一个HDMI转MIPI模块，可以用于驱动各种手机屏幕当显示器用。
 - [kn007/silk-v3-decoder](https://github.com/kn007/silk-v3-decoder) - [Skype Silk Codec SDK]Decode silk v3 audio files (like wechat amr, aud files, qq slk files) and convert to other format (like mp3). Batch conversion support.
-- [gtworek/PSBits](https://github.com/gtworek/PSBits) - Simple (relatively) things allowing you to dig a bit deeper than usual.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [n64decomp/sm64](https://github.com/n64decomp/sm64) - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
 - [arut/nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
@@ -1640,7 +1639,7 @@
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 - [fromann/heart](https://github.com/fromann/heart) - 点燃我温暖你李洵同款爱心代码，爱心跳动代码，爱心代码
 - [Kirilllive/ASCII_Art_Paint](https://github.com/Kirilllive/ASCII_Art_Paint) - The editor for ASCII-graphics, combining a graphical editor and an image to text converter. Decorate your text and surprise your readers with an original social media post or blog post using ASCII gra
-- [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
+- [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [doocs/technical-books](https://github.com/doocs/technical-books) - 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习...
@@ -3692,6 +3691,7 @@
 
 - [microsoftgraph/msgraph-typescript-typings](https://github.com/microsoftgraph/msgraph-typescript-typings) - Microsoft Graph TypeScript Type Definitions
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
+- [gtworek/PSBits](https://github.com/gtworek/PSBits) - Simple (relatively) things allowing you to dig a bit deeper than usual.
 - [AliyunContainerService/k8s-for-docker-desktop](https://github.com/AliyunContainerService/k8s-for-docker-desktop) - 为Docker Desktop for Mac/Windows开启Kubernetes和Istio。
 - [hotvulcan/Thanos.sh](https://github.com/hotvulcan/Thanos.sh) - if you are Thanos(root), this command could delete half your files randomly
 - [denoland/deno_install](https://github.com/denoland/deno_install) - Deno Binary Installer
@@ -3777,7 +3777,7 @@
 - [enhuiz/vall-e](https://github.com/enhuiz/vall-e) - An unofficial PyTorch implementation of the audio LM VALL-E
 - [THUDM/VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B) - Chinese and English multimodal conversational language model | 多模态中英双语对话语言模型
 - [pgalko/BambooAI](https://github.com/pgalko/BambooAI) - A lightweight library that leverages Language Models (LLMs) to enable natural language interactions, allowing you to source and converse with data.
-- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - Visual Instruction Tuning: Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS 2023 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards multimodal GPT-4 level capabilities.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [gustavz/DataChad](https://github.com/gustavz/DataChad) - Ask questions about any data source by leveraging langchains
 - [e-johnstonn/BriefGPT](https://github.com/e-johnstonn/BriefGPT) - Locally hosted tool that connects documents to LLMs for summarization and querying, with a simple GUI.
@@ -3921,7 +3921,7 @@
 - [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub) - 
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - Wechat robot based on ChatGPT,  which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于 GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/LinkAI，支持个人微信、公众号、企业微信部署，能处理文本、语音和图片，访问操作系统和互联网，支持基于知识库定制专属机器人。
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [HUANGZHIHAO1994/weibo-analysis-and-visualization](https://github.com/HUANGZHIHAO1994/weibo-analysis-and-visualization) - 使用python抓取微博数据并对微博文本分析和可视化，LDA（树图）、关系图、词云、时间趋势（折线图）、热度地图、词典情感分析（饼图和3D柱状图）、词向量神经网络情感分析、tfidf聚类、词向量聚类、关键词提取、文本相似度分析等
@@ -4346,7 +4346,6 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
@@ -4805,6 +4804,7 @@
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet) - A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets
 - [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - Redis GUI by Redis
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
 - [sunflower-land/sunflower-land](https://github.com/sunflower-land/sunflower-land) - 
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
