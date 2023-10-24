@@ -1487,7 +1487,7 @@
 - [valyala/fastjson](https://github.com/valyala/fastjson) - Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection
 - [nfnt/resize](https://github.com/nfnt/resize) - Pure golang image resizing
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
-- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
+- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [usetania/tania-core](https://github.com/usetania/tania-core) - Tania is a farm management software for the hobbyist and smallholder farmer.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
@@ -5155,7 +5155,7 @@
 - [crawlab-team/artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
-- [heluxjs/helux](https://github.com/heluxjs/helux) - A simple and powerful react state library with dependency collection, computed and watch, compatible with react 18 concurrency mode.
+- [heluxjs/helux](https://github.com/heluxjs/helux) - A react state lib with atom、derive、share、watch features, compatible with react 18.
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming
 - [axetroy/deno_storage](https://github.com/axetroy/deno_storage) - implementation of localStorage and sessionStorage for Deno
 - [stack-labs/XConf](https://github.com/stack-labs/XConf) - 分布式配置中心
