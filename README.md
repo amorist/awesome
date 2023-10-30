@@ -48,6 +48,7 @@
 - [Mercury](#mercury)
 - [Mustache](#mustache)
 - [NSIS](#nsis)
+- [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
@@ -2105,7 +2106,7 @@
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
 - [stefanbuck/github-issue-parser](https://github.com/stefanbuck/github-issue-parser) - 
 - [MauriceConrad/iCloud-API](https://github.com/MauriceConrad/iCloud-API) - Node API for Apple's iCloud services
-- [casibase/casibase](https://github.com/casibase/casibase) - ⚡️Open-source LangChain-like AI knowledge database with web UI,and Enterprise SSO⚡️, supports OpenAI, Azure, HuggingFace, OpenRouter, ChatGLM and local models, demo site: https://ai.casibase.com
+- [casibase/casibase](https://github.com/casibase/casibase) - ⚡️Open-source LangChain-like AI knowledge database with web UI,and Enterprise SSO⚡️, supports OpenAI, Azure, HuggingFace, OpenRouter, ChatGLM and local models, chat demo: https://ai.casbin.com, admin 
 - [TeamStuQ/Poster](https://github.com/TeamStuQ/Poster) - 海报生成器：http://www.geekbang.org/poster
 - [FernAbby/H5-Activities](https://github.com/FernAbby/H5-Activities) - 存放部分活动页面,包含大转盘、砸金蛋、刮刮卡、摇一摇、投票、问卷、抓娃娃、砍价、优惠券投票、意见收集等活动......
 - [haoguangpu/H5](https://github.com/haoguangpu/H5) - 个人制作或收集的一些H5微信场景
@@ -3189,6 +3190,10 @@
 ## NSIS 
 
 - [electron-userland/electron-builder-binaries](https://github.com/electron-userland/electron-builder-binaries) - 
+
+## Nix 
+
+- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 
 ## OCaml 
 
@@ -4353,7 +4358,8 @@
 - [phodal/aigc](https://github.com/phodal/aigc) - 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
 - [datafuselabs/askbend](https://github.com/datafuselabs/askbend) - AskBend: SQL-based Knowledge Base Search and Completion using Databend
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - Alternative to Snowflake. Cost-effective and simple for massive-scale analytics. DatabendCloud: https://databend.com
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com
@@ -4616,7 +4622,6 @@
 - [erictik/midjourney-api](https://github.com/erictik/midjourney-api) - MidJourney client. Unofficial Node.js client
 - [joschan21/quill](https://github.com/joschan21/quill) - Quill - A Modern SaaS-Platform Built With Next.js 13
 - [zhbhun/idify](https://github.com/zhbhun/idify) - Make ID photo right in the browser.
-- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [microsoft/azurechat](https://github.com/microsoft/azurechat) - 🤖 💼  Azure Chat Solution Accelerator powered by Azure Open AI Service
 - [litter-coder/midjourney-proxy-admin](https://github.com/litter-coder/midjourney-proxy-admin) - midjourney-proxy的管理后台
 - [yuque/yuque-chrome-extension](https://github.com/yuque/yuque-chrome-extension) - 🚀🚀🚀 语雀浏览器插件
@@ -4692,7 +4697,6 @@
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
 - [editor-js/create-tool](https://github.com/editor-js/create-tool) - Single command Editor.js Tool generator
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
 - [alibaba/ChatUI](https://github.com/alibaba/ChatUI) - The UI design language and React library for Conversational UI
