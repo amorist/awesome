@@ -397,7 +397,7 @@
 - [erluxman/awesomefluttertips](https://github.com/erluxman/awesomefluttertips) - ❤️ Awesome Flutter Tips and Tricks  ❤️
 - [limichange/bangumi-client](https://github.com/limichange/bangumi-client) - 基于Flutter的二次元追番客户端
 - [ionicfirebaseapp/getwidget](https://github.com/ionicfirebaseapp/getwidget) - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.  Built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [dayjs/day.dart](https://github.com/dayjs/day.dart) - ⏰ Day.js in dart. Day.dart is inspired by Day.js. Write with nearly the same API. Build on the top of the powerful DateTime class.
 - [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
 - [alibaba/flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
@@ -613,7 +613,7 @@
 - [megaease/easeprobe](https://github.com/megaease/easeprobe) - A simple, standalone, and lightweight tool that can do health/status checking, written in Go.
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io
 - [why444216978/gin-api](https://github.com/why444216978/gin-api) - Go 微服务框架，Router 基于 Gin，同时支持 gRPC 和 HTTP，封装各种常用组件，开箱即用，专注业务。
-- [admpub/nging](https://github.com/admpub/nging) - 漂亮的Go语言通用后台管理系统，包含：计划任务 / MySQL管理 / Redis管理 / FTP管理 / SSH管理 / 服务器管理 / Caddy配置 / DDNS / FRP可视化配置 / 云存储管理 等功能。可运行于 Windows / Linux / MacOS 等主流系统平台和 树莓派 / 路由器 等ARM设备
+- [admpub/nging](https://github.com/admpub/nging) - Go语言Web管理面板，包含：计划任务 / MySQL管理 / Redis管理 / FTP管理 / SSH管理 / 服务器管理 / Caddy和Nginx配置 / DDNS / FRP可视化配置 / 云存储管理 等功能。可运行于 Windows / Linux / MacOS 等主流系统平台和 树莓派 / 路由器 等ARM设备
 - [YaoApp/gou](https://github.com/YaoApp/gou) - App engine framework
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 - [italiaremote/awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) - A list of remote-friendly or full-remote companies that targets Italian talents.
@@ -1814,7 +1814,7 @@
 - [dataease/dataease](https://github.com/dataease/dataease) - 人人可用的开源数据可视化分析工具。
 - [TencentBlueKing/bk-job](https://github.com/TencentBlueKing/bk-job) - 蓝鲸作业平台（Job）是一套运维基础操作管理系统，具备海量任务并发处理能力。除了支持脚本执行、文件分发、定时任务等一系列基础运维场景以外，还支持通过流程调度能力将零碎的单个任务组装成一个自动化作业流程；而每个作业都可做为一个原子节点，提供给上层或周边系统/平台使用，实现调度自动化。
 - [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
+- [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 - [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [981011512/--](https://github.com/981011512/--) - 停车场系统源码，新能源充电桩系统，停车场小程序，智能停车，Parking system，【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持a
@@ -1973,7 +1973,7 @@
 - [frappe/gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
-- [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
+- [browserless/browserless](https://github.com/browserless/browserless) - The browserless service in Docker. Run on our cloud or bring your own.
 - [jerosoler/Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
 - [seeksdream/relation-graph](https://github.com/seeksdream/relation-graph) - relation-graph is a relationship graph display component that supports Vue2, Vue3, React. Allowing you to fully customize the graphical elements using HTML/CSS and Vue or React components through slot
 - [ritaswc/wechat_app_template](https://github.com/ritaswc/wechat_app_template) - 微信小程序源码，模板
@@ -2075,7 +2075,7 @@
 - [saltcorn/saltcorn](https://github.com/saltcorn/saltcorn) - Free and open source no-code application builder
 - [grouparoo/grouparoo](https://github.com/grouparoo/grouparoo) - 🦘 The Grouparoo Monorepo - open source customer data sync framework
 - [ovineio/ovine](https://github.com/ovineio/ovine) - Build entirety admin system ui blazing fast with json.
-- [steedos/steedos-platform](https://github.com/steedos/steedos-platform) - Open-source alternative to Salesforce Low-code Platform 🤖 🎨 🚀   Steedos is a new way to manage and develop Low-Code apps across their entire lifecycle, enable source-driven development, team collabora
+- [steedos/steedos-platform](https://github.com/steedos/steedos-platform) - Steedos emerges as a powerful open-source contender to Salesforce's low-code platform. 🤖 🎨 🚀   Steedos is a new way to manage and develop Low-Code apps across their entire lifecycle, enable source-dri
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [bxm0927/canvas-special](https://github.com/bxm0927/canvas-special) - :octocat::alien::star2:超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等。
@@ -2195,7 +2195,6 @@
 - [vipshop/ams](https://github.com/vipshop/ams) - AMS是基于 Vue.js 和 Element组件库、通过JSON配置来快速搭建管理后台的一整套前端解决方案
 - [node-config/node-config](https://github.com/node-config/node-config) - Node.js Application Configuration
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
-- [strapi/strapi-examples](https://github.com/strapi/strapi-examples) - :mortar_board: List of examples using Strapi
 - [sanyuered/WeChat-MiniProgram-AR-3D](https://github.com/sanyuered/WeChat-MiniProgram-AR-3D) - A WeChat MiniProgram 3D that includes a Panorama Viewer and a 3D Viewer using the device orientation control.
 - [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 - [architect/architect](https://github.com/architect/architect) - The simplest, most powerful way to build a functional web app (fwa)
@@ -3232,6 +3231,7 @@
 
 ## Others 
 
+- [vercel/geist-font](https://github.com/vercel/geist-font) - 
 - [ProfSynapse/Synapse_CoR](https://github.com/ProfSynapse/Synapse_CoR) - 
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [ynwynw/allProject](https://github.com/ynwynw/allProject) - springboot 电商书城  springboot酒店预订管理管理  springboot超市管理系统  springboot  + vue 超市管理系统  springboot 人事oa管理系统  springboot 房屋租赁系统  springboot 个人博客系统  springboot + vue 宠物交易/租赁系统  springboot 宠物商城  springboot 花店商城
@@ -3372,6 +3372,7 @@
 - [quilljs/awesome-quill](https://github.com/quilljs/awesome-quill) - A curated list of awesome things related to Quill
 - [hereappdev/Here-Plugins](https://github.com/hereappdev/Here-Plugins) - Plugins for Here App 🚀
 - [deniseyu/tech-talking](https://github.com/deniseyu/tech-talking) - Resources for both beginners and seasoned public speakers to hone their technical speaking skills!
+- [strapi/strapi-examples](https://github.com/strapi/strapi-examples) - :mortar_board: List of examples using Strapi
 - [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
 - [sophi-li/OKRs-self-learning](https://github.com/sophi-li/OKRs-self-learning) - Sophia's OKRs for learning how to code.
 - [src-d/okrs](https://github.com/src-d/okrs) - Objectives & Key Results repository for the source{d} team
@@ -3862,7 +3863,7 @@
 - [openai/consistency_models](https://github.com/openai/consistency_models) - Official repo for consistency models.
 - [anuragxel/salt](https://github.com/anuragxel/salt) - Segment Anything Labelling Tool
 - [sail-sg/EditAnything](https://github.com/sail-sg/EditAnything) - Edit anything in images  powered by segment-anything, ControlNet, StableDiffusion, etc.
-- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
+- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society (NeruIPS'2023) https://www.camel-ai.org
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
@@ -4612,6 +4613,7 @@
 
 ## TypeScript 
 
+- [ykhli/local-ai-stack](https://github.com/ykhli/local-ai-stack) - A starter kit to build *local-only* AI apps that cost $0 to run -- starting with document Q&A. Written in Javascript
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text and vector search engine in &lt;2kb.
@@ -4635,9 +4637,9 @@
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [medusajs/nextjs-starter-medusa](https://github.com/medusajs/nextjs-starter-medusa) - A performant frontend ecommerce starter template with Next.js 13 and Medusa.
+- [medusajs/nextjs-starter-medusa](https://github.com/medusajs/nextjs-starter-medusa) - A performant frontend ecommerce starter template with Next.js 14 and Medusa.
 - [a16z-infra/companion-app](https://github.com/a16z-infra/companion-app) - AI companions with memory: a lightweight stack to create and host your own AI companions
-- [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform
+- [noodle-run/noodle](https://github.com/noodle-run/noodle) - Open Source Education Platform
 - [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs
 - [ONEARMY/community-platform](https://github.com/ONEARMY/community-platform) - A platform to build useful communities that aim to tackle global problems
 - [Sh4yy/cloudflare-email](https://github.com/Sh4yy/cloudflare-email) - This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
@@ -5399,7 +5401,7 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
-- [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers
+- [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
