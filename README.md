@@ -1658,7 +1658,7 @@
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
+- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 - [Saas-Starter-Kit/SAAS-Starter-Kit-Pro](https://github.com/Saas-Starter-Kit/SAAS-Starter-Kit-Pro) - 🚀A boilerplate for building Software-as-Service (SAAS) apps with Reactjs, and Nodejs
 - [holtzy/D3-graph-gallery](https://github.com/holtzy/D3-graph-gallery) - A collection of simple graphics made with D3.js
 - [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
@@ -1875,6 +1875,7 @@
 
 ## JavaScript 
 
+- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Code Source ERP CRM Alternative to SalesForce | Node Js React AntD MERN
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [souying/Midjourney-node-api](https://github.com/souying/Midjourney-node-api) - Midjourney-api,nodejs,非官方api，Midjourney绘画，Node.js client for the unofficial MidJourney API.
 - [FZliweiliang/wechat-app-mall](https://github.com/FZliweiliang/wechat-app-mall) - 微信小程序商城，微信小程序demo
@@ -1971,9 +1972,7 @@
 - [frappe/gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
-- [browserless/browserless](https://github.com/browserless/browserless) - The browserless service in Docker. Run on our cloud or bring your own.
 - [jerosoler/Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
-- [seeksdream/relation-graph](https://github.com/seeksdream/relation-graph) - relation-graph is a relationship graph display component that supports Vue2, Vue3, React. Allowing you to fully customize the graphical elements using HTML/CSS and Vue or React components through slot
 - [ritaswc/wechat_app_template](https://github.com/ritaswc/wechat_app_template) - 微信小程序源码，模板
 - [JimHans/live2d-kanban-desktop](https://github.com/JimHans/live2d-kanban-desktop) - 基于Electron制作的桌面看板娘，支持日程提醒、小窗模式、ChatGPT集成、网页搜索、本地moc模型加载与独立设置界面等  | An AI Based live2d Kanban for Desktop Users Using Electron
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
@@ -2124,7 +2123,7 @@
 - [Data-Camp/WeApp_Demos](https://github.com/Data-Camp/WeApp_Demos) - 持续更新中的微信小程序和小游戏的源码案例库。目前涵盖了120多个微信小程序或小游戏。
 - [shaynet10/puppeteer-video-recorder](https://github.com/shaynet10/puppeteer-video-recorder) - 
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
-- [maizzle/framework](https://github.com/maizzle/framework) - Quickly build HTML emails with utility-first CSS.
+- [maizzle/framework](https://github.com/maizzle/framework) - Quickly build HTML emails with Tailwind CSS.
 - [naufaldi/next-landing-vpn](https://github.com/naufaldi/next-landing-vpn) - An Open Source Landingpage For VPN or Apps. Build using NextJS 12 and Tailwind v3.0
 - [ant-motion/experience-cloud-landing-page](https://github.com/ant-motion/experience-cloud-landing-page) - 体验云的 landing page
 - [webfansplz/volute](https://github.com/webfansplz/volute) - Raspberry Pi + Nodejs = Speech Robot
@@ -2224,7 +2223,6 @@
 - [maptime-ams/geojson-3d](https://github.com/maptime-ams/geojson-3d) - GeoJSON & TopoJSON in 3D, with Three.js
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 - [MrXujiang/h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks. | 让H5制作像搭积木一样简单, 轻松搭建H5页面, H5网站, PC端网站,LowCode平台.
-- [actions/container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using https://github.com/actions/toolkit/
 - [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
 - [techreagan/youtube-clone-nodejs-api](https://github.com/techreagan/youtube-clone-nodejs-api) - VueTube is a YouTube clone built with nodejs, expressjs & mongodb. This is the RESTful API repository.
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
@@ -3725,6 +3723,7 @@
 
 ## Python 
 
+- [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.  将视频从一种语言翻译为另一种语言，并添加配音
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
 - [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙
 - [SerpentAI/SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!
@@ -4049,7 +4048,7 @@
 - [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
 - [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
-- [shibing624/pycorrector](https://github.com/shibing624/pycorrector) - pycorrector is a toolkit for text error correction. 文本纠错，实现了Kenlm，MacBERT，GPT等纠错模型，开箱即用。
+- [shibing624/pycorrector](https://github.com/shibing624/pycorrector) - pycorrector is a toolkit for text error correction. 文本纠错，实现了Kenlm，T5，MacBERT，ChatGLM3，LLaMA等模型应用在纠错场景，开箱即用。
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
@@ -4360,7 +4359,6 @@
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
 - [datafuselabs/askbend](https://github.com/datafuselabs/askbend) - AskBend: SQL-based Knowledge Base Search and Completion using Databend
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com
@@ -4612,6 +4610,7 @@
 
 ## TypeScript 
 
+- [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [ykhli/local-ai-stack](https://github.com/ykhli/local-ai-stack) - A starter kit to build *local-only* AI apps that cost $0 to run -- starting with document Q&A. Written in Javascript
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
@@ -4663,7 +4662,7 @@
 - [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
 - [avneesh0612/ChatCube](https://github.com/avneesh0612/ChatCube) - This is a 1:1 chatting app.
 - [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - An Opensource alternative to OpenAI GPTs 🧠 Your Second Brain supercharged by Generative AI 🧠  Your personal assistant on your files & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs t
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠  Alternative to OpenAI GPTs & Your personal assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, Vertex
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [lxfater/BilibiliSummary](https://github.com/lxfater/BilibiliSummary) - A chrome extension helps you summary video on bilibili.
 - [steven-tey/weathergpt](https://github.com/steven-tey/weathergpt) - ChatGPT Plugin starter template built with Next.js 13 App Router, Edge Functions, and Vercel
@@ -4698,6 +4697,7 @@
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
 - [editor-js/create-tool](https://github.com/editor-js/create-tool) - Single command Editor.js Tool generator
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
 - [alibaba/ChatUI](https://github.com/alibaba/ChatUI) - The UI design language and React library for Conversational UI
@@ -4811,6 +4811,8 @@
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 - [naskio/n8n-nodes-python](https://github.com/naskio/n8n-nodes-python) - Run Python code on n8n
 - [Idered/chalk.ist](https://github.com/Idered/chalk.ist) - 📷 Create beautiful images of your source code
+- [browserless/browserless](https://github.com/browserless/browserless) - The browserless service in Docker. Run on our cloud or bring your own.
+- [seeksdream/relation-graph](https://github.com/seeksdream/relation-graph) - relation-graph is a relationship graph display component that supports Vue2, Vue3, React. Allowing you to fully customize the graphical elements using HTML/CSS and Vue or React components through slot
 - [image-js/tiff](https://github.com/image-js/tiff) - TIFF image decoder written entirely in JavaScript
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [guansss/pixi-live2d-display](https://github.com/guansss/pixi-live2d-display) - A PixiJS plugin to display Live2D models of any kind.
@@ -5049,6 +5051,7 @@
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [egoist/logbox](https://github.com/egoist/logbox) - View console logs and errors on any website without opening the devtools
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
+- [actions/container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using https://github.com/actions/toolkit/
 - [akveo/kittenTricks](https://github.com/akveo/kittenTricks) - React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
 - [egoist/feedbackok-react](https://github.com/egoist/feedbackok-react) - React component for Feedback OK.
 - [egoist/feedbackok-js](https://github.com/egoist/feedbackok-js) - Collecting feedback with ease.
