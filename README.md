@@ -48,7 +48,6 @@
 - [Mercury](#mercury)
 - [Mustache](#mustache)
 - [NSIS](#nsis)
-- [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
@@ -1875,6 +1874,7 @@
 
 ## JavaScript 
 
+- [langchain-ai/langserve](https://github.com/langchain-ai/langserve) - LangServe 🦜️🏓
 - [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts) - 
 - [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Code Source ERP CRM Alternative to SalesForce | Node Js React AntD MERN
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
@@ -3186,10 +3186,6 @@
 
 - [electron-userland/electron-builder-binaries](https://github.com/electron-userland/electron-builder-binaries) - 
 
-## Nix 
-
-- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
-
 ## OCaml 
 
 - [fastpack/fastpack](https://github.com/fastpack/fastpack) - Pack JS code fast & easy
@@ -3722,6 +3718,7 @@
 
 ## Python 
 
+- [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI Vision API 🔥
 - [jxnl/instructor](https://github.com/jxnl/instructor) - openai function calls for humans
 - [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.  将视频从一种语言翻译为另一种语言，并添加配音
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
@@ -4614,6 +4611,7 @@
 
 ## TypeScript 
 
+- [llmonitor/llmonitor](https://github.com/llmonitor/llmonitor) - Observability & analytics for AI apps and agents.
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [ykhli/local-ai-stack](https://github.com/ykhli/local-ai-stack) - A starter kit to build *local-only* AI apps that cost $0 to run -- starting with document Q&A. Written in Javascript
@@ -4627,6 +4625,7 @@
 - [erictik/midjourney-api](https://github.com/erictik/midjourney-api) - MidJourney client. Unofficial Node.js client
 - [joschan21/quill](https://github.com/joschan21/quill) - Quill - A Modern SaaS-Platform Built With Next.js 13
 - [zhbhun/idify](https://github.com/zhbhun/idify) - Make ID photo right in the browser.
+- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [microsoft/azurechat](https://github.com/microsoft/azurechat) - 🤖 💼  Azure Chat Solution Accelerator powered by Azure Open AI Service
 - [yuque/yuque-chrome-extension](https://github.com/yuque/yuque-chrome-extension) - 🚀🚀🚀 语雀浏览器插件
 - [ykhli/cat-town](https://github.com/ykhli/cat-town) - A custom AI-town with cats. Based on https://github.com/a16z-infra/AI-town
