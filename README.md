@@ -570,7 +570,7 @@
 - [spf13/cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go
 - [zeromicro/zero-contrib](https://github.com/zeromicro/zero-contrib) - A collection of extensions and tools for go-zero.
 - [supabase-community/postgrest-go](https://github.com/supabase-community/postgrest-go) - Isomorphic Go client for PostgREST. (Now Updating)
-- [feihua/zero-admin](https://github.com/feihua/zero-admin) - zero-admin项目是一套电商系统，包括前台商城系统及后台管理系统，基于go-zero实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、权限管理、设置等模块。 (参考mall的一个实现(https://github.com/macr
+- [feihua/zero-admin](https://github.com/feihua/zero-admin) - Zero-Admin 是一套基于 go-zero 框架实现的电商系统，包括前台商城系统和后台管理系统。整个系统采用 Docker 容器化部署，提供了完整的电商解决方案。
 - [qifengzhang007/GinSkeleton](https://github.com/qifengzhang007/GinSkeleton) - 基于go语言gin框架封装的web项目骨架
 - [appwrite/sdk-for-go](https://github.com/appwrite/sdk-for-go) - [READ-ONLY] Official Appwrite GO SDK
 - [maliaga-pantoja/golang-appwrite-demo](https://github.com/maliaga-pantoja/golang-appwrite-demo) - golang demo using appwrite
@@ -4812,7 +4812,7 @@
 - [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
 - [liyupi/yulegeyu](https://github.com/liyupi/yulegeyu) - 羊了个羊纯前端实现版【鱼了个鱼】，自定义关卡+图案+无限道具，可在线玩：https://yulegeyu.cn
 - [microsoft/react-native-dualscreen](https://github.com/microsoft/react-native-dualscreen) - React Native Dual screen module
-- [runtipi/runtipi](https://github.com/runtipi/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
+- [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [eamesh/free-nutui](https://github.com/eamesh/free-nutui) - 基于free-core实现的Nutui跨端微页面编辑
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
@@ -4841,7 +4841,7 @@
 - [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 - [yaklang/yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
 - [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
-- [feihua/zero-admin-ui](https://github.com/feihua/zero-admin-ui) - zero-admin-ui是一个电商后台管理系统的前端项目，基于react实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、权限管理、设置等功能。
+- [feihua/zero-admin-ui](https://github.com/feihua/zero-admin-ui) - Zero-Admin-UI 是一个基于 React 实现的电商后台管理系统的前端项目。该项目涵盖了商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、权限管理、设置等多个功能模块，为管理者提供了便捷高效的操作界面。
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and m
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
