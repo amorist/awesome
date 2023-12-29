@@ -268,6 +268,7 @@
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [yanyiwu/cppjieba](https://github.com/yanyiwu/cppjieba) - "结巴"中文分词的C++版本
 - [cfsghost/jsdx-toolkit](https://github.com/cfsghost/jsdx-toolkit) - A graphical toolkit on JSDX framework. It aims to provide a node.js module for 3D user interface development.
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 
 ## CMake 
 
@@ -1560,7 +1561,7 @@
 - [keith-turner/ecoji](https://github.com/keith-turner/ecoji) - Encodes (and decodes) data as emojis
 - [emitter-io/emitter](https://github.com/emitter-io/emitter) - High performance, distributed and low latency publish-subscribe platform.
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
-- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
+- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 - [googollee/go-socket.io](https://github.com/googollee/go-socket.io) - socket.io library for golang, a realtime application framework.
 - [huntsman-li/go-cache](https://github.com/huntsman-li/go-cache) - This project encapsulates multiple db servers, redis、ledis、memcache、file、memory、nosql、postgresql
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
@@ -1671,7 +1672,7 @@
 - [holtzy/D3-graph-gallery](https://github.com/holtzy/D3-graph-gallery) - A collection of simple graphics made with D3.js
 - [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [bruceyanwee/text4photo](https://github.com/bruceyanwee/text4photo) - 
 - [mhaecal/skilline-landing-page](https://github.com/mhaecal/skilline-landing-page) - Free landing page template built on top of Tailwind CSS
@@ -1876,7 +1877,6 @@
 - [AbrahamCaiJin/CommonUtilLibrary](https://github.com/AbrahamCaiJin/CommonUtilLibrary) - 快速开发工具类收集，史上最全的开发工具类，欢迎Follow、Fork、Star
 - [lzyzsd/JsBridge](https://github.com/lzyzsd/JsBridge) - android java and javascript bridge, inspired by wechat webview jsbridge
 - [charles-wangkai/hackerrank](https://github.com/charles-wangkai/hackerrank) - My HackerRank solutions
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [atjiu/pybbs](https://github.com/atjiu/pybbs) - 更实用的Java开发的社区(论坛)，Better use of Java development community (forum)
 - [shopizer-ecommerce/shopizer](https://github.com/shopizer-ecommerce/shopizer) - Shopizer java e-commerce software
 - [code4craft/webmagic](https://github.com/code4craft/webmagic) - A scalable web crawler framework for Java.
@@ -2944,7 +2944,6 @@
 - [shinygang/Vue-cnodejs](https://github.com/shinygang/Vue-cnodejs) - 基于vue.js重写Cnodejs.org社区的webapp
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
-- [christiannwamba/scotch-player](https://github.com/christiannwamba/scotch-player) - Demo for a Scotch Article
 - [officert/mongotron](https://github.com/officert/mongotron) - Cross platform Mongo DB management
 - [luin/medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
 - [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
@@ -3731,6 +3730,7 @@
 
 ## Python 
 
+- [VILA-Lab/ATLAS](https://github.com/VILA-Lab/ATLAS) - Principled instruction dataset on formulating effective queries and prompts for large language models (LLMs). Our paper: https://arxiv.org/abs/2312.16171
 - [mnotgod96/AppAgent](https://github.com/mnotgod96/AppAgent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
 - [fonttools/fonttools](https://github.com/fonttools/fonttools) - A library to manipulate font files from Python.
 - [ali-vilab/AnyDoor](https://github.com/ali-vilab/AnyDoor) - Official implementations for paper: Anydoor: zero-shot object-level image customization
