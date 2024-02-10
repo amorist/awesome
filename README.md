@@ -3050,7 +3050,6 @@
 
 - [openai/CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
 - [Azure/gen-cv](https://github.com/Azure/gen-cv) - Vision AI Solution Accelerator
-- [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 - [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [dream80/roop_colab](https://github.com/dream80/roop_colab) - Single picture, one click, video face swap! Use Colab scripts, no need to burn the graphics card, no need to go to the sauna!
@@ -3747,12 +3746,14 @@
 - [Und3rf10w/OpenJanus](https://github.com/Und3rf10w/OpenJanus) - Janus is an opensource IA for Star Citizen
 - [google/nerfies](https://github.com/google/nerfies) - This is the code for Deformable Neural Radiance Fields, a.k.a. Nerfies.
 - [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
+- [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [s9roll7/ebsynth_utility](https://github.com/s9roll7/ebsynth_utility) - AUTOMATIC1111 UI extension for creating videos using img2img and ebsynth.
 - [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
 - [jianchang512/clone-voice](https://github.com/jianchang512/clone-voice) - A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 - [haoheliu/AudioLDM](https://github.com/haoheliu/AudioLDM) - AudioLDM: Generate speech, sound effects, music and beyond, with text.
 - [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API 🔥
+- [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 - [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，并添加配音
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
@@ -4652,8 +4653,7 @@
 - [all-in-aigc/aicover](https://github.com/all-in-aigc/aicover) - ai cover generator
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
-- [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework. Support one-click free deployment of your private ChatGPT/Gemini/LLM application.
 - [joschan21/digitalhippo](https://github.com/joschan21/digitalhippo) - A Modern Fullstack E-Commerce Marketplace for Digital Products
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
