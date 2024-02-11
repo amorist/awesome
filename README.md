@@ -190,7 +190,7 @@
 - [PetoiCamp/OpenCat](https://github.com/PetoiCamp/OpenCat) - An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robo
 - [theamorn/flutter-dynamicisland](https://github.com/theamorn/flutter-dynamicisland) - 
 - [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion in pure C/C++
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 - [jpnurmi/flutter_libserialport](https://github.com/jpnurmi/flutter_libserialport) - Serial Port for Flutter
@@ -1384,7 +1384,7 @@
 - [gocelery/gocelery](https://github.com/gocelery/gocelery) - Celery Distributed Task Queue in Go
 - [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go
 - [home-assistant/cli](https://github.com/home-assistant/cli) - :white_square_button: Home Assistant command line interface
-- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, and cogent 2D and 3D GUIs that run on macOS, Windows, Linux, iOS, Android, and the Web with a single pure Go codebase, allowing you to Cod
+- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, and cogent 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the Web with a single pure Go codebase, allowing you to Cod
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [33cn/chain33](https://github.com/33cn/chain33) - 高度模块化, 遵循 KISS原则的区块链开发框架
 - [chanwit/vuego](https://github.com/chanwit/vuego) - 
