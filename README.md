@@ -1062,7 +1062,7 @@
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [tj/go-terminput](https://github.com/tj/go-terminput) - Package terminput provides terminal keyboard input for interactive command-line tools.
-- [vearch/vearch](https://github.com/vearch/vearch) - A distributed vector database for AI applications
+- [vearch/vearch](https://github.com/vearch/vearch) - Vearch: Your Vector Search Database
 - [eddycjy/go-gin-example](https://github.com/eddycjy/go-gin-example) - An example of gin
 - [mitchellh/gon](https://github.com/mitchellh/gon) - Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.
 - [hbakhtiyor/strsim](https://github.com/hbakhtiyor/strsim) - string similarity based on Dice's coefficient in go
