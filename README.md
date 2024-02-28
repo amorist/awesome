@@ -159,7 +159,6 @@
 
 ## C# # 
 
-- [microsoft/chat-copilot](https://github.com/microsoft/chat-copilot) - 
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [DenchiSoft/CubismDesktopExample](https://github.com/DenchiSoft/CubismDesktopExample) - Example Unity application that renders a Live2D Cubism model directly onto your Desktop. Windows only.
 - [1y0n/AV_Evasion_Tool](https://github.com/1y0n/AV_Evasion_Tool) - 掩日 - 免杀执行器生成工具
@@ -1895,7 +1894,7 @@
 - [ezshine/AwesomeSites](https://github.com/ezshine/AwesomeSites) - every websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as live-server to run the websi
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [langchain-ai/langserve](https://github.com/langchain-ai/langserve) - LangServe 🦜️🏓
-- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Source ERP CRM Multi-Currency | Node Js React AntD MERN
+- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Source ERP CRM Accounting Software Multi-Currency | Node Js React
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [souying/Midjourney-node-api](https://github.com/souying/Midjourney-node-api) - Midjourney-api,nodejs,非官方api，Midjourney绘画，Node.js client for the unofficial MidJourney API.
 - [FZliweiliang/wechat-app-mall](https://github.com/FZliweiliang/wechat-app-mall) - 微信小程序商城，微信小程序demo
@@ -2840,7 +2839,6 @@
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
-- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [bailicangdu/node-elm](https://github.com/bailicangdu/node-elm) - Backend system based on node.js + Mongodb.  基于 node.js + Mongodb 构建的后台系统
 - [schn4ck/schnack](https://github.com/schn4ck/schnack) - 🗣️ Simple self-hosted node app for Disqus-like drop-in commenting on static websites
 - [egoist/poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
@@ -3748,7 +3746,7 @@
 - [marshmellow77/vertex-gemini](https://github.com/marshmellow77/vertex-gemini) - 
 - [Und3rf10w/OpenJanus](https://github.com/Und3rf10w/OpenJanus) - Janus is an opensource IA for Star Citizen
 - [google/nerfies](https://github.com/google/nerfies) - This is the code for Deformable Neural Radiance Fields, a.k.a. Nerfies.
-- [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
+- [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - [CVPR 2024] MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [s9roll7/ebsynth_utility](https://github.com/s9roll7/ebsynth_utility) - AUTOMATIC1111 UI extension for creating videos using img2img and ebsynth.
 - [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
@@ -4681,6 +4679,7 @@
 - [a16z-infra/ai-town](https://github.com/a16z-infra/ai-town) - A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
 - [rajeshdavidbabu/pdf-chat-ai](https://github.com/rajeshdavidbabu/pdf-chat-ai) - An AI powered Next.js app to chat with your PDF files and get a streamed response using Langchain and PineconeDB ✨🤖💻🗃️
 - [psychic-api/rag-stack](https://github.com/psychic-api/rag-stack) - 🤖 Deploy a private ChatGPT alternative hosted within your VPC. 🔮 Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and 
+- [microsoft/chat-copilot](https://github.com/microsoft/chat-copilot) - 
 - [suvansh/CLAIRe](https://github.com/suvansh/CLAIRe) - CLAIRe: Conversational Learning AI with Recall
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
@@ -4987,7 +4986,7 @@
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [sparrow-js/sparrow](https://github.com/sparrow-js/sparrow) - 🎉场景化低代码（LowCode）搭建工作台，实时输出源代码
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
@@ -5473,6 +5472,7 @@
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [cam-inc/viron](https://github.com/cam-inc/viron) - OAS-driven Frontend-NoCode Administration Console
 - [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
+- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
@@ -5542,7 +5542,7 @@
 - [b2nil/taro-ui-vue3-demo](https://github.com/b2nil/taro-ui-vue3-demo) - A demo showcase of taro-ui-vue3
 - [jdf2e/nutui-bingo](https://github.com/jdf2e/nutui-bingo) - Bingo - 基于 NutUI 的抽奖组件
 - [jdf2e/nutui-cat](https://github.com/jdf2e/nutui-cat) - 大促组件库
-- [jdf2e/nutui](https://github.com/jdf2e/nutui) - 京东风格的移动端 Vue2、Vue3 组件库 、支持多端小程序(A Vue.js UI Toolkit for Mobile Web)
+- [jdf2e/nutui](https://github.com/jdf2e/nutui) - 京东风格的移动端 Vue 组件库，支持多端小程序(A Vue.js UI Toolkit for Mobile Web)
 - [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3
 - [Nasinet/live-web](https://github.com/Nasinet/live-web) - VUE开发的直播系统web版，接入腾讯云直播，腾讯im，dp播放器，游戏直播系统，高并发，低延迟，直播系统源码。
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
