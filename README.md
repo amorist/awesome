@@ -230,7 +230,7 @@
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [perilouswithadollarsign/cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src) - Leak of CS:GO Source code, provided by yours truly so go rep me
 - [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
-- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using Node-API from C++
 - [luguanxing/Cheating-Plugin-Program](https://github.com/luguanxing/Cheating-Plugin-Program) - 从零开始研究外挂设计原理
 - [sebastianstarke/AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
@@ -656,7 +656,7 @@
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [summerblue/gohub](https://github.com/summerblue/gohub) - Gohub，以论坛 API 为主题，设计的初衷是将其打造为高性能、功能齐全的 API 框架。基于 gin, cobra, viper, zap, gorm, redis, mysql, sqlite, email, jwt
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, RADIUS, Google Workspac
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [smallnest/rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud!
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
@@ -1951,6 +1951,7 @@
 - [Atri-Labs/atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine) - 🧘‍♂️ Open-source no-code & code web app builder
 - [wechat-miniprogram/miniprogram-demo](https://github.com/wechat-miniprogram/miniprogram-demo) - 微信小程序组件 / API / 云开发示例
 - [kivisense/wechat-kivicube-slam-plugin-api-sample](https://github.com/kivisense/wechat-kivicube-slam-plugin-api-sample) - 
+- [jdf2e/nutui-demo](https://github.com/jdf2e/nutui-demo) - nutui demo (vite 、vue/cli、cdn、ts)多种模式使用示例
 - [YaoApp/demo-widget](https://github.com/YaoApp/demo-widget) - YAO Widget DEMO
 - [tobe-fe-dalao/fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3) - Vue3+Vite+Ts+Pinia+....一个快速开发vue3的模板框架，快速搭建前台应用
 - [NervJS/taro-sample-weapp](https://github.com/NervJS/taro-sample-weapp) - 与小程序原生融合的示例
@@ -3731,6 +3732,7 @@
 
 ## Python 
 
+- [baidubce/app-builder](https://github.com/baidubce/app-builder) - appbuilder-sdk, 千帆AppBuilder-SDK帮助开发者灵活、快速的搭建AI原生应用
 - [aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) - 📷 EasyPhoto | Your Smart AI Photo Generator.
 - [continue-revolution/sd-webui-animatediff](https://github.com/continue-revolution/sd-webui-animatediff) - AnimateDiff for AUTOMATIC1111 Stable Diffusion WebUI
 - [Hillobar/Rope](https://github.com/Hillobar/Rope) - GUI-focused roop
@@ -3751,7 +3753,6 @@
 - [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
 - [jianchang512/clone-voice](https://github.com/jianchang512/clone-voice) - A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [haoheliu/AudioLDM](https://github.com/haoheliu/AudioLDM) - AudioLDM: Generate speech, sound effects, music and beyond, with text.
 - [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API 🔥
 - [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
@@ -4654,6 +4655,7 @@
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TT
 - [joschan21/digitalhippo](https://github.com/joschan21/digitalhippo) - A Modern Fullstack E-Commerce Marketplace for Digital Products
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [suyuan32/simple-admin-backend-ui](https://github.com/suyuan32/simple-admin-backend-ui) - Simple Admin UI 是基于vue-vben-admin二次开发的为Simple Admin专门开发的后台管理界面，基于Vue3和TypeScript开发， 提供后台错误统一处理，国际化等功能，本项目完全免费，可用于学习和商用。Simple Admin UI is a modern UI for Simple Admin. It is based on vue-vben-admin an
 - [lunary-ai/lunary](https://github.com/lunary-ai/lunary) - The production toolkit for LLMs. Observability, prompt management and evaluations.
@@ -5538,7 +5540,6 @@
 - [jeecgboot/ant-design-vue-jeecg](https://github.com/jeecgboot/ant-design-vue-jeecg) - JeecgBoot—Vue2版前端源码，基于 Vue2+AntDesignVue 实现的 Ant Design Pro，提供强大代码生成器的低代码平台。 前端页面代码和后端功能代码一键生成，不需要写任何代码，保持jeecg一贯的强大！！
 - [nuxt/movies](https://github.com/nuxt/movies) - 🍿 A TMDB client built with Nuxt 3
 - [nihaojob/vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 基于fabric.js和Vue的图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
-- [jdf2e/nutui-demo](https://github.com/jdf2e/nutui-demo) - nutui demo (vite 、vue/cli、cdn、ts)多种模式使用示例
 - [Yill625/Taro3-Vue3-Demo](https://github.com/Yill625/Taro3-Vue3-Demo) - Taro3 使用 Vue3 进行开发
 - [b2nil/taro-ui-vue3-demo](https://github.com/b2nil/taro-ui-vue3-demo) - A demo showcase of taro-ui-vue3
 - [jdf2e/nutui-bingo](https://github.com/jdf2e/nutui-bingo) - Bingo - 基于 NutUI 的抽奖组件
