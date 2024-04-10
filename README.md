@@ -250,7 +250,7 @@
 - [google/flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) - Experimental plugins for Flutter for Desktop
 - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
-- [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) - 
+- [Redis-Insight/RedisDesktopManager](https://github.com/Redis-Insight/RedisDesktopManager) - 
 - [liuchuo/Lanqiao](https://github.com/liuchuo/Lanqiao) - 🍦 蓝桥杯竞赛练习题的题解(C/C++/Java)-努力成为萌萌的程序媛～
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
 - [ctdio/node-golang-native-addon-experiment](https://github.com/ctdio/node-golang-native-addon-experiment) - Experimenting with Go's cgo lib and Node native addons
@@ -359,7 +359,6 @@
 - [meltingice/psd.js](https://github.com/meltingice/psd.js) - A Photoshop PSD file parser for NodeJS and browsers
 - [Pagedraw/pagedraw](https://github.com/Pagedraw/pagedraw) - a UI builder for React web apps
 - [ichord/At.js](https://github.com/ichord/At.js) - Add Github like mentions autocomplete to your application.
-- [Teamwork/node-auto-launch](https://github.com/Teamwork/node-auto-launch) - Launch applications or executables at login (Mac, Windows, and Linux)
 - [electron/asar-require](https://github.com/electron/asar-require) - Enable "require" scripts in asar archives
 - [electron/mini-breakpad-server](https://github.com/electron/mini-breakpad-server) - Minimum breakpad crash reports collecting server
 - [benbalter/hubot-webscale](https://github.com/benbalter/hubot-webscale) - A web-sockets based Hubot adapter to allow Hubot to be embedded in a website at webscale.
@@ -1534,7 +1533,6 @@
 - [dreddsa5dies/goHackTools](https://github.com/dreddsa5dies/goHackTools) - Hacker tools on Go (Golang)
 - [golang/protobuf](https://github.com/golang/protobuf) - Go support for Google's protocol buffers
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go
 - [ashleymcnamara/gophers](https://github.com/ashleymcnamara/gophers) - Gopher Artwork by Ashley McNamara
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
@@ -2108,7 +2106,6 @@
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [bxm0927/canvas-special](https://github.com/bxm0927/canvas-special) - :octocat::alien::star2:超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等。
 - [yyhsong/iDataV](https://github.com/yyhsong/iDataV) - 大屏数据可视化 Big screen data visualization demo
-- [alibaba-fusion/next](https://github.com/alibaba-fusion/next) - 🦍 A configurable component library for web built on React.
 - [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [xaboy/form-create-designer](https://github.com/xaboy/form-create-designer) - 好用的vue可视化表单设计器
@@ -2779,6 +2776,7 @@
 - [imsun/gitment](https://github.com/imsun/gitment) - A comment system based on GitHub Issues.
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [cnodejs/egg-cnode](https://github.com/cnodejs/egg-cnode) - CNode 社区 Egg 版本
+- [Teamwork/node-auto-launch](https://github.com/Teamwork/node-auto-launch) - Launch applications or executables at login (Mac, Windows, and Linux)
 - [electron-userland/electron-installer-dmg](https://github.com/electron-userland/electron-installer-dmg) - Create DMG installers for your electron apps using appdmg.
 - [mntnr/name-your-contributors](https://github.com/mntnr/name-your-contributors) - Name your GitHub contributors; get commits, issues, and comments
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
@@ -3176,6 +3174,7 @@
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [egoist/website](https://github.com/egoist/website) - EGOIST's homepage.
 - [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 
 ## Makefile 
 
@@ -3847,7 +3846,7 @@
 - [baichuan-inc/Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc.
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint, locally and in the cloud.
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [SCUTlihaoyu/open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
@@ -3903,6 +3902,7 @@
 - [FeiiYin/SPI](https://github.com/FeiiYin/SPI) - [CVPR 2023] SPI: 3D GAN Inversion with Facial Symmetry Prior
 - [RenYurui/PIRender](https://github.com/RenYurui/PIRender) - The source code of the ICCV2021 paper "PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering"
 - [donydchen/ganimation_replicate](https://github.com/donydchen/ganimation_replicate) - An Out-of-the-Box Replication of GANimation using PyTorch, pretrained weights are available!
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [OpenTalker/video-retalking](https://github.com/OpenTalker/video-retalking) - [SIGGRAPH Asia 2022] VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild
 - [EvelynFan/FaceFormer](https://github.com/EvelynFan/FaceFormer) - [CVPR 2022] FaceFormer: Speech-Driven 3D Facial Animation with Transformers
 - [FACEGOOD/FACEGOOD-Audio2Face](https://github.com/FACEGOOD/FACEGOOD-Audio2Face) - http://www.facegood.cc
@@ -4698,6 +4698,7 @@
 
 ## TypeScript 
 
+- [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI
 - [workos/authkit](https://github.com/workos/authkit) - The world's best login box powered by WorkOS and Radix.
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
 - [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing
@@ -4793,7 +4794,6 @@
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
 - [different-ai/chat-gpt-powered-nextra](https://github.com/different-ai/chat-gpt-powered-nextra) - Two-clicks ChatGPT-powered QA documentation
 - [dissorial/doc-chatbot](https://github.com/dissorial/doc-chatbot) - Document chatbot — multiple files, topics, chat windows and chat history. Powered by GPT.
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into o
 - [Project-DARC/DARC](https://github.com/Project-DARC/DARC) - Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism.
 - [webwhiz-ai/webwhiz](https://github.com/webwhiz-ai/webwhiz) - WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries.
 - [miurla/babyagi-ui](https://github.com/miurla/babyagi-ui) - BabyAGI UI is designed to make it easier to run and develop with babyagi in a web app, like a ChatGPT.
@@ -4943,7 +4943,7 @@
 - [Tencent/tmagic-editor](https://github.com/Tencent/tmagic-editor) - 
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet) - A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets
-- [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - Redis GUI by Redis
+- [Redis-Insight/Redis-Insight](https://github.com/Redis-Insight/Redis-Insight) - Redis GUI by Redis
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
 - [sunflower-land/sunflower-land](https://github.com/sunflower-land/sunflower-land) - 
@@ -4991,7 +4991,7 @@
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [donmccurdy/glTF-Transform](https://github.com/donmccurdy/glTF-Transform) - glTF 2.0 SDK for JavaScript and TypeScript, on Web and Node.js.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
+- [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [exiled-apes/candy-machine-mint](https://github.com/exiled-apes/candy-machine-mint) - Fork, config, customize and ship your own candy machine mint app on your own domain, ultra fast.
 - [JamieMason/ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Make optimisation of images part of your automated build process
 - [segmentio/analytics-next](https://github.com/segmentio/analytics-next) - Segment Analytics.js 2.0
@@ -5034,6 +5034,7 @@
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
+- [alibaba-fusion/next](https://github.com/alibaba-fusion/next) - 🦍 A configurable component library for web built on React.
 - [ProjectOpenSea/opensea-js](https://github.com/ProjectOpenSea/opensea-js) - TypeScript SDK for the OpenSea marketplace
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [wsdo/taro-kit](https://github.com/wsdo/taro-kit) - 🏆✌️taro 小程序脚手架。 特性： 封装api、redux优雅集成、生成海报类，异常日志上报。 如果能帮到你，就给个 star😊
@@ -5506,7 +5507,7 @@
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
-- [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
+- [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript.
 - [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [fengyuanchen/vue-qrcode](https://github.com/fengyuanchen/vue-qrcode) - QR code component for Vue.js
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
