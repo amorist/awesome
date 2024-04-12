@@ -979,7 +979,7 @@
 - [spf13/jwalterweatherman](https://github.com/spf13/jwalterweatherman) - So you always leave a note
 - [golang/lint](https://github.com/golang/lint) - [mirror] This is a linter for Go source code. (deprecated)
 - [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
-- [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。
+- [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin的开发基础平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 - [shomali11/go-interview](https://github.com/shomali11/go-interview) - Collection of Technical Interview Questions solved with Go
 - [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.d
@@ -1875,7 +1875,7 @@
 - [didi/DoKit](https://github.com/didi/DoKit) - 一款面向泛前端产品研发全生命周期的效率平台。
 - [qiurunze123/miaosha](https://github.com/qiurunze123/miaosha) - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
 - [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
-- [ainilili/ratel](https://github.com/ainilili/ratel) - 命令行斗地主!
+- [ainilili/ratel](https://github.com/ainilili/ratel) - 命令行斗地主、德州扑克!
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [MiEcosystem/NewXmPluginSDK](https://github.com/MiEcosystem/NewXmPluginSDK) - xiaomi smarthome app plugin sdk
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
@@ -1903,7 +1903,7 @@
 - [ezshine/AwesomeSites](https://github.com/ezshine/AwesomeSites) - every websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as live-server to run the websi
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [langchain-ai/langserve](https://github.com/langchain-ai/langserve) - LangServe 🦜️🏓
-- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Source ERP CRM Accounting Software Multi-Currency | Node Js React
+- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - Open Source Headless ERP CRM E-Commerce Software Multi Branch & Currency | Node Js React
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [souying/Midjourney-node-api](https://github.com/souying/Midjourney-node-api) - Midjourney-api,nodejs,非官方api，Midjourney绘画，Node.js client for the unofficial MidJourney API.
 - [FZliweiliang/wechat-app-mall](https://github.com/FZliweiliang/wechat-app-mall) - 微信小程序商城，微信小程序demo
@@ -2008,7 +2008,7 @@
 - [JimHans/live2d-kanban-desktop](https://github.com/JimHans/live2d-kanban-desktop) - 基于Electron制作的桌面看板娘，支持日程提醒、小窗模式、ChatGPT集成、网页搜索、本地moc模型加载与独立设置界面等  | An AI Based live2d Kanban for Desktop Users Using Electron
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 - [locomotivemtl/locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll) - 🛤 Detection of elements in viewport & smooth scrolling with parallax.
-- [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
+- [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
@@ -2095,7 +2095,7 @@
 - [fritx/vue-threejs](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js
 - [ckddbs/three-fbx-loader](https://github.com/ckddbs/three-fbx-loader) - 
 - [yamahigashi/FBXLoaderJS](https://github.com/yamahigashi/FBXLoaderJS) - *This repo  gone inactive* FBX loader written in Javascript without autodesk's FBX SDK ( for ThreeJS)
-- [hiloteam/Hilo3d](https://github.com/hiloteam/Hilo3d) - 🎮 A 3D WebGL Rendering Engine developed by Alibaba Group
+- [hiloteam/Hilo3d](https://github.com/hiloteam/Hilo3d) - 🎮 A 3D WebGL Rendering Engine
 - [vimaec/au2019-forge-revit-to-fbx](https://github.com/vimaec/au2019-forge-revit-to-fbx) - Demonstrates using the Forge Design Automation API for 3ds Max to convert Revit files to FBX using Node.JS
 - [actuallyakash/spacers](https://github.com/actuallyakash/spacers) - 🔳 when you need more __space__. Quick margin/padding for your no-code tools.
 - [saltcorn/saltcorn](https://github.com/saltcorn/saltcorn) - Free and open source no-code application builder
@@ -2886,7 +2886,7 @@
 - [abhisheksoni27/machine-learning-with-js](https://github.com/abhisheksoni27/machine-learning-with-js) - Machine Learning with JavaScript. Fast and Simple. :rocket:
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
-- [hiloteam/Hilo](https://github.com/hiloteam/Hilo) - A Cross-end HTML5 Game development solution developed by Alibaba Group
+- [hiloteam/Hilo](https://github.com/hiloteam/Hilo) - A Cross-end HTML5 Game development solution
 - [botui/botui-examples](https://github.com/botui/botui-examples) - Some examples on how to use BotUI
 - [Ovilia/ovilia.github.io](https://github.com/Ovilia/ovilia.github.io) - Ovilia's personal site
 - [microsoft/Cognitive-LUIS-Node.js](https://github.com/microsoft/Cognitive-LUIS-Node.js) - Node.js (JavaScript) SDK for the Microsoft Language Understanding Intelligent Service API, part of Congitive Services
@@ -3760,7 +3760,7 @@
 - [TMElyralab/MuseV](https://github.com/TMElyralab/MuseV) - MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising
 - [Zejun-Yang/AniPortrait](https://github.com/Zejun-Yang/AniPortrait) - AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation
 - [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - We provide an unofficial Suno AI API, no deployment or setup required.👇提供Suno API，不需要任何部署与设置，接入即用。👇
+- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - We provide an unofficial Suno AI API, no deployment or setup required.👇
 - [jiji262/MediaCrawler-new](https://github.com/jiji262/MediaCrawler-new) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -5235,7 +5235,7 @@
 - [qiuxiang/react-native-amap3d](https://github.com/qiuxiang/react-native-amap3d) - react-native 高德地图组件，使用最新 3D SDK，支持 Android + iOS
 - [SSShooter/mind-elixir-core](https://github.com/SSShooter/mind-elixir-core) - ⚗ Mind Elixir is a framework agnostic mind map core.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
-- [erxes/erxes](https://github.com/erxes/erxes) - Source available experience management infrastructure. Pioneering the future of experiences with XOS (Experience Operating System). Hubspot + Qualitics alternative
+- [erxes/erxes](https://github.com/erxes/erxes) - Source available experience management infrastructure. Pioneering the future of experiences with XOS (Experience Operating System). Hubspot + Qualtrics alternative
 - [wcandillon/can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native) - ⚛️ 📺 Projects from the “Can it be done in React Native?” YouTube series
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API
