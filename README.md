@@ -454,7 +454,7 @@
 - [songquanpeng/wechat-server](https://github.com/songquanpeng/wechat-server) - 微信公众号的后端，为其他系统提供微信登录验证功能
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for building complex, real-world software with LLMs
 - [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [pwh-pwh/aiwechat-vercel](https://github.com/pwh-pwh/aiwechat-vercel) - 使用vercel的functions，将ai功能加入微信公众号
 - [alberliu/gim](https://github.com/alberliu/gim) - golang写的IM服务器(服务组件形式)
 - [armon/go-socks5](https://github.com/armon/go-socks5) - SOCKS5 server in Golang
@@ -3440,7 +3440,7 @@
 - [twitter-archive/snowflake](https://github.com/twitter-archive/snowflake) - Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
 - [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [luspr/awesome-ml-courses](https://github.com/luspr/awesome-ml-courses) - Awesome free machine learning and AI courses with video lectures.
-- [we-list/awesome-wechat](https://github.com/we-list/awesome-wechat) - 微信个人号/公众号相关项目整理 (wechat/weixin/wx)
+- [fritx/awesome-wechat](https://github.com/fritx/awesome-wechat) - 微信个人号/公众号相关项目整理 (wechat/weixin/wx)
 - [MasterStudio/MasterWechatApp](https://github.com/MasterStudio/MasterWechatApp) - 『微信小程序』优秀教程、轮子、开源项目 资源汇总
 - [github/renaming](https://github.com/github/renaming) - Guidance for changing the default branch name for GitHub repositories
 - [sindresorhus/css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
@@ -4580,7 +4580,6 @@
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [alex000kim/nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
-- [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [jessfraz/branch-cleanup-action](https://github.com/jessfraz/branch-cleanup-action) - A GitHub action to automatically delete the branch after a pull request has been merged.
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
@@ -4727,7 +4726,7 @@
 - [adrianhajdin/zoom-clone](https://github.com/adrianhajdin/zoom-clone) - Learn to develop a professional enterprise-ready video conferencing app in hours using Next.js 14, Stream, and Tailwind CSS.
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄
 - [SylarLong/react-iztro](https://github.com/SylarLong/react-iztro) - ⭐A react component based on iztro to generate an astrolabe of Zi Wei Dou Shu. 基于iztro实现的紫微斗数星盘React组件。
-- [snipe-it-com/solana-sniper-bot](https://github.com/snipe-it-com/solana-sniper-bot) - Solana Sniper Bot - Proof of Concept
+- [warp-id/solana-trading-bot](https://github.com/warp-id/solana-trading-bot) - Solana Trading Bot - Beta
 - [developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -4825,7 +4824,7 @@
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
 - [litanlitudan/skyagi](https://github.com/litanlitudan/skyagi) - SkyAGI: Emerging human-behavior simulation capability in LLM
-- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [hahahumble/speechgpt](https://github.com/hahahumble/speechgpt) - 💬 SpeechGPT is a web application that enables you to converse with ChatGPT.
@@ -4884,7 +4883,6 @@
 - [amorist/readpilot](https://github.com/amorist/readpilot) - Read Pilot analyzes online articles and generate Q&A cards for you. Powered by OpenAI & Next.js.
 - [cfortuner/promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀
 - [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
-- [shengxinjing/email-helper](https://github.com/shengxinjing/email-helper) - Generate your business emails in seconds (by OpenAI)
 - [index-labs/readpilot](https://github.com/index-labs/readpilot) - Read Pilot analyzes online articles and generate Q&A cards for you. Powered by OpenAI & Next.js.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [domeccleston/dalle-2](https://github.com/domeccleston/dalle-2) - Dall-E 2 image generator
@@ -5621,7 +5619,7 @@
 
 ## Vue 
 
-- [zyronon/douyin](https://github.com/zyronon/douyin) - TikTok 抖音 Vue.js
+- [zyronon/douyin](https://github.com/zyronon/douyin) - Vue3 + Pinia + Vite5 仿抖音，完全度90% .  Imitate TikTok with 90% completeness
 - [shiyutim/tickets](https://github.com/shiyutim/tickets) - 大麦网演唱会抢票软件，一个基于 tauri + rust + vue 调用接口的抢票软件。
 - [yangjian102621/chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) - AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。
 - [yudaocode/yudao-ui-admin-vue3](https://github.com/yudaocode/yudao-ui-admin-vue3) - 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。
@@ -5674,7 +5672,6 @@
 - [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) - 商城低代码平台，可视化搭建H5、小程序多端商城
 - [snapshot-labs/snapshot](https://github.com/snapshot-labs/snapshot) - Interface for Snapshot. Join us on Discord http://discord.snapshot.org
 - [creativetimofficial/vue-black-dashboard](https://github.com/creativetimofficial/vue-black-dashboard) - Vue Black Dashboard
-- [shengxinjing/geektime-vue-course](https://github.com/shengxinjing/geektime-vue-course) - 极客时间代码
 - [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - Vue3、Element Plus、typescript后台管理系统
 - [hujiulong/vue-3d-model](https://github.com/hujiulong/vue-3d-model) - 📷 vue.js 3D model viewer component
 - [dongsuo/vue-data-board](https://github.com/dongsuo/vue-data-board) - A Data Analysis Board in Vue.
