@@ -46,6 +46,7 @@
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
 - [Mercury](#mercury)
+- [Meson](#meson)
 - [Mustache](#mustache)
 - [NSIS](#nsis)
 - [OCaml](#ocaml)
@@ -3188,7 +3189,6 @@
 ## Makefile 
 
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
-- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [richfelker/musl-cross-make](https://github.com/richfelker/musl-cross-make) - Simple makefile-based build for musl cross compiler
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
@@ -3212,6 +3212,10 @@
 ## Mercury 
 
 - [DanTheMan827/ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
+
+## Meson 
+
+- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 
 ## Mustache 
 
@@ -5201,7 +5205,7 @@
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-- [codmak/zebra-editor-core](https://github.com/codmak/zebra-editor-core) - 一款强大、现代的可视化编辑器。
+- [baskinwind/zebra-editor-core](https://github.com/baskinwind/zebra-editor-core) - 一款强大、现代的可视化编辑器。
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [typestack/class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
