@@ -3767,6 +3767,8 @@
 
 ## Python 
 
+- [huchenlei/ComfyUI-IC-Light](https://github.com/huchenlei/ComfyUI-IC-Light) - ComfyUI native implementation of IC-Light
+- [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 - [RimoChan/yinglish](https://github.com/RimoChan/yinglish) - 【yinglish】淫语翻译机！
 - [X-T-E-R/GPT-SoVITS-Inference](https://github.com/X-T-E-R/GPT-SoVITS-Inference) - Inference Specialization
 - [X-T-E-R/Uni-TTS](https://github.com/X-T-E-R/Uni-TTS) - 本项目意图在于让使用各类语音合成引擎的方式变得统一，支持多种语音合成引擎适配器，允许直接作为模组使用或启动后端服务
