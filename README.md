@@ -2117,7 +2117,7 @@
 - [yyhsong/iDataV](https://github.com/yyhsong/iDataV) - 大屏数据可视化 Big screen data visualization demo
 - [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
-- [xaboy/form-create-designer](https://github.com/xaboy/form-create-designer) - 好用的vue可视化表单设计器
+- [xaboy/form-create-designer](https://github.com/xaboy/form-create-designer) - 好用的Vue可视化表单设计器，可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率。
 - [helloxz/onenav](https://github.com/helloxz/onenav) - 使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
 - [xudafeng/autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - ⚛️ Auto Responsive Layout Library For React
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -2167,7 +2167,6 @@
 - [webfansplz/volute](https://github.com/webfansplz/volute) - Raspberry Pi + Nodejs = Speech Robot
 - [ant-design/ant-motion](https://github.com/ant-design/ant-motion) - :bicyclist: Animate specification and components of Ant Design
 - [ant-motion/ant-design-3.x-landing-page](https://github.com/ant-motion/ant-design-3.x-landing-page) - ant design 3.x landing page
-- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [purplebamboo/font-carrier](https://github.com/purplebamboo/font-carrier) - font-carrier是一个功能强大的字体操作库，使用它你可以随心所欲的操作字体。让你可以在svg的维度改造字体的展现形状。
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
 - [electron/mksnapshot](https://github.com/electron/mksnapshot) - Electron mksnapshot binaries
@@ -3080,7 +3079,7 @@
 - [camenduru/text-to-video-synthesis-colab](https://github.com/camenduru/text-to-video-synthesis-colab) - Text To Video Synthesis Colab
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) - Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunP
-- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, including Gemini
+- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
 - [Azure/azure-search-vector-samples](https://github.com/Azure/azure-search-vector-samples) - A repository of code samples for Vector search capabilities in Azure AI Search.
 - [artidoro/qlora](https://github.com/artidoro/qlora) - QLoRA: Efficient Finetuning of Quantized LLMs
 - [serp-ai/bark-with-voice-clone](https://github.com/serp-ai/bark-with-voice-clone) - 🔊 Text-prompted Generative Audio Model - With the ability to clone voices
@@ -3200,6 +3199,7 @@
 ## Markdown 
 
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
@@ -3266,6 +3266,7 @@
 
 ## Others 
 
+- [X-LANCE/AniTalker](https://github.com/X-LANCE/AniTalker) - 
 - [StartHua/comfyui-work](https://github.com/StartHua/comfyui-work) - comfyui Ai 绘图工作流
 - [ronakganatra/awesome-marketing](https://github.com/ronakganatra/awesome-marketing) - A living document of hand-picked resources for marketers.
 - [PandaBearLab/prompt-tutorial](https://github.com/PandaBearLab/prompt-tutorial) - chatGPT、prompt、LLM
@@ -3273,7 +3274,7 @@
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) - 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you learn system design.
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you become good at system design.
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 - [HumanAIGC/EMO](https://github.com/HumanAIGC/EMO) - Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions
 - [HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
@@ -3426,7 +3427,7 @@
 - [src-d/okrs](https://github.com/src-d/okrs) - Objectives & Key Results repository for the source{d} team
 - [domenicosolazzo/awesome-okr](https://github.com/domenicosolazzo/awesome-okr) - A curated list about OKR (Objective - Key Results)
 - [google/android-emulator-m1-preview](https://github.com/google/android-emulator-m1-preview) - 
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [ossu/data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
 - [Olshansk/interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview
 - [BetterTuring/HappyHackingCalendar](https://github.com/BetterTuring/HappyHackingCalendar) - 黑客专属日历
@@ -3769,6 +3770,7 @@
 
 ## Python 
 
+- [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬  基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。
 - [a-real-ai/pywinassistant](https://github.com/a-real-ai/pywinassistant) - The first open source Large Action Model generalist Artificial Narrow Intelligence that controls completely human user interfaces by only using natural language. PyWinAssistant utilizes Visualization-
 - [lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light) - More relighting!
@@ -4481,6 +4483,7 @@
 
 ## Rust 
 
+- [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one infrastructure for building search, recommendations, and RAG. Trieve combines search language models with tools for tuning ranking and relevance.
 - [yetone/get-selected-text](https://github.com/yetone/get-selected-text) - A tiny Rust library that allows you to easily obtain selected text across all platforms (macOS, Windows, Linux).
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [microsoft/aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs
@@ -4499,7 +4502,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-- [AleoHQ/snarkOS](https://github.com/AleoHQ/snarkOS) - A Decentralized Operating System for ZK Applications
+- [AleoNet/snarkOS](https://github.com/AleoNet/snarkOS) - A Decentralized Operating System for ZK Applications
 - [jkvargas/russimp](https://github.com/jkvargas/russimp) - Assimp bindings for Rust
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
 - [graphql-rust/juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
@@ -4890,7 +4893,7 @@
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 - [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 - [dust-tt/dust](https://github.com/dust-tt/dust) - Amplify your team's potential with customizable and secure AI assistants.
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop App for LLMs (GPT, Claude, Ollama...)
 - [GPTGenius/chatgpt-vercel](https://github.com/GPTGenius/chatgpt-vercel) - Create a private ChatGPT website with one-click for free using Vercel -- 通过 Vercel 一键免费创建私有的 ChatGPT 站点
 - [hepengwei/visualization-collection](https://github.com/hepengwei/visualization-collection) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（持续更新）
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 
