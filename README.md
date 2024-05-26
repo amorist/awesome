@@ -3773,6 +3773,8 @@
 
 ## Python 
 
+- [dmMaze/BallonsTranslator](https://github.com/dmMaze/BallonsTranslator) - 深度学习辅助漫画翻译工具, 支持一键机翻和简单的图像/文本编辑 | Yet another computer-aided comic/manga translation tool powered by deeplearning
+- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
 - [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
@@ -4757,6 +4759,7 @@
 
 ## TypeScript 
 
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
 - [dromara/newcar](https://github.com/dromara/newcar) - 🪢A modern animation engine for JavaScript ecosystem, which is based on Skia (canvaskit-wasm)
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl, search and extract with a single API.
 - [kaivanwong/washer](https://github.com/kaivanwong/washer) - 扫码自助洗车，基于 TypeScript 的自助洗车微信小程序。
@@ -4875,7 +4878,7 @@
 - [webwhiz-ai/webwhiz](https://github.com/webwhiz-ai/webwhiz) - WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries.
 - [miurla/babyagi-ui](https://github.com/miurla/babyagi-ui) - BabyAGI UI is designed to make it easier to run and develop with babyagi in a web app, like a ChatGPT.
 - [fedtop/dev-go](https://github.com/fedtop/dev-go) - 🤖 一个专属于开发者的超级无敌浏览器扩展插件。(A super unbeatable browser extension plugin for developers.)💪
-- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [uiwjs/react-login-page](https://github.com/uiwjs/react-login-page) - Some `react` login pages, which can be used quickly after installation.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
