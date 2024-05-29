@@ -388,6 +388,7 @@
 
 ## Dart 
 
+- [wanghongenpin/network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 - [Noso-Project/NosoSova](https://github.com/Noso-Project/NosoSova) - NosoSova is a cross-platform application with an appealing design that seamlessly combines aesthetics and multifunctionality. Providing users with a user-friendly interface, NosoSova allows you to enj
 - [JErazo7/flutter-crypto-wallet](https://github.com/JErazo7/flutter-crypto-wallet) - A multiplatform (Android, iOS, Web and macOS) crypto-wallet example created with Flutter and CoinGecko API.
@@ -2071,7 +2072,7 @@
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 - [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
 - [rom1504/dalle-service](https://github.com/rom1504/dalle-service) - Dalle service
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
 - [arcxingye/EatKano](https://github.com/arcxingye/EatKano) - H5 Games
 - [fireship-io/web3-nft-dapp-tutorial](https://github.com/fireship-io/web3-nft-dapp-tutorial) - A simple web3 app for minting NFTs
 - [sindresorhus/normalize-url](https://github.com/sindresorhus/normalize-url) - Normalize a URL
@@ -3065,6 +3066,7 @@
 
 ## Jupyter Notebook 
 
+- [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - TTS
 - [williamyang1991/Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video) - [SIGGRAPH Asia 2023] Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation
 - [HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Create Magic Story!
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker
@@ -3798,7 +3800,7 @@
 - [am-sokolov/videodubber](https://github.com/am-sokolov/videodubber) - The program for automatic dubbing any video file for a lot of languages.
 - [LiuHC0428/LAW-GPT](https://github.com/LiuHC0428/LAW-GPT) - 中文法律对话语言模型
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
-- [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning large models (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
+- [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning LLM (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
 - [fofr/cog-style-transfer](https://github.com/fofr/cog-style-transfer) - Copy the style from one image to another
 - [Chenyme/Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT) - 这是一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频。
 - [PKU-YuanGroup/MagicTime](https://github.com/PKU-YuanGroup/MagicTime) - MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators
@@ -4729,7 +4731,7 @@
 - [Juanpe/About-SwiftUI](https://github.com/Juanpe/About-SwiftUI) - Gathering all info published, both by Apple and by others, about new framework SwiftUI.
 - [ra1028/SwiftUI-Combine](https://github.com/ra1028/SwiftUI-Combine) - This is an example project of SwiftUI and Combine using GitHub API.
 - [kodecocodes/swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
-- [sindresorhus/LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) - Add “Launch at Login” functionality to your macOS app in seconds
+- [sindresorhus/LaunchAtLogin-Legacy](https://github.com/sindresorhus/LaunchAtLogin-Legacy) - Add “Launch at Login” functionality to your macOS app in seconds
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
 - [LeoMobileDeveloper/ios-developer-tools](https://github.com/LeoMobileDeveloper/ios-developer-tools) - Tools that every iOS developer should know.
@@ -4762,6 +4764,7 @@
 
 ## TypeScript 
 
+- [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) - 「快速」打造「专属」问卷系统, 让调研「更轻松」
 - [ragapp/ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
 - [dromara/newcar](https://github.com/dromara/newcar) - 🪢A modern animation engine for JavaScript ecosystem, which is based on Skia (canvaskit-wasm)
@@ -5645,7 +5648,7 @@
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [botui/botui](https://github.com/botui/botui) - 🤖 A JavaScript framework for building conversational UIs
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
-- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+- [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [react-page/react-page](https://github.com/react-page/react-page) - Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids.
 - [electron/windows-installer](https://github.com/electron/windows-installer) - Build Windows Installers for Electron apps
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
