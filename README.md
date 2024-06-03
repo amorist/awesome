@@ -1935,7 +1935,7 @@
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
 - [homanp/langchain-ui](https://github.com/homanp/langchain-ui) - 🧬 The open source chat-ai toolkit
-- [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - This repository has been made to create an objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
+- [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - An objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
 - [modal-labs/quillman](https://github.com/modal-labs/quillman) - A chat app that transcribes audio in real-time, streams back a response from a language model, and synthesizes this response as natural-sounding speech.
 - [wenda-LLM/wenda](https://github.com/wenda-LLM/wenda) - 闻达：一个LLM调用平台。目标为针对特定环境的高效内容生成，同时考虑个人和中小企业的计算资源局限性，以及知识安全和私密性问题
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
@@ -2120,7 +2120,6 @@
 - [yyhsong/iDataV](https://github.com/yyhsong/iDataV) - 大屏数据可视化 Big screen data visualization demo
 - [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
-- [xaboy/form-create-designer](https://github.com/xaboy/form-create-designer) - 好用的Vue可视化表单设计器，可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率。
 - [helloxz/onenav](https://github.com/helloxz/onenav) - 使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
 - [xudafeng/autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - ⚛️ Auto Responsive Layout Library For React
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -3777,6 +3776,8 @@
 
 ## Python 
 
+- [ToonCrafter/ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) - a research paper for generative cartoon interpolation
+- [TMElyralab/MusePose](https://github.com/TMElyralab/MusePose) - MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation
 - [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
 - [microsoft/promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
 - [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) - To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
@@ -5750,6 +5751,7 @@
 - [dongsuo/vue-data-board](https://github.com/dongsuo/vue-data-board) - A Data Analysis Board in Vue.
 - [vuejs/create-vue](https://github.com/vuejs/create-vue) - 🛠️ The recommended way to start a Vite-powered Vue project
 - [yangyuji/h5-factory](https://github.com/yangyuji/h5-factory) - h5制作，移动端专题活动页面可视化编辑
+- [xaboy/form-create-designer](https://github.com/xaboy/form-create-designer) - 好用的Vue可视化表单设计器，可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率。
 - [gs-shop/vue-slick-carousel](https://github.com/gs-shop/vue-slick-carousel) - 🚥Vue Slick Carousel with True SSR Written for ⚡Faster Luxstay
 - [didi/epage](https://github.com/didi/epage) - 一款基于schema的低代码可视化页面配置工具
 - [mauricius/vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) - Vue3 Component for draggable and resizable elements.
