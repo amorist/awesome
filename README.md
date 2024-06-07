@@ -935,7 +935,7 @@
 - [faiface/pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
 - [tomnomnom/httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working HTTP and HTTPS servers
 - [Evertras/go-interface-examples](https://github.com/Evertras/go-interface-examples) - 
-- [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping
+- [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [google/safehtml](https://github.com/google/safehtml) - Safe HTML for Go
 - [reddit/baseplate.go](https://github.com/reddit/baseplate.go) - Reddit's Service Framework in Go
 - [BTBurke/svg-embed-font](https://github.com/BTBurke/svg-embed-font) - A tool to embed font files in SVG so they will render properly across all devices
