@@ -1820,6 +1820,7 @@
 - [xenv/S-mall-ssm](https://github.com/xenv/S-mall-ssm) - 小小商城系统，JavaWEB项目，基于SSM，仿天猫页面，功能齐全，实现了自动处理关联查询的通用Mapper、抽象 BaseService 类、注解鉴权、参数注解校验等
 - [codingtalk/tacomall](https://github.com/codingtalk/tacomall) - 🌮塔可商城, 一个基于springboot3+uniapp+vue3技术栈开发的开源跨平台小程序、管理后台，后端服务的项目，它内置提供了会员分销， 区域代理， 商品零售等功能的新零售电商系统。
 - [licheedev/Android-SerialPort-API](https://github.com/licheedev/Android-SerialPort-API) - Fork自Google开源的Android串口通信Demo，修改成Android Studio项目
+- [jeecgboot/jeecgboot-vue2](https://github.com/jeecgboot/jeecgboot-vue2) - JeecgBoot低代码平台—Vue2版本，前后端分离架构SpringBoot 2，SpringCloud，Ant Design&Vue2，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码!
 - [qiguliuxing/dts-shop](https://github.com/qiguliuxing/dts-shop) - 微信小程序，小程序商城，商城，springboot框架，vue管理系统，java后台
 - [iminto/hideImage](https://github.com/iminto/hideImage) - 图片隐写，应用场景看你了
 - [Fridayfive/flutter-presentation](https://github.com/Fridayfive/flutter-presentation) - 一个支持 Android端的双屏插件，开发者在双屏场景中使用flutter开发双屏的UI
@@ -3072,6 +3073,7 @@
 
 ## Jupyter Notebook 
 
+- [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
 - [williamyang1991/Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video) - [SIGGRAPH Asia 2023] Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation
@@ -3787,6 +3789,7 @@
 
 ## Python 
 
+- [gomate-community/GoMate](https://github.com/gomate-community/GoMate) - GoMate：RAG Framework within Reliable input,Trusted output
 - [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent) - 
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
@@ -5723,7 +5726,6 @@
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [mattmezza/vue-beautiful-chat](https://github.com/mattmezza/vue-beautiful-chat) - A simple and beautiful Vue chat component backend agnostic, fully customisable and extendable.
 - [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
-- [jeecgboot/ant-design-vue-jeecg](https://github.com/jeecgboot/ant-design-vue-jeecg) - JeecgBoot—Vue2版前端源码，基于 Vue2+AntDesignVue 实现的 Ant Design Pro，提供强大代码生成器的低代码平台。 前端页面代码和后端功能代码一键生成，不需要写任何代码，保持jeecg一贯的强大！！
 - [nuxt/movies](https://github.com/nuxt/movies) - 🍿 A TMDB client built with Nuxt 3
 - [nihaojob/vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
 - [Yill625/Taro3-Vue3-Demo](https://github.com/Yill625/Taro3-Vue3-Demo) - Taro3 使用 Vue3 进行开发
