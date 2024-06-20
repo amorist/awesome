@@ -1821,7 +1821,7 @@
 - [xenv/S-mall-ssm](https://github.com/xenv/S-mall-ssm) - 小小商城系统，JavaWEB项目，基于SSM，仿天猫页面，功能齐全，实现了自动处理关联查询的通用Mapper、抽象 BaseService 类、注解鉴权、参数注解校验等
 - [codingtalk/tacomall](https://github.com/codingtalk/tacomall) - 🌮塔可商城, 一个基于springboot3+uniapp+vue3技术栈开发的开源跨平台小程序、管理后台，后端服务的项目，它内置提供了会员分销， 区域代理， 商品零售等功能的新零售电商系统。
 - [licheedev/Android-SerialPort-API](https://github.com/licheedev/Android-SerialPort-API) - Fork自Google开源的Android串口通信Demo，修改成Android Studio项目
-- [jeecgboot/jeecgboot-vue2](https://github.com/jeecgboot/jeecgboot-vue2) - JeecgBoot低代码平台—Vue2版本，前后端分离架构SpringBoot 2，SpringCloud，Ant Design&Vue2，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码!
+- [jeecgboot/jeecgboot-vue2](https://github.com/jeecgboot/jeecgboot-vue2) - JeecgBoot低代码平台—Vue2版本【停止更新】，前后端分离架构SpringBoot 2，SpringCloud，Ant Design&Vue2，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码!
 - [qiguliuxing/dts-shop](https://github.com/qiguliuxing/dts-shop) - 微信小程序，小程序商城，商城，springboot框架，vue管理系统，java后台
 - [iminto/hideImage](https://github.com/iminto/hideImage) - 图片隐写，应用场景看你了
 - [Fridayfive/flutter-presentation](https://github.com/Fridayfive/flutter-presentation) - 一个支持 Android端的双屏插件，开发者在双屏场景中使用flutter开发双屏的UI
@@ -1859,7 +1859,7 @@
 - [fuzhengwei/itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design) - :art: 《重学Java设计模式》是一本互联网真实案例实践书籍。以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。欢迎关注小傅哥，微信(fustack)，公众号：bugstack虫洞栈，博客：https://bugstack.cn
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
 - [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0
-- [jeecgboot/jeecg-boot](https://github.com/jeecgboot/jeecg-boot) - 🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding-&gt;代码生成-&gt;手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding-&gt;代码生成-&gt;手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [niefy/wx-api](https://github.com/niefy/wx-api) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
 - [scizers/react-native-otg-storage](https://github.com/scizers/react-native-otg-storage) - 
@@ -3790,6 +3790,8 @@
 
 ## Python 
 
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
+- [landing-ai/vision-agent](https://github.com/landing-ai/vision-agent) - Vision agent
 - [gomate-community/GoMate](https://github.com/gomate-community/GoMate) - GoMate：RAG Framework within Reliable input,Trusted output
 - [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent) - 
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
@@ -4789,6 +4791,7 @@
 
 ## TypeScript 
 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [QmiAI/Qmedia](https://github.com/QmiAI/Qmedia) - An open-source AI content search engine designed specifically for content creators. Supports extraction of text, images, and short videos. Allows full local deployment (web app, RAG server, LLM server
 - [mtsee/image-editor](https://github.com/mtsee/image-editor) - image-editor是一款在线图片编辑器，操作简单，功能强大，主要技术栈：typescript、leaferjs、react、mobx
