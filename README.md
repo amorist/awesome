@@ -472,7 +472,7 @@
 - [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
 - [pwh-pwh/aiwechat-vercel](https://github.com/pwh-pwh/aiwechat-vercel) - 使用vercel的functions，将ai功能加入微信公众号
 - [alberliu/gim](https://github.com/alberliu/gim) - golang写的IM服务器(服务组件形式)
 - [armon/go-socks5](https://github.com/armon/go-socks5) - SOCKS5 server in Golang
@@ -2623,7 +2623,7 @@
 - [jenslind/electron-gh-releases](https://github.com/jenslind/electron-gh-releases) - :shipit: Electron auto-update by releasing on Github.
 - [vercel/hazel](https://github.com/vercel/hazel) - Lightweight update server for Electron apps
 - [github-modules/github-url-to-object](https://github.com/github-modules/github-url-to-object) - A node module that extracts useful properties like user, repo, and branch from various flavors of GitHub URLs.
-- [megahertz/electron-log](https://github.com/megahertz/electron-log) - Just a simple logging module for your Electron application
+- [megahertz/electron-log](https://github.com/megahertz/electron-log) - Simple logging module Electron/Node.js/NW.js application. No dependencies. No complicated configuration.
 - [obensource/obensource](https://github.com/obensource/obensource) - My personal CLI business card. 🤝
 - [amorist/icon-generator](https://github.com/amorist/icon-generator) - generator macOS and windows app icon
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
@@ -3284,6 +3284,7 @@
 
 ## Others 
 
+- [libukai/Awesome-ChatTTS](https://github.com/libukai/Awesome-ChatTTS) - 官方推荐的 ChatTTS 最佳入门指南，整理和汇总了常见问题和相关资源
 - [panyanyany/Awesome-ChatTTS](https://github.com/panyanyany/Awesome-ChatTTS) - ChatTTS资源大全，免费体验地址，音色库等
 - [immersive-translate/prompts](https://github.com/immersive-translate/prompts) - Prompts for Immersive Translate
 - [ginobefun/BestBlogs](https://github.com/ginobefun/BestBlogs) - bestblogs.dev - 汇集顶级编程、人工智能、产品、科技文章，大语言模型摘要评分辅助阅读，探索编程和技术未来
@@ -4034,7 +4035,7 @@
 - [openai/consistency_models](https://github.com/openai/consistency_models) - Official repo for consistency models.
 - [anuragxel/salt](https://github.com/anuragxel/salt) - Segment Anything Labelling Tool
 - [sail-sg/EditAnything](https://github.com/sail-sg/EditAnything) - Edit anything in images  powered by segment-anything, ControlNet, StableDiffusion, etc. (ACM MM)
-- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society (NeruIPS'2023) https://www.camel-ai.org
+- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Finding the Scaling Law of Agents. A multi-agent framework. https://www.camel-ai.org
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
@@ -4221,7 +4222,7 @@
 - [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [shibing624/pycorrector](https://github.com/shibing624/pycorrector) - pycorrector is a toolkit for text error correction. 文本纠错，实现了Kenlm，T5，MacBERT，ChatGLM3，LLaMA等模型应用在纠错场景，开箱即用。
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
 - [initstring/passphrase-wordlist](https://github.com/initstring/passphrase-wordlist) - Passphrase wordlist and hashcat rules for offline cracking of long, complex passwords
@@ -5195,7 +5196,7 @@
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 - [alibaba/designable](https://github.com/alibaba/designable) - 🧩 Make everything designable 🧩
-- [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - e-uiVxe table 的表格组件
+- [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - Vxe table 的表格组件
 - [H5-Dooring/dooringx](https://github.com/H5-Dooring/dooringx) - 快速高效搭建可视化拖拽平台
 - [bennyxguo/face-ai](https://github.com/bennyxguo/face-ai) - Detects faces with AI.
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
