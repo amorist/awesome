@@ -1414,7 +1414,7 @@
 - [gocelery/gocelery](https://github.com/gocelery/gocelery) - Celery Distributed Task Queue in Go
 - [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go
 - [home-assistant/cli](https://github.com/home-assistant/cli) - :white_square_button: Home Assistant command line interface
-- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, and elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the Web with a single pure Go codebase, allowing you to Co
+- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, and elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web with a single pure Go codebase, allowing you to Co
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [33cn/chain33](https://github.com/33cn/chain33) - 高度模块化, 遵循 KISS原则的区块链开发框架
 - [chanwit/vuego](https://github.com/chanwit/vuego) - 
@@ -1436,7 +1436,7 @@
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [globalsign/mgo](https://github.com/globalsign/mgo) - The MongoDB driver for Go
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
-- [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go.
+- [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is the most powerful and reliable pooling solution for Go.
 - [felixangell/strife](https://github.com/felixangell/strife) - a simple 2d game framework
 - [jszwec/csvutil](https://github.com/jszwec/csvutil) - csvutil provides fast and idiomatic mapping between CSV and Go (golang) values.
 - [CovenantSQL/CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features
@@ -1934,7 +1934,7 @@
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex
 - [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-- [gezhaoyou/picprose](https://github.com/gezhaoyou/picprose) - Better cover image generator tool for Medium, YouTube, BiliBili, Blog and many others
+- [jarronkot/picprose](https://github.com/jarronkot/picprose) - Better cover image generator tool for Medium, YouTube, BiliBili, Blog and many others
 - [missuo/FreeGPT35](https://github.com/missuo/FreeGPT35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Modern, feature-rich and accessible desktop configuration.
 - [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
@@ -3298,6 +3298,8 @@
 
 ## Others 
 
+- [Tobee1406/Awesome-Google-Dorks](https://github.com/Tobee1406/Awesome-Google-Dorks) - A collection of Awesome Google Dorks.
+- [PennyJoly/linktre-tools](https://github.com/PennyJoly/linktre-tools) - 工具得心应手，出海说走就走！  本仓库为 节点导航站 站点仓库,主要围绕独立开发者技术工具、AI产品、跨境电商、自媒体人办公辅助工具进行收录，持续整理中......  欢迎提交 pr 和 issues 进行更新，每日持续关注。
 - [datawhalechina/so-large-lm](https://github.com/datawhalechina/so-large-lm) - 大模型基础: 一文了解大模型基础知识
 - [minghao-wu/transagents](https://github.com/minghao-wu/transagents) - The official repository of the paper "(Perhaps) Beyond Human Translation: Harnessing Multi-Agent Collaboration for Translating Ultra-Long Literary Texts"
 - [libukai/Awesome-ChatTTS](https://github.com/libukai/Awesome-ChatTTS) - 官方推荐的 ChatTTS 资源汇总项目，整理了全网相关资源和常见问题 || Officially recommended ChatTTS resource collection project
@@ -3809,6 +3811,7 @@
 
 ## Python 
 
+- [muzishen/IMAGDressing](https://github.com/muzishen/IMAGDressing) - 👔IMAGDressing👔: Interactive Modular Apparel Generation for Virtual Dressing
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [BinNong/meet-libai](https://github.com/BinNong/meet-libai) - ​ 李白 :bust_in_silhouette: 作为唐代杰出诗人，其诗歌作品在中国文学史上具有重要地位。近年来，随着数字技术和人工智能的快速发展，传统文化普及推广的形式也面临着创新与变革。国内外对于李白诗歌的研究虽已相当深入，但在数字化、智能化普及方面仍存在不足。因此，本项目旨在通过构建李白知识图谱，结合大模型训练出专业的AI智能体，以生成式对话应用的形式，推动李白文化的普及与推广。
@@ -4173,6 +4176,7 @@
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Build, run, and manage data pipelines for integrating and transforming data.
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - 🌊 A Human-in-the-Loop workflow for creating HD images from text
+- [bigbrother666sh/shezhangbujianle](https://github.com/bigbrother666sh/shezhangbujianle) - 借助世界上最大的单体中文NLP大模型，我们做出了一个可以跟人类玩“剧本杀”的AI……
 - [alibaba/EasyNLP](https://github.com/alibaba/EasyNLP) - EasyNLP: A Comprehensive and Easy-to-use NLP Toolkit
 - [Shawn-IEITSystems/Yuan-1.0](https://github.com/Shawn-IEITSystems/Yuan-1.0) - Yuan 1.0 Large pretrained LM
 - [lucidrains/imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) - Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch
@@ -5647,7 +5651,7 @@
 - [wexond/browser-base](https://github.com/wexond/browser-base) - Modern and feature-rich web browser base based on Electron
 - [microsoft/reactxp](https://github.com/microsoft/reactxp) - Library for cross-platform app development.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
-- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
+- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [reduxjs/react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
 - [Ovilia/moonight](https://github.com/Ovilia/moonight) - 音频手绘可视化 - 今夜月色真美
