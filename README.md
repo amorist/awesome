@@ -1415,7 +1415,7 @@
 - [gocelery/gocelery](https://github.com/gocelery/gocelery) - Celery Distributed Task Queue in Go
 - [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go
 - [home-assistant/cli](https://github.com/home-assistant/cli) - :white_square_button: Home Assistant command line interface
-- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, and elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web with a single Go codebase, allowing you to Code On
+- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web with a single Go codebase, allowing you to Code Once, 
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [33cn/chain33](https://github.com/33cn/chain33) - 高度模块化, 遵循 KISS原则的区块链开发框架
 - [chanwit/vuego](https://github.com/chanwit/vuego) - 
@@ -3306,7 +3306,7 @@
 - [immersive-translate/prompts](https://github.com/immersive-translate/prompts) - Prompts for Immersive Translate
 - [ginobefun/BestBlogs](https://github.com/ginobefun/BestBlogs) - bestblogs.dev - 汇集顶级编程、人工智能、产品、科技文章，大语言模型摘要评分辅助阅读，探索编程和技术未来
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
-- [X-LANCE/AniTalker](https://github.com/X-LANCE/AniTalker) - 
+- [X-LANCE/AniTalker](https://github.com/X-LANCE/AniTalker) - [ACM MM 2024] This is the official code for "AniTalker: Animate Vivid and Diverse Talking Faces through Identity-Decoupled Facial Motion Encoding"
 - [StartHua/comfyui-work](https://github.com/StartHua/comfyui-work) - comfyui Ai 绘图工作流
 - [ronakganatra/awesome-marketing](https://github.com/ronakganatra/awesome-marketing) - A living document of hand-picked resources for marketers.
 - [PandaBearLab/prompt-tutorial](https://github.com/PandaBearLab/prompt-tutorial) - chatGPT、prompt、LLM
@@ -3889,7 +3889,7 @@
 - [TMElyralab/MuseV](https://github.com/TMElyralab/MuseV) - MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising
 - [Zejun-Yang/AniPortrait](https://github.com/Zejun-Yang/AniPortrait) - AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial Suno AI API based on Python and FastAPI. It currently supports generating songs, lyrics, etc. I also provide the Suno API, no deployment is required, no subscription to suno is r
+- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - Stable and reliable, no deployment required, pay-as-you-go music generation API. 👇
 - [jiji262/MediaCrawler-new](https://github.com/jiji262/MediaCrawler-new) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -4010,7 +4010,7 @@
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [jaywalnut310/vits](https://github.com/jaywalnut310/vits) - VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech
 - [Paraworks/vits_with_chatgpt-gpt3](https://github.com/Paraworks/vits_with_chatgpt-gpt3) - 
-- [SawatsukiAmano/vtbai](https://github.com/SawatsukiAmano/vtbai) - ai live，ai vtb，bilibili live with chatgpt，基于chatgpt后端进行ai直播，配合obs和vts，需要图形化界面
+- [newreport/vtbai](https://github.com/newreport/vtbai) - ai live，ai vtb，bilibili live with chatgpt，基于chatgpt后端进行ai直播，配合obs和vts，需要图形化界面
 - [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
 - [101dotxyz/GPTeam](https://github.com/101dotxyz/GPTeam) - GPTeam: An open-source multi-agent simulation
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
@@ -4137,7 +4137,7 @@
 - [jflam/text-is-all-you-need](https://github.com/jflam/text-is-all-you-need) - Team lazy's approach to UI for the AIs
 - [mukulpatnaik/researchgpt](https://github.com/mukulpatnaik/researchgpt) - A LLM based research assistant that allows you to have a conversation with a research paper
 - [whitead/paper-qa](https://github.com/whitead/paper-qa) - LLM Chain for answering questions from documents with citations
-- [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The user analytics platform for LLMs
+- [nebuly-ai/optimate](https://github.com/nebuly-ai/optimate) - A collection of libraries to optimise AI model performances
 - [microsoft/torchscale](https://github.com/microsoft/torchscale) - Foundation Architecture for (M)LLMs
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub) - 
@@ -4849,7 +4849,7 @@
 - [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) - 「快速」打造「专属」问卷系统, 让调研「更轻松」
 - [ragapp/ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
-- [dromara/newcar](https://github.com/dromara/newcar) - 🪢A modern animation engine for JavaScript ecosystem, which is based on Skia (canvaskit-wasm)
+- [dromara/newcar](https://github.com/dromara/newcar) - 🪢A modern animation engine for JavaScript ecosystem based on Skia (canvaskit-wasm)
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [kevinwong865/washer](https://github.com/kevinwong865/washer) - 扫码自助洗车，基于 TypeScript 的自助洗车微信小程序。
 - [mdx-editor/editor](https://github.com/mdx-editor/editor) - A rich text editor React component for markdown
