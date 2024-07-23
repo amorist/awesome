@@ -118,7 +118,7 @@
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [recp/AssetKit](https://github.com/recp/AssetKit) - 🎨 Modern 2D/3D - Importer • Exporter • Util - Library, also  known as (AssetIO)
 - [libgdx/fbx-conv](https://github.com/libgdx/fbx-conv) - Command line utility using the FBX SDK to convert FBX/Collada/Obj files to a custom text/binary format for static, keyframed and skinned meshes.
-- [guanshuicheng/invoice](https://github.com/guanshuicheng/invoice) - 增值税发票OCR识别，使用flask微服务架构，识别type：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等
+- [guanshuicheng/invoice](https://github.com/guanshuicheng/invoice) - Collaboration with wangxupeng(https://github.com/wangxupeng)
 - [peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) - 我的超迷你机械臂机器人项目。
 - [beanstalkd/beanstalkd](https://github.com/beanstalkd/beanstalkd) - Beanstalk is a simple, fast work queue.
 - [luin/wechat-export](https://github.com/luin/wechat-export) - 📃 Export WeChat chat histories to HTML files.
@@ -2111,7 +2111,7 @@
 - [steel1990/tga2png](https://github.com/steel1990/tga2png) - A pure Node.js tga image to png module.
 - [inexorabletash/polyfill](https://github.com/inexorabletash/polyfill) - JavaScript Polyfills, Shims and More
 - [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
-- [MozillaReality/gltf-bundle](https://github.com/MozillaReality/gltf-bundle) - 
+- [MozillaReality/gltf-bundle](https://github.com/MozillaReality/gltf-bundle) - INACTIVE
 - [pissang/clay-viewer](https://github.com/pissang/clay-viewer) - 3D model viewer with high quality rendering and glTF2.0/GLB export
 - [kovacsv/Online3DViewer](https://github.com/kovacsv/Online3DViewer) - A solution to visualize and explore 3D models in your browser.
 - [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
@@ -3095,7 +3095,7 @@
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [williamyang1991/Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video) - [SIGGRAPH Asia 2023] Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation
 - [HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Create Magic Story!
-- [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker
+- [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker [CVPR 2024]
 - [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild
 - [williamyang1991/FRESCO](https://github.com/williamyang1991/FRESCO) - [CVPR 2024] FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation
 - [openai/CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
@@ -3128,6 +3128,7 @@
 - [JohnNay/llm-lobbyist](https://github.com/JohnNay/llm-lobbyist) - Code for the paper: "Large Language Models as Corporate Lobbyists" (2023).
 - [jmpaz/promptlib](https://github.com/jmpaz/promptlib) - A collection of prompts for use with GPT-4 via ChatGPT, OpenAI API w/ Gradio frontend & notebook
 - [phodal/understand-prompt](https://github.com/phodal/understand-prompt) - 【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [carefree0910/carefree-creator](https://github.com/carefree0910/carefree-creator) - AI magics meet Infinite draw board.
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
 - [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store.
@@ -3810,6 +3811,7 @@
 
 ## Python 
 
+- [modelscope/agentscope](https://github.com/modelscope/agentscope) - Start building LLM-empowered multi-agent applications in an easier way.
 - [lunarring/lunar_tools](https://github.com/lunarring/lunar_tools) - toolkit for interactive exhibitions
 - [langchain-ai/story-writing](https://github.com/langchain-ai/story-writing) - 
 - [muzishen/IMAGDressing](https://github.com/muzishen/IMAGDressing) - 👔IMAGDressing👔: Interactive Modular Apparel Generation for Virtual Dressing
@@ -4142,7 +4144,6 @@
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub) - 
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
 - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
@@ -4834,6 +4835,8 @@
 
 ## TypeScript 
 
+- [gcui-art/album-ai](https://github.com/gcui-art/album-ai) - AI-First Album: Auto generate image metadata and chat with the album. RAG + Album.
+- [firebase/genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to integrate, test, and deploy sophisticated AI features to Firebase or Google Cloud.
 - [AmbroseX/Awesome-AISourceHub](https://github.com/AmbroseX/Awesome-AISourceHub) - 本仓库收集AI科技领域高质量信息源。 可以起到一个同步信息源的作用，避免信息差和信息茧房。
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - Wren AI makes your database RAG-ready. Implement Text-to-SQL more accurately and securely.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
