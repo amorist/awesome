@@ -3299,6 +3299,7 @@
 
 ## Others 
 
+- [Xiaojiu-z/Stable-Hair](https://github.com/Xiaojiu-z/Stable-Hair) - Stable-Hair: Real-World Hair Transfer via Diffusion Model
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [Tobee1406/Awesome-Google-Dorks](https://github.com/Tobee1406/Awesome-Google-Dorks) - A collection of Awesome Google Dorks.
 - [PennyJoly/linktre-tools](https://github.com/PennyJoly/linktre-tools) - 工具得心应手，出海说走就走！  本仓库为 节点导航站 站点仓库,主要围绕独立开发者技术工具、AI产品、跨境电商、自媒体人办公辅助工具进行收录，持续整理中......  欢迎提交 pr 和 issues 进行更新，每日持续关注。
@@ -3813,6 +3814,7 @@
 
 ## Python 
 
+- [OpenGVLab/Diffree](https://github.com/OpenGVLab/Diffree) - Diffree: Text-Guided Shape Free Object Inpainting with Diffusion Model
 - [modelscope/agentscope](https://github.com/modelscope/agentscope) - Start building LLM-empowered multi-agent applications in an easier way.
 - [lunarring/lunar_tools](https://github.com/lunarring/lunar_tools) - toolkit for interactive exhibitions
 - [langchain-ai/story-writing](https://github.com/langchain-ai/story-writing) - 
