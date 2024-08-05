@@ -4952,7 +4952,7 @@
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
-- [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🍭 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click
+- [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🍭 一键拥有你自己的 ChatGPT+StabilityAI+Midjourney 网页服务 | Own your own ChatGPT+StabilityAI+Midjourney web service with one click
 - [plastic-labs/tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - LangChain LLM application. Dynamic metaprompting for theory-of-mind-powered tutoring.
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
 - [AprilNEA/ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web) - One-stop system for shared use of AI within teams and organizationswith | 在团队和组织内共享使用人工智能的一站式系统
@@ -5065,7 +5065,7 @@
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [illacloud/illa-design](https://github.com/illacloud/illa-design) - A fully responsive UI Library for React.
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
-- [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer
+- [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer (WIP)
 - [pocketbase/js-sdk](https://github.com/pocketbase/js-sdk) - PocketBase JavaScript SDK
 - [starkscan/starkscan-verifier](https://github.com/starkscan/starkscan-verifier) - Verify Cairo contracts on Starkscan in 1 minute.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
@@ -5872,7 +5872,7 @@
 - [x2rr/funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
 - [zwpro/redCover](https://github.com/zwpro/redCover) - 微信红包封面领取，用户观看视频广告或者邀请用户可获取微信红包序列号
 - [zwpro/coupons](https://github.com/zwpro/coupons) - 美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。
-- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
+- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3、Shadcn UI、vite and TypeScript. It's fast！
 - [prismicio/vue-essential-slices](https://github.com/prismicio/vue-essential-slices) - A set of professionally made, accessible Vue components, linked to a (Prismic) backend
 - [GavinZhuLei/vue-form-making](https://github.com/GavinZhuLei/vue-form-making) - A visual form designer/generator base on Vue.js, make form development simple and efficient.（基于Vue的可视化表单设计器，让表单开发简单而高效。）
 - [techreagan/vue-nodejs-youtube-clone](https://github.com/techreagan/vue-nodejs-youtube-clone) - This is the frontend (VueJS) of the Youtube clone called VueTube.
