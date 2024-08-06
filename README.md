@@ -1445,7 +1445,7 @@
 - [meshbird/meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
 - [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
-- [ynqa/wego](https://github.com/ynqa/wego) - Word Embeddings (e.g. Word2Vec) in Go!
+- [ynqa/wego](https://github.com/ynqa/wego) - Word Embeddings in Go!
 - [thoas/go-funk](https://github.com/thoas/go-funk) - A modern Go utility library which provides helpers (map, find, contains, filter, ...)
 - [TarsCloud/TarsGo](https://github.com/TarsCloud/TarsGo) - A  high performance microservice  framework  in golang. A linux foundation project.
 - [ok-borg/borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
@@ -1942,6 +1942,7 @@
 - [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [liuxuanqiang/wechat-weapp-mall](https://github.com/liuxuanqiang/wechat-weapp-mall) - 微信小程序-移动端商城
 - [linxizhi2021/SmartVote](https://github.com/linxizhi2021/SmartVote) - CC投票小程序，投票活动十分火，商家，企业，机构偶尔都会来一场投票活动评选，本小程序支持图文投票，简单方便、随时随地完成投票，可以方便设定投票模式（按天按全程，投票数限定）。 本代码前后端完整代码包投票列表，投票分类，投票动态，排行榜，生成投票海报，生成单个项目投票海报等
+- [shadowcz007/comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes) - Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 - [ezshine/AwesomeSites](https://github.com/ezshine/AwesomeSites) - every websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as live-server to run the websi
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [langchain-ai/langserve](https://github.com/langchain-ai/langserve) - LangServe 🦜️🏓
@@ -2556,7 +2557,6 @@
 - [fat/zoom.js](https://github.com/fat/zoom.js) - Medium's Image Zoom for jQuery
 - [vega/vega](https://github.com/vega/vega) - A visualization grammar.
 - [nodeca/pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [kezhenxu94/mini-github](https://github.com/kezhenxu94/mini-github) - GitHub WeChat Mini Program
 - [wux-weapp/wux-weapp](https://github.com/wux-weapp/wux-weapp) - :dog: 一套组件化、可复用、易扩展的微信小程序 UI 组件库
@@ -3815,6 +3815,10 @@
 
 ## Python 
 
+- [chisasaw/redcache-ai](https://github.com/chisasaw/redcache-ai) - A memory framework for Large Language Models and Agents.
+- [philz1337x/clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative
+- [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips agents with well-crafted tools empowering them to tackle complex tasks
 - [InternLM/lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM-based agents
 - [InternLM/MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
@@ -3867,7 +3871,7 @@
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
 - [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
-- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统，1Panel 官方出品。
+- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。
 - [a-real-ai/pywinassistant](https://github.com/a-real-ai/pywinassistant) - The first open source Large Action Model generalist Artificial Narrow Intelligence that controls completely human user interfaces by only using natural language. PyWinAssistant utilizes Visualization-
 - [lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light) - More relighting!
 - [huchenlei/ComfyUI-IC-Light-Native](https://github.com/huchenlei/ComfyUI-IC-Light-Native) - ComfyUI native implementation of IC-Light
@@ -3927,7 +3931,6 @@
 - [microsoft/UFO](https://github.com/microsoft/UFO) - A UI-Focused Agent for Windows OS Interaction.
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
-- [shadowcz007/comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes) - Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 - [VILA-Lab/ATLAS](https://github.com/VILA-Lab/ATLAS) - A principled instruction benchmark on formulating effective queries and prompts for large language models (LLMs). Our paper: https://arxiv.org/abs/2312.16171
 - [mnotgod96/AppAgent](https://github.com/mnotgod96/AppAgent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
 - [fonttools/fonttools](https://github.com/fonttools/fonttools) - A library to manipulate font files from Python.
@@ -3985,7 +3988,7 @@
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
 - [baichuan-inc/Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc.
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Not actively maintained.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Completely separate team and codebase from the AI Web App builder https://gptengineer.app
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 3.1, Gemma, as OpenAI compatible API endpoint in the cloud.
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [SCUTlihaoyu/open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool
@@ -4645,6 +4648,7 @@
 
 - [Color-UI/MP-CU](https://github.com/Color-UI/MP-CU) - MP-CU, colorui3.x 微信小程序原生版
 - [eddiesigner/liebling](https://github.com/eddiesigner/liebling) - Beautiful and clean Ghost theme that is easy and comfortable to use. To get the latest version please head over the releases page 👉🏼
+- [creativetimofficial/vue-argon-design-system](https://github.com/creativetimofficial/vue-argon-design-system) - Vue Argon Design System
 - [creativetimofficial/vue-argon-dashboard](https://github.com/creativetimofficial/vue-argon-dashboard) - Vue Argon Dashboard
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [panr/hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
@@ -5450,7 +5454,7 @@
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [amorist/kanban-musume-desktop](https://github.com/amorist/kanban-musume-desktop) - Kanban Musume Desktop
 - [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
-- [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
+- [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
@@ -5605,6 +5609,7 @@
 - [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
 - [egoist/snackbar](https://github.com/egoist/snackbar) - A tiny browser library for showing a brief message at the bottom of the screen (1kB gzipped).
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [faastjs/faast.js](https://github.com/faastjs/faast.js) - Serverless batch computing made simple.
 - [JasonEtco/actions-toolkit](https://github.com/JasonEtco/actions-toolkit) - 🛠 A toolkit for building GitHub Actions in Node.js
 - [benjamn/ast-types](https://github.com/benjamn/ast-types) - Esprima-compatible implementation of the Mozilla JS Parser API
@@ -5835,8 +5840,7 @@
 - [WecomTeam/RobotSample](https://github.com/WecomTeam/RobotSample) - 企业微信群机器人示例代码。
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [moshuying/project-3-crm](https://github.com/moshuying/project-3-crm) - ⭐crm 客户关系管理系统模板⭐一个不错的后台管理种子项目，拥有自由设置角色自由分配权限🔑的权限管理功能，三员管理多员管理均可，前端antd vue admin后端spring-boot-api-seedling 拥有完善的功能。文档包含需求文档，设计文档和测试文档等。同时配置了travis，拥有集成测试和自动构建的功能。
-- [leadream/wedding-invitation-for-programmers](https://github.com/leadream/wedding-invitation-for-programmers) - 程序猿的婚礼邀请函。
-- [creativetimofficial/vue-argon-design-system](https://github.com/creativetimofficial/vue-argon-design-system) - Vue Argon Design System
+- [hallee9000/wedding-invitation-for-programmers](https://github.com/hallee9000/wedding-invitation-for-programmers) - 程序猿的婚礼邀请函。
 - [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) - 商城低代码平台，可视化搭建H5、小程序多端商城
 - [snapshot-labs/snapshot](https://github.com/snapshot-labs/snapshot) - Interface for Snapshot. Join us on Discord http://discord.snapshot.org
 - [creativetimofficial/vue-black-dashboard](https://github.com/creativetimofficial/vue-black-dashboard) - Vue Black Dashboard
