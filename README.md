@@ -107,6 +107,7 @@
 - [postgrespro/tsvector2](https://github.com/postgrespro/tsvector2) - Extended tsvector type for PostgreSQL
 - [RedisAI/RedisAI](https://github.com/RedisAI/RedisAI) - A Redis module for serving tensors and executing deep learning graphs
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [hkrn/nanoem](https://github.com/hkrn/nanoem) - nanoem is an MMD (MikuMikuDance) compatible implementation and its like cross-platform application mainly built for macOS.
 - [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) - 开发内功修炼
@@ -199,7 +200,6 @@
 - [theamorn/flutter-dynamicisland](https://github.com/theamorn/flutter-dynamicisland) - 
 - [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion in pure C/C++
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 - [jpnurmi/flutter_libserialport](https://github.com/jpnurmi/flutter_libserialport) - Serial Port for Flutter
@@ -3939,7 +3939,7 @@
 - [ScreamingHawk/civitai-web-scraper](https://github.com/ScreamingHawk/civitai-web-scraper) - Scrape Civitai for AI generated images and prompts
 - [microsoft/UFO](https://github.com/microsoft/UFO) - A UI-Focused Agent for Windows OS Interaction.
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell.
 - [VILA-Lab/ATLAS](https://github.com/VILA-Lab/ATLAS) - A principled instruction benchmark on formulating effective queries and prompts for large language models (LLMs). Our paper: https://arxiv.org/abs/2312.16171
 - [mnotgod96/AppAgent](https://github.com/mnotgod96/AppAgent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
 - [fonttools/fonttools](https://github.com/fonttools/fonttools) - A library to manipulate font files from Python.
@@ -4861,7 +4861,7 @@
 - [DiscovAI/DiscovAI-search](https://github.com/DiscovAI/DiscovAI-search) - 🔍 DiscovAI-Search: An AI-powered search engine for AI tools and custom data. Built with Next.js, OpenAI, Supabase, and more. Features vector-based search, Redis caching, and LLM-powered responses.
 - [supermemoryai/opensearch-ai](https://github.com/supermemoryai/opensearch-ai) - SearchGPT / Perplexity clone, but personalised for you.
 - [pingcap/tidb.ai](https://github.com/pingcap/tidb.ai) - https://TiDB.AI is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage and LlamaIndex. Open source and free to use.
-- [jbilcke-hf/clapper](https://github.com/jbilcke-hf/clapper) - Clapper.app, the video editor designed for the age of AI cinema
+- [jbilcke-hf/clapper](https://github.com/jbilcke-hf/clapper) - Clapper.app, a video synthesizer and sequencer designed for the age of AI cinema
 - [BennyKok/comfyui-deploy](https://github.com/BennyKok/comfyui-deploy) - An open source `vercel` like deployment platform for Comfy UI
 - [gcui-art/album-ai](https://github.com/gcui-art/album-ai) - AI-First Album: Chat with your gallery using plain language! LLM Vision + RAG + Album/Gallery.
 - [firebase/genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to integrate, test, and deploy sophisticated AI features to Firebase or Google Cloud.
@@ -4912,7 +4912,7 @@
 - [SylarLong/react-iztro](https://github.com/SylarLong/react-iztro) - ⭐A react component based on iztro to generate an astrolabe of Zi Wei Dou Shu. 基于iztro实现的紫微斗数星盘React组件。
 - [warp-id/solana-trading-bot](https://github.com/warp-id/solana-trading-bot) - Solana Trading Bot - Beta
 - [developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Llama-3, Langchain, OpenAI, Upstash, Brave & Serper
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and files.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
 - [sourcegraph/cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
