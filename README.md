@@ -1951,7 +1951,7 @@
 - [IroncladDev/LangChain.js-LLM-Template](https://github.com/IroncladDev/LangChain.js-LLM-Template) - This is a LangChain LLM template that allows you to train your own custom AI LLM.
 - [qoomon/git-conventional-commits](https://github.com/qoomon/git-conventional-commits) - Git Conventional Commits Util to generate Semantic Version and Markdown Change Log and Validate Commit Messag
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
-- [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
+- [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [JimLiu/neuron-explainer-paper](https://github.com/JimLiu/neuron-explainer-paper) - https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
@@ -2028,7 +2028,6 @@
 - [timdream/wordcloud2.js](https://github.com/timdream/wordcloud2.js) - Tag cloud/Wordle presentation on 2D canvas or HTML
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [kkoomen/pointless](https://github.com/kkoomen/pointless) - An endless drawing canvas desktop app made with Tauri (Rust) and React 🎨 ✍️
-- [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [leanote/leanote](https://github.com/leanote/leanote) - Not Just A Notepad! (golang + mongodb) http://leanote.org
 - [frappe/gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt
@@ -4214,6 +4213,7 @@
 - [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
 - [atticus-lv/super_io](https://github.com/atticus-lv/super_io) - blender addon for copy paste import / export
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
+- [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [acgnhiki/blrec](https://github.com/acgnhiki/blrec) - Bilibili Live Streaming Recorder  哔哩哔哩直播录制
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [apple/ml-cvnets](https://github.com/apple/ml-cvnets) - CVNets: A library for training computer vision networks
@@ -4978,7 +4978,7 @@
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🍭 一键拥有你自己的 ChatGPT+StabilityAI+Midjourney 网页服务 | Own your own ChatGPT+StabilityAI+Midjourney web service with one click
-- [plastic-labs/tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - LangChain LLM application. Dynamic metaprompting for theory-of-mind-powered tutoring.
+- [plastic-labs/tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - Theory-of-mind powered AI tutor using o1 style reasoning
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
 - [AprilNEA/ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web) - One-stop system for shared use of AI within teams and organizationswith | 在团队和组织内共享使用人工智能的一站式系统
 - [vercel/nextjs-postgres-nextauth-tailwindcss-template](https://github.com/vercel/nextjs-postgres-nextauth-tailwindcss-template) - Admin dashboard template.
