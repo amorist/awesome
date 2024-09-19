@@ -30,6 +30,7 @@
 - [FreeMarker](#freemarker)
 - [Go](#go)
 - [Groovy](#groovy)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [JSON](#json)
@@ -185,6 +186,7 @@
 
 ## C++ 
 
+- [photoionization/chrohime](https://github.com/photoionization/chrohime) - A native cross-platform GUI library with C APIs.
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
 - [tech-life-hacking/M5StackChatGPTAPI](https://github.com/tech-life-hacking/M5StackChatGPTAPI) - 
 - [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
@@ -877,7 +879,7 @@
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [qiniu/arch](https://github.com/qiniu/arch) - 极客时间专栏《许式伟的架构课》相关的源代码：冯诺伊曼结构
 - [blushft/go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
-- [free5gc/free5gc](https://github.com/free5gc/free5gc) - Open source 5G core network base on 3GPP R15
+- [free5gc/free5gc](https://github.com/free5gc/free5gc) - Open source 5G core network based on 3GPP R15
 - [GoesToEleven/golang-web-dev](https://github.com/GoesToEleven/golang-web-dev) - 
 - [determined-ai/determined](https://github.com/determined-ai/determined) - Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.
 - [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
@@ -1662,6 +1664,10 @@
 
 - [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
 
+## HCL 
+
+- [Azure/azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - The source for REST API specifications for Microsoft Azure.
+
 ## HTML 
 
 - [LianjiaTech/BELLE](https://github.com/LianjiaTech/BELLE) - BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）
@@ -1957,7 +1963,6 @@
 - [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
 - [homanp/langchain-ui](https://github.com/homanp/langchain-ui) - 🧬 The open source chat-ai toolkit
 - [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - An objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
-- [modal-labs/quillman](https://github.com/modal-labs/quillman) - A chat app that transcribes audio in real-time, streams back a response from a language model, and synthesizes this response as natural-sounding speech.
 - [wenda-LLM/wenda](https://github.com/wenda-LLM/wenda) - 闻达：一个LLM调用平台。目标为针对特定环境的高效内容生成，同时考虑个人和中小企业的计算资源局限性，以及知识安全和私密性问题
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [befinal/node-tenpay](https://github.com/befinal/node-tenpay) - 微信支付 for nodejs
@@ -3983,7 +3988,7 @@
 - [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support
 - [ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) - 可循环值守和多人录制的直播录制软件，支持抖音、TikTok、快手、虎牙、斗鱼、B站、小红书、pandatv、afreecatv、flextv、popkontv、twitcasting、winktv、百度、微博、酷狗、花椒、流星、Twitch等平台直播录制
-- [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
+- [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
 - [nICEnnnnnnnLee/LiveRecorder](https://github.com/nICEnnnnnnnLee/LiveRecorder) - you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [jiran214/GPT-vup](https://github.com/jiran214/GPT-vup) - GPT-vup BIliBili | 抖音 | AI | 虚拟主播
@@ -4074,6 +4079,7 @@
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [chuanqixu/anki-quick-ai](https://github.com/chuanqixu/anki-quick-ai) - Quick interaction with OpenAI in Anki.
+- [modal-labs/quillman](https://github.com/modal-labs/quillman) - A chat app that transcribes audio in real-time, streams back a response from a language model, and synthesizes this response as natural-sounding speech.
 - [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot!
 - [NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 - [OpenBMB/BMTools](https://github.com/OpenBMB/BMTools) - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins
@@ -5487,7 +5493,6 @@
 - [sugarshin/required-labels-action](https://github.com/sugarshin/required-labels-action) - A GitHub Actions that automated label checking for pull requests
 - [prevwong/craft.js](https://github.com/prevwong/craft.js) - 🚀 A React Framework for building extensible drag and drop page editors
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
-- [Azure/azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - The source for REST API specifications for Microsoft Azure.
 - [igoogolx/shadowsocks-global](https://github.com/igoogolx/shadowsocks-global) - A VPN or proxy client for Windows
 - [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open Commerce Platform - https://everdemand.co
 - [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
