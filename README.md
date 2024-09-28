@@ -562,7 +562,7 @@
 - [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 - [techschool/simplebank](https://github.com/techschool/simplebank) - Backend master class: build a simple bank service in Go
 - [notti/nocgo](https://github.com/notti/nocgo) - dlopen in go without cgo
-- [i-Things/iThings](https://github.com/i-Things/iThings) - 物联网设备接入平台
+- [i-Things/iThings](https://github.com/i-Things/iThings) - 多租户多应用物联网设备接入平台
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 - [kesonan/sqlgen](https://github.com/kesonan/sqlgen) - A tool to generate bun, gorm, sql, sqlx and xorm sql code.
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
@@ -848,7 +848,6 @@
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [netxfly/sec-dev-in-action-src](https://github.com/netxfly/sec-dev-in-action-src) - 《白帽子安全开发实战》配套代码
 - [n7olkachev/imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
-- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [xen0n/go-workwx](https://github.com/xen0n/go-workwx) - a sensible WeCom (企业微信, Wechat Work, Work Weixin) SDK for Go
 - [esap/wechat](https://github.com/esap/wechat) - 微信SDK的golang实现，短小精悍，同时兼容【企业号/服务号/订阅号/小程序】
 - [sunshinev/go-sword](https://github.com/sunshinev/go-sword) - 【Go-sword】可视化CRUD管理后台生成工具
@@ -2266,6 +2265,7 @@
 - [hotuns/miniapp-coupons](https://github.com/hotuns/miniapp-coupons) - 原生小程序云开发，别人领外卖券，你拿佣金，轻松赚个零花钱
 - [subnub/myDrive](https://github.com/subnub/myDrive) - Node.js and mongoDB Google Drive Clone
 - [zeromicro/zero-doc](https://github.com/zeromicro/zero-doc) - The docs for go-zero
+- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [ymm-tech/gods-pen-server](https://github.com/ymm-tech/gods-pen-server) - 码良服务端项目
 - [BetaSu/just-react](https://github.com/BetaSu/just-react) - 「React技术揭秘」  一本自顶向下的React源码分析书
 - [react-designer/react-designer](https://github.com/react-designer/react-designer) - It's not art
@@ -3295,6 +3295,8 @@
 
 ## Others 
 
+- [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
+- [dair-ai/ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained) - Explanation to key concepts in ML
 - [facefusion/facefusion-assets](https://github.com/facefusion/facefusion-assets) - Industry leading face manipulation platform
 - [Kedreamix/Awesome-Talking-Head-Synthesis](https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis) - 💬 An extensive collection of exceptional resources dedicated to the captivating world of talking face synthesis!   ⭐ If you find this repo useful, please give it a star! 🤩
 - [pengxiao-song/awesome-chinese-legal-resources](https://github.com/pengxiao-song/awesome-chinese-legal-resources) - 📝 An Awesome Collection of Chinese Legal Dataset and Relevant Resources. 致力于收集全面的中文法律数据源
@@ -3930,7 +3932,7 @@
 - [TMElyralab/MuseV](https://github.com/TMElyralab/MuseV) - MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising
 - [Zejun-Yang/AniPortrait](https://github.com/Zejun-Yang/AniPortrait) - AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial API based on Python and FastAPI. It currently supports generating songs, lyrics, etc. 👇
+- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - Create Music in Seconds with SunoAPI. 👇
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
