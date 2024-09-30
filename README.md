@@ -1942,7 +1942,7 @@
 - [ezshine/AwesomeSites](https://github.com/ezshine/AwesomeSites) - every websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as live-server to run the websi
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [langchain-ai/langserve](https://github.com/langchain-ai/langserve) - LangServe 🦜️🏓
-- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - Open Source Headless ERP CRM E-Commerce Accounting Software | Node Js React
+- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - Free Open Source ERP CRM Accounting Invoicing Software | Node Js React
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [souying/Midjourney-node-api](https://github.com/souying/Midjourney-node-api) - Midjourney-api,nodejs,非官方api，Midjourney绘画，Node.js client for the unofficial MidJourney API.
 - [FZliweiliang/wechat-app-mall](https://github.com/FZliweiliang/wechat-app-mall) - 微信小程序商城，微信小程序demo
@@ -2796,7 +2796,7 @@
 - [node-schedule/node-schedule](https://github.com/node-schedule/node-schedule) - A cron-like and not-cron-like job scheduler for Node.
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
-- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
+- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
 - [LucasBassetti/react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) - :speech_balloon: Easy way to create conversation chats
 - [max-mapper/mississippi](https://github.com/max-mapper/mississippi) - A collection of useful stream utility modules for writing better code using streams
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
@@ -3813,6 +3813,8 @@
 
 ## Python 
 
+- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
 - [meta-llama/llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models.
 - [carsonmulligan/berto_ollama_whisper](https://github.com/carsonmulligan/berto_ollama_whisper) - Fully local taxi-driver language assistant
@@ -4005,7 +4007,7 @@
 - [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [SthPhoenix/InsightFace-REST](https://github.com/SthPhoenix/InsightFace-REST) - InsightFace REST API for easy deployment of face recognition services with TensorRT in Docker.
 - [deforum-art/deforum-stable-diffusion](https://github.com/deforum-art/deforum-stable-diffusion) - 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain, open and self-hostable. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3).
 - [stoyan-stoyanov/llmflows](https://github.com/stoyan-stoyanov/llmflows) - LLMFlows - Simple, Explicit and Transparent LLM Apps
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [omerbt/TokenFlow](https://github.com/omerbt/TokenFlow) - Official Pytorch Implementation for "TokenFlow: Consistent Diffusion Features for Consistent Video Editing" presenting "TokenFlow" (ICLR 2024)
@@ -4612,6 +4614,7 @@
 
 ## Rust 
 
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 - [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
 - [toeverything/OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.
 - [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one infrastructure for search, recommendations, RAG, and analytics offered via API
