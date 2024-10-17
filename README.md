@@ -107,7 +107,6 @@
 - [postgrespro/tsvector2](https://github.com/postgrespro/tsvector2) - Extended tsvector type for PostgreSQL
 - [RedisAI/RedisAI](https://github.com/RedisAI/RedisAI) - A Redis module for serving tensors and executing deep learning graphs
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [hkrn/nanoem](https://github.com/hkrn/nanoem) - nanoem is an MMD (MikuMikuDance) compatible implementation and its like cross-platform application mainly built for macOS.
 - [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) - 开发内功修炼
@@ -200,6 +199,7 @@
 - [theamorn/flutter-dynamicisland](https://github.com/theamorn/flutter-dynamicisland) - 
 - [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion and Flux in pure C/C++
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 - [jpnurmi/flutter_libserialport](https://github.com/jpnurmi/flutter_libserialport) - Serial Port for Flutter
@@ -2455,6 +2455,7 @@
 - [RuntimeTools/appmetrics](https://github.com/RuntimeTools/appmetrics) - Node Application Metrics provides a foundational infrastructure for collecting resource and performance monitoring data for Node.js-based applications.
 - [ashtuchkin/iconv-lite](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings in pure javascript.
 - [alexellis/expressjs-k8s](https://github.com/alexellis/expressjs-k8s) - Express.js microservice with a Dockerfile, Kubernetes YAMLs and a non-root user
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories.
 - [tholman/generative-artistry](https://github.com/tholman/generative-artistry) - A website for self coding generative art tutorials.
@@ -4708,7 +4709,7 @@
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [zerostaticthemes/hugo-hero-theme](https://github.com/zerostaticthemes/hugo-hero-theme) - A multi-page Hugo theme with fullscreen hero images and fullwidth sections.
 - [picturepan2/devices.css](https://github.com/picturepan2/devices.css) - Devices.css - Modern devices crafted in pure CSS
-- [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
+- [primer/css](https://github.com/primer/css) - Primer is GitHub's design system. This is the CSS implementation
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [nodejs/nodejs-zh-CN](https://github.com/nodejs/nodejs-zh-CN) - node.js 中文化 & 中文社区
 - [zutrinken/bleak](https://github.com/zutrinken/bleak) - Ghost Theme
@@ -4922,7 +4923,7 @@
 - [jbilcke-hf/clapper](https://github.com/jbilcke-hf/clapper) - Clapper.app, a video synthesizer and sequencer designed for the age of AI cinema
 - [BennyKok/comfyui-deploy](https://github.com/BennyKok/comfyui-deploy) - An open source `vercel` like deployment platform for Comfy UI
 - [gcui-art/album-ai](https://github.com/gcui-art/album-ai) - AI-First Album: Chat with your gallery using plain language! LLM Vision + RAG + Album/Gallery.
-- [firebase/genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to integrate, test, and deploy sophisticated AI features to Firebase or Google Cloud.
+- [firebase/genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit w
 - [AmbroseX/Awesome-AISourceHub](https://github.com/AmbroseX/Awesome-AISourceHub) - 本仓库收集AI科技领域高质量信息源。 可以起到一个同步信息源的作用，避免信息差和信息茧房。
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - 🚀 Open-source SQL AI Agent for Text-to-SQL. Supporting PostgreSQL, DuckDB, MySQL, MS SQL, ClickHouse, Trino, JSON, CSV, Parquet data sources, and more! 🚀
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
@@ -5595,7 +5596,6 @@
 - [ahkohd/switch-desktop](https://github.com/ahkohd/switch-desktop) - ⚡️ keyboard-driven commands to navigate your apps faster
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
-- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [GrapesJS/cli](https://github.com/GrapesJS/cli) - GrapesJS CLI helper for the development
